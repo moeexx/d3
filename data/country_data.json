@@ -1,0 +1,9578 @@
+{
+  "Argentina": [
+    {
+      "year": "1971",
+      "country": "Argentina",
+      "ec": "1380.921398",
+      "gdp": "1366.354726"
+    },
+    {
+      "year": "1972",
+      "country": "Argentina",
+      "ec": "1379.818923",
+      "gdp": "1401.487795"
+    },
+    {
+      "year": "1973",
+      "country": "Argentina",
+      "ec": "1411.496781",
+      "gdp": "2083.972218"
+    },
+    {
+      "year": "1974",
+      "country": "Argentina",
+      "ec": "1415.682954",
+      "gdp": "2824.650915"
+    },
+    {
+      "year": "1975",
+      "country": "Argentina",
+      "ec": "1378.546993",
+      "gdp": "2011.68904"
+    },
+    {
+      "year": "1976",
+      "country": "Argentina",
+      "ec": "1404.744778",
+      "gdp": "1932.590782"
+    },
+    {
+      "year": "1977",
+      "country": "Argentina",
+      "ec": "1420.567765",
+      "gdp": "2112.501173"
+    },
+    {
+      "year": "1978",
+      "country": "Argentina",
+      "ec": "1426.91926",
+      "gdp": "2129.313793"
+    },
+    {
+      "year": "1979",
+      "country": "Argentina",
+      "ec": "1484.565823",
+      "gdp": "2501.480753"
+    },
+    {
+      "year": "1980",
+      "country": "Argentina",
+      "ec": "1487.617079",
+      "gdp": "2738.284723"
+    },
+    {
+      "year": "1981",
+      "country": "Argentina",
+      "ec": "1430.440084",
+      "gdp": "2756.396981"
+    },
+    {
+      "year": "1982",
+      "country": "Argentina",
+      "ec": "1416.540023",
+      "gdp": "2907.757627"
+    },
+    {
+      "year": "1983",
+      "country": "Argentina",
+      "ec": "1419.930165",
+      "gdp": "3530.131783"
+    },
+    {
+      "year": "1984",
+      "country": "Argentina",
+      "ec": "1447.819825",
+      "gdp": "2643.369398"
+    },
+    {
+      "year": "1985",
+      "country": "Argentina",
+      "ec": "1360.665414",
+      "gdp": "2909.51661"
+    },
+    {
+      "year": "1986",
+      "country": "Argentina",
+      "ec": "1421.546979",
+      "gdp": "3595.085898"
+    },
+    {
+      "year": "1987",
+      "country": "Argentina",
+      "ec": "1477.043426",
+      "gdp": "3546.71882"
+    },
+    {
+      "year": "1988",
+      "country": "Argentina",
+      "ec": "1504.819091",
+      "gdp": "3969.327412"
+    },
+    {
+      "year": "1989",
+      "country": "Argentina",
+      "ec": "1441.482265",
+      "gdp": "2375.339103"
+    },
+    {
+      "year": "1990",
+      "country": "Argentina",
+      "ec": "1407.38675",
+      "gdp": "4318.7747"
+    },
+    {
+      "year": "1991",
+      "country": "Argentina",
+      "ec": "1430.514982",
+      "gdp": "5715.504397"
+    },
+    {
+      "year": "1992",
+      "country": "Argentina",
+      "ec": "1483.779437",
+      "gdp": "6798.026763"
+    },
+    {
+      "year": "1993",
+      "country": "Argentina",
+      "ec": "1468.220775",
+      "gdp": "6940.350358"
+    },
+    {
+      "year": "1994",
+      "country": "Argentina",
+      "ec": "1541.657524",
+      "gdp": "7449.48039"
+    },
+    {
+      "year": "1995",
+      "country": "Argentina",
+      "ec": "1544.355772",
+      "gdp": "7373.428246"
+    },
+    {
+      "year": "1996",
+      "country": "Argentina",
+      "ec": "1582.138202",
+      "gdp": "7683.574065"
+    },
+    {
+      "year": "1997",
+      "country": "Argentina",
+      "ec": "1613.918988",
+      "gdp": "8172.664323"
+    },
+    {
+      "year": "1998",
+      "country": "Argentina",
+      "ec": "1650.343735",
+      "gdp": "8248.761989"
+    },
+    {
+      "year": "1999",
+      "country": "Argentina",
+      "ec": "1659.992827",
+      "gdp": "7736.369623"
+    },
+    {
+      "year": "2000",
+      "country": "Argentina",
+      "ec": "1661.117041",
+      "gdp": "7669.273916"
+    },
+    {
+      "year": "2001",
+      "country": "Argentina",
+      "ec": "1562.68636",
+      "gdp": "7170.694674"
+    },
+    {
+      "year": "2002",
+      "country": "Argentina",
+      "ec": "1502.037194",
+      "gdp": "2579.193168"
+    },
+    {
+      "year": "2003",
+      "country": "Argentina",
+      "ec": "1589.545082",
+      "gdp": "3330.437006"
+    },
+    {
+      "year": "2004",
+      "country": "Argentina",
+      "ec": "1717.650525",
+      "gdp": "4251.574348"
+    },
+    {
+      "year": "2005",
+      "country": "Argentina",
+      "ec": "1709.572352",
+      "gdp": "5076.883829"
+    },
+    {
+      "year": "2006",
+      "country": "Argentina",
+      "ec": "1840.440442",
+      "gdp": "5878.761027"
+    },
+    {
+      "year": "2007",
+      "country": "Argentina",
+      "ec": "1845.098116",
+      "gdp": "7193.61764"
+    },
+    {
+      "year": "2008",
+      "country": "Argentina",
+      "ec": "1923.139812",
+      "gdp": "8953.359275"
+    },
+    {
+      "year": "2009",
+      "country": "Argentina",
+      "ec": "1850.861533",
+      "gdp": "8161.306966"
+    },
+    {
+      "year": "2010",
+      "country": "Argentina",
+      "ec": "1908.28056",
+      "gdp": "10276.2605"
+    },
+    {
+      "year": "2011",
+      "country": "Argentina",
+      "ec": "1933.523032",
+      "gdp": "12726.90836"
+    },
+    {
+      "year": "2012",
+      "country": "Argentina",
+      "ec": "1920.080959",
+      "gdp": "12969.70712"
+    },
+    {
+      "year": "2013",
+      "country": "Argentina",
+      "ec": "1951.439454",
+      "gdp": "12976.63642"
+    },
+    {
+      "year": "2014",
+      "country": "Argentina",
+      "ec": "2015.18704",
+      "gdp": "12245.25645"
+    }
+  ],
+  "Australia": [
+    {
+      "year": "1971",
+      "country": "Australia",
+      "ec": "3989.629744",
+      "gdp": "3489.086601"
+    },
+    {
+      "year": "1972",
+      "country": "Australia",
+      "ec": "4035.206344",
+      "gdp": "3942.81242"
+    },
+    {
+      "year": "1973",
+      "country": "Australia",
+      "ec": "4264.271226",
+      "gdp": "4762.479304"
+    },
+    {
+      "year": "1974",
+      "country": "Australia",
+      "ec": "4294.161626",
+      "gdp": "6471.554165"
+    },
+    {
+      "year": "1975",
+      "country": "Australia",
+      "ec": "4345.871446",
+      "gdp": "6992.538975"
+    },
+    {
+      "year": "1976",
+      "country": "Australia",
+      "ec": "4405.702986",
+      "gdp": "7474.862358"
+    },
+    {
+      "year": "1977",
+      "country": "Australia",
+      "ec": "4671.195674",
+      "gdp": "7763.130772"
+    },
+    {
+      "year": "1978",
+      "country": "Australia",
+      "ec": "4629.618471",
+      "gdp": "8239.954825"
+    },
+    {
+      "year": "1979",
+      "country": "Australia",
+      "ec": "4683.853176",
+      "gdp": "9279.253595"
+    },
+    {
+      "year": "1980",
+      "country": "Australia",
+      "ec": "4737.482031",
+      "gdp": "10191.81606"
+    },
+    {
+      "year": "1981",
+      "country": "Australia",
+      "ec": "4694.676425",
+      "gdp": "11830.86532"
+    },
+    {
+      "year": "1982",
+      "country": "Australia",
+      "ec": "4817.489524",
+      "gdp": "12763.32361"
+    },
+    {
+      "year": "1983",
+      "country": "Australia",
+      "ec": "4555.146203",
+      "gdp": "11515.80647"
+    },
+    {
+      "year": "1984",
+      "country": "Australia",
+      "ec": "4651.712429",
+      "gdp": "12428.85793"
+    },
+    {
+      "year": "1985",
+      "country": "Australia",
+      "ec": "4602.95653",
+      "gdp": "11434.88989"
+    },
+    {
+      "year": "1986",
+      "country": "Australia",
+      "ec": "4623.739075",
+      "gdp": "11360.52766"
+    },
+    {
+      "year": "1987",
+      "country": "Australia",
+      "ec": "4772.370465",
+      "gdp": "11623.35967"
+    },
+    {
+      "year": "1988",
+      "country": "Australia",
+      "ec": "4702.841606",
+      "gdp": "14257.02216"
+    },
+    {
+      "year": "1989",
+      "country": "Australia",
+      "ec": "5001.103102",
+      "gdp": "17801.26827"
+    },
+    {
+      "year": "1990",
+      "country": "Australia",
+      "ec": "5061.508459",
+      "gdp": "18214.83698"
+    },
+    {
+      "year": "1991",
+      "country": "Australia",
+      "ec": "4927.78159",
+      "gdp": "18824.2474"
+    },
+    {
+      "year": "1992",
+      "country": "Australia",
+      "ec": "4959.214919",
+      "gdp": "18569.76879"
+    },
+    {
+      "year": "1993",
+      "country": "Australia",
+      "ec": "5147.53665",
+      "gdp": "17633.38138"
+    },
+    {
+      "year": "1994",
+      "country": "Australia",
+      "ec": "5089.788967",
+      "gdp": "18045.43906"
+    },
+    {
+      "year": "1995",
+      "country": "Australia",
+      "ec": "5129.223661",
+      "gdp": "20319.63063"
+    },
+    {
+      "year": "1996",
+      "country": "Australia",
+      "ec": "5393.580635",
+      "gdp": "21861.32551"
+    },
+    {
+      "year": "1997",
+      "country": "Australia",
+      "ec": "5469.599989",
+      "gdp": "23468.59683"
+    },
+    {
+      "year": "1998",
+      "country": "Australia",
+      "ec": "5553.653466",
+      "gdp": "21318.96417"
+    },
+    {
+      "year": "1999",
+      "country": "Australia",
+      "ec": "5610.344711",
+      "gdp": "20521.77757"
+    },
+    {
+      "year": "2000",
+      "country": "Australia",
+      "ec": "5644.064951",
+      "gdp": "21669.41091"
+    },
+    {
+      "year": "2001",
+      "country": "Australia",
+      "ec": "5446.973214",
+      "gdp": "19482.5679"
+    },
+    {
+      "year": "2002",
+      "country": "Australia",
+      "ec": "5569.640992",
+      "gdp": "20074.22931"
+    },
+    {
+      "year": "2003",
+      "country": "Australia",
+      "ec": "5568.764941",
+      "gdp": "23437.31215"
+    },
+    {
+      "year": "2004",
+      "country": "Australia",
+      "ec": "5598.088178",
+      "gdp": "30401.55479"
+    },
+    {
+      "year": "2005",
+      "country": "Australia",
+      "ec": "5564.087169",
+      "gdp": "33961.6818"
+    },
+    {
+      "year": "2006",
+      "country": "Australia",
+      "ec": "5709.344668",
+      "gdp": "36019.20305"
+    },
+    {
+      "year": "2007",
+      "country": "Australia",
+      "ec": "5868.347097",
+      "gdp": "40905.47089"
+    },
+    {
+      "year": "2008",
+      "country": "Australia",
+      "ec": "5964.665776",
+      "gdp": "49535.25787"
+    },
+    {
+      "year": "2009",
+      "country": "Australia",
+      "ec": "5862.551944",
+      "gdp": "42709.8033"
+    },
+    {
+      "year": "2010",
+      "country": "Australia",
+      "ec": "5793.116026",
+      "gdp": "51936.88871"
+    },
+    {
+      "year": "2011",
+      "country": "Australia",
+      "ec": "5745.23219",
+      "gdp": "62411.78545"
+    },
+    {
+      "year": "2012",
+      "country": "Australia",
+      "ec": "5573.078304",
+      "gdp": "67864.68986"
+    },
+    {
+      "year": "2013",
+      "country": "Australia",
+      "ec": "5464.192602",
+      "gdp": "67990.29003"
+    },
+    {
+      "year": "2014",
+      "country": "Australia",
+      "ec": "5328.223992",
+      "gdp": "62327.55594"
+    }
+  ],
+  "Brazil": [
+    {
+      "year": "1971",
+      "country": "Brazil",
+      "ec": "714.0384824",
+      "gdp": "503.4787661"
+    },
+    {
+      "year": "1972",
+      "country": "Brazil",
+      "ec": "746.8821422",
+      "gdp": "584.5506848"
+    },
+    {
+      "year": "1973",
+      "country": "Brazil",
+      "ec": "799.138597",
+      "gdp": "772.8187913"
+    },
+    {
+      "year": "1974",
+      "country": "Brazil",
+      "ec": "830.3170514",
+      "gdp": "1000.634253"
+    },
+    {
+      "year": "1975",
+      "country": "Brazil",
+      "ec": "846.4489867",
+      "gdp": "1149.586121"
+    },
+    {
+      "year": "1976",
+      "country": "Brazil",
+      "ec": "867.5287839",
+      "gdp": "1385.29853"
+    },
+    {
+      "year": "1977",
+      "country": "Brazil",
+      "ec": "875.466416",
+      "gdp": "1560.86306"
+    },
+    {
+      "year": "1978",
+      "country": "Brazil",
+      "ec": "909.7173434",
+      "gdp": "1737.367552"
+    },
+    {
+      "year": "1979",
+      "country": "Brazil",
+      "ec": "944.6769755",
+      "gdp": "1901.001325"
+    },
+    {
+      "year": "1980",
+      "country": "Brazil",
+      "ec": "939.677844",
+      "gdp": "1939.790876"
+    },
+    {
+      "year": "1981",
+      "country": "Brazil",
+      "ec": "880.5990197",
+      "gdp": "2124.962989"
+    },
+    {
+      "year": "1982",
+      "country": "Brazil",
+      "ec": "874.7583378",
+      "gdp": "2218.890515"
+    },
+    {
+      "year": "1983",
+      "country": "Brazil",
+      "ec": "876.3171933",
+      "gdp": "1565.297832"
+    },
+    {
+      "year": "1984",
+      "country": "Brazil",
+      "ec": "912.2096389",
+      "gdp": "1573.967139"
+    },
+    {
+      "year": "1985",
+      "country": "Brazil",
+      "ec": "953.397735",
+      "gdp": "1643.196503"
+    },
+    {
+      "year": "1986",
+      "country": "Brazil",
+      "ec": "977.6522673",
+      "gdp": "1936.016335"
+    },
+    {
+      "year": "1987",
+      "country": "Brazil",
+      "ec": "995.6993558",
+      "gdp": "2081.665262"
+    },
+    {
+      "year": "1988",
+      "country": "Brazil",
+      "ec": "990.0154958",
+      "gdp": "2294.401695"
+    },
+    {
+      "year": "1989",
+      "country": "Brazil",
+      "ec": "991.4411954",
+      "gdp": "2901.285449"
+    },
+    {
+      "year": "1990",
+      "country": "Brazil",
+      "ec": "938.7675483",
+      "gdp": "3093.037479"
+    },
+    {
+      "year": "1991",
+      "country": "Brazil",
+      "ec": "940.0013727",
+      "gdp": "3966.795488"
+    },
+    {
+      "year": "1992",
+      "country": "Brazil",
+      "ec": "933.9005938",
+      "gdp": "2591.797116"
+    },
+    {
+      "year": "1993",
+      "country": "Brazil",
+      "ec": "941.624461",
+      "gdp": "2786.171356"
+    },
+    {
+      "year": "1994",
+      "country": "Brazil",
+      "ec": "975.3157574",
+      "gdp": "3494.640541"
+    },
+    {
+      "year": "1995",
+      "country": "Brazil",
+      "ec": "992.5945404",
+      "gdp": "4740.119813"
+    },
+    {
+      "year": "1996",
+      "country": "Brazil",
+      "ec": "1028.801745",
+      "gdp": "5156.809075"
+    },
+    {
+      "year": "1997",
+      "country": "Brazil",
+      "ec": "1064.048038",
+      "gdp": "5271.412222"
+    },
+    {
+      "year": "1998",
+      "country": "Brazil",
+      "ec": "1072.764068",
+      "gdp": "5075.631211"
+    },
+    {
+      "year": "1999",
+      "country": "Brazil",
+      "ec": "1080.641098",
+      "gdp": "3469.502237"
+    },
+    {
+      "year": "2000",
+      "country": "Brazil",
+      "ec": "1069.337465",
+      "gdp": "3739.116139"
+    },
+    {
+      "year": "2001",
+      "country": "Brazil",
+      "ec": "1072.917289",
+      "gdp": "3146.948904"
+    },
+    {
+      "year": "2002",
+      "country": "Brazil",
+      "ec": "1086.6367",
+      "gdp": "2819.64812"
+    },
+    {
+      "year": "2003",
+      "country": "Brazil",
+      "ec": "1090.388978",
+      "gdp": "3059.586507"
+    },
+    {
+      "year": "2004",
+      "country": "Brazil",
+      "ec": "1136.968243",
+      "gdp": "3623.049912"
+    },
+    {
+      "year": "2005",
+      "country": "Brazil",
+      "ec": "1152.016339",
+      "gdp": "4770.183845"
+    },
+    {
+      "year": "2006",
+      "country": "Brazil",
+      "ec": "1178.850905",
+      "gdp": "5860.145829"
+    },
+    {
+      "year": "2007",
+      "country": "Brazil",
+      "ec": "1232.601682",
+      "gdp": "7313.557773"
+    },
+    {
+      "year": "2008",
+      "country": "Brazil",
+      "ec": "1288.117286",
+      "gdp": "8787.610658"
+    },
+    {
+      "year": "2009",
+      "country": "Brazil",
+      "ec": "1233.753632",
+      "gdp": "8553.381368"
+    },
+    {
+      "year": "2010",
+      "country": "Brazil",
+      "ec": "1351.028896",
+      "gdp": "11224.15408"
+    },
+    {
+      "year": "2011",
+      "country": "Brazil",
+      "ec": "1359.122359",
+      "gdp": "13167.47289"
+    },
+    {
+      "year": "2012",
+      "country": "Brazil",
+      "ec": "1404.755271",
+      "gdp": "12291.46685"
+    },
+    {
+      "year": "2013",
+      "country": "Brazil",
+      "ec": "1451.167804",
+      "gdp": "12216.90446"
+    },
+    {
+      "year": "2014",
+      "country": "Brazil",
+      "ec": "1484.926638",
+      "gdp": "12026.61939"
+    }
+  ],
+  "Canada": [
+    {
+      "year": "1971",
+      "country": "Canada",
+      "ec": "6530.335563",
+      "gdp": "4586.255848"
+    },
+    {
+      "year": "1972",
+      "country": "Canada",
+      "ec": "6933.606552",
+      "gdp": "5141.616725"
+    },
+    {
+      "year": "1973",
+      "country": "Canada",
+      "ec": "7123.379215",
+      "gdp": "5870.600564"
+    },
+    {
+      "year": "1974",
+      "country": "Canada",
+      "ec": "7100.548092",
+      "gdp": "7043.474351"
+    },
+    {
+      "year": "1975",
+      "country": "Canada",
+      "ec": "7150.106812",
+      "gdp": "7489.940531"
+    },
+    {
+      "year": "1976",
+      "country": "Canada",
+      "ec": "7272.550047",
+      "gdp": "8783.721592"
+    },
+    {
+      "year": "1977",
+      "country": "Canada",
+      "ec": "7409.530005",
+      "gdp": "8892.76168"
+    },
+    {
+      "year": "1978",
+      "country": "Canada",
+      "ec": "7538.842944",
+      "gdp": "9096.058722"
+    },
+    {
+      "year": "1979",
+      "country": "Canada",
+      "ec": "7837.769659",
+      "gdp": "10012.44397"
+    },
+    {
+      "year": "1980",
+      "country": "Canada",
+      "ec": "7804.220103",
+      "gdp": "11135.43799"
+    },
+    {
+      "year": "1981",
+      "country": "Canada",
+      "ec": "7530.945261",
+      "gdp": "12297.78569"
+    },
+    {
+      "year": "1982",
+      "country": "Canada",
+      "ec": "7149.34406",
+      "gdp": "12439.74784"
+    },
+    {
+      "year": "1983",
+      "country": "Canada",
+      "ec": "7051.629557",
+      "gdp": "13377.89565"
+    },
+    {
+      "year": "1984",
+      "country": "Canada",
+      "ec": "7341.51922",
+      "gdp": "13826.64999"
+    },
+    {
+      "year": "1985",
+      "country": "Canada",
+      "ec": "7439.342071",
+      "gdp": "14060.46178"
+    },
+    {
+      "year": "1986",
+      "country": "Canada",
+      "ec": "7492.11338",
+      "gdp": "14403.8287"
+    },
+    {
+      "year": "1987",
+      "country": "Canada",
+      "ec": "7641.324105",
+      "gdp": "16245.45168"
+    },
+    {
+      "year": "1988",
+      "country": "Canada",
+      "ec": "7854.972039",
+      "gdp": "18864.26292"
+    },
+    {
+      "year": "1989",
+      "country": "Canada",
+      "ec": "7933.567077",
+      "gdp": "20638.29005"
+    },
+    {
+      "year": "1990",
+      "country": "Canada",
+      "ec": "7602.674931",
+      "gdp": "21371.2911"
+    },
+    {
+      "year": "1991",
+      "country": "Canada",
+      "ec": "7481.503838",
+      "gdp": "21664.59864"
+    },
+    {
+      "year": "1992",
+      "country": "Canada",
+      "ec": "7562.148126",
+      "gdp": "20771.25035"
+    },
+    {
+      "year": "1993",
+      "country": "Canada",
+      "ec": "7730.486647",
+      "gdp": "20017.42985"
+    },
+    {
+      "year": "1994",
+      "country": "Canada",
+      "ec": "7926.839246",
+      "gdp": "19859.20398"
+    },
+    {
+      "year": "1995",
+      "country": "Canada",
+      "ec": "7965.846767",
+      "gdp": "20577.48939"
+    },
+    {
+      "year": "1996",
+      "country": "Canada",
+      "ec": "8036.713321",
+      "gdp": "21183.22008"
+    },
+    {
+      "year": "1997",
+      "country": "Canada",
+      "ec": "8034.414784",
+      "gdp": "21770.13408"
+    },
+    {
+      "year": "1998",
+      "country": "Canada",
+      "ec": "7924.030924",
+      "gdp": "20887.83947"
+    },
+    {
+      "year": "1999",
+      "country": "Canada",
+      "ec": "8081.486957",
+      "gdp": "22167.22585"
+    },
+    {
+      "year": "2000",
+      "country": "Canada",
+      "ec": "8242.524659",
+      "gdp": "24124.16917"
+    },
+    {
+      "year": "2001",
+      "country": "Canada",
+      "ec": "8040.538899",
+      "gdp": "23691.59472"
+    },
+    {
+      "year": "2002",
+      "country": "Canada",
+      "ec": "7993.389739",
+      "gdp": "24167.80431"
+    },
+    {
+      "year": "2003",
+      "country": "Canada",
+      "ec": "8332.923854",
+      "gdp": "28172.14883"
+    },
+    {
+      "year": "2004",
+      "country": "Canada",
+      "ec": "8441.184873",
+      "gdp": "31979.87195"
+    },
+    {
+      "year": "2005",
+      "country": "Canada",
+      "ec": "8404.245915",
+      "gdp": "36189.58838"
+    },
+    {
+      "year": "2006",
+      "country": "Canada",
+      "ec": "8240.11562",
+      "gdp": "40386.69948"
+    },
+    {
+      "year": "2007",
+      "country": "Canada",
+      "ec": "8213.663506",
+      "gdp": "44544.5268"
+    },
+    {
+      "year": "2008",
+      "country": "Canada",
+      "ec": "8195.212306",
+      "gdp": "46596.33599"
+    },
+    {
+      "year": "2009",
+      "country": "Canada",
+      "ec": "7797.196259",
+      "gdp": "40773.45436"
+    },
+    {
+      "year": "2010",
+      "country": "Canada",
+      "ec": "7788.472606",
+      "gdp": "47447.47602"
+    },
+    {
+      "year": "2011",
+      "country": "Canada",
+      "ec": "7910.75935",
+      "gdp": "52082.21076"
+    },
+    {
+      "year": "2012",
+      "country": "Canada",
+      "ec": "7725.328308",
+      "gdp": "52496.69487"
+    },
+    {
+      "year": "2013",
+      "country": "Canada",
+      "ec": "7728.434071",
+      "gdp": "52418.31506"
+    },
+    {
+      "year": "2014",
+      "country": "Canada",
+      "ec": "7876.094108",
+      "gdp": "50633.20882"
+    }
+  ],
+  "China": [
+    {
+      "year": "1971",
+      "country": "China",
+      "ec": "464.933157",
+      "gdp": "118.6545778"
+    },
+    {
+      "year": "1972",
+      "country": "China",
+      "ec": "477.1687087",
+      "gdp": "131.8835612"
+    },
+    {
+      "year": "1973",
+      "country": "China",
+      "ec": "483.7173753",
+      "gdp": "157.0903743"
+    },
+    {
+      "year": "1974",
+      "country": "China",
+      "ec": "486.1679858",
+      "gdp": "160.1400937"
+    },
+    {
+      "year": "1975",
+      "country": "China",
+      "ec": "527.4883375",
+      "gdp": "178.3418196"
+    },
+    {
+      "year": "1976",
+      "country": "China",
+      "ec": "537.1747315",
+      "gdp": "165.4055404"
+    },
+    {
+      "year": "1977",
+      "country": "China",
+      "ec": "577.2110106",
+      "gdp": "185.4228329"
+    },
+    {
+      "year": "1978",
+      "country": "China",
+      "ec": "617.1549011",
+      "gdp": "156.3963885"
+    },
+    {
+      "year": "1979",
+      "country": "China",
+      "ec": "619.0436623",
+      "gdp": "183.9831522"
+    },
+    {
+      "year": "1980",
+      "country": "China",
+      "ec": "609.4551957",
+      "gdp": "194.8047222"
+    },
+    {
+      "year": "1981",
+      "country": "China",
+      "ec": "597.1467101",
+      "gdp": "197.0714745"
+    },
+    {
+      "year": "1982",
+      "country": "China",
+      "ec": "606.8304373",
+      "gdp": "203.3349195"
+    },
+    {
+      "year": "1983",
+      "country": "China",
+      "ec": "621.9107172",
+      "gdp": "225.4319289"
+    },
+    {
+      "year": "1984",
+      "country": "China",
+      "ec": "651.0749586",
+      "gdp": "250.713969"
+    },
+    {
+      "year": "1985",
+      "country": "China",
+      "ec": "657.7597361",
+      "gdp": "294.4588485"
+    },
+    {
+      "year": "1986",
+      "country": "China",
+      "ec": "671.2095033",
+      "gdp": "281.9281209"
+    },
+    {
+      "year": "1987",
+      "country": "China",
+      "ec": "694.42236",
+      "gdp": "251.811957"
+    },
+    {
+      "year": "1988",
+      "country": "China",
+      "ec": "720.3414958",
+      "gdp": "283.5376952"
+    },
+    {
+      "year": "1989",
+      "country": "China",
+      "ec": "724.1161051",
+      "gdp": "310.8819124"
+    },
+    {
+      "year": "1990",
+      "country": "China",
+      "ec": "766.9953294",
+      "gdp": "317.884673"
+    },
+    {
+      "year": "1991",
+      "country": "China",
+      "ec": "736.8518014",
+      "gdp": "333.1421454"
+    },
+    {
+      "year": "1992",
+      "country": "China",
+      "ec": "752.6286625",
+      "gdp": "366.4606923"
+    },
+    {
+      "year": "1993",
+      "country": "China",
+      "ec": "788.1287236",
+      "gdp": "377.3898395"
+    },
+    {
+      "year": "1994",
+      "country": "China",
+      "ec": "816.16289",
+      "gdp": "473.4922787"
+    },
+    {
+      "year": "1995",
+      "country": "China",
+      "ec": "866.8343743",
+      "gdp": "609.6566792"
+    },
+    {
+      "year": "1996",
+      "country": "China",
+      "ec": "881.6537374",
+      "gdp": "709.4137551"
+    },
+    {
+      "year": "1997",
+      "country": "China",
+      "ec": "871.7563238",
+      "gdp": "781.7441643"
+    },
+    {
+      "year": "1998",
+      "country": "China",
+      "ec": "869.3586073",
+      "gdp": "828.5804793"
+    },
+    {
+      "year": "1999",
+      "country": "China",
+      "ec": "878.5245355",
+      "gdp": "873.2870617"
+    },
+    {
+      "year": "2000",
+      "country": "China",
+      "ec": "898.9873131",
+      "gdp": "959.3724836"
+    },
+    {
+      "year": "2001",
+      "country": "China",
+      "ec": "928.8114337",
+      "gdp": "1053.108243"
+    },
+    {
+      "year": "2002",
+      "country": "China",
+      "ec": "984.8107146",
+      "gdp": "1148.50829"
+    },
+    {
+      "year": "2003",
+      "country": "China",
+      "ec": "1118.431773",
+      "gdp": "1288.643252"
+    },
+    {
+      "year": "2004",
+      "country": "China",
+      "ec": "1268.132904",
+      "gdp": "1508.668098"
+    },
+    {
+      "year": "2005",
+      "country": "China",
+      "ec": "1393.691324",
+      "gdp": "1753.417829"
+    },
+    {
+      "year": "2006",
+      "country": "China",
+      "ec": "1515.173678",
+      "gdp": "2099.229435"
+    },
+    {
+      "year": "2007",
+      "country": "China",
+      "ec": "1630.171029",
+      "gdp": "2695.365917"
+    },
+    {
+      "year": "2008",
+      "country": "China",
+      "ec": "1672.90412",
+      "gdp": "3471.248054"
+    },
+    {
+      "year": "2009",
+      "country": "China",
+      "ec": "1778.433519",
+      "gdp": "3838.433972"
+    },
+    {
+      "year": "2010",
+      "country": "China",
+      "ec": "1954.722556",
+      "gdp": "4560.512586"
+    },
+    {
+      "year": "2011",
+      "country": "China",
+      "ec": "2086.486904",
+      "gdp": "5633.795717"
+    },
+    {
+      "year": "2012",
+      "country": "China",
+      "ec": "2155.164788",
+      "gdp": "6337.883323"
+    },
+    {
+      "year": "2013",
+      "country": "China",
+      "ec": "2213.759327",
+      "gdp": "7077.770765"
+    },
+    {
+      "year": "2014",
+      "country": "China",
+      "ec": "2236.729908",
+      "gdp": "7683.502613"
+    }
+  ],
+  "Democratic Republic of the Congo": [
+    {
+      "year": "1971",
+      "country": "Democratic Republic of the Congo",
+      "ec": "324.8055658",
+      "gdp": "272.0812669"
+    },
+    {
+      "year": "1972",
+      "country": "Democratic Republic of the Congo",
+      "ec": "324.4067037",
+      "gdp": "292.31401"
+    },
+    {
+      "year": "1973",
+      "country": "Democratic Republic of the Congo",
+      "ec": "326.9249327",
+      "gdp": "362.8637898"
+    },
+    {
+      "year": "1974",
+      "country": "Democratic Republic of the Congo",
+      "ec": "326.9191766",
+      "gdp": "430.7254318"
+    },
+    {
+      "year": "1975",
+      "country": "Democratic Republic of the Congo",
+      "ec": "326.2049577",
+      "gdp": "447.0002873"
+    },
+    {
+      "year": "1976",
+      "country": "Democratic Republic of the Congo",
+      "ec": "322.0248371",
+      "gdp": "409.548544"
+    },
+    {
+      "year": "1977",
+      "country": "Democratic Republic of the Congo",
+      "ec": "322.6937567",
+      "gdp": "509.0998787"
+    },
+    {
+      "year": "1978",
+      "country": "Democratic Republic of the Congo",
+      "ec": "322.2926544",
+      "gdp": "616.0216602"
+    },
+    {
+      "year": "1979",
+      "country": "Democratic Republic of the Congo",
+      "ec": "327.1099269",
+      "gdp": "587.1908016"
+    },
+    {
+      "year": "1980",
+      "country": "Democratic Republic of the Congo",
+      "ec": "321.2018669",
+      "gdp": "546.1423977"
+    },
+    {
+      "year": "1981",
+      "country": "Democratic Republic of the Congo",
+      "ec": "328.4358257",
+      "gdp": "463.6859364"
+    },
+    {
+      "year": "1982",
+      "country": "Democratic Republic of the Congo",
+      "ec": "320.8681628",
+      "gdp": "492.5317093"
+    },
+    {
+      "year": "1983",
+      "country": "Democratic Republic of the Congo",
+      "ec": "333.49144",
+      "gdp": "387.4937757"
+    },
+    {
+      "year": "1984",
+      "country": "Democratic Republic of the Congo",
+      "ec": "341.8261727",
+      "gdp": "269.8259433"
+    },
+    {
+      "year": "1985",
+      "country": "Democratic Republic of the Congo",
+      "ec": "333.0622579",
+      "gdp": "240.7701781"
+    },
+    {
+      "year": "1986",
+      "country": "Democratic Republic of the Congo",
+      "ec": "330.8309726",
+      "gdp": "263.8145604"
+    },
+    {
+      "year": "1987",
+      "country": "Democratic Republic of the Congo",
+      "ec": "335.0568762",
+      "gdp": "242.996146"
+    },
+    {
+      "year": "1988",
+      "country": "Democratic Republic of the Congo",
+      "ec": "337.6481114",
+      "gdp": "273.1246877"
+    },
+    {
+      "year": "1989",
+      "country": "Democratic Republic of the Congo",
+      "ec": "335.6892563",
+      "gdp": "269.5874462"
+    },
+    {
+      "year": "1990",
+      "country": "Democratic Republic of the Congo",
+      "ec": "340.8487597",
+      "gdp": "270.1105809"
+    },
+    {
+      "year": "1991",
+      "country": "Democratic Republic of the Congo",
+      "ec": "328.9062386",
+      "gdp": "268.0073444"
+    },
+    {
+      "year": "1992",
+      "country": "Democratic Republic of the Congo",
+      "ec": "322.084471",
+      "gdp": "220.2996713"
+    },
+    {
+      "year": "1993",
+      "country": "Democratic Republic of the Congo",
+      "ec": "315.9467466",
+      "gdp": "275.6958231"
+    },
+    {
+      "year": "1994",
+      "country": "Democratic Republic of the Congo",
+      "ec": "305.7492283",
+      "gdp": "144.5206699"
+    },
+    {
+      "year": "1995",
+      "country": "Democratic Republic of the Congo",
+      "ec": "308.5832291",
+      "gdp": "135.6734808"
+    },
+    {
+      "year": "1996",
+      "country": "Democratic Republic of the Congo",
+      "ec": "310.3064576",
+      "gdp": "134.939947"
+    },
+    {
+      "year": "1997",
+      "country": "Democratic Republic of the Congo",
+      "ec": "308.1272876",
+      "gdp": "138.964642"
+    },
+    {
+      "year": "1998",
+      "country": "Democratic Republic of the Congo",
+      "ec": "308.5583357",
+      "gdp": "138.615476"
+    },
+    {
+      "year": "1999",
+      "country": "Democratic Republic of the Congo",
+      "ec": "302.6800103",
+      "gdp": "102.6447985"
+    },
+    {
+      "year": "2000",
+      "country": "Democratic Republic of the Congo",
+      "ec": "295.4088427",
+      "gdp": "405.4696531"
+    },
+    {
+      "year": "2001",
+      "country": "Democratic Republic of the Congo",
+      "ec": "297.0128448",
+      "gdp": "153.6995733"
+    },
+    {
+      "year": "2002",
+      "country": "Democratic Republic of the Congo",
+      "ec": "298.4435713",
+      "gdp": "175.1360715"
+    },
+    {
+      "year": "2003",
+      "country": "Democratic Republic of the Congo",
+      "ec": "300.2105486",
+      "gdp": "173.9163518"
+    },
+    {
+      "year": "2004",
+      "country": "Democratic Republic of the Congo",
+      "ec": "302.5005724",
+      "gdp": "194.1667863"
+    },
+    {
+      "year": "2005",
+      "country": "Democratic Republic of the Congo",
+      "ec": "304.3472655",
+      "gdp": "218.5235092"
+    },
+    {
+      "year": "2006",
+      "country": "Democratic Republic of the Congo",
+      "ec": "305.8663077",
+      "gdp": "255.5913138"
+    },
+    {
+      "year": "2007",
+      "country": "Democratic Republic of the Congo",
+      "ec": "306.8263273",
+      "gdp": "286.5075372"
+    },
+    {
+      "year": "2008",
+      "country": "Democratic Republic of the Congo",
+      "ec": "307.846518",
+      "gdp": "327.7676543"
+    },
+    {
+      "year": "2009",
+      "country": "Democratic Republic of the Congo",
+      "ec": "306.7412003",
+      "gdp": "298.8069562"
+    },
+    {
+      "year": "2010",
+      "country": "Democratic Republic of the Congo",
+      "ec": "307.6133487",
+      "gdp": "334.2317025"
+    },
+    {
+      "year": "2011",
+      "country": "Democratic Republic of the Congo",
+      "ec": "315.9632511",
+      "gdp": "387.3235796"
+    },
+    {
+      "year": "2012",
+      "country": "Democratic Republic of the Congo",
+      "ec": "379.1481403",
+      "gdp": "424.8593185"
+    },
+    {
+      "year": "2013",
+      "country": "Democratic Republic of the Congo",
+      "ec": "385.4002227",
+      "gdp": "458.2384062"
+    },
+    {
+      "year": "2014",
+      "country": "Democratic Republic of the Congo",
+      "ec": "389.5673879",
+      "gdp": "487.0814869"
+    }
+  ],
+  "Germany": [
+    {
+      "year": "1971",
+      "country": "Germany",
+      "ec": "3895.264726",
+      "gdp": "3180.055927"
+    },
+    {
+      "year": "1972",
+      "country": "Germany",
+      "ec": "4017.337385",
+      "gdp": "3795.566081"
+    },
+    {
+      "year": "1973",
+      "country": "Germany",
+      "ec": "4240.061862",
+      "gdp": "5027.660309"
+    },
+    {
+      "year": "1974",
+      "country": "Germany",
+      "ec": "4158.271626",
+      "gdp": "5617.741721"
+    },
+    {
+      "year": "1975",
+      "country": "Germany",
+      "ec": "3984.974239",
+      "gdp": "6212.763127"
+    },
+    {
+      "year": "1976",
+      "country": "Germany",
+      "ec": "4314.581637",
+      "gdp": "6609.753392"
+    },
+    {
+      "year": "1977",
+      "country": "Germany",
+      "ec": "4336.087404",
+      "gdp": "7653.884711"
+    },
+    {
+      "year": "1978",
+      "country": "Germany",
+      "ec": "4483.880847",
+      "gdp": "9446.166785"
+    },
+    {
+      "year": "1979",
+      "country": "Germany",
+      "ec": "4685.296728",
+      "gdp": "11238.34067"
+    },
+    {
+      "year": "1980",
+      "country": "Germany",
+      "ec": "4562.295973",
+      "gdp": "12092.38185"
+    },
+    {
+      "year": "1981",
+      "country": "Germany",
+      "ec": "4399.499823",
+      "gdp": "10170.44628"
+    },
+    {
+      "year": "1982",
+      "country": "Germany",
+      "ec": "4257.864407",
+      "gdp": "9876.228232"
+    },
+    {
+      "year": "1983",
+      "country": "Germany",
+      "ec": "4268.048912",
+      "gdp": "9827.022409"
+    },
+    {
+      "year": "1984",
+      "country": "Germany",
+      "ec": "4447.316635",
+      "gdp": "9277.932299"
+    },
+    {
+      "year": "1985",
+      "country": "Germany",
+      "ec": "4598.138495",
+      "gdp": "9393.891691"
+    },
+    {
+      "year": "1986",
+      "country": "Germany",
+      "ec": "4589.153656",
+      "gdp": "13410.8971"
+    },
+    {
+      "year": "1987",
+      "country": "Germany",
+      "ec": "4616.397062",
+      "gdp": "16614.4101"
+    },
+    {
+      "year": "1988",
+      "country": "Germany",
+      "ec": "4629.177666",
+      "gdp": "17863.4379"
+    },
+    {
+      "year": "1989",
+      "country": "Germany",
+      "ec": "4514.704706",
+      "gdp": "17697.16351"
+    },
+    {
+      "year": "1990",
+      "country": "Germany",
+      "ec": "4421.364531",
+      "gdp": "22219.57253"
+    },
+    {
+      "year": "1991",
+      "country": "Germany",
+      "ec": "4302.891175",
+      "gdp": "23269.3818"
+    },
+    {
+      "year": "1992",
+      "country": "Germany",
+      "ec": "4190.98422",
+      "gdp": "26333.53744"
+    },
+    {
+      "year": "1993",
+      "country": "Germany",
+      "ec": "4122.69574",
+      "gdp": "25488.51952"
+    },
+    {
+      "year": "1994",
+      "country": "Germany",
+      "ec": "4088.79813",
+      "gdp": "27087.55845"
+    },
+    {
+      "year": "1995",
+      "country": "Germany",
+      "ec": "4119.688948",
+      "gdp": "31729.69976"
+    },
+    {
+      "year": "1996",
+      "country": "Germany",
+      "ec": "4246.553191",
+      "gdp": "30564.24781"
+    },
+    {
+      "year": "1997",
+      "country": "Germany",
+      "ec": "4203.357367",
+      "gdp": "27045.71913"
+    },
+    {
+      "year": "1998",
+      "country": "Germany",
+      "ec": "4177.294129",
+      "gdp": "27340.67288"
+    },
+    {
+      "year": "1999",
+      "country": "Germany",
+      "ec": "4079.933344",
+      "gdp": "26795.99113"
+    },
+    {
+      "year": "2000",
+      "country": "Germany",
+      "ec": "4094.06036",
+      "gdp": "23718.7467"
+    },
+    {
+      "year": "2001",
+      "country": "Germany",
+      "ec": "4209.796087",
+      "gdp": "23687.31689"
+    },
+    {
+      "year": "2002",
+      "country": "Germany",
+      "ec": "4108.401299",
+      "gdp": "25205.16445"
+    },
+    {
+      "year": "2003",
+      "country": "Germany",
+      "ec": "4084.503346",
+      "gdp": "30359.95215"
+    },
+    {
+      "year": "2004",
+      "country": "Germany",
+      "ec": "4114.389928",
+      "gdp": "34165.93403"
+    },
+    {
+      "year": "2005",
+      "country": "Germany",
+      "ec": "4086.503407",
+      "gdp": "34696.62092"
+    },
+    {
+      "year": "2006",
+      "country": "Germany",
+      "ec": "4204.654689",
+      "gdp": "36447.87232"
+    },
+    {
+      "year": "2007",
+      "country": "Germany",
+      "ec": "3985.811955",
+      "gdp": "41814.8191"
+    },
+    {
+      "year": "2008",
+      "country": "Germany",
+      "ec": "4036.830781",
+      "gdp": "45699.19832"
+    },
+    {
+      "year": "2009",
+      "country": "Germany",
+      "ec": "3790.501152",
+      "gdp": "41732.70725"
+    },
+    {
+      "year": "2010",
+      "country": "Germany",
+      "ec": "3997.079421",
+      "gdp": "41785.55691"
+    },
+    {
+      "year": "2011",
+      "country": "Germany",
+      "ec": "3869.816229",
+      "gdp": "46810.32796"
+    },
+    {
+      "year": "2012",
+      "country": "Germany",
+      "ec": "3876.948104",
+      "gdp": "44065.24891"
+    },
+    {
+      "year": "2013",
+      "country": "Germany",
+      "ec": "3939.529563",
+      "gdp": "46530.91143"
+    },
+    {
+      "year": "2014",
+      "country": "Germany",
+      "ec": "3779.461921",
+      "gdp": "48042.56343"
+    }
+  ],
+  "Spain": [
+    {
+      "year": "1971",
+      "country": "Spain",
+      "ec": "1244.903226",
+      "gdp": "1358.465747"
+    },
+    {
+      "year": "1972",
+      "country": "Spain",
+      "ec": "1295.60968",
+      "gdp": "1704.167361"
+    },
+    {
+      "year": "1973",
+      "country": "Spain",
+      "ec": "1473.952331",
+      "gdp": "2241.448847"
+    },
+    {
+      "year": "1974",
+      "country": "Spain",
+      "ec": "1580.126019",
+      "gdp": "2742.455585"
+    },
+    {
+      "year": "1975",
+      "country": "Spain",
+      "ec": "1607.74131",
+      "gdp": "3201.119201"
+    },
+    {
+      "year": "1976",
+      "country": "Spain",
+      "ec": "1707.886189",
+      "gdp": "3270.405729"
+    },
+    {
+      "year": "1977",
+      "country": "Spain",
+      "ec": "1661.179074",
+      "gdp": "3617.737759"
+    },
+    {
+      "year": "1978",
+      "country": "Spain",
+      "ec": "1757.396264",
+      "gdp": "4344.606706"
+    },
+    {
+      "year": "1979",
+      "country": "Spain",
+      "ec": "1768.794179",
+      "gdp": "5754.542183"
+    },
+    {
+      "year": "1980",
+      "country": "Spain",
+      "ec": "1805.590731",
+      "gdp": "6191.714945"
+    },
+    {
+      "year": "1981",
+      "country": "Spain",
+      "ec": "1820.104124",
+      "gdp": "5356.577832"
+    },
+    {
+      "year": "1982",
+      "country": "Spain",
+      "ec": "1760.399907",
+      "gdp": "5145.694384"
+    },
+    {
+      "year": "1983",
+      "country": "Spain",
+      "ec": "1781.47221",
+      "gdp": "4466.336264"
+    },
+    {
+      "year": "1984",
+      "country": "Spain",
+      "ec": "1813.424443",
+      "gdp": "4477.793724"
+    },
+    {
+      "year": "1985",
+      "country": "Spain",
+      "ec": "1843.193254",
+      "gdp": "4686.891069"
+    },
+    {
+      "year": "1986",
+      "country": "Spain",
+      "ec": "1875.778186",
+      "gdp": "6495.811997"
+    },
+    {
+      "year": "1987",
+      "country": "Spain",
+      "ec": "1916.767548",
+      "gdp": "8217.234257"
+    },
+    {
+      "year": "1988",
+      "country": "Spain",
+      "ec": "2065.722445",
+      "gdp": "9676.769252"
+    },
+    {
+      "year": "1989",
+      "country": "Spain",
+      "ec": "2269.013328",
+      "gdp": "10652.95797"
+    },
+    {
+      "year": "1990",
+      "country": "Spain",
+      "ec": "2317.476774",
+      "gdp": "13767.38147"
+    },
+    {
+      "year": "1991",
+      "country": "Spain",
+      "ec": "2397.714173",
+      "gdp": "14771.6723"
+    },
+    {
+      "year": "1992",
+      "country": "Spain",
+      "ec": "2430.374523",
+      "gdp": "16068.42672"
+    },
+    {
+      "year": "1993",
+      "country": "Spain",
+      "ec": "2318.982989",
+      "gdp": "13303.67613"
+    },
+    {
+      "year": "1994",
+      "country": "Spain",
+      "ec": "2436.012362",
+      "gdp": "13378.84984"
+    },
+    {
+      "year": "1995",
+      "country": "Spain",
+      "ec": "2537.07268",
+      "gdp": "15429.93942"
+    },
+    {
+      "year": "1996",
+      "country": "Spain",
+      "ec": "2489.340422",
+      "gdp": "16069.20709"
+    },
+    {
+      "year": "1997",
+      "country": "Spain",
+      "ec": "2634.649128",
+      "gdp": "14696.21611"
+    },
+    {
+      "year": "1998",
+      "country": "Spain",
+      "ec": "2756.218907",
+      "gdp": "15340.33211"
+    },
+    {
+      "year": "1999",
+      "country": "Spain",
+      "ec": "2877.982414",
+      "gdp": "15678.21523"
+    },
+    {
+      "year": "2000",
+      "country": "Spain",
+      "ec": "3003.761672",
+      "gdp": "14676.70609"
+    },
+    {
+      "year": "2001",
+      "country": "Spain",
+      "ec": "3060.881809",
+      "gdp": "15323.6114"
+    },
+    {
+      "year": "2002",
+      "country": "Spain",
+      "ec": "3107.867341",
+      "gdp": "17019.53541"
+    },
+    {
+      "year": "2003",
+      "country": "Spain",
+      "ec": "3157.227264",
+      "gdp": "21495.70741"
+    },
+    {
+      "year": "2004",
+      "country": "Spain",
+      "ec": "3238.502447",
+      "gdp": "24918.64584"
+    },
+    {
+      "year": "2005",
+      "country": "Spain",
+      "ec": "3251.397133",
+      "gdp": "26510.71745"
+    },
+    {
+      "year": "2006",
+      "country": "Spain",
+      "ec": "3194.081246",
+      "gdp": "28482.60948"
+    },
+    {
+      "year": "2007",
+      "country": "Spain",
+      "ec": "3180.03342",
+      "gdp": "32709.40104"
+    },
+    {
+      "year": "2008",
+      "country": "Spain",
+      "ec": "3026.338408",
+      "gdp": "35579.30993"
+    },
+    {
+      "year": "2009",
+      "country": "Spain",
+      "ec": "2757.691412",
+      "gdp": "32334.00548"
+    },
+    {
+      "year": "2010",
+      "country": "Spain",
+      "ec": "2742.877182",
+      "gdp": "30736.62785"
+    },
+    {
+      "year": "2011",
+      "country": "Spain",
+      "ec": "2689.684337",
+      "gdp": "31835.2888"
+    },
+    {
+      "year": "2012",
+      "country": "Spain",
+      "ec": "2683.367935",
+      "gdp": "28563.85904"
+    },
+    {
+      "year": "2013",
+      "country": "Spain",
+      "ec": "2512.105919",
+      "gdp": "29211.77375"
+    },
+    {
+      "year": "2014",
+      "country": "Spain",
+      "ec": "2464.641291",
+      "gdp": "29623.16445"
+    }
+  ],
+  "Ethiopia": [
+    {
+      "year": "1971",
+      "country": "Ethiopia",
+      "ec": "475.6606783",
+      "gdp": ""
+    },
+    {
+      "year": "1972",
+      "country": "Ethiopia",
+      "ec": "473.9046905",
+      "gdp": ""
+    },
+    {
+      "year": "1973",
+      "country": "Ethiopia",
+      "ec": "474.3744221",
+      "gdp": ""
+    },
+    {
+      "year": "1974",
+      "country": "Ethiopia",
+      "ec": "473.9250404",
+      "gdp": ""
+    },
+    {
+      "year": "1975",
+      "country": "Ethiopia",
+      "ec": "471.9522977",
+      "gdp": ""
+    },
+    {
+      "year": "1976",
+      "country": "Ethiopia",
+      "ec": "471.8278103",
+      "gdp": ""
+    },
+    {
+      "year": "1977",
+      "country": "Ethiopia",
+      "ec": "471.417826",
+      "gdp": ""
+    },
+    {
+      "year": "1978",
+      "country": "Ethiopia",
+      "ec": "472.620807",
+      "gdp": ""
+    },
+    {
+      "year": "1979",
+      "country": "Ethiopia",
+      "ec": "473.1600771",
+      "gdp": ""
+    },
+    {
+      "year": "1980",
+      "country": "Ethiopia",
+      "ec": "473.4599828",
+      "gdp": ""
+    },
+    {
+      "year": "1981",
+      "country": "Ethiopia",
+      "ec": "474.0822111",
+      "gdp": "202.7919376"
+    },
+    {
+      "year": "1982",
+      "country": "Ethiopia",
+      "ec": "472.7981761",
+      "gdp": "207.5479863"
+    },
+    {
+      "year": "1983",
+      "country": "Ethiopia",
+      "ec": "473.1959819",
+      "gdp": "223.7872069"
+    },
+    {
+      "year": "1984",
+      "country": "Ethiopia",
+      "ec": "471.9290193",
+      "gdp": "204.8721662"
+    },
+    {
+      "year": "1985",
+      "country": "Ethiopia",
+      "ec": "471.7938768",
+      "gdp": "232.3715877"
+    },
+    {
+      "year": "1986",
+      "country": "Ethiopia",
+      "ec": "473.4021941",
+      "gdp": "233.8183804"
+    },
+    {
+      "year": "1987",
+      "country": "Ethiopia",
+      "ec": "476.0032946",
+      "gdp": "242.0451601"
+    },
+    {
+      "year": "1988",
+      "country": "Ethiopia",
+      "ec": "475.6061507",
+      "gdp": "242.7873277"
+    },
+    {
+      "year": "1989",
+      "country": "Ethiopia",
+      "ec": "476.0021398",
+      "gdp": "247.0265475"
+    },
+    {
+      "year": "1990",
+      "country": "Ethiopia",
+      "ec": "476.9244251",
+      "gdp": "253.1929484"
+    },
+    {
+      "year": "1991",
+      "country": "Ethiopia",
+      "ec": "476.1016134",
+      "gdp": "270.2443935"
+    },
+    {
+      "year": "1992",
+      "country": "Ethiopia",
+      "ec": "470.4548123",
+      "gdp": "203.1645022"
+    },
+    {
+      "year": "1993",
+      "country": "Ethiopia",
+      "ec": "472.873495",
+      "gdp": "164.9584363"
+    },
+    {
+      "year": "1994",
+      "country": "Ethiopia",
+      "ec": "474.4062645",
+      "gdp": "124.9830454"
+    },
+    {
+      "year": "1995",
+      "country": "Ethiopia",
+      "ec": "475.8434322",
+      "gdp": "133.7288539"
+    },
+    {
+      "year": "1996",
+      "country": "Ethiopia",
+      "ec": "476.7061186",
+      "gdp": "144.5003524"
+    },
+    {
+      "year": "1997",
+      "country": "Ethiopia",
+      "ec": "475.7109343",
+      "gdp": "140.8611257"
+    },
+    {
+      "year": "1998",
+      "country": "Ethiopia",
+      "ec": "476.0961415",
+      "gdp": "124.5056232"
+    },
+    {
+      "year": "1999",
+      "country": "Ethiopia",
+      "ec": "475.4754382",
+      "gdp": "119.1340818"
+    },
+    {
+      "year": "2000",
+      "country": "Ethiopia",
+      "ec": "476.2457634",
+      "gdp": "123.8762057"
+    },
+    {
+      "year": "2001",
+      "country": "Ethiopia",
+      "ec": "480.0611695",
+      "gdp": "120.1789279"
+    },
+    {
+      "year": "2002",
+      "country": "Ethiopia",
+      "ec": "480.2572562",
+      "gdp": "111.3634356"
+    },
+    {
+      "year": "2003",
+      "country": "Ethiopia",
+      "ec": "481.5455463",
+      "gdp": "118.8734466"
+    },
+    {
+      "year": "2004",
+      "country": "Ethiopia",
+      "ec": "482.1302093",
+      "gdp": "135.7623858"
+    },
+    {
+      "year": "2005",
+      "country": "Ethiopia",
+      "ec": "480.5092225",
+      "gdp": "161.6266248"
+    },
+    {
+      "year": "2006",
+      "country": "Ethiopia",
+      "ec": "481.721726",
+      "gdp": "193.7949056"
+    },
+    {
+      "year": "2007",
+      "country": "Ethiopia",
+      "ec": "483.6422493",
+      "gdp": "243.3026822"
+    },
+    {
+      "year": "2008",
+      "country": "Ethiopia",
+      "ec": "485.1888129",
+      "gdp": "325.3825543"
+    },
+    {
+      "year": "2009",
+      "country": "Ethiopia",
+      "ec": "485.6928927",
+      "gdp": "379.7566385"
+    },
+    {
+      "year": "2010",
+      "country": "Ethiopia",
+      "ec": "486.34232",
+      "gdp": "341.3099092"
+    },
+    {
+      "year": "2011",
+      "country": "Ethiopia",
+      "ec": "489.6818049",
+      "gdp": "354.8463544"
+    },
+    {
+      "year": "2012",
+      "country": "Ethiopia",
+      "ec": "490.6903769",
+      "gdp": "468.5067249"
+    },
+    {
+      "year": "2013",
+      "country": "Ethiopia",
+      "ec": "494.728454",
+      "gdp": "502.1535887"
+    },
+    {
+      "year": "2014",
+      "country": "Ethiopia",
+      "ec": "496.8146013",
+      "gdp": "571.1622759"
+    }
+  ],
+  "Finland": [
+    {
+      "year": "1971",
+      "country": "Finland",
+      "ec": "3939.211088",
+      "gdp": "2718.207552"
+    },
+    {
+      "year": "1972",
+      "country": "Finland",
+      "ec": "4188.160677",
+      "gdp": "3180.005873"
+    },
+    {
+      "year": "1973",
+      "country": "Finland",
+      "ec": "4507.556984",
+      "gdp": "4176.272761"
+    },
+    {
+      "year": "1974",
+      "country": "Finland",
+      "ec": "4383.848118",
+      "gdp": "5301.542778"
+    },
+    {
+      "year": "1975",
+      "country": "Finland",
+      "ec": "4181.810657",
+      "gdp": "6260.191279"
+    },
+    {
+      "year": "1976",
+      "country": "Finland",
+      "ec": "4459.859609",
+      "gdp": "6744.696982"
+    },
+    {
+      "year": "1977",
+      "country": "Finland",
+      "ec": "4516.248068",
+      "gdp": "7074.35653"
+    },
+    {
+      "year": "1978",
+      "country": "Finland",
+      "ec": "4664.523176",
+      "gdp": "7634.482408"
+    },
+    {
+      "year": "1979",
+      "country": "Finland",
+      "ec": "4963.535508",
+      "gdp": "9339.177076"
+    },
+    {
+      "year": "1980",
+      "country": "Finland",
+      "ec": "5146.642299",
+      "gdp": "11232.27456"
+    },
+    {
+      "year": "1981",
+      "country": "Finland",
+      "ec": "4934.588468",
+      "gdp": "10934.56809"
+    },
+    {
+      "year": "1982",
+      "country": "Finland",
+      "ec": "4805.493882",
+      "gdp": "10945.27734"
+    },
+    {
+      "year": "1983",
+      "country": "Finland",
+      "ec": "4823.858831",
+      "gdp": "10505.83366"
+    },
+    {
+      "year": "1984",
+      "country": "Finland",
+      "ec": "4910.523018",
+      "gdp": "10841.56713"
+    },
+    {
+      "year": "1985",
+      "country": "Finland",
+      "ec": "5269.892371",
+      "gdp": "11405.93365"
+    },
+    {
+      "year": "1986",
+      "country": "Finland",
+      "ec": "5482.578423",
+      "gdp": "14962.25536"
+    },
+    {
+      "year": "1987",
+      "country": "Finland",
+      "ec": "5960.692586",
+      "gdp": "18580.65865"
+    },
+    {
+      "year": "1988",
+      "country": "Finland",
+      "ec": "5590.436514",
+      "gdp": "22056.70175"
+    },
+    {
+      "year": "1989",
+      "country": "Finland",
+      "ec": "5753.639283",
+      "gdp": "23983.84575"
+    },
+    {
+      "year": "1990",
+      "country": "Finland",
+      "ec": "5691.571186",
+      "gdp": "28380.54891"
+    },
+    {
+      "year": "1991",
+      "country": "Finland",
+      "ec": "5742.784229",
+      "gdp": "25503.21521"
+    },
+    {
+      "year": "1992",
+      "country": "Finland",
+      "ec": "5380.993068",
+      "gdp": "22337.48712"
+    },
+    {
+      "year": "1993",
+      "country": "Finland",
+      "ec": "5617.215378",
+      "gdp": "17617.03044"
+    },
+    {
+      "year": "1994",
+      "country": "Finland",
+      "ec": "5972.554273",
+      "gdp": "20305.58355"
+    },
+    {
+      "year": "1995",
+      "country": "Finland",
+      "ec": "5661.903876",
+      "gdp": "26273.4659"
+    },
+    {
+      "year": "1996",
+      "country": "Finland",
+      "ec": "6070.212094",
+      "gdp": "25777.6413"
+    },
+    {
+      "year": "1997",
+      "country": "Finland",
+      "ec": "6276.951692",
+      "gdp": "24676.49708"
+    },
+    {
+      "year": "1998",
+      "country": "Finland",
+      "ec": "6319.326601",
+      "gdp": "25989.4075"
+    },
+    {
+      "year": "1999",
+      "country": "Finland",
+      "ec": "6283.958258",
+      "gdp": "26178.79178"
+    },
+    {
+      "year": "2000",
+      "country": "Finland",
+      "ec": "6262.192079",
+      "gdp": "24253.25042"
+    },
+    {
+      "year": "2001",
+      "country": "Finland",
+      "ec": "6410.625234",
+      "gdp": "24913.24452"
+    },
+    {
+      "year": "2002",
+      "country": "Finland",
+      "ec": "6728.581405",
+      "gdp": "26834.02625"
+    },
+    {
+      "year": "2003",
+      "country": "Finland",
+      "ec": "7077.026649",
+      "gdp": "32816.16088"
+    },
+    {
+      "year": "2004",
+      "country": "Finland",
+      "ec": "7134.854209",
+      "gdp": "37636.11173"
+    },
+    {
+      "year": "2005",
+      "country": "Finland",
+      "ec": "6562.022311",
+      "gdp": "38969.17163"
+    },
+    {
+      "year": "2006",
+      "country": "Finland",
+      "ec": "7111.856822",
+      "gdp": "41120.67651"
+    },
+    {
+      "year": "2007",
+      "country": "Finland",
+      "ec": "6974.896761",
+      "gdp": "48288.5491"
+    },
+    {
+      "year": "2008",
+      "country": "Finland",
+      "ec": "6669.173348",
+      "gdp": "53401.31487"
+    },
+    {
+      "year": "2009",
+      "country": "Finland",
+      "ec": "6268.300545",
+      "gdp": "47107.15571"
+    },
+    {
+      "year": "2010",
+      "country": "Finland",
+      "ec": "6828.783753",
+      "gdp": "46202.41516"
+    },
+    {
+      "year": "2011",
+      "country": "Finland",
+      "ec": "6537.637298",
+      "gdp": "50790.72415"
+    },
+    {
+      "year": "2012",
+      "country": "Finland",
+      "ec": "6275.770964",
+      "gdp": "47415.55987"
+    },
+    {
+      "year": "2013",
+      "country": "Finland",
+      "ec": "6116.227294",
+      "gdp": "49638.07713"
+    },
+    {
+      "year": "2014",
+      "country": "Finland",
+      "ec": "6213.357766",
+      "gdp": "49914.61864"
+    }
+  ],
+  "France": [
+    {
+      "year": "1971",
+      "country": "France",
+      "ec": "3021.52658",
+      "gdp": "3162.448246"
+    },
+    {
+      "year": "1972",
+      "country": "France",
+      "ec": "3160.804837",
+      "gdp": "3842.468177"
+    },
+    {
+      "year": "1973",
+      "country": "France",
+      "ec": "3370.715782",
+      "gdp": "4948.046817"
+    },
+    {
+      "year": "1974",
+      "country": "France",
+      "ec": "3235.810603",
+      "gdp": "5299.546575"
+    },
+    {
+      "year": "1975",
+      "country": "France",
+      "ec": "3040.628745",
+      "gdp": "6650.968966"
+    },
+    {
+      "year": "1976",
+      "country": "France",
+      "ec": "3228.60445",
+      "gdp": "6826.344825"
+    },
+    {
+      "year": "1977",
+      "country": "France",
+      "ec": "3155.621469",
+      "gdp": "7491.710345"
+    },
+    {
+      "year": "1978",
+      "country": "France",
+      "ec": "3353.634615",
+      "gdp": "9221.592767"
+    },
+    {
+      "year": "1979",
+      "country": "France",
+      "ec": "3482.360049",
+      "gdp": "11136.34164"
+    },
+    {
+      "year": "1980",
+      "country": "France",
+      "ec": "3465.260917",
+      "gdp": "12672.18125"
+    },
+    {
+      "year": "1981",
+      "country": "France",
+      "ec": "3369.710252",
+      "gdp": "11073.90623"
+    },
+    {
+      "year": "1982",
+      "country": "France",
+      "ec": "3272.052745",
+      "gdp": "10470.65989"
+    },
+    {
+      "year": "1983",
+      "country": "France",
+      "ec": "3339.633548",
+      "gdp": "9969.840237"
+    },
+    {
+      "year": "1984",
+      "country": "France",
+      "ec": "3440.374205",
+      "gdp": "9397.495188"
+    },
+    {
+      "year": "1985",
+      "country": "France",
+      "ec": "3588.714432",
+      "gdp": "9739.092057"
+    },
+    {
+      "year": "1986",
+      "country": "France",
+      "ec": "3622.969063",
+      "gdp": "13503.14102"
+    },
+    {
+      "year": "1987",
+      "country": "France",
+      "ec": "3690.651453",
+      "gdp": "16251.41264"
+    },
+    {
+      "year": "1988",
+      "country": "France",
+      "ec": "3652.298741",
+      "gdp": "17615.99146"
+    },
+    {
+      "year": "1989",
+      "country": "France",
+      "ec": "3780.079086",
+      "gdp": "17620.5602"
+    },
+    {
+      "year": "1990",
+      "country": "France",
+      "ec": "3828.40926",
+      "gdp": "21690.62912"
+    },
+    {
+      "year": "1991",
+      "country": "France",
+      "ec": "4043.099021",
+      "gdp": "21675.06425"
+    },
+    {
+      "year": "1992",
+      "country": "France",
+      "ec": "3954.003194",
+      "gdp": "23813.71184"
+    },
+    {
+      "year": "1993",
+      "country": "France",
+      "ec": "4001.901525",
+      "gdp": "22380.10396"
+    },
+    {
+      "year": "1994",
+      "country": "France",
+      "ec": "3836.112351",
+      "gdp": "23496.52332"
+    },
+    {
+      "year": "1995",
+      "country": "France",
+      "ec": "3981.352509",
+      "gdp": "26890.21988"
+    },
+    {
+      "year": "1996",
+      "country": "France",
+      "ec": "4191.923833",
+      "gdp": "26871.82902"
+    },
+    {
+      "year": "1997",
+      "country": "France",
+      "ec": "4049.232508",
+      "gdp": "24228.94235"
+    },
+    {
+      "year": "1998",
+      "country": "France",
+      "ec": "4151.627195",
+      "gdp": "24974.2722"
+    },
+    {
+      "year": "1999",
+      "country": "France",
+      "ec": "4123.526271",
+      "gdp": "24673.19897"
+    },
+    {
+      "year": "2000",
+      "country": "France",
+      "ec": "4135.477644",
+      "gdp": "22364.02939"
+    },
+    {
+      "year": "2001",
+      "country": "France",
+      "ec": "4246.004942",
+      "gdp": "22433.55571"
+    },
+    {
+      "year": "2002",
+      "country": "France",
+      "ec": "4225.467969",
+      "gdp": "24177.33517"
+    },
+    {
+      "year": "2003",
+      "country": "France",
+      "ec": "4270.949456",
+      "gdp": "29568.38595"
+    },
+    {
+      "year": "2004",
+      "country": "France",
+      "ec": "4301.737225",
+      "gdp": "33741.26515"
+    },
+    {
+      "year": "2005",
+      "country": "France",
+      "ec": "4287.157413",
+      "gdp": "34760.18777"
+    },
+    {
+      "year": "2006",
+      "country": "France",
+      "ec": "4188.84293",
+      "gdp": "36443.62344"
+    },
+    {
+      "year": "2007",
+      "country": "France",
+      "ec": "4115.52724",
+      "gdp": "41508.43269"
+    },
+    {
+      "year": "2008",
+      "country": "France",
+      "ec": "4110.585339",
+      "gdp": "45334.11091"
+    },
+    {
+      "year": "2009",
+      "country": "France",
+      "ec": "3913.457397",
+      "gdp": "41575.41618"
+    },
+    {
+      "year": "2010",
+      "country": "France",
+      "ec": "4016.847947",
+      "gdp": "40638.334"
+    },
+    {
+      "year": "2011",
+      "country": "France",
+      "ec": "3847.073024",
+      "gdp": "43790.7354"
+    },
+    {
+      "year": "2012",
+      "country": "France",
+      "ec": "3836.65776",
+      "gdp": "40874.71596"
+    },
+    {
+      "year": "2013",
+      "country": "France",
+      "ec": "3833.535711",
+      "gdp": "42592.95152"
+    },
+    {
+      "year": "2014",
+      "country": "France",
+      "ec": "3658.865709",
+      "gdp": "43008.65257"
+    }
+  ],
+  "England": [
+    {
+      "year": "1971",
+      "country": "England",
+      "ec": "3733.282998",
+      "gdp": "2649.801514"
+    },
+    {
+      "year": "1972",
+      "country": "England",
+      "ec": "3747.962475",
+      "gdp": "3030.432514"
+    },
+    {
+      "year": "1973",
+      "country": "England",
+      "ec": "3880.650174",
+      "gdp": "3426.276221"
+    },
+    {
+      "year": "1974",
+      "country": "England",
+      "ec": "3734.841652",
+      "gdp": "3665.862798"
+    },
+    {
+      "year": "1975",
+      "country": "England",
+      "ec": "3545.817134",
+      "gdp": "4299.745618"
+    },
+    {
+      "year": "1976",
+      "country": "England",
+      "ec": "3616.975534",
+      "gdp": "4138.167788"
+    },
+    {
+      "year": "1977",
+      "country": "England",
+      "ec": "3695.383871",
+      "gdp": "4681.439932"
+    },
+    {
+      "year": "1978",
+      "country": "England",
+      "ec": "3675.435273",
+      "gdp": "5976.938169"
+    },
+    {
+      "year": "1979",
+      "country": "England",
+      "ec": "3858.975965",
+      "gdp": "7804.762081"
+    },
+    {
+      "year": "1980",
+      "country": "England",
+      "ec": "3523.648842",
+      "gdp": "10032.06208"
+    },
+    {
+      "year": "1981",
+      "country": "England",
+      "ec": "3415.37757",
+      "gdp": "9599.306222"
+    },
+    {
+      "year": "1982",
+      "country": "England",
+      "ec": "3397.122289",
+      "gdp": "9146.077357"
+    },
+    {
+      "year": "1983",
+      "country": "England",
+      "ec": "3377.904913",
+      "gdp": "8691.518813"
+    },
+    {
+      "year": "1984",
+      "country": "England",
+      "ec": "3370.524943",
+      "gdp": "8179.194441"
+    },
+    {
+      "year": "1985",
+      "country": "England",
+      "ec": "3550.783791",
+      "gdp": "8652.216542"
+    },
+    {
+      "year": "1986",
+      "country": "England",
+      "ec": "3597.944694",
+      "gdp": "10611.11221"
+    },
+    {
+      "year": "1987",
+      "country": "England",
+      "ec": "3619.077269",
+      "gdp": "13118.58653"
+    },
+    {
+      "year": "1988",
+      "country": "England",
+      "ec": "3643.006881",
+      "gdp": "15987.16808"
+    },
+    {
+      "year": "1989",
+      "country": "England",
+      "ec": "3626.297861",
+      "gdp": "16239.2822"
+    },
+    {
+      "year": "1990",
+      "country": "England",
+      "ec": "3597.051621",
+      "gdp": "19095.467"
+    },
+    {
+      "year": "1991",
+      "country": "England",
+      "ec": "3707.951971",
+      "gdp": "19900.72665"
+    },
+    {
+      "year": "1992",
+      "country": "England",
+      "ec": "3684.724535",
+      "gdp": "20487.17079"
+    },
+    {
+      "year": "1993",
+      "country": "England",
+      "ec": "3713.185819",
+      "gdp": "18389.01957"
+    },
+    {
+      "year": "1994",
+      "country": "England",
+      "ec": "3732.521114",
+      "gdp": "19709.2381"
+    },
+    {
+      "year": "1995",
+      "country": "England",
+      "ec": "3728.963152",
+      "gdp": "23013.45882"
+    },
+    {
+      "year": "1996",
+      "country": "England",
+      "ec": "3879.822786",
+      "gdp": "24219.62285"
+    },
+    {
+      "year": "1997",
+      "country": "England",
+      "ec": "3760.712365",
+      "gdp": "26621.48006"
+    },
+    {
+      "year": "1998",
+      "country": "England",
+      "ec": "3787.108452",
+      "gdp": "28014.8947"
+    },
+    {
+      "year": "1999",
+      "country": "England",
+      "ec": "3784.074088",
+      "gdp": "28383.66891"
+    },
+    {
+      "year": "2000",
+      "country": "England",
+      "ec": "3785.753126",
+      "gdp": "27982.35576"
+    },
+    {
+      "year": "2001",
+      "country": "England",
+      "ec": "3784.928174",
+      "gdp": "27427.5875"
+    },
+    {
+      "year": "2002",
+      "country": "England",
+      "ec": "3685.869487",
+      "gdp": "29785.98629"
+    },
+    {
+      "year": "2003",
+      "country": "England",
+      "ec": "3731.609718",
+      "gdp": "34173.97998"
+    },
+    {
+      "year": "2004",
+      "country": "England",
+      "ec": "3694.478595",
+      "gdp": "39983.98467"
+    },
+    {
+      "year": "2005",
+      "country": "England",
+      "ec": "3686.359905",
+      "gdp": "41732.64054"
+    },
+    {
+      "year": "2006",
+      "country": "England",
+      "ec": "3598.810406",
+      "gdp": "44252.31582"
+    },
+    {
+      "year": "2007",
+      "country": "England",
+      "ec": "3441.640219",
+      "gdp": "50134.3161"
+    },
+    {
+      "year": "2008",
+      "country": "England",
+      "ec": "3361.980517",
+      "gdp": "46767.59222"
+    },
+    {
+      "year": "2009",
+      "country": "England",
+      "ec": "3145.585662",
+      "gdp": "38262.18213"
+    },
+    {
+      "year": "2010",
+      "country": "England",
+      "ec": "3230.615984",
+      "gdp": "38893.01849"
+    },
+    {
+      "year": "2011",
+      "country": "England",
+      "ec": "2972.14799",
+      "gdp": "41412.34924"
+    },
+    {
+      "year": "2012",
+      "country": "England",
+      "ec": "3042.855811",
+      "gdp": "41790.77914"
+    },
+    {
+      "year": "2013",
+      "country": "England",
+      "ec": "2987.702778",
+      "gdp": "42724.06788"
+    },
+    {
+      "year": "2014",
+      "country": "England",
+      "ec": "2776.844098",
+      "gdp": "46783.46922"
+    }
+  ],
+  "Indonesia": [
+    {
+      "year": "1971",
+      "country": "Indonesia",
+      "ec": "297.2005783",
+      "gdp": "79.15008665"
+    },
+    {
+      "year": "1972",
+      "country": "Indonesia",
+      "ec": "301.3579858",
+      "gdp": "90.84449531"
+    },
+    {
+      "year": "1973",
+      "country": "Indonesia",
+      "ec": "307.0773852",
+      "gdp": "130.9799744"
+    },
+    {
+      "year": "1974",
+      "country": "Indonesia",
+      "ec": "310.3151008",
+      "gdp": "202.4270418"
+    },
+    {
+      "year": "1975",
+      "country": "Indonesia",
+      "ec": "314.6231359",
+      "gdp": "233.0392936"
+    },
+    {
+      "year": "1976",
+      "country": "Indonesia",
+      "ec": "320.8218837",
+      "gdp": "278.1058483"
+    },
+    {
+      "year": "1977",
+      "country": "Indonesia",
+      "ec": "347.8682145",
+      "gdp": "333.5873079"
+    },
+    {
+      "year": "1978",
+      "country": "Indonesia",
+      "ec": "363.4595946",
+      "gdp": "365.8010591"
+    },
+    {
+      "year": "1979",
+      "country": "Indonesia",
+      "ec": "371.4505535",
+      "gdp": "356.8131282"
+    },
+    {
+      "year": "1980",
+      "country": "Indonesia",
+      "ec": "377.6794369",
+      "gdp": "491.4377788"
+    },
+    {
+      "year": "1981",
+      "country": "Indonesia",
+      "ec": "388.2874315",
+      "gdp": "566.4252915"
+    },
+    {
+      "year": "1982",
+      "country": "Indonesia",
+      "ec": "388.8344722",
+      "gdp": "583.5261716"
+    },
+    {
+      "year": "1983",
+      "country": "Indonesia",
+      "ec": "387.0965442",
+      "gdp": "512.8452045"
+    },
+    {
+      "year": "1984",
+      "country": "Indonesia",
+      "ec": "393.5147261",
+      "gdp": "525.2291405"
+    },
+    {
+      "year": "1985",
+      "country": "Indonesia",
+      "ec": "398.9132961",
+      "gdp": "516.8678062"
+    },
+    {
+      "year": "1986",
+      "country": "Indonesia",
+      "ec": "431.1886867",
+      "gdp": "474.780945"
+    },
+    {
+      "year": "1987",
+      "country": "Indonesia",
+      "ec": "436.6690265",
+      "gdp": "442.1481187"
+    },
+    {
+      "year": "1988",
+      "country": "Indonesia",
+      "ec": "440.1840445",
+      "gdp": "481.7127613"
+    },
+    {
+      "year": "1989",
+      "country": "Indonesia",
+      "ec": "456.7099592",
+      "gdp": "529.9316609"
+    },
+    {
+      "year": "1990",
+      "country": "Indonesia",
+      "ec": "543.704869",
+      "gdp": "585.0010311"
+    },
+    {
+      "year": "1991",
+      "country": "Indonesia",
+      "ec": "560.5153062",
+      "gdp": "631.7004457"
+    },
+    {
+      "year": "1992",
+      "country": "Indonesia",
+      "ec": "574.4847501",
+      "gdp": "681.8428679"
+    },
+    {
+      "year": "1993",
+      "country": "Indonesia",
+      "ec": "620.7103263",
+      "gdp": "827.782351"
+    },
+    {
+      "year": "1994",
+      "country": "Indonesia",
+      "ec": "611.7072965",
+      "gdp": "912.0724734"
+    },
+    {
+      "year": "1995",
+      "country": "Indonesia",
+      "ec": "664.3573418",
+      "gdp": "1026.270493"
+    },
+    {
+      "year": "1996",
+      "country": "Indonesia",
+      "ec": "678.2716786",
+      "gdp": "1137.332724"
+    },
+    {
+      "year": "1997",
+      "country": "Indonesia",
+      "ec": "691.002222",
+      "gdp": "1063.712266"
+    },
+    {
+      "year": "1998",
+      "country": "Indonesia",
+      "ec": "666.3999537",
+      "gdp": "463.9685753"
+    },
+    {
+      "year": "1999",
+      "country": "Indonesia",
+      "ec": "688.3820119",
+      "gdp": "671.107022"
+    },
+    {
+      "year": "2000",
+      "country": "Indonesia",
+      "ec": "735.8208629",
+      "gdp": "780.0920744"
+    },
+    {
+      "year": "2001",
+      "country": "Indonesia",
+      "ec": "742.6967785",
+      "gdp": "747.9817455"
+    },
+    {
+      "year": "2002",
+      "country": "Indonesia",
+      "ec": "759.6425519",
+      "gdp": "899.5556857"
+    },
+    {
+      "year": "2003",
+      "country": "Indonesia",
+      "ec": "751.3089447",
+      "gdp": "1064.509447"
+    },
+    {
+      "year": "2004",
+      "country": "Indonesia",
+      "ec": "789.9269918",
+      "gdp": "1148.569096"
+    },
+    {
+      "year": "2005",
+      "country": "Indonesia",
+      "ec": "792.9268815",
+      "gdp": "1260.928834"
+    },
+    {
+      "year": "2006",
+      "country": "Indonesia",
+      "ec": "800.5394421",
+      "gdp": "1586.20504"
+    },
+    {
+      "year": "2007",
+      "country": "Indonesia",
+      "ec": "785.9927772",
+      "gdp": "1855.093915"
+    },
+    {
+      "year": "2008",
+      "country": "Indonesia",
+      "ec": "790.7844196",
+      "gdp": "2160.527605"
+    },
+    {
+      "year": "2009",
+      "country": "Indonesia",
+      "ec": "843.4525271",
+      "gdp": "2254.445592"
+    },
+    {
+      "year": "2010",
+      "country": "Indonesia",
+      "ec": "874.5806371",
+      "gdp": "3113.480635"
+    },
+    {
+      "year": "2011",
+      "country": "Indonesia",
+      "ec": "831.5560284",
+      "gdp": "3634.276805"
+    },
+    {
+      "year": "2012",
+      "country": "Indonesia",
+      "ec": "851.7314336",
+      "gdp": "3687.953996"
+    },
+    {
+      "year": "2013",
+      "country": "Indonesia",
+      "ec": "863.0435104",
+      "gdp": "3620.663981"
+    },
+    {
+      "year": "2014",
+      "country": "Indonesia",
+      "ec": "883.910977",
+      "gdp": "3491.595887"
+    }
+  ],
+  "India": [
+    {
+      "year": "1971",
+      "country": "India",
+      "ec": "268.1234163",
+      "gdp": "117.3607381"
+    },
+    {
+      "year": "1972",
+      "country": "India",
+      "ec": "268.0818374",
+      "gdp": "121.6922886"
+    },
+    {
+      "year": "1973",
+      "country": "India",
+      "ec": "269.3777667",
+      "gdp": "142.2700813"
+    },
+    {
+      "year": "1974",
+      "country": "India",
+      "ec": "273.5007796",
+      "gdp": "161.7630106"
+    },
+    {
+      "year": "1975",
+      "country": "India",
+      "ec": "276.7076518",
+      "gdp": "156.380095"
+    },
+    {
+      "year": "1976",
+      "country": "India",
+      "ec": "281.2676538",
+      "gdp": "159.4077985"
+    },
+    {
+      "year": "1977",
+      "country": "India",
+      "ec": "282.7814992",
+      "gdp": "184.2728749"
+    },
+    {
+      "year": "1978",
+      "country": "India",
+      "ec": "280.219429",
+      "gdp": "203.5587046"
+    },
+    {
+      "year": "1979",
+      "country": "India",
+      "ec": "286.4098231",
+      "gdp": "221.6879474"
+    },
+    {
+      "year": "1980",
+      "country": "India",
+      "ec": "287.0547568",
+      "gdp": "263.8407198"
+    },
+    {
+      "year": "1981",
+      "country": "India",
+      "ec": "294.6755482",
+      "gdp": "267.7110103"
+    },
+    {
+      "year": "1982",
+      "country": "India",
+      "ec": "299.052474",
+      "gdp": "271.3335961"
+    },
+    {
+      "year": "1983",
+      "country": "India",
+      "ec": "301.700567",
+      "gdp": "288.3071697"
+    },
+    {
+      "year": "1984",
+      "country": "India",
+      "ec": "307.1032391",
+      "gdp": "273.9018266"
+    },
+    {
+      "year": "1985",
+      "country": "India",
+      "ec": "315.9830707",
+      "gdp": "293.4886471"
+    },
+    {
+      "year": "1986",
+      "country": "India",
+      "ec": "319.982031",
+      "gdp": "307.395346"
+    },
+    {
+      "year": "1987",
+      "country": "India",
+      "ec": "325.0288411",
+      "gdp": "337.0639962"
+    },
+    {
+      "year": "1988",
+      "country": "India",
+      "ec": "335.4503175",
+      "gdp": "350.6727391"
+    },
+    {
+      "year": "1989",
+      "country": "India",
+      "ec": "343.9332997",
+      "gdp": "342.7238981"
+    },
+    {
+      "year": "1990",
+      "country": "India",
+      "ec": "351.340769",
+      "gdp": "363.9640873"
+    },
+    {
+      "year": "1991",
+      "country": "India",
+      "ec": "358.6618665",
+      "gdp": "300.0966366"
+    },
+    {
+      "year": "1992",
+      "country": "India",
+      "ec": "364.3951392",
+      "gdp": "313.8601101"
+    },
+    {
+      "year": "1993",
+      "country": "India",
+      "ec": "365.8344205",
+      "gdp": "298.2176638"
+    },
+    {
+      "year": "1994",
+      "country": "India",
+      "ec": "372.564551",
+      "gdp": "342.7175187"
+    },
+    {
+      "year": "1995",
+      "country": "India",
+      "ec": "386.4709924",
+      "gdp": "370.1013553"
+    },
+    {
+      "year": "1996",
+      "country": "India",
+      "ec": "390.8077708",
+      "gdp": "396.0146123"
+    },
+    {
+      "year": "1997",
+      "country": "India",
+      "ec": "398.7705197",
+      "gdp": "411.3877208"
+    },
+    {
+      "year": "1998",
+      "country": "India",
+      "ec": "400.8788435",
+      "gdp": "409.1943859"
+    },
+    {
+      "year": "1999",
+      "country": "India",
+      "ec": "416.3739694",
+      "gdp": "437.5861178"
+    },
+    {
+      "year": "2000",
+      "country": "India",
+      "ec": "418.6842801",
+      "gdp": "438.8646304"
+    },
+    {
+      "year": "2001",
+      "country": "India",
+      "ec": "417.3819934",
+      "gdp": "447.0138966"
+    },
+    {
+      "year": "2002",
+      "country": "India",
+      "ec": "422.6273282",
+      "gdp": "466.2008042"
+    },
+    {
+      "year": "2003",
+      "country": "India",
+      "ec": "425.6327906",
+      "gdp": "541.1352279"
+    },
+    {
+      "year": "2004",
+      "country": "India",
+      "ec": "441.0647829",
+      "gdp": "621.3183767"
+    },
+    {
+      "year": "2005",
+      "country": "India",
+      "ec": "451.1383065",
+      "gdp": "707.008019"
+    },
+    {
+      "year": "2006",
+      "country": "India",
+      "ec": "467.5457576",
+      "gdp": "792.0259698"
+    },
+    {
+      "year": "2007",
+      "country": "India",
+      "ec": "486.5504816",
+      "gdp": "1018.166373"
+    },
+    {
+      "year": "2008",
+      "country": "India",
+      "ec": "503.0355807",
+      "gdp": "991.4846304"
+    },
+    {
+      "year": "2009",
+      "country": "India",
+      "ec": "546.1767267",
+      "gdp": "1090.317765"
+    },
+    {
+      "year": "2010",
+      "country": "India",
+      "ec": "563.1592957",
+      "gdp": "1345.770153"
+    },
+    {
+      "year": "2011",
+      "country": "India",
+      "ec": "579.4087432",
+      "gdp": "1461.671957"
+    },
+    {
+      "year": "2012",
+      "country": "India",
+      "ec": "600.4432348",
+      "gdp": "1446.98541"
+    },
+    {
+      "year": "2013",
+      "country": "India",
+      "ec": "606.8742801",
+      "gdp": "1452.195373"
+    },
+    {
+      "year": "2014",
+      "country": "India",
+      "ec": "637.4286299",
+      "gdp": "1576.004018"
+    }
+  ],
+  "Iraq": [
+    {
+      "year": "1971",
+      "country": "Iraq",
+      "ec": "391.5235938",
+      "gdp": "376.8899272"
+    },
+    {
+      "year": "1972",
+      "country": "Iraq",
+      "ec": "404.4744051",
+      "gdp": "388.1045433"
+    },
+    {
+      "year": "1973",
+      "country": "Iraq",
+      "ec": "424.8396016",
+      "gdp": "468.8421103"
+    },
+    {
+      "year": "1974",
+      "country": "Iraq",
+      "ec": "447.1503376",
+      "gdp": "1018.073913"
+    },
+    {
+      "year": "1975",
+      "country": "Iraq",
+      "ec": "521.1285566",
+      "gdp": "1151.817729"
+    },
+    {
+      "year": "1976",
+      "country": "Iraq",
+      "ec": "624.5393667",
+      "gdp": "1471.211339"
+    },
+    {
+      "year": "1977",
+      "country": "Iraq",
+      "ec": "625.544643",
+      "gdp": "1592.028539"
+    },
+    {
+      "year": "1978",
+      "country": "Iraq",
+      "ec": "690.7870026",
+      "gdp": "1847.896567"
+    },
+    {
+      "year": "1979",
+      "country": "Iraq",
+      "ec": "798.8151729",
+      "gdp": "2852.39336"
+    },
+    {
+      "year": "1980",
+      "country": "Iraq",
+      "ec": "712.1441791",
+      "gdp": "3911.543003"
+    },
+    {
+      "year": "1981",
+      "country": "Iraq",
+      "ec": "684.6641949",
+      "gdp": "2735.548508"
+    },
+    {
+      "year": "1982",
+      "country": "Iraq",
+      "ec": "690.2928175",
+      "gdp": "2950.159183"
+    },
+    {
+      "year": "1983",
+      "country": "Iraq",
+      "ec": "810.5012826",
+      "gdp": "2738.137352"
+    },
+    {
+      "year": "1984",
+      "country": "Iraq",
+      "ec": "835.6594761",
+      "gdp": "3077.998472"
+    },
+    {
+      "year": "1985",
+      "country": "Iraq",
+      "ec": "945.0270746",
+      "gdp": "3099.881525"
+    },
+    {
+      "year": "1986",
+      "country": "Iraq",
+      "ec": "998.7721172",
+      "gdp": "2957.240514"
+    },
+    {
+      "year": "1987",
+      "country": "Iraq",
+      "ec": "969.9631354",
+      "gdp": "3475.096661"
+    },
+    {
+      "year": "1988",
+      "country": "Iraq",
+      "ec": "1144.170419",
+      "gdp": "3753.529911"
+    },
+    {
+      "year": "1989",
+      "country": "Iraq",
+      "ec": "1231.894245",
+      "gdp": "3852.149758"
+    },
+    {
+      "year": "1990",
+      "country": "Iraq",
+      "ec": "1147.367638",
+      "gdp": "10297.42767"
+    },
+    {
+      "year": "1991",
+      "country": "Iraq",
+      "ec": "889.2650304",
+      "gdp": ""
+    },
+    {
+      "year": "1992",
+      "country": "Iraq",
+      "ec": "1284.360539",
+      "gdp": ""
+    },
+    {
+      "year": "1993",
+      "country": "Iraq",
+      "ec": "1623.025548",
+      "gdp": ""
+    },
+    {
+      "year": "1994",
+      "country": "Iraq",
+      "ec": "1783.99845",
+      "gdp": ""
+    },
+    {
+      "year": "1995",
+      "country": "Iraq",
+      "ec": "1661.882762",
+      "gdp": ""
+    },
+    {
+      "year": "1996",
+      "country": "Iraq",
+      "ec": "1613.000988",
+      "gdp": ""
+    },
+    {
+      "year": "1997",
+      "country": "Iraq",
+      "ec": "1860.04355",
+      "gdp": ""
+    },
+    {
+      "year": "1998",
+      "country": "Iraq",
+      "ec": "1286.279334",
+      "gdp": ""
+    },
+    {
+      "year": "1999",
+      "country": "Iraq",
+      "ec": "964.1346532",
+      "gdp": ""
+    },
+    {
+      "year": "2000",
+      "country": "Iraq",
+      "ec": "1101.752428",
+      "gdp": ""
+    },
+    {
+      "year": "2001",
+      "country": "Iraq",
+      "ec": "1196.873211",
+      "gdp": ""
+    },
+    {
+      "year": "2002",
+      "country": "Iraq",
+      "ec": "1106.754244",
+      "gdp": ""
+    },
+    {
+      "year": "2003",
+      "country": "Iraq",
+      "ec": "989.6485145",
+      "gdp": ""
+    },
+    {
+      "year": "2004",
+      "country": "Iraq",
+      "ec": "991.8133069",
+      "gdp": "1391.816923"
+    },
+    {
+      "year": "2005",
+      "country": "Iraq",
+      "ec": "978.5947911",
+      "gdp": "1849.603911"
+    },
+    {
+      "year": "2006",
+      "country": "Iraq",
+      "ec": "900.3814439",
+      "gdp": "2351.812429"
+    },
+    {
+      "year": "2007",
+      "country": "Iraq",
+      "ec": "893.8298687",
+      "gdp": "3129.224922"
+    },
+    {
+      "year": "2008",
+      "country": "Iraq",
+      "ec": "944.2122656",
+      "gdp": "4521.03247"
+    },
+    {
+      "year": "2009",
+      "country": "Iraq",
+      "ec": "1101.9858",
+      "gdp": "3735.144836"
+    },
+    {
+      "year": "2010",
+      "country": "Iraq",
+      "ec": "1219.372447",
+      "gdp": "4502.749048"
+    },
+    {
+      "year": "2011",
+      "country": "Iraq",
+      "ec": "1293.563666",
+      "gdp": "5854.614497"
+    },
+    {
+      "year": "2012",
+      "country": "Iraq",
+      "ec": "1399.274988",
+      "gdp": "6651.12242"
+    },
+    {
+      "year": "2013",
+      "country": "Iraq",
+      "ec": "1456.662804",
+      "gdp": "6925.224046"
+    },
+    {
+      "year": "2014",
+      "country": "Iraq",
+      "ec": "1413.496256",
+      "gdp": "6703.074737"
+    }
+  ],
+  "Iceland": [
+    {
+      "year": "1971",
+      "country": "Iceland",
+      "ec": "4378.310318",
+      "gdp": "3203.921524"
+    },
+    {
+      "year": "1972",
+      "country": "Iceland",
+      "ec": "4403.969647",
+      "gdp": "3955.365304"
+    },
+    {
+      "year": "1973",
+      "country": "Iceland",
+      "ec": "5268.965745",
+      "gdp": "5356.790716"
+    },
+    {
+      "year": "1974",
+      "country": "Iceland",
+      "ec": "5132.197074",
+      "gdp": "6936.249746"
+    },
+    {
+      "year": "1975",
+      "country": "Iceland",
+      "ec": "5071.635341",
+      "gdp": "6358.561702"
+    },
+    {
+      "year": "1976",
+      "country": "Iceland",
+      "ec": "5085.581002",
+      "gdp": "7470.932723"
+    },
+    {
+      "year": "1977",
+      "country": "Iceland",
+      "ec": "5602.870166",
+      "gdp": "9809.743374"
+    },
+    {
+      "year": "1978",
+      "country": "Iceland",
+      "ec": "5710.710084",
+      "gdp": "11070.26855"
+    },
+    {
+      "year": "1979",
+      "country": "Iceland",
+      "ec": "6515.059694",
+      "gdp": "12453.37595"
+    },
+    {
+      "year": "1980",
+      "country": "Iceland",
+      "ec": "6560.998168",
+      "gdp": "14602.23653"
+    },
+    {
+      "year": "1981",
+      "country": "Iceland",
+      "ec": "7178.869364",
+      "gdp": "14913.00246"
+    },
+    {
+      "year": "1982",
+      "country": "Iceland",
+      "ec": "7076.207988",
+      "gdp": "13508.60327"
+    },
+    {
+      "year": "1983",
+      "country": "Iceland",
+      "ec": "7254.286281",
+      "gdp": "11498.89683"
+    },
+    {
+      "year": "1984",
+      "country": "Iceland",
+      "ec": "7531.269963",
+      "gdp": "11782.36506"
+    },
+    {
+      "year": "1985",
+      "country": "Iceland",
+      "ec": "7334.901928",
+      "gdp": "12178.06192"
+    },
+    {
+      "year": "1986",
+      "country": "Iceland",
+      "ec": "7605.56378",
+      "gdp": "16163.0001"
+    },
+    {
+      "year": "1987",
+      "country": "Iceland",
+      "ec": "7857.454883",
+      "gdp": "22120.5548"
+    },
+    {
+      "year": "1988",
+      "country": "Iceland",
+      "ec": "7882.473773",
+      "gdp": "24089.7289"
+    },
+    {
+      "year": "1989",
+      "country": "Iceland",
+      "ec": "7983.037508",
+      "gdp": "22101.9925"
+    },
+    {
+      "year": "1990",
+      "country": "Iceland",
+      "ec": "8907.791984",
+      "gdp": "25008.84946"
+    },
+    {
+      "year": "1991",
+      "country": "Iceland",
+      "ec": "8054.356723",
+      "gdp": "26405.91589"
+    },
+    {
+      "year": "1992",
+      "country": "Iceland",
+      "ec": "7755.394416",
+      "gdp": "26722.44119"
+    },
+    {
+      "year": "1993",
+      "country": "Iceland",
+      "ec": "8249.536449",
+      "gdp": "23230.4718"
+    },
+    {
+      "year": "1994",
+      "country": "Iceland",
+      "ec": "8293.412926",
+      "gdp": "23662.80668"
+    },
+    {
+      "year": "1995",
+      "country": "Iceland",
+      "ec": "8255.768914",
+      "gdp": "26239.0273"
+    },
+    {
+      "year": "1996",
+      "country": "Iceland",
+      "ec": "8847.785182",
+      "gdp": "27261.17166"
+    },
+    {
+      "year": "1997",
+      "country": "Iceland",
+      "ec": "8584.100499",
+      "gdp": "27842.61347"
+    },
+    {
+      "year": "1998",
+      "country": "Iceland",
+      "ec": "9036.654297",
+      "gdp": "30847.6437"
+    },
+    {
+      "year": "1999",
+      "country": "Iceland",
+      "ec": "10038.31192",
+      "gdp": "32148.15015"
+    },
+    {
+      "year": "2000",
+      "country": "Iceland",
+      "ec": "11091.54887",
+      "gdp": "31746.02314"
+    },
+    {
+      "year": "2001",
+      "country": "Iceland",
+      "ec": "10589.46619",
+      "gdp": "28551.78527"
+    },
+    {
+      "year": "2002",
+      "country": "Iceland",
+      "ec": "10804.64172",
+      "gdp": "32024.1856"
+    },
+    {
+      "year": "2003",
+      "country": "Iceland",
+      "ec": "10731.32864",
+      "gdp": "39086.77319"
+    },
+    {
+      "year": "2004",
+      "country": "Iceland",
+      "ec": "10524.2507",
+      "gdp": "46984.06654"
+    },
+    {
+      "year": "2005",
+      "country": "Iceland",
+      "ec": "10524.8775",
+      "gdp": "56250.68281"
+    },
+    {
+      "year": "2006",
+      "country": "Iceland",
+      "ec": "12734.00662",
+      "gdp": "56121.32242"
+    },
+    {
+      "year": "2007",
+      "country": "Iceland",
+      "ec": "14746.03134",
+      "gdp": "68428.34821"
+    },
+    {
+      "year": "2008",
+      "country": "Iceland",
+      "ec": "16353.83127",
+      "gdp": "55632.10432"
+    },
+    {
+      "year": "2009",
+      "country": "Iceland",
+      "ec": "16911.07978",
+      "gdp": "40640.9902"
+    },
+    {
+      "year": "2010",
+      "country": "Iceland",
+      "ec": "17023.16682",
+      "gdp": "41851.73548"
+    },
+    {
+      "year": "2011",
+      "country": "Iceland",
+      "ec": "18157.5981",
+      "gdp": "46181.95294"
+    },
+    {
+      "year": "2012",
+      "country": "Iceland",
+      "ec": "17630.07147",
+      "gdp": "44562.81802"
+    },
+    {
+      "year": "2013",
+      "country": "Iceland",
+      "ec": "18178.13901",
+      "gdp": "48023.62691"
+    },
+    {
+      "year": "2014",
+      "country": "Iceland",
+      "ec": "17916.12042",
+      "gdp": "52855.14048"
+    }
+  ],
+  "Israel": [
+    {
+      "year": "1971",
+      "country": "Israel",
+      "ec": "1870.109156",
+      "gdp": "2186.054089"
+    },
+    {
+      "year": "1972",
+      "country": "Israel",
+      "ec": "1756.331004",
+      "gdp": "2786.3723"
+    },
+    {
+      "year": "1973",
+      "country": "Israel",
+      "ec": "2368.436852",
+      "gdp": "3453.85906"
+    },
+    {
+      "year": "1974",
+      "country": "Israel",
+      "ec": "1732.933373",
+      "gdp": "4836.91146"
+    },
+    {
+      "year": "1975",
+      "country": "Israel",
+      "ec": "2032.764399",
+      "gdp": "4443.945972"
+    },
+    {
+      "year": "1976",
+      "country": "Israel",
+      "ec": "1832.148033",
+      "gdp": "4295.74724"
+    },
+    {
+      "year": "1977",
+      "country": "Israel",
+      "ec": "1786.487683",
+      "gdp": "4806.448934"
+    },
+    {
+      "year": "1978",
+      "country": "Israel",
+      "ec": "1849.399187",
+      "gdp": "4562.665391"
+    },
+    {
+      "year": "1979",
+      "country": "Israel",
+      "ec": "2005.813524",
+      "gdp": "5680.190174"
+    },
+    {
+      "year": "1980",
+      "country": "Israel",
+      "ec": "2017.276947",
+      "gdp": "6228.614912"
+    },
+    {
+      "year": "1981",
+      "country": "Israel",
+      "ec": "1840.735339",
+      "gdp": "6463.271424"
+    },
+    {
+      "year": "1982",
+      "country": "Israel",
+      "ec": "1958.317043",
+      "gdp": "6903.016029"
+    },
+    {
+      "year": "1983",
+      "country": "Israel",
+      "ec": "1793.922046",
+      "gdp": "7571.118027"
+    },
+    {
+      "year": "1984",
+      "country": "Israel",
+      "ec": "1828.539072",
+      "gdp": "7008.526685"
+    },
+    {
+      "year": "1985",
+      "country": "Israel",
+      "ec": "1788.996693",
+      "gdp": "6495.060591"
+    },
+    {
+      "year": "1986",
+      "country": "Israel",
+      "ec": "2102.245871",
+      "gdp": "7928.246614"
+    },
+    {
+      "year": "1987",
+      "country": "Israel",
+      "ec": "2278.479286",
+      "gdp": "9372.035791"
+    },
+    {
+      "year": "1988",
+      "country": "Israel",
+      "ec": "2451.745835",
+      "gdp": "11273.92344"
+    },
+    {
+      "year": "1989",
+      "country": "Israel",
+      "ec": "2488.923417",
+      "gdp": "11040.60071"
+    },
+    {
+      "year": "1990",
+      "country": "Israel",
+      "ec": "2460.465451",
+      "gdp": "12658.15406"
+    },
+    {
+      "year": "1991",
+      "country": "Israel",
+      "ec": "2324.539301",
+      "gdp": "13645.22534"
+    },
+    {
+      "year": "1992",
+      "country": "Israel",
+      "ec": "2580.969354",
+      "gdp": "14752.27463"
+    },
+    {
+      "year": "1993",
+      "country": "Israel",
+      "ec": "2634.674016",
+      "gdp": "14437.30115"
+    },
+    {
+      "year": "1994",
+      "country": "Israel",
+      "ec": "2738.399704",
+      "gdp": "15985.76329"
+    },
+    {
+      "year": "1995",
+      "country": "Israel",
+      "ec": "2796.251578",
+      "gdp": "18096.16222"
+    },
+    {
+      "year": "1996",
+      "country": "Israel",
+      "ec": "2801.208363",
+      "gdp": "19317.87104"
+    },
+    {
+      "year": "1997",
+      "country": "Israel",
+      "ec": "2881.128341",
+      "gdp": "19658.13263"
+    },
+    {
+      "year": "1998",
+      "country": "Israel",
+      "ec": "2885.726511",
+      "gdp": "19423.75323"
+    },
+    {
+      "year": "1999",
+      "country": "Israel",
+      "ec": "2737.736653",
+      "gdp": "19133.0482"
+    },
+    {
+      "year": "2000",
+      "country": "Israel",
+      "ec": "2899.426618",
+      "gdp": "21042.9816"
+    },
+    {
+      "year": "2001",
+      "country": "Israel",
+      "ec": "2973.042708",
+      "gdp": "20299.13773"
+    },
+    {
+      "year": "2002",
+      "country": "Israel",
+      "ec": "2862.795738",
+      "gdp": "18427.60702"
+    },
+    {
+      "year": "2003",
+      "country": "Israel",
+      "ec": "2949.300417",
+      "gdp": "18964.22364"
+    },
+    {
+      "year": "2004",
+      "country": "Israel",
+      "ec": "2821.996916",
+      "gdp": "19892.05951"
+    },
+    {
+      "year": "2005",
+      "country": "Israel",
+      "ec": "2661.449185",
+      "gdp": "20557.12408"
+    },
+    {
+      "year": "2006",
+      "country": "Israel",
+      "ec": "2882.399025",
+      "gdp": "21827.82317"
+    },
+    {
+      "year": "2007",
+      "country": "Israel",
+      "ec": "2898.153368",
+      "gdp": "24889.16836"
+    },
+    {
+      "year": "2008",
+      "country": "Israel",
+      "ec": "3129.127764",
+      "gdp": "29531.57216"
+    },
+    {
+      "year": "2009",
+      "country": "Israel",
+      "ec": "2873.876109",
+      "gdp": "27709.11754"
+    },
+    {
+      "year": "2010",
+      "country": "Israel",
+      "ec": "3042.434021",
+      "gdp": "30642.94062"
+    },
+    {
+      "year": "2011",
+      "country": "Israel",
+      "ec": "2980.176157",
+      "gdp": "33689.83853"
+    },
+    {
+      "year": "2012",
+      "country": "Israel",
+      "ec": "3067.742494",
+      "gdp": "32525.95659"
+    },
+    {
+      "year": "2013",
+      "country": "Israel",
+      "ec": "2870.098765",
+      "gdp": "36291.23211"
+    },
+    {
+      "year": "2014",
+      "country": "Israel",
+      "ec": "2762.505934",
+      "gdp": "37539.95182"
+    }
+  ],
+  "Italy": [
+    {
+      "year": "1971",
+      "country": "Italy",
+      "ec": "1949.148723",
+      "gdp": "2298.004539"
+    },
+    {
+      "year": "1972",
+      "country": "Italy",
+      "ec": "2050.737877",
+      "gdp": "2662.326351"
+    },
+    {
+      "year": "1973",
+      "country": "Italy",
+      "ec": "2175.587546",
+      "gdp": "3194.679281"
+    },
+    {
+      "year": "1974",
+      "country": "Italy",
+      "ec": "2212.206692",
+      "gdp": "3609.201197"
+    },
+    {
+      "year": "1975",
+      "country": "Italy",
+      "ec": "2106.078748",
+      "gdp": "4093.446604"
+    },
+    {
+      "year": "1976",
+      "country": "Italy",
+      "ec": "2264.057187",
+      "gdp": "4019.795861"
+    },
+    {
+      "year": "1977",
+      "country": "Italy",
+      "ec": "2204.179807",
+      "gdp": "4588.414345"
+    },
+    {
+      "year": "1978",
+      "country": "Italy",
+      "ec": "2247.565517",
+      "gdp": "5591.991427"
+    },
+    {
+      "year": "1979",
+      "country": "Italy",
+      "ec": "2340.042035",
+      "gdp": "6967.227773"
+    },
+    {
+      "year": "1980",
+      "country": "Italy",
+      "ec": "2318.4273",
+      "gdp": "8429.023153"
+    },
+    {
+      "year": "1981",
+      "country": "Italy",
+      "ec": "2265.93109",
+      "gdp": "7597.688799"
+    },
+    {
+      "year": "1982",
+      "country": "Italy",
+      "ec": "2206.542734",
+      "gdp": "7531.597628"
+    },
+    {
+      "year": "1983",
+      "country": "Italy",
+      "ec": "2203.864188",
+      "gdp": "7806.739007"
+    },
+    {
+      "year": "1984",
+      "country": "Italy",
+      "ec": "2253.718924",
+      "gdp": "7714.185204"
+    },
+    {
+      "year": "1985",
+      "country": "Italy",
+      "ec": "2284.811298",
+      "gdp": "7964.328637"
+    },
+    {
+      "year": "1986",
+      "country": "Italy",
+      "ec": "2311.548072",
+      "gdp": "11277.69168"
+    },
+    {
+      "year": "1987",
+      "country": "Italy",
+      "ec": "2407.256353",
+      "gdp": "14187.77425"
+    },
+    {
+      "year": "1988",
+      "country": "Italy",
+      "ec": "2462.796778",
+      "gdp": "15692.72623"
+    },
+    {
+      "year": "1989",
+      "country": "Italy",
+      "ec": "2566.108925",
+      "gdp": "16332.60949"
+    },
+    {
+      "year": "1990",
+      "country": "Italy",
+      "ec": "2583.888077",
+      "gdp": "20757.08868"
+    },
+    {
+      "year": "1991",
+      "country": "Italy",
+      "ec": "2645.673237",
+      "gdp": "21884.10437"
+    },
+    {
+      "year": "1992",
+      "country": "Italy",
+      "ec": "2627.340008",
+      "gdp": "23166.80406"
+    },
+    {
+      "year": "1993",
+      "country": "Italy",
+      "ec": "2611.990438",
+      "gdp": "18676.95258"
+    },
+    {
+      "year": "1994",
+      "country": "Italy",
+      "ec": "2578.465978",
+      "gdp": "19273.84417"
+    },
+    {
+      "year": "1995",
+      "country": "Italy",
+      "ec": "2799.375762",
+      "gdp": "20596.38858"
+    },
+    {
+      "year": "1996",
+      "country": "Italy",
+      "ec": "2796.154736",
+      "gdp": "23020.09994"
+    },
+    {
+      "year": "1997",
+      "country": "Italy",
+      "ec": "2834.402946",
+      "gdp": "21779.62437"
+    },
+    {
+      "year": "1998",
+      "country": "Italy",
+      "ec": "2912.947365",
+      "gdp": "22252.35809"
+    },
+    {
+      "year": "1999",
+      "country": "Italy",
+      "ec": "2957.311486",
+      "gdp": "21936.82313"
+    },
+    {
+      "year": "2000",
+      "country": "Italy",
+      "ec": "3012.195",
+      "gdp": "20051.24215"
+    },
+    {
+      "year": "2001",
+      "country": "Italy",
+      "ec": "3020.621195",
+      "gdp": "20400.81111"
+    },
+    {
+      "year": "2002",
+      "country": "Italy",
+      "ec": "3037.266965",
+      "gdp": "22196.50675"
+    },
+    {
+      "year": "2003",
+      "country": "Italy",
+      "ec": "3168.529021",
+      "gdp": "27387.22632"
+    },
+    {
+      "year": "2004",
+      "country": "Italy",
+      "ec": "3169.932642",
+      "gdp": "31174.56109"
+    },
+    {
+      "year": "2005",
+      "country": "Italy",
+      "ec": "3214.674121",
+      "gdp": "31959.26295"
+    },
+    {
+      "year": "2006",
+      "country": "Italy",
+      "ec": "3175.799871",
+      "gdp": "33410.74744"
+    },
+    {
+      "year": "2007",
+      "country": "Italy",
+      "ec": "3149.576553",
+      "gdp": "37698.78665"
+    },
+    {
+      "year": "2008",
+      "country": "Italy",
+      "ec": "3087.566331",
+      "gdp": "40640.18386"
+    },
+    {
+      "year": "2009",
+      "country": "Italy",
+      "ec": "2869.920712",
+      "gdp": "36976.84553"
+    },
+    {
+      "year": "2010",
+      "country": "Italy",
+      "ec": "2930.588524",
+      "gdp": "35849.3732"
+    },
+    {
+      "year": "2011",
+      "country": "Italy",
+      "ec": "2828.404891",
+      "gdp": "38334.68385"
+    },
+    {
+      "year": "2012",
+      "country": "Italy",
+      "ec": "2709.297728",
+      "gdp": "34814.12512"
+    },
+    {
+      "year": "2013",
+      "country": "Italy",
+      "ec": "2579.472543",
+      "gdp": "35370.27526"
+    },
+    {
+      "year": "2014",
+      "country": "Italy",
+      "ec": "2414.484002",
+      "gdp": "35396.66572"
+    }
+  ],
+  "Japan": [
+    {
+      "year": "1971",
+      "country": "Japan",
+      "ec": "2531.088536",
+      "gdp": "2272.077802"
+    },
+    {
+      "year": "1972",
+      "country": "Japan",
+      "ec": "2667.04675",
+      "gdp": "2967.041996"
+    },
+    {
+      "year": "1973",
+      "country": "Japan",
+      "ec": "2964.208218",
+      "gdp": "3997.84112"
+    },
+    {
+      "year": "1974",
+      "country": "Japan",
+      "ec": "2924.245711",
+      "gdp": "4353.824355"
+    },
+    {
+      "year": "1975",
+      "country": "Japan",
+      "ec": "2725.159326",
+      "gdp": "4659.120115"
+    },
+    {
+      "year": "1976",
+      "country": "Japan",
+      "ec": "2876.800853",
+      "gdp": "5197.806697"
+    },
+    {
+      "year": "1977",
+      "country": "Japan",
+      "ec": "2899.904218",
+      "gdp": "6335.787627"
+    },
+    {
+      "year": "1978",
+      "country": "Japan",
+      "ec": "2898.338814",
+      "gdp": "8821.843492"
+    },
+    {
+      "year": "1979",
+      "country": "Japan",
+      "ec": "3044.052844",
+      "gdp": "9105.136097"
+    },
+    {
+      "year": "1980",
+      "country": "Japan",
+      "ec": "2950.135346",
+      "gdp": "9465.379714"
+    },
+    {
+      "year": "1981",
+      "country": "Japan",
+      "ec": "2864.368651",
+      "gdp": "10361.32306"
+    },
+    {
+      "year": "1982",
+      "country": "Japan",
+      "ec": "2840.608439",
+      "gdp": "9578.113803"
+    },
+    {
+      "year": "1983",
+      "country": "Japan",
+      "ec": "2823.877099",
+      "gdp": "10425.40682"
+    },
+    {
+      "year": "1984",
+      "country": "Japan",
+      "ec": "3017.815203",
+      "gdp": "10984.86583"
+    },
+    {
+      "year": "1985",
+      "country": "Japan",
+      "ec": "3005.238104",
+      "gdp": "11584.64933"
+    },
+    {
+      "year": "1986",
+      "country": "Japan",
+      "ec": "3020.560481",
+      "gdp": "17111.85373"
+    },
+    {
+      "year": "1987",
+      "country": "Japan",
+      "ec": "3044.115086",
+      "gdp": "20745.25209"
+    },
+    {
+      "year": "1988",
+      "country": "Japan",
+      "ec": "3242.678688",
+      "gdp": "25051.85432"
+    },
+    {
+      "year": "1989",
+      "country": "Japan",
+      "ec": "3350.726291",
+      "gdp": "24813.29938"
+    },
+    {
+      "year": "1990",
+      "country": "Japan",
+      "ec": "3551.161773",
+      "gdp": "25359.34702"
+    },
+    {
+      "year": "1991",
+      "country": "Japan",
+      "ec": "3575.246092",
+      "gdp": "28925.04158"
+    },
+    {
+      "year": "1992",
+      "country": "Japan",
+      "ec": "3649.944321",
+      "gdp": "31464.54905"
+    },
+    {
+      "year": "1993",
+      "country": "Japan",
+      "ec": "3664.568358",
+      "gdp": "35765.91409"
+    },
+    {
+      "year": "1994",
+      "country": "Japan",
+      "ec": "3850.962444",
+      "gdp": "39268.56687"
+    },
+    {
+      "year": "1995",
+      "country": "Japan",
+      "ec": "3935.994754",
+      "gdp": "43440.36787"
+    },
+    {
+      "year": "1996",
+      "country": "Japan",
+      "ec": "4008.476236",
+      "gdp": "38436.92631"
+    },
+    {
+      "year": "1997",
+      "country": "Japan",
+      "ec": "4041.16767",
+      "gdp": "35021.71909"
+    },
+    {
+      "year": "1998",
+      "country": "Japan",
+      "ec": "3955.627627",
+      "gdp": "31902.7671"
+    },
+    {
+      "year": "1999",
+      "country": "Japan",
+      "ec": "4011.224779",
+      "gdp": "36026.55608"
+    },
+    {
+      "year": "2000",
+      "country": "Japan",
+      "ec": "4083.831697",
+      "gdp": "38532.04088"
+    },
+    {
+      "year": "2001",
+      "country": "Japan",
+      "ec": "4008.268032",
+      "gdp": "33846.46564"
+    },
+    {
+      "year": "2002",
+      "country": "Japan",
+      "ec": "3991.977567",
+      "gdp": "32289.35054"
+    },
+    {
+      "year": "2003",
+      "country": "Japan",
+      "ec": "3953.184508",
+      "gdp": "34808.39092"
+    },
+    {
+      "year": "2004",
+      "country": "Japan",
+      "ec": "4078.210542",
+      "gdp": "37688.72234"
+    },
+    {
+      "year": "2005",
+      "country": "Japan",
+      "ec": "4062.979049",
+      "gdp": "37217.64873"
+    },
+    {
+      "year": "2006",
+      "country": "Japan",
+      "ec": "4053.883437",
+      "gdp": "35433.98896"
+    },
+    {
+      "year": "2007",
+      "country": "Japan",
+      "ec": "4012.654245",
+      "gdp": "35275.22843"
+    },
+    {
+      "year": "2008",
+      "country": "Japan",
+      "ec": "3858.434521",
+      "gdp": "39339.29757"
+    },
+    {
+      "year": "2009",
+      "country": "Japan",
+      "ec": "3678.511133",
+      "gdp": "40855.17564"
+    },
+    {
+      "year": "2010",
+      "country": "Japan",
+      "ec": "3893.266604",
+      "gdp": "44507.67639"
+    },
+    {
+      "year": "2011",
+      "country": "Japan",
+      "ec": "3610.812169",
+      "gdp": "48167.99727"
+    },
+    {
+      "year": "2012",
+      "country": "Japan",
+      "ec": "3537.36317",
+      "gdp": "48603.47665"
+    },
+    {
+      "year": "2013",
+      "country": "Japan",
+      "ec": "3567.629354",
+      "gdp": "40454.44746"
+    },
+    {
+      "year": "2014",
+      "country": "Japan",
+      "ec": "3470.763129",
+      "gdp": "38109.41211"
+    }
+  ],
+  "North Korea": [
+    {
+      "year": "1971",
+      "country": "North Korea",
+      "ec": "516.1107493",
+      "gdp": "300.7648371"
+    },
+    {
+      "year": "1972",
+      "country": "North Korea",
+      "ec": "551.2581164",
+      "gdp": "323.5961525"
+    },
+    {
+      "year": "1973",
+      "country": "North Korea",
+      "ec": "632.250969",
+      "gdp": "405.8829266"
+    },
+    {
+      "year": "1974",
+      "country": "North Korea",
+      "ec": "675.2741086",
+      "gdp": "561.5671868"
+    },
+    {
+      "year": "1975",
+      "country": "North Korea",
+      "ec": "693.3380479",
+      "gdp": "615.2014185"
+    },
+    {
+      "year": "1976",
+      "country": "North Korea",
+      "ec": "758.2438194",
+      "gdp": "830.6991851"
+    },
+    {
+      "year": "1977",
+      "country": "North Korea",
+      "ec": "866.0208045",
+      "gdp": "1050.898003"
+    },
+    {
+      "year": "1978",
+      "country": "North Korea",
+      "ec": "935.264924",
+      "gdp": "1398.478756"
+    },
+    {
+      "year": "1979",
+      "country": "North Korea",
+      "ec": "1063.677945",
+      "gdp": "1773.526846"
+    },
+    {
+      "year": "1980",
+      "country": "North Korea",
+      "ec": "1082.192595",
+      "gdp": "1704.469739"
+    },
+    {
+      "year": "1981",
+      "country": "North Korea",
+      "ec": "1046.414133",
+      "gdp": "1870.338734"
+    },
+    {
+      "year": "1982",
+      "country": "North Korea",
+      "ec": "1095.503315",
+      "gdp": "1977.641636"
+    },
+    {
+      "year": "1983",
+      "country": "North Korea",
+      "ec": "1168.980654",
+      "gdp": "2180.494844"
+    },
+    {
+      "year": "1984",
+      "country": "North Korea",
+      "ec": "1257.116476",
+      "gdp": "2390.673152"
+    },
+    {
+      "year": "1985",
+      "country": "North Korea",
+      "ec": "1302.102371",
+      "gdp": "2457.327997"
+    },
+    {
+      "year": "1986",
+      "country": "North Korea",
+      "ec": "1477.312772",
+      "gdp": "2803.368764"
+    },
+    {
+      "year": "1987",
+      "country": "North Korea",
+      "ec": "1579.665746",
+      "gdp": "3510.99002"
+    },
+    {
+      "year": "1988",
+      "country": "North Korea",
+      "ec": "1761.014799",
+      "gdp": "4686.137325"
+    },
+    {
+      "year": "1989",
+      "country": "North Korea",
+      "ec": "1857.298321",
+      "gdp": "5736.903807"
+    },
+    {
+      "year": "1990",
+      "country": "North Korea",
+      "ec": "2167.339608",
+      "gdp": "6516.305759"
+    },
+    {
+      "year": "1991",
+      "country": "North Korea",
+      "ec": "2306.643472",
+      "gdp": "7523.477002"
+    },
+    {
+      "year": "1992",
+      "country": "North Korea",
+      "ec": "2534.341028",
+      "gdp": "8001.540992"
+    },
+    {
+      "year": "1993",
+      "country": "North Korea",
+      "ec": "2814.188231",
+      "gdp": "8740.945603"
+    },
+    {
+      "year": "1994",
+      "country": "North Korea",
+      "ec": "2958.40773",
+      "gdp": "10205.80747"
+    },
+    {
+      "year": "1995",
+      "country": "North Korea",
+      "ec": "3210.132036",
+      "gdp": "12332.97935"
+    },
+    {
+      "year": "1996",
+      "country": "North Korea",
+      "ec": "3454.854851",
+      "gdp": "13137.90807"
+    },
+    {
+      "year": "1997",
+      "country": "North Korea",
+      "ec": "3726.157766",
+      "gdp": "12131.8747"
+    },
+    {
+      "year": "1998",
+      "country": "North Korea",
+      "ec": "3377.635074",
+      "gdp": "8085.323528"
+    },
+    {
+      "year": "1999",
+      "country": "North Korea",
+      "ec": "3708.705213",
+      "gdp": "10409.32689"
+    },
+    {
+      "year": "2000",
+      "country": "North Korea",
+      "ec": "4002.671284",
+      "gdp": "11947.57913"
+    },
+    {
+      "year": "2001",
+      "country": "North Korea",
+      "ec": "4033.318968",
+      "gdp": "11252.90755"
+    },
+    {
+      "year": "2002",
+      "country": "North Korea",
+      "ec": "4170.476147",
+      "gdp": "12782.52553"
+    },
+    {
+      "year": "2003",
+      "country": "North Korea",
+      "ec": "4233.487325",
+      "gdp": "14209.38852"
+    },
+    {
+      "year": "2004",
+      "country": "North Korea",
+      "ec": "4332.667741",
+      "gdp": "15907.66583"
+    },
+    {
+      "year": "2005",
+      "country": "North Korea",
+      "ec": "4364.219091",
+      "gdp": "18639.52221"
+    },
+    {
+      "year": "2006",
+      "country": "North Korea",
+      "ec": "4412.527118",
+      "gdp": "20888.38015"
+    },
+    {
+      "year": "2007",
+      "country": "North Korea",
+      "ec": "4564.98783",
+      "gdp": "23060.70788"
+    },
+    {
+      "year": "2008",
+      "country": "North Korea",
+      "ec": "4629.777921",
+      "gdp": "20430.63946"
+    },
+    {
+      "year": "2009",
+      "country": "North Korea",
+      "ec": "4649.765742",
+      "gdp": "18291.9196"
+    },
+    {
+      "year": "2010",
+      "country": "North Korea",
+      "ec": "5045.487749",
+      "gdp": "22086.95292"
+    },
+    {
+      "year": "2011",
+      "country": "North Korea",
+      "ec": "5216.587809",
+      "gdp": "24079.78852"
+    },
+    {
+      "year": "2012",
+      "country": "North Korea",
+      "ec": "5248.519891",
+      "gdp": "24358.78218"
+    },
+    {
+      "year": "2013",
+      "country": "North Korea",
+      "ec": "5231.67546",
+      "gdp": "25890.01867"
+    },
+    {
+      "year": "2014",
+      "country": "North Korea",
+      "ec": "5289.275832",
+      "gdp": "27811.36638"
+    }
+  ],
+  "Kuwait": [
+    {
+      "year": "1971",
+      "country": "Kuwait",
+      "ec": "7641.884959",
+      "gdp": "4843.548836"
+    },
+    {
+      "year": "1972",
+      "country": "Kuwait",
+      "ec": "7913.634853",
+      "gdp": "5208.495365"
+    },
+    {
+      "year": "1973",
+      "country": "Kuwait",
+      "ec": "7846.635187",
+      "gdp": "5952.861796"
+    },
+    {
+      "year": "1974",
+      "country": "Kuwait",
+      "ec": "7060.327476",
+      "gdp": "13478.76895"
+    },
+    {
+      "year": "1975",
+      "country": "Kuwait",
+      "ec": "6323.896033",
+      "gdp": "11731.55334"
+    },
+    {
+      "year": "1976",
+      "country": "Kuwait",
+      "ec": "6455.749998",
+      "gdp": "12056.15171"
+    },
+    {
+      "year": "1977",
+      "country": "Kuwait",
+      "ec": "6562.851708",
+      "gdp": "12217.22249"
+    },
+    {
+      "year": "1978",
+      "country": "Kuwait",
+      "ec": "6743.810896",
+      "gdp": "12626.99261"
+    },
+    {
+      "year": "1979",
+      "country": "Kuwait",
+      "ec": "8023.846584",
+      "gdp": "19040.04248"
+    },
+    {
+      "year": "1980",
+      "country": "Kuwait",
+      "ec": "7617.569689",
+      "gdp": "20868.74216"
+    },
+    {
+      "year": "1981",
+      "country": "Kuwait",
+      "ec": "7136.660589",
+      "gdp": "17364.39948"
+    },
+    {
+      "year": "1982",
+      "country": "Kuwait",
+      "ec": "7585.792231",
+      "gdp": "14277.62713"
+    },
+    {
+      "year": "1983",
+      "country": "Kuwait",
+      "ec": "7704.419355",
+      "gdp": "13203.17132"
+    },
+    {
+      "year": "1984",
+      "country": "Kuwait",
+      "ec": "7609.605558",
+      "gdp": "13103.55445"
+    },
+    {
+      "year": "1985",
+      "country": "Kuwait",
+      "ec": "8066.303276",
+      "gdp": "12330.47364"
+    },
+    {
+      "year": "1986",
+      "country": "Kuwait",
+      "ec": "8271.504625",
+      "gdp": "9750.902967"
+    },
+    {
+      "year": "1987",
+      "country": "Kuwait",
+      "ec": "8506.319712",
+      "gdp": "11512.05444"
+    },
+    {
+      "year": "1988",
+      "country": "Kuwait",
+      "ec": "9894.824868",
+      "gdp": "10148.91608"
+    },
+    {
+      "year": "1989",
+      "country": "Kuwait",
+      "ec": "11237.83365",
+      "gdp": "11594.13742"
+    },
+    {
+      "year": "1990",
+      "country": "Kuwait",
+      "ec": "4338.508727",
+      "gdp": "8776.741344"
+    },
+    {
+      "year": "1991",
+      "country": "Kuwait",
+      "ec": "1322.225066",
+      "gdp": "5407.969783"
+    },
+    {
+      "year": "1992",
+      "country": "Kuwait",
+      "ec": "7704.419",
+      "gdp": "14277.627"
+    },
+    {
+      "year": "1993",
+      "country": "Kuwait",
+      "ec": "9126.909",
+      "gdp": "17696.139"
+    },
+    {
+      "year": "1994",
+      "country": "Kuwait",
+      "ec": "6562.852",
+      "gdp": "17364.399"
+    },
+    {
+      "year": "1995",
+      "country": "Kuwait",
+      "ec": "9183.849263",
+      "gdp": "16882.42146"
+    },
+    {
+      "year": "1996",
+      "country": "Kuwait",
+      "ec": "8915.139667",
+      "gdp": "19300.86144"
+    },
+    {
+      "year": "1997",
+      "country": "Kuwait",
+      "ec": "8566.77961",
+      "gdp": "17696.13876"
+    },
+    {
+      "year": "1998",
+      "country": "Kuwait",
+      "ec": "9142.511271",
+      "gdp": "14126.8751"
+    },
+    {
+      "year": "1999",
+      "country": "Kuwait",
+      "ec": "9206.813669",
+      "gdp": "15391.34574"
+    },
+    {
+      "year": "2000",
+      "country": "Kuwait",
+      "ec": "9126.908761",
+      "gdp": "18389.38433"
+    },
+    {
+      "year": "2001",
+      "country": "Kuwait",
+      "ec": "9470.089672",
+      "gdp": "16540.96761"
+    },
+    {
+      "year": "2002",
+      "country": "Kuwait",
+      "ec": "9582.17781",
+      "gdp": "17789.41981"
+    },
+    {
+      "year": "2003",
+      "country": "Kuwait",
+      "ec": "10096.45349",
+      "gdp": "22071.56961"
+    },
+    {
+      "year": "2004",
+      "country": "Kuwait",
+      "ec": "10583.84403",
+      "gdp": "26921.08278"
+    },
+    {
+      "year": "2005",
+      "country": "Kuwait",
+      "ec": "11544.15553",
+      "gdp": "35490.26132"
+    },
+    {
+      "year": "2006",
+      "country": "Kuwait",
+      "ec": "10795.26875",
+      "gdp": "42717.55725"
+    },
+    {
+      "year": "2007",
+      "country": "Kuwait",
+      "ec": "10491.59147",
+      "gdp": "45793.97614"
+    },
+    {
+      "year": "2008",
+      "country": "Kuwait",
+      "ec": "10825.76517",
+      "gdp": "55571.99806"
+    },
+    {
+      "year": "2009",
+      "country": "Kuwait",
+      "ec": "11142.56073",
+      "gdp": "37567.30121"
+    },
+    {
+      "year": "2010",
+      "country": "Kuwait",
+      "ec": "10699.31686",
+      "gdp": "38497.61696"
+    },
+    {
+      "year": "2011",
+      "country": "Kuwait",
+      "ec": "10147.53446",
+      "gdp": "48268.5912"
+    },
+    {
+      "year": "2012",
+      "country": "Kuwait",
+      "ec": "10953.22445",
+      "gdp": "51264.07134"
+    },
+    {
+      "year": "2013",
+      "country": "Kuwait",
+      "ec": "9708.273017",
+      "gdp": "48399.80782"
+    },
+    {
+      "year": "2014",
+      "country": "Kuwait",
+      "ec": "8956.820315",
+      "gdp": "42996.31522"
+    }
+  ],
+  "Luxembourg": [
+    {
+      "year": "1971",
+      "country": "Luxembourg",
+      "ec": "11863.08959",
+      "gdp": "4591.747503"
+    },
+    {
+      "year": "1972",
+      "country": "Luxembourg",
+      "ec": "12009.57011",
+      "gdp": "5680.129895"
+    },
+    {
+      "year": "1973",
+      "country": "Luxembourg",
+      "ec": "12648.56042",
+      "gdp": "7709.729387"
+    },
+    {
+      "year": "1974",
+      "country": "Luxembourg",
+      "ec": "13023.88959",
+      "gdp": "9282.808109"
+    },
+    {
+      "year": "1975",
+      "country": "Luxembourg",
+      "ec": "10504.9812",
+      "gdp": "9008.02789"
+    },
+    {
+      "year": "1976",
+      "country": "Luxembourg",
+      "ec": "10668.56744",
+      "gdp": "9825.238266"
+    },
+    {
+      "year": "1977",
+      "country": "Luxembourg",
+      "ec": "10278.55755",
+      "gdp": "10855.98186"
+    },
+    {
+      "year": "1978",
+      "country": "Luxembourg",
+      "ec": "11096.00367",
+      "gdp": "13493.85258"
+    },
+    {
+      "year": "1979",
+      "country": "Luxembourg",
+      "ec": "10458.11286",
+      "gdp": "15740.2875"
+    },
+    {
+      "year": "1980",
+      "country": "Luxembourg",
+      "ec": "9774.650556",
+      "gdp": "17113.84225"
+    },
+    {
+      "year": "1981",
+      "country": "Luxembourg",
+      "ec": "8526.037374",
+      "gdp": "14324.89197"
+    },
+    {
+      "year": "1982",
+      "country": "Luxembourg",
+      "ec": "8057.809999",
+      "gdp": "13034.81166"
+    },
+    {
+      "year": "1983",
+      "country": "Luxembourg",
+      "ec": "7576.207121",
+      "gdp": "12810.21883"
+    },
+    {
+      "year": "1984",
+      "country": "Luxembourg",
+      "ec": "8112.675479",
+      "gdp": "12554.41718"
+    },
+    {
+      "year": "1985",
+      "country": "Luxembourg",
+      "ec": "8346.926421",
+      "gdp": "12921.95842"
+    },
+    {
+      "year": "1986",
+      "country": "Luxembourg",
+      "ec": "8163.548751",
+      "gdp": "18789.65708"
+    },
+    {
+      "year": "1987",
+      "country": "Luxembourg",
+      "ec": "7942.948078",
+      "gdp": "23234.56658"
+    },
+    {
+      "year": "1988",
+      "country": "Luxembourg",
+      "ec": "8158.433525",
+      "gdp": "26108.34396"
+    },
+    {
+      "year": "1989",
+      "country": "Luxembourg",
+      "ec": "8699.936356",
+      "gdp": "27556.36359"
+    },
+    {
+      "year": "1990",
+      "country": "Luxembourg",
+      "ec": "8874.105015",
+      "gdp": "34645.14324"
+    },
+    {
+      "year": "1991",
+      "country": "Luxembourg",
+      "ec": "9353.421189",
+      "gdp": "37007.43875"
+    },
+    {
+      "year": "1992",
+      "country": "Luxembourg",
+      "ec": "9262.081979",
+      "gdp": "40965.74432"
+    },
+    {
+      "year": "1993",
+      "country": "Luxembourg",
+      "ec": "9266.942575",
+      "gdp": "41479.0872"
+    },
+    {
+      "year": "1994",
+      "country": "Luxembourg",
+      "ec": "8823.252466",
+      "gdp": "45481.8922"
+    },
+    {
+      "year": "1995",
+      "country": "Luxembourg",
+      "ec": "7705.407158",
+      "gdp": "52831.25237"
+    },
+    {
+      "year": "1996",
+      "country": "Luxembourg",
+      "ec": "7711.178707",
+      "gdp": "52571.93499"
+    },
+    {
+      "year": "1997",
+      "country": "Luxembourg",
+      "ec": "7409.850995",
+      "gdp": "47042.34711"
+    },
+    {
+      "year": "1998",
+      "country": "Luxembourg",
+      "ec": "7066.88486",
+      "gdp": "47584.46439"
+    },
+    {
+      "year": "1999",
+      "country": "Luxembourg",
+      "ec": "7266.97253",
+      "gdp": "51654.4028"
+    },
+    {
+      "year": "2000",
+      "country": "Luxembourg",
+      "ec": "7676.837039",
+      "gdp": "48735.99549"
+    },
+    {
+      "year": "2001",
+      "country": "Luxembourg",
+      "ec": "7982.850348",
+      "gdp": "48179.42085"
+    },
+    {
+      "year": "2002",
+      "country": "Luxembourg",
+      "ec": "8204.726845",
+      "gdp": "52930.64115"
+    },
+    {
+      "year": "2003",
+      "country": "Luxembourg",
+      "ec": "8549.502912",
+      "gdp": "65445.88503"
+    },
+    {
+      "year": "2004",
+      "country": "Luxembourg",
+      "ec": "9387.437104",
+      "gdp": "75716.35108"
+    },
+    {
+      "year": "2005",
+      "country": "Luxembourg",
+      "ec": "9428.811286",
+      "gdp": "80289.69641"
+    },
+    {
+      "year": "2006",
+      "country": "Luxembourg",
+      "ec": "9170.532565",
+      "gdp": "89739.7117"
+    },
+    {
+      "year": "2007",
+      "country": "Luxembourg",
+      "ec": "8773.896703",
+      "gdp": "106018.4928"
+    },
+    {
+      "year": "2008",
+      "country": "Luxembourg",
+      "ec": "8612.233705",
+      "gdp": "114293.8433"
+    },
+    {
+      "year": "2009",
+      "country": "Luxembourg",
+      "ec": "7951.723944",
+      "gdp": "103198.6693"
+    },
+    {
+      "year": "2010",
+      "country": "Luxembourg",
+      "ec": "8329.478275",
+      "gdp": "104965.3061"
+    },
+    {
+      "year": "2011",
+      "country": "Luxembourg",
+      "ec": "8056.404301",
+      "gdp": "115761.5077"
+    },
+    {
+      "year": "2012",
+      "country": "Luxembourg",
+      "ec": "7722.190204",
+      "gdp": "106749.0136"
+    },
+    {
+      "year": "2013",
+      "country": "Luxembourg",
+      "ec": "7312.154005",
+      "gdp": "113625.1329"
+    },
+    {
+      "year": "2014",
+      "country": "Luxembourg",
+      "ec": "6861.106667",
+      "gdp": "119225.38"
+    }
+  ],
+  "Morocco": [
+    {
+      "year": "1971",
+      "country": "Morocco",
+      "ec": "180.7418617",
+      "gdp": "265.2671534"
+    },
+    {
+      "year": "1972",
+      "country": "Morocco",
+      "ec": "190.6596842",
+      "gdp": "302.5983944"
+    },
+    {
+      "year": "1973",
+      "country": "Morocco",
+      "ec": "206.7024983",
+      "gdp": "364.6223686"
+    },
+    {
+      "year": "1974",
+      "country": "Morocco",
+      "ec": "219.383872",
+      "gdp": "438.9164085"
+    },
+    {
+      "year": "1975",
+      "country": "Morocco",
+      "ec": "222.4733873",
+      "gdp": "502.5448329"
+    },
+    {
+      "year": "1976",
+      "country": "Morocco",
+      "ec": "235.0247002",
+      "gdp": "523.837337"
+    },
+    {
+      "year": "1977",
+      "country": "Morocco",
+      "ec": "252.5016262",
+      "gdp": "589.7001079"
+    },
+    {
+      "year": "1978",
+      "country": "Morocco",
+      "ec": "261.422373",
+      "gdp": "689.3818559"
+    },
+    {
+      "year": "1979",
+      "country": "Morocco",
+      "ec": "272.3025386",
+      "gdp": "808.5414825"
+    },
+    {
+      "year": "1980",
+      "country": "Morocco",
+      "ec": "270.0741919",
+      "gdp": "1077.242942"
+    },
+    {
+      "year": "1981",
+      "country": "Morocco",
+      "ec": "264.7594403",
+      "gdp": "860.4683258"
+    },
+    {
+      "year": "1982",
+      "country": "Morocco",
+      "ec": "268.9601728",
+      "gdp": "835.1401895"
+    },
+    {
+      "year": "1983",
+      "country": "Morocco",
+      "ec": "273.1369326",
+      "gdp": "748.8667871"
+    },
+    {
+      "year": "1984",
+      "country": "Morocco",
+      "ec": "275.1745766",
+      "gdp": "667.3331806"
+    },
+    {
+      "year": "1985",
+      "country": "Morocco",
+      "ec": "274.2204771",
+      "gdp": "659.8335018"
+    },
+    {
+      "year": "1986",
+      "country": "Morocco",
+      "ec": "276.7861793",
+      "gdp": "838.4335711"
+    },
+    {
+      "year": "1987",
+      "country": "Morocco",
+      "ec": "278.1805726",
+      "gdp": "918.6288626"
+    },
+    {
+      "year": "1988",
+      "country": "Morocco",
+      "ec": "286.3479903",
+      "gdp": "1063.760775"
+    },
+    {
+      "year": "1989",
+      "country": "Morocco",
+      "ec": "305.1065364",
+      "gdp": "1068.325714"
+    },
+    {
+      "year": "1990",
+      "country": "Morocco",
+      "ec": "306.2193558",
+      "gdp": "1202.567531"
+    },
+    {
+      "year": "1991",
+      "country": "Morocco",
+      "ec": "315.9846314",
+      "gdp": "1263.06008"
+    },
+    {
+      "year": "1992",
+      "country": "Morocco",
+      "ec": "328.8042174",
+      "gdp": "1295.422632"
+    },
+    {
+      "year": "1993",
+      "country": "Morocco",
+      "ec": "335.4222712",
+      "gdp": "1195.595322"
+    },
+    {
+      "year": "1994",
+      "country": "Morocco",
+      "ec": "353.4285085",
+      "gdp": "1322.8704"
+    },
+    {
+      "year": "1995",
+      "country": "Morocco",
+      "ec": "344.889307",
+      "gdp": "1428.066182"
+    },
+    {
+      "year": "1996",
+      "country": "Morocco",
+      "ec": "357.381737",
+      "gdp": "1556.786387"
+    },
+    {
+      "year": "1997",
+      "country": "Morocco",
+      "ec": "363.5509233",
+      "gdp": "1393.224149"
+    },
+    {
+      "year": "1998",
+      "country": "Morocco",
+      "ec": "365.9284032",
+      "gdp": "1469.031945"
+    },
+    {
+      "year": "1999",
+      "country": "Morocco",
+      "ec": "384.4227127",
+      "gdp": "1444.989055"
+    },
+    {
+      "year": "2000",
+      "country": "Morocco",
+      "ec": "381.9412047",
+      "gdp": "1332.382358"
+    },
+    {
+      "year": "2001",
+      "country": "Morocco",
+      "ec": "400.2777139",
+      "gdp": "1336.775376"
+    },
+    {
+      "year": "2002",
+      "country": "Morocco",
+      "ec": "402.2984194",
+      "gdp": "1413.757176"
+    },
+    {
+      "year": "2003",
+      "country": "Morocco",
+      "ec": "396.0797464",
+      "gdp": "1721.973863"
+    },
+    {
+      "year": "2004",
+      "country": "Morocco",
+      "ec": "464.6797961",
+      "gdp": "1948.812275"
+    },
+    {
+      "year": "2005",
+      "country": "Morocco",
+      "ec": "486.3576211",
+      "gdp": "2013.755559"
+    },
+    {
+      "year": "2006",
+      "country": "Morocco",
+      "ec": "489.0107811",
+      "gdp": "2191.478567"
+    },
+    {
+      "year": "2007",
+      "country": "Morocco",
+      "ec": "498.5971092",
+      "gdp": "2494.353552"
+    },
+    {
+      "year": "2008",
+      "country": "Morocco",
+      "ec": "511.6337686",
+      "gdp": "2884.94776"
+    },
+    {
+      "year": "2009",
+      "country": "Morocco",
+      "ec": "508.9911981",
+      "gdp": "2861.554005"
+    },
+    {
+      "year": "2010",
+      "country": "Morocco",
+      "ec": "527.0243831",
+      "gdp": "2834.20472"
+    },
+    {
+      "year": "2011",
+      "country": "Morocco",
+      "ec": "560.1093502",
+      "gdp": "3039.916016"
+    },
+    {
+      "year": "2012",
+      "country": "Morocco",
+      "ec": "559.9277658",
+      "gdp": "2904.746728"
+    },
+    {
+      "year": "2013",
+      "country": "Morocco",
+      "ec": "554.1448044",
+      "gdp": "3111.762887"
+    },
+    {
+      "year": "2014",
+      "country": "Morocco",
+      "ec": "553.1039584",
+      "gdp": "3154.513484"
+    }
+  ],
+  "Mexico": [
+    {
+      "year": "1971",
+      "country": "Mexico",
+      "ec": "799.9571434",
+      "gdp": "729.7269384"
+    },
+    {
+      "year": "1972",
+      "country": "Mexico",
+      "ec": "856.8416961",
+      "gdp": "814.7351558"
+    },
+    {
+      "year": "1973",
+      "country": "Mexico",
+      "ec": "917.5160688",
+      "gdp": "965.0739089"
+    },
+    {
+      "year": "1974",
+      "country": "Mexico",
+      "ec": "946.6381888",
+      "gdp": "1218.517547"
+    },
+    {
+      "year": "1975",
+      "country": "Mexico",
+      "ec": "971.6144422",
+      "gdp": "1445.646984"
+    },
+    {
+      "year": "1976",
+      "country": "Mexico",
+      "ec": "1010.63847",
+      "gdp": "1421.60052"
+    },
+    {
+      "year": "1977",
+      "country": "Mexico",
+      "ec": "1063.644972",
+      "gdp": "1271.474634"
+    },
+    {
+      "year": "1978",
+      "country": "Mexico",
+      "ec": "1158.897053",
+      "gdp": "1552.101676"
+    },
+    {
+      "year": "1979",
+      "country": "Mexico",
+      "ec": "1240.068478",
+      "gdp": "1987.32863"
+    },
+    {
+      "year": "1980",
+      "country": "Mexico",
+      "ec": "1371.297644",
+      "gdp": "2957.562153"
+    },
+    {
+      "year": "1981",
+      "country": "Mexico",
+      "ec": "1430.555077",
+      "gdp": "3718.145871"
+    },
+    {
+      "year": "1982",
+      "country": "Mexico",
+      "ec": "1463.949722",
+      "gdp": "2542.737149"
+    },
+    {
+      "year": "1983",
+      "country": "Mexico",
+      "ec": "1348.745901",
+      "gdp": "2104.669325"
+    },
+    {
+      "year": "1984",
+      "country": "Mexico",
+      "ec": "1379.776646",
+      "gdp": "2431.512599"
+    },
+    {
+      "year": "1985",
+      "country": "Mexico",
+      "ec": "1404.003896",
+      "gdp": "2523.500591"
+    },
+    {
+      "year": "1986",
+      "country": "Mexico",
+      "ec": "1338.689572",
+      "gdp": "1704.587166"
+    },
+    {
+      "year": "1987",
+      "country": "Mexico",
+      "ec": "1380.498506",
+      "gdp": "1832.734718"
+    },
+    {
+      "year": "1988",
+      "country": "Mexico",
+      "ec": "1370.446677",
+      "gdp": "2212.510711"
+    },
+    {
+      "year": "1989",
+      "country": "Mexico",
+      "ec": "1404.018472",
+      "gdp": "2645.235944"
+    },
+    {
+      "year": "1990",
+      "country": "Mexico",
+      "ec": "1448.968363",
+      "gdp": "3060.685213"
+    },
+    {
+      "year": "1991",
+      "country": "Mexico",
+      "ec": "1491.302896",
+      "gdp": "3596.386019"
+    },
+    {
+      "year": "1992",
+      "country": "Mexico",
+      "ec": "1474.000541",
+      "gdp": "4088.309214"
+    },
+    {
+      "year": "1993",
+      "country": "Mexico",
+      "ec": "1469.468613",
+      "gdp": "5526.860507"
+    },
+    {
+      "year": "1994",
+      "country": "Mexico",
+      "ec": "1474.087108",
+      "gdp": "5715.409999"
+    },
+    {
+      "year": "1995",
+      "country": "Mexico",
+      "ec": "1401.229536",
+      "gdp": "3828.717023"
+    },
+    {
+      "year": "1996",
+      "country": "Mexico",
+      "ec": "1407.545547",
+      "gdp": "4294.978983"
+    },
+    {
+      "year": "1997",
+      "country": "Mexico",
+      "ec": "1456.876383",
+      "gdp": "5143.96112"
+    },
+    {
+      "year": "1998",
+      "country": "Mexico",
+      "ec": "1474.174242",
+      "gdp": "5327.811901"
+    },
+    {
+      "year": "1999",
+      "country": "Mexico",
+      "ec": "1494.359479",
+      "gdp": "5984.341068"
+    },
+    {
+      "year": "2000",
+      "country": "Mexico",
+      "ec": "1474.592344",
+      "gdp": "6959.388717"
+    },
+    {
+      "year": "2001",
+      "country": "Mexico",
+      "ec": "1506.720352",
+      "gdp": "7341.882478"
+    },
+    {
+      "year": "2002",
+      "country": "Mexico",
+      "ec": "1495.442583",
+      "gdp": "7398.80102"
+    },
+    {
+      "year": "2003",
+      "country": "Mexico",
+      "ec": "1565.077651",
+      "gdp": "6903.949188"
+    },
+    {
+      "year": "2004",
+      "country": "Mexico",
+      "ec": "1562.085315",
+      "gdp": "7310.961631"
+    },
+    {
+      "year": "2005",
+      "country": "Mexico",
+      "ec": "1646.774813",
+      "gdp": "8089.409036"
+    },
+    {
+      "year": "2006",
+      "country": "Mexico",
+      "ec": "1659.516347",
+      "gdp": "8859.715354"
+    },
+    {
+      "year": "2007",
+      "country": "Mexico",
+      "ec": "1622.971122",
+      "gdp": "9412.827939"
+    },
+    {
+      "year": "2008",
+      "country": "Mexico",
+      "ec": "1580.662138",
+      "gdp": "9765.717028"
+    },
+    {
+      "year": "2009",
+      "country": "Mexico",
+      "ec": "1557.400198",
+      "gdp": "7792.24773"
+    },
+    {
+      "year": "2010",
+      "country": "Mexico",
+      "ec": "1489.637449",
+      "gdp": "9016.457927"
+    },
+    {
+      "year": "2011",
+      "country": "Mexico",
+      "ec": "1541.834073",
+      "gdp": "9912.582362"
+    },
+    {
+      "year": "2012",
+      "country": "Mexico",
+      "ec": "1586.612978",
+      "gdp": "9940.468561"
+    },
+    {
+      "year": "2013",
+      "country": "Mexico",
+      "ec": "1567.683404",
+      "gdp": "10400.56316"
+    },
+    {
+      "year": "2014",
+      "country": "Mexico",
+      "ec": "1513.259208",
+      "gdp": "10582.41053"
+    }
+  ],
+  "Norway": [
+    {
+      "year": "1971",
+      "country": "Norway",
+      "ec": "3414.316639",
+      "gdp": "3736.348737"
+    },
+    {
+      "year": "1972",
+      "country": "Norway",
+      "ec": "3503.429948",
+      "gdp": "4413.575692"
+    },
+    {
+      "year": "1973",
+      "country": "Norway",
+      "ec": "3608.101223",
+      "gdp": "5689.588807"
+    },
+    {
+      "year": "1974",
+      "country": "Norway",
+      "ec": "3580.59955",
+      "gdp": "6811.527337"
+    },
+    {
+      "year": "1975",
+      "country": "Norway",
+      "ec": "3651.680815",
+      "gdp": "8204.451512"
+    },
+    {
+      "year": "1976",
+      "country": "Norway",
+      "ec": "3962.232921",
+      "gdp": "8927.201627"
+    },
+    {
+      "year": "1977",
+      "country": "Norway",
+      "ec": "4060.106277",
+      "gdp": "10266.12067"
+    },
+    {
+      "year": "1978",
+      "country": "Norway",
+      "ec": "4360.470706",
+      "gdp": "11462.64159"
+    },
+    {
+      "year": "1979",
+      "country": "Norway",
+      "ec": "4467.19363",
+      "gdp": "13046.53722"
+    },
+    {
+      "year": "1980",
+      "country": "Norway",
+      "ec": "4491.906981",
+      "gdp": "15772.24091"
+    },
+    {
+      "year": "1981",
+      "country": "Norway",
+      "ec": "4414.964063",
+      "gdp": "15512.5067"
+    },
+    {
+      "year": "1982",
+      "country": "Norway",
+      "ec": "4262.391711",
+      "gdp": "15224.89391"
+    },
+    {
+      "year": "1983",
+      "country": "Norway",
+      "ec": "4427.792925",
+      "gdp": "14927.51748"
+    },
+    {
+      "year": "1984",
+      "country": "Norway",
+      "ec": "4672.13755",
+      "gdp": "14989.48577"
+    },
+    {
+      "year": "1985",
+      "country": "Norway",
+      "ec": "4815.313896",
+      "gdp": "15753.55277"
+    },
+    {
+      "year": "1986",
+      "country": "Norway",
+      "ec": "5024.076188",
+      "gdp": "18883.2658"
+    },
+    {
+      "year": "1987",
+      "country": "Norway",
+      "ec": "5048.499309",
+      "gdp": "22505.89771"
+    },
+    {
+      "year": "1988",
+      "country": "Norway",
+      "ec": "4817.155673",
+      "gdp": "24207.28147"
+    },
+    {
+      "year": "1989",
+      "country": "Norway",
+      "ec": "4984.198116",
+      "gdp": "24281.09614"
+    },
+    {
+      "year": "1990",
+      "country": "Norway",
+      "ec": "4966.893577",
+      "gdp": "28242.94374"
+    },
+    {
+      "year": "1991",
+      "country": "Norway",
+      "ec": "5105.108205",
+      "gdp": "28596.933"
+    },
+    {
+      "year": "1992",
+      "country": "Norway",
+      "ec": "5159.648619",
+      "gdp": "30523.98506"
+    },
+    {
+      "year": "1993",
+      "country": "Norway",
+      "ec": "5459.623408",
+      "gdp": "27963.66522"
+    },
+    {
+      "year": "1994",
+      "country": "Norway",
+      "ec": "5315.24487",
+      "gdp": "29315.84191"
+    },
+    {
+      "year": "1995",
+      "country": "Norway",
+      "ec": "5391.414081",
+      "gdp": "34875.19739"
+    },
+    {
+      "year": "1996",
+      "country": "Norway",
+      "ec": "5202.047275",
+      "gdp": "37321.44339"
+    },
+    {
+      "year": "1997",
+      "country": "Norway",
+      "ec": "5475.188739",
+      "gdp": "36628.51742"
+    },
+    {
+      "year": "1998",
+      "country": "Norway",
+      "ec": "5684.788594",
+      "gdp": "34788.77856"
+    },
+    {
+      "year": "1999",
+      "country": "Norway",
+      "ec": "5913.302209",
+      "gdp": "36371.39579"
+    },
+    {
+      "year": "2000",
+      "country": "Norway",
+      "ec": "5826.077769",
+      "gdp": "38146.71539"
+    },
+    {
+      "year": "2001",
+      "country": "Norway",
+      "ec": "5954.041771",
+      "gdp": "38549.58934"
+    },
+    {
+      "year": "2002",
+      "country": "Norway",
+      "ec": "5501.117744",
+      "gdp": "43061.15038"
+    },
+    {
+      "year": "2003",
+      "country": "Norway",
+      "ec": "5933.215841",
+      "gdp": "50111.65445"
+    },
+    {
+      "year": "2004",
+      "country": "Norway",
+      "ec": "5769.326707",
+      "gdp": "57570.26916"
+    },
+    {
+      "year": "2005",
+      "country": "Norway",
+      "ec": "5802.71629",
+      "gdp": "66775.3944"
+    },
+    {
+      "year": "2006",
+      "country": "Norway",
+      "ec": "5833.773935",
+      "gdp": "74114.69715"
+    },
+    {
+      "year": "2007",
+      "country": "Norway",
+      "ec": "5862.217261",
+      "gdp": "85170.86217"
+    },
+    {
+      "year": "2008",
+      "country": "Norway",
+      "ec": "6752.708982",
+      "gdp": "97007.94189"
+    },
+    {
+      "year": "2009",
+      "country": "Norway",
+      "ec": "6484.118585",
+      "gdp": "80067.17664"
+    },
+    {
+      "year": "2010",
+      "country": "Norway",
+      "ec": "6934.590199",
+      "gdp": "87770.26684"
+    },
+    {
+      "year": "2011",
+      "country": "Norway",
+      "ec": "5649.697724",
+      "gdp": "100711.2248"
+    },
+    {
+      "year": "2012",
+      "country": "Norway",
+      "ec": "5906.141048",
+      "gdp": "101668.1707"
+    },
+    {
+      "year": "2013",
+      "country": "Norway",
+      "ec": "6415.990714",
+      "gdp": "103059.2482"
+    },
+    {
+      "year": "2014",
+      "country": "Norway",
+      "ec": "5595.654625",
+      "gdp": "97199.9191"
+    }
+  ],
+  "Nepal": [
+    {
+      "year": "1971",
+      "country": "Nepal",
+      "ec": "298.7418579",
+      "gdp": "72.09916683"
+    },
+    {
+      "year": "1972",
+      "country": "Nepal",
+      "ec": "300.6922956",
+      "gdp": "81.93164703"
+    },
+    {
+      "year": "1973",
+      "country": "Nepal",
+      "ec": "303.3934231",
+      "gdp": "76.15393652"
+    },
+    {
+      "year": "1974",
+      "country": "Nepal",
+      "ec": "302.9795703",
+      "gdp": "93.39845199"
+    },
+    {
+      "year": "1975",
+      "country": "Nepal",
+      "ec": "302.0786573",
+      "gdp": "118.2508817"
+    },
+    {
+      "year": "1976",
+      "country": "Nepal",
+      "ec": "300.889208",
+      "gdp": "106.6574596"
+    },
+    {
+      "year": "1977",
+      "country": "Nepal",
+      "ec": "301.7947389",
+      "gdp": "99.26570379"
+    },
+    {
+      "year": "1978",
+      "country": "Nepal",
+      "ec": "301.6798275",
+      "gdp": "112.6407628"
+    },
+    {
+      "year": "1979",
+      "country": "Nepal",
+      "ec": "304.8195366",
+      "gdp": "127.087889"
+    },
+    {
+      "year": "1980",
+      "country": "Nepal",
+      "ec": "306.1133474",
+      "gdp": "130.5794725"
+    },
+    {
+      "year": "1981",
+      "country": "Nepal",
+      "ec": "304.3056566",
+      "gdp": "149.2282657"
+    },
+    {
+      "year": "1982",
+      "country": "Nepal",
+      "ec": "305.5270645",
+      "gdp": "153.4820036"
+    },
+    {
+      "year": "1983",
+      "country": "Nepal",
+      "ec": "308.3090341",
+      "gdp": "153.1933431"
+    },
+    {
+      "year": "1984",
+      "country": "Nepal",
+      "ec": "308.874549",
+      "gdp": "157.8986466"
+    },
+    {
+      "year": "1985",
+      "country": "Nepal",
+      "ec": "304.6859846",
+      "gdp": "156.656353"
+    },
+    {
+      "year": "1986",
+      "country": "Nepal",
+      "ec": "307.9691314",
+      "gdp": "166.7014708"
+    },
+    {
+      "year": "1987",
+      "country": "Nepal",
+      "ec": "306.9108315",
+      "gdp": "169.1704562"
+    },
+    {
+      "year": "1988",
+      "country": "Nepal",
+      "ec": "307.1911321",
+      "gdp": "195.0920171"
+    },
+    {
+      "year": "1989",
+      "country": "Nepal",
+      "ec": "304.125495",
+      "gdp": "192.7037175"
+    },
+    {
+      "year": "1990",
+      "country": "Nepal",
+      "ec": "308.7654084",
+      "gdp": "193.4761241"
+    },
+    {
+      "year": "1991",
+      "country": "Nepal",
+      "ec": "310.5564162",
+      "gdp": "203.7653978"
+    },
+    {
+      "year": "1992",
+      "country": "Nepal",
+      "ec": "309.6165972",
+      "gdp": "172.0062101"
+    },
+    {
+      "year": "1993",
+      "country": "Nepal",
+      "ec": "309.2311345",
+      "gdp": "180.109746"
+    },
+    {
+      "year": "1994",
+      "country": "Nepal",
+      "ec": "311.8230442",
+      "gdp": "194.8890676"
+    },
+    {
+      "year": "1995",
+      "country": "Nepal",
+      "ec": "313.6839384",
+      "gdp": "205.6938414"
+    },
+    {
+      "year": "1996",
+      "country": "Nepal",
+      "ec": "313.7912192",
+      "gdp": "206.4330066"
+    },
+    {
+      "year": "1997",
+      "country": "Nepal",
+      "ec": "316.8993046",
+      "gdp": "219.684466"
+    },
+    {
+      "year": "1998",
+      "country": "Nepal",
+      "ec": "318.4957936",
+      "gdp": "212.4689465"
+    },
+    {
+      "year": "1999",
+      "country": "Nepal",
+      "ec": "329.5370281",
+      "gdp": "215.9805921"
+    },
+    {
+      "year": "2000",
+      "country": "Nepal",
+      "ec": "341.5081671",
+      "gdp": "231.4255004"
+    },
+    {
+      "year": "2001",
+      "country": "Nepal",
+      "ec": "346.6045151",
+      "gdp": "248.618098"
+    },
+    {
+      "year": "2002",
+      "country": "Nepal",
+      "ec": "344.6766718",
+      "gdp": "246.3075621"
+    },
+    {
+      "year": "2003",
+      "country": "Nepal",
+      "ec": "348.9683204",
+      "gdp": "253.7200412"
+    },
+    {
+      "year": "2004",
+      "country": "Nepal",
+      "ec": "348.9786364",
+      "gdp": "287.4001056"
+    },
+    {
+      "year": "2005",
+      "country": "Nepal",
+      "ec": "356.1434394",
+      "gdp": "317.089198"
+    },
+    {
+      "year": "2006",
+      "country": "Nepal",
+      "ec": "351.9955847",
+      "gdp": "348.6314534"
+    },
+    {
+      "year": "2007",
+      "country": "Nepal",
+      "ec": "355.0679125",
+      "gdp": "393.8843518"
+    },
+    {
+      "year": "2008",
+      "country": "Nepal",
+      "ec": "363.8664944",
+      "gdp": "473.8444409"
+    },
+    {
+      "year": "2009",
+      "country": "Nepal",
+      "ec": "370.9151788",
+      "gdp": "480.7200909"
+    },
+    {
+      "year": "2010",
+      "country": "Nepal",
+      "ec": "377.8467319",
+      "gdp": "592.1835216"
+    },
+    {
+      "year": "2011",
+      "country": "Nepal",
+      "ec": "386.7382131",
+      "gdp": "692.1166842"
+    },
+    {
+      "year": "2012",
+      "country": "Nepal",
+      "ec": "365.362293",
+      "gdp": "681.7925868"
+    },
+    {
+      "year": "2013",
+      "country": "Nepal",
+      "ec": "401.3713981",
+      "gdp": "688.6172788"
+    },
+    {
+      "year": "2014",
+      "country": "Nepal",
+      "ec": "412.724483",
+      "gdp": "706.2386977"
+    }
+  ],
+  "Pakistan": [
+    {
+      "year": "1971",
+      "country": "Pakistan",
+      "ec": "285.4551248",
+      "gdp": "177.6271771"
+    },
+    {
+      "year": "1972",
+      "country": "Pakistan",
+      "ec": "285.1779903",
+      "gdp": "151.7667702"
+    },
+    {
+      "year": "1973",
+      "country": "Pakistan",
+      "ec": "291.2892512",
+      "gdp": "100.3002884"
+    },
+    {
+      "year": "1974",
+      "country": "Pakistan",
+      "ec": "300.046386",
+      "gdp": "135.2384426"
+    },
+    {
+      "year": "1975",
+      "country": "Pakistan",
+      "ec": "304.6913243",
+      "gdp": "169.7912357"
+    },
+    {
+      "year": "1976",
+      "country": "Pakistan",
+      "ec": "299.1966515",
+      "gdp": "193.8360824"
+    },
+    {
+      "year": "1977",
+      "country": "Pakistan",
+      "ec": "302.5904928",
+      "gdp": "213.2045555"
+    },
+    {
+      "year": "1978",
+      "country": "Pakistan",
+      "ec": "305.4667155",
+      "gdp": "243.460837"
+    },
+    {
+      "year": "1979",
+      "country": "Pakistan",
+      "ec": "312.8963384",
+      "gdp": "260.7990451"
+    },
+    {
+      "year": "1980",
+      "country": "Pakistan",
+      "ec": "317.1546515",
+      "gdp": "303.4489557"
+    },
+    {
+      "year": "1981",
+      "country": "Pakistan",
+      "ec": "328.8687075",
+      "gdp": "348.2239075"
+    },
+    {
+      "year": "1982",
+      "country": "Pakistan",
+      "ec": "336.8487543",
+      "gdp": "368.2144528"
+    },
+    {
+      "year": "1983",
+      "country": "Pakistan",
+      "ec": "343.5264626",
+      "gdp": "332.4759569"
+    },
+    {
+      "year": "1984",
+      "country": "Pakistan",
+      "ec": "343.3534446",
+      "gdp": "349.1223981"
+    },
+    {
+      "year": "1985",
+      "country": "Pakistan",
+      "ec": "349.8926496",
+      "gdp": "337.726019"
+    },
+    {
+      "year": "1986",
+      "country": "Pakistan",
+      "ec": "353.4679985",
+      "gdp": "334.8475502"
+    },
+    {
+      "year": "1987",
+      "country": "Pakistan",
+      "ec": "376.1306373",
+      "gdp": "339.0848412"
+    },
+    {
+      "year": "1988",
+      "country": "Pakistan",
+      "ec": "382.7060473",
+      "gdp": "379.13579"
+    },
+    {
+      "year": "1989",
+      "country": "Pakistan",
+      "ec": "392.2216489",
+      "gdp": "384.086429"
+    },
+    {
+      "year": "1990",
+      "country": "Pakistan",
+      "ec": "398.405481",
+      "gdp": "371.5726219"
+    },
+    {
+      "year": "1991",
+      "country": "Pakistan",
+      "ec": "397.2694315",
+      "gdp": "410.4740209"
+    },
+    {
+      "year": "1992",
+      "country": "Pakistan",
+      "ec": "411.9303664",
+      "gdp": "427.5727635"
+    },
+    {
+      "year": "1993",
+      "country": "Pakistan",
+      "ec": "421.7290069",
+      "gdp": "440.9293265"
+    },
+    {
+      "year": "1994",
+      "country": "Pakistan",
+      "ec": "427.9854139",
+      "gdp": "433.2885836"
+    },
+    {
+      "year": "1995",
+      "country": "Pakistan",
+      "ec": "435.8736088",
+      "gdp": "493.661508"
+    },
+    {
+      "year": "1996",
+      "country": "Pakistan",
+      "ec": "447.3937043",
+      "gdp": "502.7867074"
+    },
+    {
+      "year": "1997",
+      "country": "Pakistan",
+      "ec": "448.0860414",
+      "gdp": "483.6529366"
+    },
+    {
+      "year": "1998",
+      "country": "Pakistan",
+      "ec": "446.8247226",
+      "gdp": "470.2489295"
+    },
+    {
+      "year": "1999",
+      "country": "Pakistan",
+      "ec": "460.8049621",
+      "gdp": "465.0757661"
+    },
+    {
+      "year": "2000",
+      "country": "Pakistan",
+      "ec": "462.4698873",
+      "gdp": "533.8624114"
+    },
+    {
+      "year": "2001",
+      "country": "Pakistan",
+      "ec": "459.7973889",
+      "gdp": "510.6568157"
+    },
+    {
+      "year": "2002",
+      "country": "Pakistan",
+      "ec": "455.1508075",
+      "gdp": "499.8600033"
+    },
+    {
+      "year": "2003",
+      "country": "Pakistan",
+      "ec": "465.9840297",
+      "gdp": "563.594342"
+    },
+    {
+      "year": "2004",
+      "country": "Pakistan",
+      "ec": "489.3707467",
+      "gdp": "649.8048233"
+    },
+    {
+      "year": "2005",
+      "country": "Pakistan",
+      "ec": "497.120431",
+      "gdp": "711.4699463"
+    },
+    {
+      "year": "2006",
+      "country": "Pakistan",
+      "ec": "507.3739962",
+      "gdp": "873.7702727"
+    },
+    {
+      "year": "2007",
+      "country": "Pakistan",
+      "ec": "523.7634649",
+      "gdp": "950.4327931"
+    },
+    {
+      "year": "2008",
+      "country": "Pakistan",
+      "ec": "504.5500706",
+      "gdp": "1039.312088"
+    },
+    {
+      "year": "2009",
+      "country": "Pakistan",
+      "ec": "501.6978253",
+      "gdp": "1006.603999"
+    },
+    {
+      "year": "2010",
+      "country": "Pakistan",
+      "ec": "498.4769482",
+      "gdp": "1040.142268"
+    },
+    {
+      "year": "2011",
+      "country": "Pakistan",
+      "ec": "491.7777217",
+      "gdp": "1226.215314"
+    },
+    {
+      "year": "2012",
+      "country": "Pakistan",
+      "ec": "487.0444964",
+      "gdp": "1261.208967"
+    },
+    {
+      "year": "2013",
+      "country": "Pakistan",
+      "ec": "488.4269635",
+      "gdp": "1272.441061"
+    },
+    {
+      "year": "2014",
+      "country": "Pakistan",
+      "ec": "484.4452184",
+      "gdp": "1316.980966"
+    }
+  ],
+  "Qatar": [
+    {
+      "year": "1971",
+      "country": "Qatar",
+      "ec": "7753.32429",
+      "gdp": "3246.416836"
+    },
+    {
+      "year": "1972",
+      "country": "Qatar",
+      "ec": "7800.994377",
+      "gdp": "3909.019418"
+    },
+    {
+      "year": "1973",
+      "country": "Qatar",
+      "ec": "10071.44213",
+      "gdp": "5581.262562"
+    },
+    {
+      "year": "1974",
+      "country": "Qatar",
+      "ec": "8008.835164",
+      "gdp": "15623.55715"
+    },
+    {
+      "year": "1975",
+      "country": "Qatar",
+      "ec": "12413.72641",
+      "gdp": "15283.36587"
+    },
+    {
+      "year": "1976",
+      "country": "Qatar",
+      "ec": "8790.883361",
+      "gdp": "18893.1023"
+    },
+    {
+      "year": "1977",
+      "country": "Qatar",
+      "ec": "9513.897491",
+      "gdp": "19828.55013"
+    },
+    {
+      "year": "1978",
+      "country": "Qatar",
+      "ec": "8442.317003",
+      "gdp": "21093.95143"
+    },
+    {
+      "year": "1979",
+      "country": "Qatar",
+      "ec": "13717.73828",
+      "gdp": "27436.16"
+    },
+    {
+      "year": "1980",
+      "country": "Qatar",
+      "ec": "14799.60675",
+      "gdp": "34986.45788"
+    },
+    {
+      "year": "1981",
+      "country": "Qatar",
+      "ec": "16709.53156",
+      "gdp": "34904.18371"
+    },
+    {
+      "year": "1982",
+      "country": "Qatar",
+      "ec": "17338.6963",
+      "gdp": "27385.77057"
+    },
+    {
+      "year": "1983",
+      "country": "Qatar",
+      "ec": "16047.85462",
+      "gdp": "20898.29135"
+    },
+    {
+      "year": "1984",
+      "country": "Qatar",
+      "ec": "16474.84734",
+      "gdp": "19634.78591"
+    },
+    {
+      "year": "1985",
+      "country": "Qatar",
+      "ec": "15217.33799",
+      "gdp": "16582.08439"
+    },
+    {
+      "year": "1986",
+      "country": "Qatar",
+      "ec": "15073.61559",
+      "gdp": "12698.20459"
+    },
+    {
+      "year": "1987",
+      "country": "Qatar",
+      "ec": "14647.59756",
+      "gdp": "12895.80856"
+    },
+    {
+      "year": "1988",
+      "country": "Qatar",
+      "ec": "14576.09161",
+      "gdp": "13605.83296"
+    },
+    {
+      "year": "1989",
+      "country": "Qatar",
+      "ec": "14350.31286",
+      "gdp": "14047.05239"
+    },
+    {
+      "year": "1990",
+      "country": "Qatar",
+      "ec": "13698.28627",
+      "gdp": "15448.66548"
+    },
+    {
+      "year": "1991",
+      "country": "Qatar",
+      "ec": "14814.29196",
+      "gdp": "14120.29449"
+    },
+    {
+      "year": "1992",
+      "country": "Qatar",
+      "ec": "15239.44688",
+      "gdp": "15430.65926"
+    },
+    {
+      "year": "1993",
+      "country": "Qatar",
+      "ec": "15621.9979",
+      "gdp": "14268.49837"
+    },
+    {
+      "year": "1994",
+      "country": "Qatar",
+      "ec": "15509.50019",
+      "gdp": "14542.54286"
+    },
+    {
+      "year": "1995",
+      "country": "Qatar",
+      "ec": "15870.8397",
+      "gdp": "15849.31879"
+    },
+    {
+      "year": "1996",
+      "country": "Qatar",
+      "ec": "16555.07138",
+      "gdp": "17344.95693"
+    },
+    {
+      "year": "1997",
+      "country": "Qatar",
+      "ec": "19031.75411",
+      "gdp": "21132.8714"
+    },
+    {
+      "year": "1998",
+      "country": "Qatar",
+      "ec": "19388.47992",
+      "gdp": "18631.78792"
+    },
+    {
+      "year": "1999",
+      "country": "Qatar",
+      "ec": "19875.20876",
+      "gdp": "21763.45098"
+    },
+    {
+      "year": "2000",
+      "country": "Qatar",
+      "ec": "18438.15036",
+      "gdp": "29986.29015"
+    },
+    {
+      "year": "2001",
+      "country": "Qatar",
+      "ec": "19562.26434",
+      "gdp": "28430.63635"
+    },
+    {
+      "year": "2002",
+      "country": "Qatar",
+      "ec": "21142.15244",
+      "gdp": "29990.65492"
+    },
+    {
+      "year": "2003",
+      "country": "Qatar",
+      "ec": "20523.32316",
+      "gdp": "34176.98183"
+    },
+    {
+      "year": "2004",
+      "country": "Qatar",
+      "ec": "21959.43626",
+      "gdp": "41818.35256"
+    },
+    {
+      "year": "2005",
+      "country": "Qatar",
+      "ec": "19268.69458",
+      "gdp": "51488.49529"
+    },
+    {
+      "year": "2006",
+      "country": "Qatar",
+      "ec": "19389.46557",
+      "gdp": "60256.55926"
+    },
+    {
+      "year": "2007",
+      "country": "Qatar",
+      "ec": "18607.43355",
+      "gdp": "67005.61258"
+    },
+    {
+      "year": "2008",
+      "country": "Qatar",
+      "ec": "16371.35277",
+      "gdp": "82967.37228"
+    },
+    {
+      "year": "2009",
+      "country": "Qatar",
+      "ec": "15233.91921",
+      "gdp": "61478.23813"
+    },
+    {
+      "year": "2010",
+      "country": "Qatar",
+      "ec": "15531.77601",
+      "gdp": "70306.22784"
+    },
+    {
+      "year": "2011",
+      "country": "Qatar",
+      "ec": "16030.60725",
+      "gdp": "85948.07046"
+    },
+    {
+      "year": "2012",
+      "country": "Qatar",
+      "ec": "18055.61139",
+      "gdp": "88564.82298"
+    },
+    {
+      "year": "2013",
+      "country": "Qatar",
+      "ec": "17926.71807",
+      "gdp": "88304.87958"
+    },
+    {
+      "year": "2014",
+      "country": "Qatar",
+      "ec": "18562.66691",
+      "gdp": "86852.71019"
+    }
+  ],
+  "Russia": [
+    {
+      "year": "1971",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1972",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1973",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1974",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1975",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1976",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1977",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1978",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1979",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1980",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1981",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1982",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1983",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1984",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1985",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1986",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1987",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1988",
+      "country": "Russia",
+      "ec": "",
+      "gdp": ""
+    },
+    {
+      "year": "1989",
+      "country": "Russia",
+      "ec": "4493.695",
+      "gdp": "3428.762153"
+    },
+    {
+      "year": "1990",
+      "country": "Russia",
+      "ec": "5928.660986",
+      "gdp": "3485.112306"
+    },
+    {
+      "year": "1991",
+      "country": "Russia",
+      "ec": "5861.15803",
+      "gdp": "3485.056"
+    },
+    {
+      "year": "1992",
+      "country": "Russia",
+      "ec": "5351.077074",
+      "gdp": "3095.659779"
+    },
+    {
+      "year": "1993",
+      "country": "Russia",
+      "ec": "5057.778845",
+      "gdp": "2929.462119"
+    },
+    {
+      "year": "1994",
+      "country": "Russia",
+      "ec": "4428.814206",
+      "gdp": "2663.394599"
+    },
+    {
+      "year": "1995",
+      "country": "Russia",
+      "ec": "4290.695231",
+      "gdp": "2665.739722"
+    },
+    {
+      "year": "1996",
+      "country": "Russia",
+      "ec": "4252.614116",
+      "gdp": "2643.897696"
+    },
+    {
+      "year": "1997",
+      "country": "Russia",
+      "ec": "4069.688778",
+      "gdp": "2737.556662"
+    },
+    {
+      "year": "1998",
+      "country": "Russia",
+      "ec": "3981.501949",
+      "gdp": "1834.846937"
+    },
+    {
+      "year": "1999",
+      "country": "Russia",
+      "ec": "4136.761934",
+      "gdp": "1330.751464"
+    },
+    {
+      "year": "2000",
+      "country": "Russia",
+      "ec": "4224.286188",
+      "gdp": "1771.586602"
+    },
+    {
+      "year": "2001",
+      "country": "Russia",
+      "ec": "4288.394353",
+      "gdp": "2100.362386"
+    },
+    {
+      "year": "2002",
+      "country": "Russia",
+      "ec": "4288.207161",
+      "gdp": "2375.059044"
+    },
+    {
+      "year": "2003",
+      "country": "Russia",
+      "ec": "4461.316454",
+      "gdp": "2975.132778"
+    },
+    {
+      "year": "2004",
+      "country": "Russia",
+      "ec": "4493.695387",
+      "gdp": "4102.372294"
+    },
+    {
+      "year": "2005",
+      "country": "Russia",
+      "ec": "4540.917363",
+      "gdp": "5323.473877"
+    },
+    {
+      "year": "2006",
+      "country": "Russia",
+      "ec": "4688.394596",
+      "gdp": "6920.194398"
+    },
+    {
+      "year": "2007",
+      "country": "Russia",
+      "ec": "4709.845744",
+      "gdp": "9101.253085"
+    },
+    {
+      "year": "2008",
+      "country": "Russia",
+      "ec": "4823.126535",
+      "gdp": "11635.26037"
+    },
+    {
+      "year": "2009",
+      "country": "Russia",
+      "ec": "4531.286685",
+      "gdp": "8562.809598"
+    },
+    {
+      "year": "2010",
+      "country": "Russia",
+      "ec": "4819.041423",
+      "gdp": "10674.98771"
+    },
+    {
+      "year": "2011",
+      "country": "Russia",
+      "ec": "5049.428043",
+      "gdp": "14351.21205"
+    },
+    {
+      "year": "2012",
+      "country": "Russia",
+      "ec": "5167.011977",
+      "gdp": "15434.57478"
+    },
+    {
+      "year": "2013",
+      "country": "Russia",
+      "ec": "5078.629314",
+      "gdp": "16007.08999"
+    },
+    {
+      "year": "2014",
+      "country": "Russia",
+      "ec": "4942.875517",
+      "gdp": "14125.90873"
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "year": "1971",
+      "country": "Saudi Arabia",
+      "ec": "1206.048064",
+      "gdp": "1177.652912"
+    },
+    {
+      "year": "1972",
+      "country": "Saudi Arabia",
+      "ec": "977.617552",
+      "gdp": "1511.466643"
+    },
+    {
+      "year": "1973",
+      "country": "Saudi Arabia",
+      "ec": "1077.265514",
+      "gdp": "2226.270427"
+    },
+    {
+      "year": "1974",
+      "country": "Saudi Arabia",
+      "ec": "1146.43676",
+      "gdp": "6433.037132"
+    },
+    {
+      "year": "1975",
+      "country": "Saudi Arabia",
+      "ec": "1180.410632",
+      "gdp": "6296.303434"
+    },
+    {
+      "year": "1976",
+      "country": "Saudi Arabia",
+      "ec": "1300.452906",
+      "gdp": "8186.319712"
+    },
+    {
+      "year": "1977",
+      "country": "Saudi Arabia",
+      "ec": "1379.557253",
+      "gdp": "9012.611634"
+    },
+    {
+      "year": "1978",
+      "country": "Saudi Arabia",
+      "ec": "1967.691686",
+      "gdp": "9247.361643"
+    },
+    {
+      "year": "1979",
+      "country": "Saudi Arabia",
+      "ec": "2445.598244",
+      "gdp": "12185.65301"
+    },
+    {
+      "year": "1980",
+      "country": "Saudi Arabia",
+      "ec": "3192.868529",
+      "gdp": "16892.3634"
+    },
+    {
+      "year": "1981",
+      "country": "Saudi Arabia",
+      "ec": "4081.19297",
+      "gdp": "17777.35338"
+    },
+    {
+      "year": "1982",
+      "country": "Saudi Arabia",
+      "ec": "4291.356507",
+      "gdp": "13870.19442"
+    },
+    {
+      "year": "1983",
+      "country": "Saudi Arabia",
+      "ec": "4406.54074",
+      "gdp": "10980.39996"
+    },
+    {
+      "year": "1984",
+      "country": "Saudi Arabia",
+      "ec": "3660.761618",
+      "gdp": "9581.511759"
+    },
+    {
+      "year": "1985",
+      "country": "Saudi Arabia",
+      "ec": "3487.24088",
+      "gdp": "7877.544967"
+    },
+    {
+      "year": "1986",
+      "country": "Saudi Arabia",
+      "ec": "3312.823221",
+      "gdp": "6270.231994"
+    },
+    {
+      "year": "1987",
+      "country": "Saudi Arabia",
+      "ec": "3781.046644",
+      "gdp": "5899.619098"
+    },
+    {
+      "year": "1988",
+      "country": "Saudi Arabia",
+      "ec": "4148.768118",
+      "gdp": "5823.475825"
+    },
+    {
+      "year": "1989",
+      "country": "Saudi Arabia",
+      "ec": "3990.986005",
+      "gdp": "6051.332708"
+    },
+    {
+      "year": "1990",
+      "country": "Saudi Arabia",
+      "ec": "3552.714292",
+      "gdp": "7204.728651"
+    },
+    {
+      "year": "1991",
+      "country": "Saudi Arabia",
+      "ec": "4002.95201",
+      "gdp": "7838.784024"
+    },
+    {
+      "year": "1992",
+      "country": "Saudi Arabia",
+      "ec": "4426.463906",
+      "gdp": "7888.209563"
+    },
+    {
+      "year": "1993",
+      "country": "Saudi Arabia",
+      "ec": "4471.446073",
+      "gdp": "7445.115492"
+    },
+    {
+      "year": "1994",
+      "country": "Saudi Arabia",
+      "ec": "4588.954344",
+      "gdp": "7382.132166"
+    },
+    {
+      "year": "1995",
+      "country": "Saudi Arabia",
+      "ec": "4510.416639",
+      "gdp": "7650.739369"
+    },
+    {
+      "year": "1996",
+      "country": "Saudi Arabia",
+      "ec": "4728.228168",
+      "gdp": "8293.220703"
+    },
+    {
+      "year": "1997",
+      "country": "Saudi Arabia",
+      "ec": "4422.53651",
+      "gdp": "8508.518662"
+    },
+    {
+      "year": "1998",
+      "country": "Saudi Arabia",
+      "ec": "4623.704474",
+      "gdp": "7382.1606"
+    },
+    {
+      "year": "1999",
+      "country": "Saudi Arabia",
+      "ec": "4611.619773",
+      "gdp": "7968.548574"
+    },
+    {
+      "year": "2000",
+      "country": "Saudi Arabia",
+      "ec": "4712.743673",
+      "gdp": "9126.954277"
+    },
+    {
+      "year": "2001",
+      "country": "Saudi Arabia",
+      "ec": "4715.132077",
+      "gdp": "8643.494005"
+    },
+    {
+      "year": "2002",
+      "country": "Saudi Arabia",
+      "ec": "5078.498896",
+      "gdp": "8655.311531"
+    },
+    {
+      "year": "2003",
+      "country": "Saudi Arabia",
+      "ec": "4990.770124",
+      "gdp": "9567.458285"
+    },
+    {
+      "year": "2004",
+      "country": "Saudi Arabia",
+      "ec": "5157.480362",
+      "gdp": "11138.80746"
+    },
+    {
+      "year": "2005",
+      "country": "Saudi Arabia",
+      "ec": "5126.341367",
+      "gdp": "13739.82945"
+    },
+    {
+      "year": "2006",
+      "country": "Saudi Arabia",
+      "ec": "5525.01843",
+      "gdp": "15334.66994"
+    },
+    {
+      "year": "2007",
+      "country": "Saudi Arabia",
+      "ec": "5556.713378",
+      "gdp": "16472.16605"
+    },
+    {
+      "year": "2008",
+      "country": "Saudi Arabia",
+      "ec": "6034.523262",
+      "gdp": "20037.83234"
+    },
+    {
+      "year": "2009",
+      "country": "Saudi Arabia",
+      "ec": "6250.328114",
+      "gdp": "16094.2931"
+    },
+    {
+      "year": "2010",
+      "country": "Saudi Arabia",
+      "ec": "6763.336882",
+      "gdp": "19259.58726"
+    },
+    {
+      "year": "2011",
+      "country": "Saudi Arabia",
+      "ec": "6307.892055",
+      "gdp": "23770.74739"
+    },
+    {
+      "year": "2012",
+      "country": "Saudi Arabia",
+      "ec": "6888.066388",
+      "gdp": "25303.09462"
+    },
+    {
+      "year": "2013",
+      "country": "Saudi Arabia",
+      "ec": "6417.917148",
+      "gdp": "24934.38614"
+    },
+    {
+      "year": "2014",
+      "country": "Saudi Arabia",
+      "ec": "6937.230677",
+      "gdp": "24575.40304"
+    }
+  ],
+  "Sweden": [
+    {
+      "year": "1971",
+      "country": "Sweden",
+      "ec": "4450.382511",
+      "gdp": "5060.342739"
+    },
+    {
+      "year": "1972",
+      "country": "Sweden",
+      "ec": "4527.21372",
+      "gdp": "5942.148771"
+    },
+    {
+      "year": "1973",
+      "country": "Sweden",
+      "ec": "4773.811403",
+      "gdp": "7198.271657"
+    },
+    {
+      "year": "1974",
+      "country": "Sweden",
+      "ec": "4510.443011",
+      "gdp": "7975.850516"
+    },
+    {
+      "year": "1975",
+      "country": "Sweden",
+      "ec": "4764.499013",
+      "gdp": "9974.657321"
+    },
+    {
+      "year": "1976",
+      "country": "Sweden",
+      "ec": "5151.251367",
+      "gdp": "10715.03809"
+    },
+    {
+      "year": "1977",
+      "country": "Sweden",
+      "ec": "5054.833764",
+      "gdp": "11287.19913"
+    },
+    {
+      "year": "1978",
+      "country": "Sweden",
+      "ec": "5016.74042",
+      "gdp": "12442.57512"
+    },
+    {
+      "year": "1979",
+      "country": "Sweden",
+      "ec": "5229.618271",
+      "gdp": "14667.40312"
+    },
+    {
+      "year": "1980",
+      "country": "Sweden",
+      "ec": "4871.533239",
+      "gdp": "16856.76109"
+    },
+    {
+      "year": "1981",
+      "country": "Sweden",
+      "ec": "5097.154463",
+      "gdp": "15366.66859"
+    },
+    {
+      "year": "1982",
+      "country": "Sweden",
+      "ec": "4877.799897",
+      "gdp": "13545.25912"
+    },
+    {
+      "year": "1983",
+      "country": "Sweden",
+      "ec": "4941.267011",
+      "gdp": "12430.45893"
+    },
+    {
+      "year": "1984",
+      "country": "Sweden",
+      "ec": "5216.257817",
+      "gdp": "12914.33068"
+    },
+    {
+      "year": "1985",
+      "country": "Sweden",
+      "ec": "5656.192899",
+      "gdp": "13474.16135"
+    },
+    {
+      "year": "1986",
+      "country": "Sweden",
+      "ec": "5878.801467",
+      "gdp": "17727.49533"
+    },
+    {
+      "year": "1987",
+      "country": "Sweden",
+      "ec": "5763.070441",
+      "gdp": "21485.29387"
+    },
+    {
+      "year": "1988",
+      "country": "Sweden",
+      "ec": "5854.499662",
+      "gdp": "24188.76594"
+    },
+    {
+      "year": "1989",
+      "country": "Sweden",
+      "ec": "5594.552973",
+      "gdp": "25300.39512"
+    },
+    {
+      "year": "1990",
+      "country": "Sweden",
+      "ec": "5514.55753",
+      "gdp": "30162.31577"
+    },
+    {
+      "year": "1991",
+      "country": "Sweden",
+      "ec": "5650.541377",
+      "gdp": "31374.11699"
+    },
+    {
+      "year": "1992",
+      "country": "Sweden",
+      "ec": "5369.370357",
+      "gdp": "32338.50395"
+    },
+    {
+      "year": "1993",
+      "country": "Sweden",
+      "ec": "5334.166498",
+      "gdp": "24080.89967"
+    },
+    {
+      "year": "1994",
+      "country": "Sweden",
+      "ec": "5660.271423",
+      "gdp": "25747.24169"
+    },
+    {
+      "year": "1995",
+      "country": "Sweden",
+      "ec": "5702.165043",
+      "gdp": "29914.33175"
+    },
+    {
+      "year": "1996",
+      "country": "Sweden",
+      "ec": "5825.097913",
+      "gdp": "32587.2641"
+    },
+    {
+      "year": "1997",
+      "country": "Sweden",
+      "ec": "5672.008177",
+      "gdp": "29897.79263"
+    },
+    {
+      "year": "1998",
+      "country": "Sweden",
+      "ec": "5769.695064",
+      "gdp": "30143.62746"
+    },
+    {
+      "year": "1999",
+      "country": "Sweden",
+      "ec": "5661.491459",
+      "gdp": "30577.08177"
+    },
+    {
+      "year": "2000",
+      "country": "Sweden",
+      "ec": "5360.145147",
+      "gdp": "29283.00505"
+    },
+    {
+      "year": "2001",
+      "country": "Sweden",
+      "ec": "5680.280487",
+      "gdp": "26969.24457"
+    },
+    {
+      "year": "2002",
+      "country": "Sweden",
+      "ec": "5802.110105",
+      "gdp": "29571.70446"
+    },
+    {
+      "year": "2003",
+      "country": "Sweden",
+      "ec": "5650.43805",
+      "gdp": "36961.42537"
+    },
+    {
+      "year": "2004",
+      "country": "Sweden",
+      "ec": "5847.344163",
+      "gdp": "42442.22045"
+    },
+    {
+      "year": "2005",
+      "country": "Sweden",
+      "ec": "5711.127283",
+      "gdp": "43085.35315"
+    },
+    {
+      "year": "2006",
+      "country": "Sweden",
+      "ec": "5529.077953",
+      "gdp": "46256.4716"
+    },
+    {
+      "year": "2007",
+      "country": "Sweden",
+      "ec": "5472.135392",
+      "gdp": "53324.37937"
+    },
+    {
+      "year": "2008",
+      "country": "Sweden",
+      "ec": "5379.959103",
+      "gdp": "55746.84238"
+    },
+    {
+      "year": "2009",
+      "country": "Sweden",
+      "ec": "4883.20049",
+      "gdp": "46207.0592"
+    },
+    {
+      "year": "2010",
+      "country": "Sweden",
+      "ec": "5427.925046",
+      "gdp": "52076.25591"
+    },
+    {
+      "year": "2011",
+      "country": "Sweden",
+      "ec": "5274.643613",
+      "gdp": "59593.28711"
+    },
+    {
+      "year": "2012",
+      "country": "Sweden",
+      "ec": "5269.485998",
+      "gdp": "57134.07707"
+    },
+    {
+      "year": "2013",
+      "country": "Sweden",
+      "ec": "5146.53359",
+      "gdp": "60283.24522"
+    },
+    {
+      "year": "2014",
+      "country": "Sweden",
+      "ec": "4966.435921",
+      "gdp": "59180.19898"
+    }
+  ],
+  "Syria": [
+    {
+      "year": "1971",
+      "country": "Syria",
+      "ec": "361.9220446",
+      "gdp": "394.1421481"
+    },
+    {
+      "year": "1972",
+      "country": "Syria",
+      "ec": "291.0985228",
+      "gdp": "449.9439294"
+    },
+    {
+      "year": "1973",
+      "country": "Syria",
+      "ec": "292.4838846",
+      "gdp": "460.295068"
+    },
+    {
+      "year": "1974",
+      "country": "Syria",
+      "ec": "363.4115991",
+      "gdp": "708.4212256"
+    },
+    {
+      "year": "1975",
+      "country": "Syria",
+      "ec": "405.1264419",
+      "gdp": "905.9500887"
+    },
+    {
+      "year": "1976",
+      "country": "Syria",
+      "ec": "443.5591947",
+      "gdp": "979.3277657"
+    },
+    {
+      "year": "1977",
+      "country": "Syria",
+      "ec": "476.8013097",
+      "gdp": "954.7632405"
+    },
+    {
+      "year": "1978",
+      "country": "Syria",
+      "ec": "504.0006391",
+      "gdp": "1112.612528"
+    },
+    {
+      "year": "1979",
+      "country": "Syria",
+      "ec": "631.7037825",
+      "gdp": "1151.175406"
+    },
+    {
+      "year": "1980",
+      "country": "Syria",
+      "ec": "499.9777175",
+      "gdp": "1462.630341"
+    },
+    {
+      "year": "1981",
+      "country": "Syria",
+      "ec": "576.2144014",
+      "gdp": "1677.126244"
+    },
+    {
+      "year": "1982",
+      "country": "Syria",
+      "ec": "666.8414627",
+      "gdp": "1699.532805"
+    },
+    {
+      "year": "1983",
+      "country": "Syria",
+      "ec": "737.8338755",
+      "gdp": "1769.740953"
+    },
+    {
+      "year": "1984",
+      "country": "Syria",
+      "ec": "820.0502106",
+      "gdp": "1700.476019"
+    },
+    {
+      "year": "1985",
+      "country": "Syria",
+      "ec": "735.4977616",
+      "gdp": "1540.436791"
+    },
+    {
+      "year": "1986",
+      "country": "Syria",
+      "ec": "730.9979252",
+      "gdp": "1208.004425"
+    },
+    {
+      "year": "1987",
+      "country": "Syria",
+      "ec": "787.4000119",
+      "gdp": "999.5919067"
+    },
+    {
+      "year": "1988",
+      "country": "Syria",
+      "ec": "790.6068664",
+      "gdp": "902.5495583"
+    },
+    {
+      "year": "1989",
+      "country": "Syria",
+      "ec": "769.8383437",
+      "gdp": "815.6485164"
+    },
+    {
+      "year": "1990",
+      "country": "Syria",
+      "ec": "840.8455098",
+      "gdp": "988.9486722"
+    },
+    {
+      "year": "1991",
+      "country": "Syria",
+      "ec": "889.7357119",
+      "gdp": "1013.001286"
+    },
+    {
+      "year": "1992",
+      "country": "Syria",
+      "ec": "827.2187523",
+      "gdp": "1005.041364"
+    },
+    {
+      "year": "1993",
+      "country": "Syria",
+      "ec": "808.2731509",
+      "gdp": "1009.716411"
+    },
+    {
+      "year": "1994",
+      "country": "Syria",
+      "ec": "820.0390302",
+      "gdp": "725.6085921"
+    },
+    {
+      "year": "1995",
+      "country": "Syria",
+      "ec": "843.3330833",
+      "gdp": "794.445153"
+    },
+    {
+      "year": "1996",
+      "country": "Syria",
+      "ec": "865.6753248",
+      "gdp": "934.5505657"
+    },
+    {
+      "year": "1997",
+      "country": "Syria",
+      "ec": "913.8041316",
+      "gdp": "955.7091761"
+    },
+    {
+      "year": "1998",
+      "country": "Syria",
+      "ec": "990.5490312",
+      "gdp": "974.2751917"
+    },
+    {
+      "year": "1999",
+      "country": "Syria",
+      "ec": "960.706457",
+      "gdp": "991.1204287"
+    },
+    {
+      "year": "2000",
+      "country": "Syria",
+      "ec": "940.8858701",
+      "gdp": "1177.629268"
+    },
+    {
+      "year": "2001",
+      "country": "Syria",
+      "ec": "944.7569285",
+      "gdp": "1258.421953"
+    },
+    {
+      "year": "2002",
+      "country": "Syria",
+      "ec": "963.2417697",
+      "gdp": "1263.013455"
+    },
+    {
+      "year": "2003",
+      "country": "Syria",
+      "ec": "949.882936",
+      "gdp": "1253.391403"
+    },
+    {
+      "year": "2004",
+      "country": "Syria",
+      "ec": "970.9179801",
+      "gdp": "1408.852738"
+    },
+    {
+      "year": "2005",
+      "country": "Syria",
+      "ec": "1136.499431",
+      "gdp": "1577.457182"
+    },
+    {
+      "year": "2006",
+      "country": "Syria",
+      "ec": "1143.509083",
+      "gdp": "1762.246107"
+    },
+    {
+      "year": "2007",
+      "country": "Syria",
+      "ec": "1153.211976",
+      "gdp": "2058.035209"
+    },
+    {
+      "year": "2008",
+      "country": "Syria",
+      "ec": "1136.533359",
+      "gdp": "2557.21"
+    },
+    {
+      "year": "2009",
+      "country": "Syria",
+      "ec": "1032.009672",
+      "gdp": "2557.21"
+    },
+    {
+      "year": "2010",
+      "country": "Syria",
+      "ec": "1030.496173",
+      "gdp": "2806.69"
+    },
+    {
+      "year": "2011",
+      "country": "Syria",
+      "ec": "953.4096374",
+      "gdp": ""
+    },
+    {
+      "year": "2012",
+      "country": "Syria",
+      "ec": "726.9747988",
+      "gdp": ""
+    },
+    {
+      "year": "2013",
+      "country": "Syria",
+      "ec": "587.4364264",
+      "gdp": ""
+    },
+    {
+      "year": "2014",
+      "country": "Syria",
+      "ec": "562.5354045",
+      "gdp": ""
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      "year": "1971",
+      "country": "Trinidad and Tobago",
+      "ec": "2757.822842",
+      "gdp": "937.668546"
+    },
+    {
+      "year": "1972",
+      "country": "Trinidad and Tobago",
+      "ec": "2772.885632",
+      "gdp": "1118.339209"
+    },
+    {
+      "year": "1973",
+      "country": "Trinidad and Tobago",
+      "ec": "2685.520542",
+      "gdp": "1331.986683"
+    },
+    {
+      "year": "1974",
+      "country": "Trinidad and Tobago",
+      "ec": "2682.520388",
+      "gdp": "2048.067557"
+    },
+    {
+      "year": "1975",
+      "country": "Trinidad and Tobago",
+      "ec": "2294.997479",
+      "gdp": "2414.920141"
+    },
+    {
+      "year": "1976",
+      "country": "Trinidad and Tobago",
+      "ec": "2513.208106",
+      "gdp": "2437.859973"
+    },
+    {
+      "year": "1977",
+      "country": "Trinidad and Tobago",
+      "ec": "2808.505993",
+      "gdp": "3018.642425"
+    },
+    {
+      "year": "1978",
+      "country": "Trinidad and Tobago",
+      "ec": "3328.188738",
+      "gdp": "3379.451083"
+    },
+    {
+      "year": "1979",
+      "country": "Trinidad and Tobago",
+      "ec": "3398.717922",
+      "gdp": "4304.534246"
+    },
+    {
+      "year": "1980",
+      "country": "Trinidad and Tobago",
+      "ec": "3527.043936",
+      "gdp": "5745.680796"
+    },
+    {
+      "year": "1981",
+      "country": "Trinidad and Tobago",
+      "ec": "3686.286229",
+      "gdp": "6341.703581"
+    },
+    {
+      "year": "1982",
+      "country": "Trinidad and Tobago",
+      "ec": "3648.183893",
+      "gdp": "7264.26625"
+    },
+    {
+      "year": "1983",
+      "country": "Trinidad and Tobago",
+      "ec": "3721.302636",
+      "gdp": "6818.225729"
+    },
+    {
+      "year": "1984",
+      "country": "Trinidad and Tobago",
+      "ec": "4142.438965",
+      "gdp": "6712.050613"
+    },
+    {
+      "year": "1985",
+      "country": "Trinidad and Tobago",
+      "ec": "4347.690037",
+      "gdp": "6299.207438"
+    },
+    {
+      "year": "1986",
+      "country": "Trinidad and Tobago",
+      "ec": "4493.944095",
+      "gdp": "4049.187446"
+    },
+    {
+      "year": "1987",
+      "country": "Trinidad and Tobago",
+      "ec": "4188.631304",
+      "gdp": "4014.04712"
+    },
+    {
+      "year": "1988",
+      "country": "Trinidad and Tobago",
+      "ec": "4558.476977",
+      "gdp": "3732.15885"
+    },
+    {
+      "year": "1989",
+      "country": "Trinidad and Tobago",
+      "ec": "4394.351957",
+      "gdp": "3562.107229"
+    },
+    {
+      "year": "1990",
+      "country": "Trinidad and Tobago",
+      "ec": "4900.006547",
+      "gdp": "4147.638923"
+    },
+    {
+      "year": "1991",
+      "country": "Trinidad and Tobago",
+      "ec": "4838.271512",
+      "gdp": "4315.696945"
+    },
+    {
+      "year": "1992",
+      "country": "Trinidad and Tobago",
+      "ec": "5286.282603",
+      "gdp": "4395.644513"
+    },
+    {
+      "year": "1993",
+      "country": "Trinidad and Tobago",
+      "ec": "5030.995486",
+      "gdp": "3752.380464"
+    },
+    {
+      "year": "1994",
+      "country": "Trinidad and Tobago",
+      "ec": "5036.347553",
+      "gdp": "3956.758089"
+    },
+    {
+      "year": "1995",
+      "country": "Trinidad and Tobago",
+      "ec": "4899.904462",
+      "gdp": "4246.382404"
+    },
+    {
+      "year": "1996",
+      "country": "Trinidad and Tobago",
+      "ec": "5779.262598",
+      "gdp": "4577.004528"
+    },
+    {
+      "year": "1997",
+      "country": "Trinidad and Tobago",
+      "ec": "5437.908808",
+      "gdp": "4551.321854"
+    },
+    {
+      "year": "1998",
+      "country": "Trinidad and Tobago",
+      "ec": "6304.78194",
+      "gdp": "4786.92537"
+    },
+    {
+      "year": "1999",
+      "country": "Trinidad and Tobago",
+      "ec": "7348.544998",
+      "gdp": "5383.552427"
+    },
+    {
+      "year": "2000",
+      "country": "Trinidad and Tobago",
+      "ec": "7759.753278",
+      "gdp": "6430.947262"
+    },
+    {
+      "year": "2001",
+      "country": "Trinidad and Tobago",
+      "ec": "8635.762901",
+      "gdp": "6935.721451"
+    },
+    {
+      "year": "2002",
+      "country": "Trinidad and Tobago",
+      "ec": "9356.802941",
+      "gdp": "7049.626612"
+    },
+    {
+      "year": "2003",
+      "country": "Trinidad and Tobago",
+      "ec": "10413.69275",
+      "gdp": "8804.518666"
+    },
+    {
+      "year": "2004",
+      "country": "Trinidad and Tobago",
+      "ec": "10876.63721",
+      "gdp": "10290.51914"
+    },
+    {
+      "year": "2005",
+      "country": "Trinidad and Tobago",
+      "ec": "12426.38793",
+      "gdp": "12323.12705"
+    },
+    {
+      "year": "2006",
+      "country": "Trinidad and Tobago",
+      "ec": "13798.83727",
+      "gdp": "14096.18668"
+    },
+    {
+      "year": "2007",
+      "country": "Trinidad and Tobago",
+      "ec": "14608.00987",
+      "gdp": "16529.65801"
+    },
+    {
+      "year": "2008",
+      "country": "Trinidad and Tobago",
+      "ec": "14117.1889",
+      "gdp": "21189.12927"
+    },
+    {
+      "year": "2009",
+      "country": "Trinidad and Tobago",
+      "ec": "14203.1525",
+      "gdp": "14506.58604"
+    },
+    {
+      "year": "2010",
+      "country": "Trinidad and Tobago",
+      "ec": "15109.18756",
+      "gdp": "16683.42242"
+    },
+    {
+      "year": "2011",
+      "country": "Trinidad and Tobago",
+      "ec": "14791.36387",
+      "gdp": "19004.15714"
+    },
+    {
+      "year": "2012",
+      "country": "Trinidad and Tobago",
+      "ec": "14346.84046",
+      "gdp": "19083.21481"
+    },
+    {
+      "year": "2013",
+      "country": "Trinidad and Tobago",
+      "ec": "14537.4842",
+      "gdp": "19713.37929"
+    },
+    {
+      "year": "2014",
+      "country": "Trinidad and Tobago",
+      "ec": "14446.74945",
+      "gdp": "20081.52191"
+    }
+  ],
+  "Turkey": [
+    {
+      "year": "1971",
+      "country": "Turkey",
+      "ec": "547.127806",
+      "gdp": "455.1053041"
+    },
+    {
+      "year": "1972",
+      "country": "Turkey",
+      "ec": "603.2862017",
+      "gdp": "558.421564"
+    },
+    {
+      "year": "1973",
+      "country": "Turkey",
+      "ec": "649.9432994",
+      "gdp": "686.4906344"
+    },
+    {
+      "year": "1974",
+      "country": "Turkey",
+      "ec": "656.8477899",
+      "gdp": "927.8001104"
+    },
+    {
+      "year": "1975",
+      "country": "Turkey",
+      "ec": "681.2173349",
+      "gdp": "1136.376695"
+    },
+    {
+      "year": "1976",
+      "country": "Turkey",
+      "ec": "724.4870434",
+      "gdp": "1275.958161"
+    },
+    {
+      "year": "1977",
+      "country": "Turkey",
+      "ec": "776.7657235",
+      "gdp": "1427.373253"
+    },
+    {
+      "year": "1978",
+      "country": "Turkey",
+      "ec": "756.4633723",
+      "gdp": "1549.646128"
+    },
+    {
+      "year": "1979",
+      "country": "Turkey",
+      "ec": "703.5491309",
+      "gdp": "2079.222784"
+    },
+    {
+      "year": "1980",
+      "country": "Turkey",
+      "ec": "715.1489789",
+      "gdp": "1564.24898"
+    },
+    {
+      "year": "1981",
+      "country": "Turkey",
+      "ec": "704.7918799",
+      "gdp": "1579.075709"
+    },
+    {
+      "year": "1982",
+      "country": "Turkey",
+      "ec": "732.2256077",
+      "gdp": "1402.408081"
+    },
+    {
+      "year": "1983",
+      "country": "Turkey",
+      "ec": "757.9530972",
+      "gdp": "1310.256988"
+    },
+    {
+      "year": "1984",
+      "country": "Turkey",
+      "ec": "771.3419381",
+      "gdp": "1246.825842"
+    },
+    {
+      "year": "1985",
+      "country": "Turkey",
+      "ec": "800.2803483",
+      "gdp": "1368.402906"
+    },
+    {
+      "year": "1986",
+      "country": "Turkey",
+      "ec": "844.9393518",
+      "gdp": "1510.678089"
+    },
+    {
+      "year": "1987",
+      "country": "Turkey",
+      "ec": "919.1970244",
+      "gdp": "1705.89612"
+    },
+    {
+      "year": "1988",
+      "country": "Turkey",
+      "ec": "908.4106484",
+      "gdp": "1745.366939"
+    },
+    {
+      "year": "1989",
+      "country": "Turkey",
+      "ec": "926.5934762",
+      "gdp": "2021.861437"
+    },
+    {
+      "year": "1990",
+      "country": "Turkey",
+      "ec": "977.6642424",
+      "gdp": "2794.353551"
+    },
+    {
+      "year": "1991",
+      "country": "Turkey",
+      "ec": "947.7563045",
+      "gdp": "2735.710807"
+    },
+    {
+      "year": "1992",
+      "country": "Turkey",
+      "ec": "961.9322363",
+      "gdp": "2842.373598"
+    },
+    {
+      "year": "1993",
+      "country": "Turkey",
+      "ec": "1004.13715",
+      "gdp": "3180.192011"
+    },
+    {
+      "year": "1994",
+      "country": "Turkey",
+      "ec": "976.4889532",
+      "gdp": "2270.340362"
+    },
+    {
+      "year": "1995",
+      "country": "Turkey",
+      "ec": "1052.699705",
+      "gdp": "2897.870208"
+    },
+    {
+      "year": "1996",
+      "country": "Turkey",
+      "ec": "1126.18203",
+      "gdp": "3053.950828"
+    },
+    {
+      "year": "1997",
+      "country": "Turkey",
+      "ec": "1166.228816",
+      "gdp": "3144.389453"
+    },
+    {
+      "year": "1998",
+      "country": "Turkey",
+      "ec": "1169.881961",
+      "gdp": "4496.509486"
+    },
+    {
+      "year": "1999",
+      "country": "Turkey",
+      "ec": "1131.092351",
+      "gdp": "4108.114652"
+    },
+    {
+      "year": "2000",
+      "country": "Turkey",
+      "ec": "1201.087297",
+      "gdp": "4316.561103"
+    },
+    {
+      "year": "2001",
+      "country": "Turkey",
+      "ec": "1094.197712",
+      "gdp": "3119.606218"
+    },
+    {
+      "year": "2002",
+      "country": "Turkey",
+      "ec": "1139.392452",
+      "gdp": "3660.07113"
+    },
+    {
+      "year": "2003",
+      "country": "Turkey",
+      "ec": "1178.443863",
+      "gdp": "4718.455282"
+    },
+    {
+      "year": "2004",
+      "country": "Turkey",
+      "ec": "1204.721939",
+      "gdp": "6040.879696"
+    },
+    {
+      "year": "2005",
+      "country": "Turkey",
+      "ec": "1240.166421",
+      "gdp": "7384.259107"
+    },
+    {
+      "year": "2006",
+      "country": "Turkey",
+      "ec": "1354.67707",
+      "gdp": "8034.611206"
+    },
+    {
+      "year": "2007",
+      "country": "Turkey",
+      "ec": "1436.844738",
+      "gdp": "9709.721346"
+    },
+    {
+      "year": "2008",
+      "country": "Turkey",
+      "ec": "1401.349136",
+      "gdp": "10850.87194"
+    },
+    {
+      "year": "2009",
+      "country": "Turkey",
+      "ec": "1370.788494",
+      "gdp": "9036.268076"
+    },
+    {
+      "year": "2010",
+      "country": "Turkey",
+      "ec": "1474.669692",
+      "gdp": "10672.40036"
+    },
+    {
+      "year": "2011",
+      "country": "Turkey",
+      "ec": "1546.203319",
+      "gdp": "11340.82227"
+    },
+    {
+      "year": "2012",
+      "country": "Turkey",
+      "ec": "1585.400239",
+      "gdp": "11720.31301"
+    },
+    {
+      "year": "2013",
+      "country": "Turkey",
+      "ec": "1542.968242",
+      "gdp": "12542.72093"
+    },
+    {
+      "year": "2014",
+      "country": "Turkey",
+      "ec": "1577.827978",
+      "gdp": "12127.46146"
+    }
+  ],
+  "USA": [
+    {
+      "year": "1971",
+      "country": "USA",
+      "ec": "7644.524802",
+      "gdp": "5623.443978"
+    },
+    {
+      "year": "1972",
+      "country": "USA",
+      "ec": "7940.997832",
+      "gdp": "6109.925868"
+    },
+    {
+      "year": "1973",
+      "country": "USA",
+      "ec": "8163.603792",
+      "gdp": "6741.332364"
+    },
+    {
+      "year": "1974",
+      "country": "USA",
+      "ec": "7909.58648",
+      "gdp": "7242.441105"
+    },
+    {
+      "year": "1975",
+      "country": "USA",
+      "ec": "7656.263579",
+      "gdp": "7820.065471"
+    },
+    {
+      "year": "1976",
+      "country": "USA",
+      "ec": "8100.562222",
+      "gdp": "8611.401839"
+    },
+    {
+      "year": "1977",
+      "country": "USA",
+      "ec": "8285.570898",
+      "gdp": "9471.306172"
+    },
+    {
+      "year": "1978",
+      "country": "USA",
+      "ec": "8438.403077",
+      "gdp": "10587.28576"
+    },
+    {
+      "year": "1979",
+      "country": "USA",
+      "ec": "8327.041705",
+      "gdp": "11695.55442"
+    },
+    {
+      "year": "1980",
+      "country": "USA",
+      "ec": "7942.253018",
+      "gdp": "12597.66751"
+    },
+    {
+      "year": "1981",
+      "country": "USA",
+      "ec": "7647.538054",
+      "gdp": "13993.16674"
+    },
+    {
+      "year": "1982",
+      "country": "USA",
+      "ec": "7259.078899",
+      "gdp": "14438.97628"
+    },
+    {
+      "year": "1983",
+      "country": "USA",
+      "ec": "7199.118533",
+      "gdp": "15561.4264"
+    },
+    {
+      "year": "1984",
+      "country": "USA",
+      "ec": "7443.320017",
+      "gdp": "17134.28602"
+    },
+    {
+      "year": "1985",
+      "country": "USA",
+      "ec": "7456.262903",
+      "gdp": "18269.42217"
+    },
+    {
+      "year": "1986",
+      "country": "USA",
+      "ec": "7376.096238",
+      "gdp": "19115.05291"
+    },
+    {
+      "year": "1987",
+      "country": "USA",
+      "ec": "7622.173017",
+      "gdp": "20100.85889"
+    },
+    {
+      "year": "1988",
+      "country": "USA",
+      "ec": "7849.75397",
+      "gdp": "21483.23306"
+    },
+    {
+      "year": "1989",
+      "country": "USA",
+      "ec": "7890.287202",
+      "gdp": "22922.43709"
+    },
+    {
+      "year": "1990",
+      "country": "USA",
+      "ec": "7671.773066",
+      "gdp": "23954.47935"
+    },
+    {
+      "year": "1991",
+      "country": "USA",
+      "ec": "7631.467806",
+      "gdp": "24405.16481"
+    },
+    {
+      "year": "1992",
+      "country": "USA",
+      "ec": "7677.401401",
+      "gdp": "25492.95165"
+    },
+    {
+      "year": "1993",
+      "country": "USA",
+      "ec": "7709.496589",
+      "gdp": "26464.85251"
+    },
+    {
+      "year": "1994",
+      "country": "USA",
+      "ec": "7757.830822",
+      "gdp": "27776.63553"
+    },
+    {
+      "year": "1995",
+      "country": "USA",
+      "ec": "7763.755106",
+      "gdp": "28782.17502"
+    },
+    {
+      "year": "1996",
+      "country": "USA",
+      "ec": "7844.468266",
+      "gdp": "30068.23092"
+    },
+    {
+      "year": "1997",
+      "country": "USA",
+      "ec": "7828.581096",
+      "gdp": "31572.69023"
+    },
+    {
+      "year": "1998",
+      "country": "USA",
+      "ec": "7803.697605",
+      "gdp": "32949.19776"
+    },
+    {
+      "year": "1999",
+      "country": "USA",
+      "ec": "7923.223893",
+      "gdp": "34620.9289"
+    },
+    {
+      "year": "2000",
+      "country": "USA",
+      "ec": "8056.86385",
+      "gdp": "36449.85512"
+    },
+    {
+      "year": "2001",
+      "country": "USA",
+      "ec": "7827.886325",
+      "gdp": "37273.6181"
+    },
+    {
+      "year": "2002",
+      "country": "USA",
+      "ec": "7843.344849",
+      "gdp": "38166.03784"
+    },
+    {
+      "year": "2003",
+      "country": "USA",
+      "ec": "7794.23553",
+      "gdp": "39677.19835"
+    },
+    {
+      "year": "2004",
+      "country": "USA",
+      "ec": "7881.578642",
+      "gdp": "41921.80976"
+    },
+    {
+      "year": "2005",
+      "country": "USA",
+      "ec": "7846.499688",
+      "gdp": "44307.92058"
+    },
+    {
+      "year": "2006",
+      "country": "USA",
+      "ec": "7697.652535",
+      "gdp": "46437.06712"
+    },
+    {
+      "year": "2007",
+      "country": "USA",
+      "ec": "7758.165986",
+      "gdp": "48061.53766"
+    },
+    {
+      "year": "2008",
+      "country": "USA",
+      "ec": "7488.081921",
+      "gdp": "48401.42734"
+    },
+    {
+      "year": "2009",
+      "country": "USA",
+      "ec": "7056.783653",
+      "gdp": "47001.55535"
+    },
+    {
+      "year": "2010",
+      "country": "USA",
+      "ec": "7161.165457",
+      "gdp": "48375.40695"
+    },
+    {
+      "year": "2011",
+      "country": "USA",
+      "ec": "7028.58312",
+      "gdp": "49793.71352"
+    },
+    {
+      "year": "2012",
+      "country": "USA",
+      "ec": "6869.497054",
+      "gdp": "51450.95911"
+    },
+    {
+      "year": "2013",
+      "country": "USA",
+      "ec": "6901.786818",
+      "gdp": "52782.08651"
+    },
+    {
+      "year": "2014",
+      "country": "USA",
+      "ec": "6955.524017",
+      "gdp": "54696.72617"
+    }
+  ],
+  "Zimbabwe": [
+    {
+      "year": "1971",
+      "country": "Zimbabwe",
+      "ec": "1016.468471",
+      "gdp": "407.1457497"
+    },
+    {
+      "year": "1972",
+      "country": "Zimbabwe",
+      "ec": "1000.908258",
+      "gdp": "483.7049037"
+    },
+    {
+      "year": "1973",
+      "country": "Zimbabwe",
+      "ec": "1024.527487",
+      "gdp": "577.8467216"
+    },
+    {
+      "year": "1974",
+      "country": "Zimbabwe",
+      "ec": "1003.873876",
+      "gdp": "672.555267"
+    },
+    {
+      "year": "1975",
+      "country": "Zimbabwe",
+      "ec": "967.5118595",
+      "gdp": "714.8055964"
+    },
+    {
+      "year": "1976",
+      "country": "Zimbabwe",
+      "ec": "990.114928",
+      "gdp": "684.5540003"
+    },
+    {
+      "year": "1977",
+      "country": "Zimbabwe",
+      "ec": "932.8312539",
+      "gdp": "671.247912"
+    },
+    {
+      "year": "1978",
+      "country": "Zimbabwe",
+      "ec": "899.0461545",
+      "gdp": "649.1842978"
+    },
+    {
+      "year": "1979",
+      "country": "Zimbabwe",
+      "ec": "886.8123708",
+      "gdp": "747.9942905"
+    },
+    {
+      "year": "1980",
+      "country": "Zimbabwe",
+      "ec": "906.2530883",
+      "gdp": "932.2596107"
+    },
+    {
+      "year": "1981",
+      "country": "Zimbabwe",
+      "ec": "885.9760709",
+      "gdp": "1077.96535"
+    },
+    {
+      "year": "1982",
+      "country": "Zimbabwe",
+      "ec": "859.268933",
+      "gdp": "1105.958801"
+    },
+    {
+      "year": "1983",
+      "country": "Zimbabwe",
+      "ec": "847.2846997",
+      "gdp": "967.1758497"
+    },
+    {
+      "year": "1984",
+      "country": "Zimbabwe",
+      "ec": "829.4857648",
+      "gdp": "761.445387"
+    },
+    {
+      "year": "1985",
+      "country": "Zimbabwe",
+      "ec": "855.2646152",
+      "gdp": "651.039658"
+    },
+    {
+      "year": "1986",
+      "country": "Zimbabwe",
+      "ec": "872.3985248",
+      "gdp": "692.6673021"
+    },
+    {
+      "year": "1987",
+      "country": "Zimbabwe",
+      "ec": "920.059359",
+      "gdp": "725.3857544"
+    },
+    {
+      "year": "1988",
+      "country": "Zimbabwe",
+      "ec": "901.4161571",
+      "gdp": "813.6753821"
+    },
+    {
+      "year": "1989",
+      "country": "Zimbabwe",
+      "ec": "893.8796511",
+      "gdp": "836.787602"
+    },
+    {
+      "year": "1990",
+      "country": "Zimbabwe",
+      "ec": "913.0081342",
+      "gdp": "862.5865882"
+    },
+    {
+      "year": "1991",
+      "country": "Zimbabwe",
+      "ec": "943.7184162",
+      "gdp": "827.4869403"
+    },
+    {
+      "year": "1992",
+      "country": "Zimbabwe",
+      "ec": "952.6127253",
+      "gdp": "631.990604"
+    },
+    {
+      "year": "1993",
+      "country": "Zimbabwe",
+      "ec": "892.7297658",
+      "gdp": "601.8668765"
+    },
+    {
+      "year": "1994",
+      "country": "Zimbabwe",
+      "ec": "869.4897197",
+      "gdp": "619.8351382"
+    },
+    {
+      "year": "1995",
+      "country": "Zimbabwe",
+      "ec": "869.3319974",
+      "gdp": "628.1849247"
+    },
+    {
+      "year": "1996",
+      "country": "Zimbabwe",
+      "ec": "850.801449",
+      "gdp": "742.5726729"
+    },
+    {
+      "year": "1997",
+      "country": "Zimbabwe",
+      "ec": "828.5453019",
+      "gdp": "728.4008356"
+    },
+    {
+      "year": "1998",
+      "country": "Zimbabwe",
+      "ec": "834.7594337",
+      "gdp": "538.2848555"
+    },
+    {
+      "year": "1999",
+      "country": "Zimbabwe",
+      "ec": "877.5915727",
+      "gdp": "568.4439527"
+    },
+    {
+      "year": "2000",
+      "country": "Zimbabwe",
+      "ec": "818.8795174",
+      "gdp": "547.3588785"
+    },
+    {
+      "year": "2001",
+      "country": "Zimbabwe",
+      "ec": "807.1698057",
+      "gdp": "548.0587312"
+    },
+    {
+      "year": "2002",
+      "country": "Zimbabwe",
+      "ec": "784.476812",
+      "gdp": "507.3480034"
+    },
+    {
+      "year": "2003",
+      "country": "Zimbabwe",
+      "ec": "742.3135554",
+      "gdp": "453.3511552"
+    },
+    {
+      "year": "2004",
+      "country": "Zimbabwe",
+      "ec": "717.1200244",
+      "gdp": "454.3606654"
+    },
+    {
+      "year": "2005",
+      "country": "Zimbabwe",
+      "ec": "743.1335564",
+      "gdp": "444.7605075"
+    },
+    {
+      "year": "2006",
+      "country": "Zimbabwe",
+      "ec": "750.1963348",
+      "gdp": "414.796232"
+    },
+    {
+      "year": "2007",
+      "country": "Zimbabwe",
+      "ec": "723.9329241",
+      "gdp": "396.9982166"
+    },
+    {
+      "year": "2008",
+      "country": "Zimbabwe",
+      "ec": "661.3147841",
+      "gdp": "325.6785703"
+    },
+    {
+      "year": "2009",
+      "country": "Zimbabwe",
+      "ec": "661.5866553",
+      "gdp": "699.8822643"
+    },
+    {
+      "year": "2010",
+      "country": "Zimbabwe",
+      "ec": "671.4989447",
+      "gdp": "854.8476653"
+    },
+    {
+      "year": "2011",
+      "country": "Zimbabwe",
+      "ec": "712.5831735",
+      "gdp": "980.2088242"
+    },
+    {
+      "year": "2012",
+      "country": "Zimbabwe",
+      "ec": "734.8366434",
+      "gdp": "1163.418689"
+    },
+    {
+      "year": "2013",
+      "country": "Zimbabwe",
+      "ec": "749.6671096",
+      "gdp": "1268.126633"
+    },
+    {
+      "year": "2014",
+      "country": "Zimbabwe",
+      "ec": "851.2716",
+      "gdp": "1264.983826"
+    }
+  ]
+}

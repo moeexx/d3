@@ -32,23 +32,26 @@
             .await(ready);
 
         function ready(error, maps, gdp) {
-            
-            console.log(gdp)
 
-            const year = [];
+            // console.log(maps)
+
+            const country = [];
             gdp.forEach(element => {
-                if((year.indexOf(element.year)==-1)){
-                    year.push(element.year);
+                if((country.indexOf(element.country)==-1)){
+                    country.push(element.country);
                 }
             });
-            console.log(year)
+            console.log(country)
 
             var year_data = {};
-            year.forEach(e => {
-                var years = [];
+            country.forEach(e => {
+                var country = [];
                 gdp.forEach(d => {
-                    
+                    if(d.country == e){
+                        country.push(d)
+                    }
                 });
+                year_data[e] = country
             })
 
             console.log(year_data)
@@ -63,6 +66,7 @@
                 .style('stroke', '#607D8B')
                 .style('stroke-width', 0.8)
                 .on('mouseover',function(d){
+                    // console.log(d.properties.name)
                     d3.select(this)
                         .style('stroke-width', 2)
                 })
