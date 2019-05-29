@@ -3,70 +3,147 @@
 <head>
     <meta charset="UTF-8">
     <title>地图</title>
+    <style>
+        #toolTip{
+            display: none;
+            width: 150px;
+            position: absolute;
+            font-size: 13px;
+            line-height: 20px;
+            height: 40px;
+            background: #efefef;
+            border: 1px solid #fff;
+            border-radius: 7px;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <svg id="gdp"></svg>
+    <svg id="ec"></svg>
+    <div id="toolTip"></div>
+
     <script src="js/d3.v4.min.js"></script>
     <script src="js/queue.v1.min.js"></script>
     <script src="js/topojson.v3.min.js"></script>
     <script src="js/d3-geo-projection.v2.min.js"></script>
-</head>
-    <svg id="gdp"></svg>
-<body>
     <script>
 
         const width = 960;
         const height = 500;
-        const svg = d3.select('#gdp')
+
+        const gdp = d3.select('#gdp')
             .attr('width', width)
             .attr('height', height)
             .append('g')
             .attr('class', 'map');
+
+        const ec = d3.select('#ec')
+            .attr('width', width)
+            .attr('height', height)
+            .append('g')
+            .attr('class', 'map');
+
         const projection = d3.geoMercator()
             .scale(148)
             .rotate([352, 0, 0])
             .translate( [width / 2, height / 1.5]);
         const path = d3.geoPath().projection(projection);
 
+        const color = d3.scaleThreshold()
+            .domain([
+                100,
+                250,
+                500,
+                750,
+                1000,
+                2500,
+                5000,
+                7500,
+                10000,
+                25000,
+                50000
+            ])
+            .range([
+                'rgb(247,251,255)',
+                'rgb(222,235,247)', 
+                'rgb(198,219,239)', 
+                'rgb(158,202,225)',
+                'rgb(107,174,214)',
+                'rgb(66,146,198)',
+                'rgb(33,113,181)',
+                'rgb(8,81,156)',
+                'rgb(8,48,107)',
+                'rgb(3,19,43)',
+                'rgb(1,19,43)'
+            ]);
+
         //加载地图
         queue()
             .defer(d3.json, './data/world_countries.json')
-            .defer(d3.json, './data/data.json')
+            .defer(d3.json, './data/year_data.json')
+            .defer(d3.json, './data/country_year.json')
             .await(ready);
 
-        function ready(error, maps, gdp) {
-
-            // console.log(maps)
-
-            const country = [];
-            gdp.forEach(element => {
-                if((country.indexOf(element.country)==-1)){
-                    country.push(element.country);
-                }
+        function ready(error, maps, data, country_year) {
+            
+            var gdp_country = {};
+            data[1971].forEach(d => { gdp_country[d.country] = d.gdp; });
+            maps.features.forEach(d => { 
+                const gdp = gdp_country[d.properties.name];
+                if (gdp != undefined)
+                    d.gdp = gdp
             });
-            console.log(country)
 
-            var year_data = {};
-            country.forEach(e => {
-                var country = [];
-                gdp.forEach(d => {
-                    if(d.country == e){
-                        country.push(d)
-                    }
-                });
-                year_data[e] = country
-            })
-
-            console.log(year_data)
-   
-            svg.append('g')
+            const country = country_year.country;
+            const year = country_year.year;
+            
+            gdp.append('g')
                 .attr('class', 'countries')
                 .selectAll('path')
                 .data(maps.features)
-                .enter().append('path')
+                .enter()
+                .append('path')
                 .attr('d', path)
-                .style('fill', '#ECEFF1')
+                .style('fill', function(d){
+                    if(gdp_country[d.properties.name] != undefined){
+                        color(500)
+                    }
+                    else
+                        return '#ECEFF1'
+                })
                 .style('stroke', '#607D8B')
                 .style('stroke-width', 0.8)
                 .on('mouseover',function(d){
-                    // console.log(d.properties.name)
+                    // if(country.indexOf(d.properties.name) != -1)
+                        
+                    d3.select(this)
+                        .style('stroke-width', 2)
+                })
+                .on('mouseout', function(d){
+                    d3.select(this)
+                        .style('stroke-width', 0.8)
+                })
+            
+            ec.append('g')
+                .attr('class', 'countries')
+                .selectAll('path')
+                .data(maps.features)
+                .enter()
+                .append('path')
+                .attr('d', path)
+                .style('fill', function(d){
+                    if(country.indexOf(d.properties.name) != -1)
+                        return '#B0E0E6'
+                    else
+                        return '#ECEFF1'
+                })
+                .style('stroke', '#607D8B')
+                .style('stroke-width', 0.8)
+                .on('mouseover',function(d){
+                    if(country.indexOf(d.properties.name) != -1)
+                        console.log(d.properties.name)
                     d3.select(this)
                         .style('stroke-width', 2)
                 })
@@ -75,6 +152,21 @@
                         .style('stroke-width', 0.8)
                 });
 
+        }
+
+        // 提示
+        function show(d){
+            const x = window.event.clientX+5+'px';
+            const y = window.event.offsetY+5+'px';
+            const translate = 'translate('+x+','+y+')';
+            console.log('x: '+x+',y: '+y)
+            d3.select('#toolTip')
+                    .html(d)
+                    .style('transform',translate)
+                    .style('display','block')
+        }
+        function hide(){
+            d3.select('#toolTip').style('display','none')
         }
     </script>
 </body>
