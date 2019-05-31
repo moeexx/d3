@@ -19,29 +19,22 @@
 
         $.getJSON('./data/year_data.json', function (data) {
 
-            var length = Object.keys(data).length;
 
-            //处理数据
-            var data_yaer = [];
-            data[2014].forEach(element => {
-                data_yaer.push({
-                    name: element.country,
-                    value: element.gdp,
-                    height: element.gdp / 5000 + 0.1
+            var gdp_data = {};
+            for (var index in data) {
+                var data_yaer = [];
+                data[index].forEach(element => {
+                    data_yaer.push({
+                        name: element.country,
+                        value: element.gdp,
+                        height: element.gdp / 5000 + 0.1
+                    });
                 });
-            });
+                gdp_data[index] = data_yaer;
+            }
 
-            // var data_yaer = [];
-            // data[index].forEach(element => {
-            //     data_yaer.push({
-            //         name: element.country,
-            //         value: element.gdp,
-            //         height: element.gdp / 5000 + 0.1
-            //     });
-            // });
-            // console.log(data_yaer)
 
-            myChart.setOption({
+            option = {
 
                 visualMap: {
                     min: 0,
@@ -55,25 +48,27 @@
                         ]
                     }
                 },
+
                 series: [{
                     type: 'map3D',
                     map: 'world',
-                    // light: {
-                    //     main: {
-                    //         intensity: 1,
-                    //         shadow: true,
-                    //         shadowQuality: 'low',
-                    //         alpha: 50
-                    //     },
-                    //     ambient: {
-                    //         intensity: 0
-                    //     },
-                    //     ambientCubemap: {
-                    //         texture: './data/canyon.hdr',
-                    //         exposure: 1,
-                    //         diffuseIntensity: 0.5
-                    //     }
-                    // },
+                    // instancing: true,
+                    light: {
+                        main: {
+                            intensity: 1,
+                            shadow: true,
+                            shadowQuality: 'low',
+                            alpha: 50
+                        },
+                        ambient: {
+                            intensity: 0
+                        },
+                        ambientCubemap: {
+                            texture: './data/canyon.hdr',
+                            exposure: 1,
+                            diffuseIntensity: 0.5
+                        }
+                    },
                     viewControl: {
                         distance: 85,
                         panMouseButton: 'left',
@@ -89,23 +84,23 @@
                         show: true,
                         color: '#999'
                     },
-                    // postEffect: {
-                    //     enable: true,
-                    //     bloom: {
-                    //         enable: false
-                    //     },
-                    //     SSAO: {
-                    //         radius: 1,
-                    //         intensity: 1,
-                    //         enable: true
-                    //     },
-                    //     depthOfField: {
-                    //         enable: false,
-                    //         focalRange: 10,
-                    //         blurRadius: 10,
-                    //         fstop: 1
-                    //     }
-                    // },
+                    postEffect: {
+                        enable: true,
+                        bloom: {
+                            enable: false
+                        },
+                        SSAO: {
+                            radius: 1,
+                            intensity: 1,
+                            enable: true
+                        },
+                        depthOfField: {
+                            enable: false,
+                            focalRange: 10,
+                            blurRadius: 10,
+                            fstop: 1
+                        }
+                    },
                     temporalSuperSampling: {
                         enable: true
                     },
@@ -114,9 +109,11 @@
                         borderColor: '#000'
                     },
                     regionHeight: 0.1,
-                    data: data_yaer
+                    data:gdp_data[2014],
                 }]
-            });
+            }
+
+            myChart.setOption(option);
         });
     </script>
 
