@@ -1,0 +1,9578 @@
+{
+  "Argentina": [
+    {
+      "year": 1971,
+      "country": "Argentina",
+      "ec": 1381,
+      "gdp": 1366
+    },
+    {
+      "year": 1972,
+      "country": "Argentina",
+      "ec": 1380,
+      "gdp": 1401
+    },
+    {
+      "year": 1973,
+      "country": "Argentina",
+      "ec": 1411,
+      "gdp": 2084
+    },
+    {
+      "year": 1974,
+      "country": "Argentina",
+      "ec": 1416,
+      "gdp": 2825
+    },
+    {
+      "year": 1975,
+      "country": "Argentina",
+      "ec": 1379,
+      "gdp": 2012
+    },
+    {
+      "year": 1976,
+      "country": "Argentina",
+      "ec": 1405,
+      "gdp": 1933
+    },
+    {
+      "year": 1977,
+      "country": "Argentina",
+      "ec": 1421,
+      "gdp": 2113
+    },
+    {
+      "year": 1978,
+      "country": "Argentina",
+      "ec": 1427,
+      "gdp": 2129
+    },
+    {
+      "year": 1979,
+      "country": "Argentina",
+      "ec": 1485,
+      "gdp": 2501
+    },
+    {
+      "year": 1980,
+      "country": "Argentina",
+      "ec": 1488,
+      "gdp": 2738
+    },
+    {
+      "year": 1981,
+      "country": "Argentina",
+      "ec": 1430,
+      "gdp": 2756
+    },
+    {
+      "year": 1982,
+      "country": "Argentina",
+      "ec": 1417,
+      "gdp": 2908
+    },
+    {
+      "year": 1983,
+      "country": "Argentina",
+      "ec": 1420,
+      "gdp": 3530
+    },
+    {
+      "year": 1984,
+      "country": "Argentina",
+      "ec": 1448,
+      "gdp": 2643
+    },
+    {
+      "year": 1985,
+      "country": "Argentina",
+      "ec": 1361,
+      "gdp": 2910
+    },
+    {
+      "year": 1986,
+      "country": "Argentina",
+      "ec": 1422,
+      "gdp": 3595
+    },
+    {
+      "year": 1987,
+      "country": "Argentina",
+      "ec": 1477,
+      "gdp": 3547
+    },
+    {
+      "year": 1988,
+      "country": "Argentina",
+      "ec": 1505,
+      "gdp": 3969
+    },
+    {
+      "year": 1989,
+      "country": "Argentina",
+      "ec": 1441,
+      "gdp": 2375
+    },
+    {
+      "year": 1990,
+      "country": "Argentina",
+      "ec": 1407,
+      "gdp": 4319
+    },
+    {
+      "year": 1991,
+      "country": "Argentina",
+      "ec": 1431,
+      "gdp": 5716
+    },
+    {
+      "year": 1992,
+      "country": "Argentina",
+      "ec": 1484,
+      "gdp": 6798
+    },
+    {
+      "year": 1993,
+      "country": "Argentina",
+      "ec": 1468,
+      "gdp": 6940
+    },
+    {
+      "year": 1994,
+      "country": "Argentina",
+      "ec": 1542,
+      "gdp": 7449
+    },
+    {
+      "year": 1995,
+      "country": "Argentina",
+      "ec": 1544,
+      "gdp": 7373
+    },
+    {
+      "year": 1996,
+      "country": "Argentina",
+      "ec": 1582,
+      "gdp": 7684
+    },
+    {
+      "year": 1997,
+      "country": "Argentina",
+      "ec": 1614,
+      "gdp": 8173
+    },
+    {
+      "year": 1998,
+      "country": "Argentina",
+      "ec": 1650,
+      "gdp": 8249
+    },
+    {
+      "year": 1999,
+      "country": "Argentina",
+      "ec": 1660,
+      "gdp": 7736
+    },
+    {
+      "year": 2000,
+      "country": "Argentina",
+      "ec": 1661,
+      "gdp": 7669
+    },
+    {
+      "year": 2001,
+      "country": "Argentina",
+      "ec": 1563,
+      "gdp": 7171
+    },
+    {
+      "year": 2002,
+      "country": "Argentina",
+      "ec": 1502,
+      "gdp": 2579
+    },
+    {
+      "year": 2003,
+      "country": "Argentina",
+      "ec": 1590,
+      "gdp": 3330
+    },
+    {
+      "year": 2004,
+      "country": "Argentina",
+      "ec": 1718,
+      "gdp": 4252
+    },
+    {
+      "year": 2005,
+      "country": "Argentina",
+      "ec": 1710,
+      "gdp": 5077
+    },
+    {
+      "year": 2006,
+      "country": "Argentina",
+      "ec": 1840,
+      "gdp": 5879
+    },
+    {
+      "year": 2007,
+      "country": "Argentina",
+      "ec": 1845,
+      "gdp": 7194
+    },
+    {
+      "year": 2008,
+      "country": "Argentina",
+      "ec": 1923,
+      "gdp": 8953
+    },
+    {
+      "year": 2009,
+      "country": "Argentina",
+      "ec": 1851,
+      "gdp": 8161
+    },
+    {
+      "year": 2010,
+      "country": "Argentina",
+      "ec": 1908,
+      "gdp": 10276
+    },
+    {
+      "year": 2011,
+      "country": "Argentina",
+      "ec": 1934,
+      "gdp": 12727
+    },
+    {
+      "year": 2012,
+      "country": "Argentina",
+      "ec": 1920,
+      "gdp": 12970
+    },
+    {
+      "year": 2013,
+      "country": "Argentina",
+      "ec": 1951,
+      "gdp": 12977
+    },
+    {
+      "year": 2014,
+      "country": "Argentina",
+      "ec": 2015,
+      "gdp": 12245
+    }
+  ],
+  "Australia": [
+    {
+      "year": 1971,
+      "country": "Australia",
+      "ec": 3990,
+      "gdp": 3489
+    },
+    {
+      "year": 1972,
+      "country": "Australia",
+      "ec": 4035,
+      "gdp": 3943
+    },
+    {
+      "year": 1973,
+      "country": "Australia",
+      "ec": 4264,
+      "gdp": 4762
+    },
+    {
+      "year": 1974,
+      "country": "Australia",
+      "ec": 4294,
+      "gdp": 6472
+    },
+    {
+      "year": 1975,
+      "country": "Australia",
+      "ec": 4346,
+      "gdp": 6993
+    },
+    {
+      "year": 1976,
+      "country": "Australia",
+      "ec": 4406,
+      "gdp": 7475
+    },
+    {
+      "year": 1977,
+      "country": "Australia",
+      "ec": 4671,
+      "gdp": 7763
+    },
+    {
+      "year": 1978,
+      "country": "Australia",
+      "ec": 4630,
+      "gdp": 8240
+    },
+    {
+      "year": 1979,
+      "country": "Australia",
+      "ec": 4684,
+      "gdp": 9279
+    },
+    {
+      "year": 1980,
+      "country": "Australia",
+      "ec": 4737,
+      "gdp": 10192
+    },
+    {
+      "year": 1981,
+      "country": "Australia",
+      "ec": 4695,
+      "gdp": 11831
+    },
+    {
+      "year": 1982,
+      "country": "Australia",
+      "ec": 4817,
+      "gdp": 12763
+    },
+    {
+      "year": 1983,
+      "country": "Australia",
+      "ec": 4555,
+      "gdp": 11516
+    },
+    {
+      "year": 1984,
+      "country": "Australia",
+      "ec": 4652,
+      "gdp": 12429
+    },
+    {
+      "year": 1985,
+      "country": "Australia",
+      "ec": 4603,
+      "gdp": 11435
+    },
+    {
+      "year": 1986,
+      "country": "Australia",
+      "ec": 4624,
+      "gdp": 11361
+    },
+    {
+      "year": 1987,
+      "country": "Australia",
+      "ec": 4772,
+      "gdp": 11623
+    },
+    {
+      "year": 1988,
+      "country": "Australia",
+      "ec": 4703,
+      "gdp": 14257
+    },
+    {
+      "year": 1989,
+      "country": "Australia",
+      "ec": 5001,
+      "gdp": 17801
+    },
+    {
+      "year": 1990,
+      "country": "Australia",
+      "ec": 5062,
+      "gdp": 18215
+    },
+    {
+      "year": 1991,
+      "country": "Australia",
+      "ec": 4928,
+      "gdp": 18824
+    },
+    {
+      "year": 1992,
+      "country": "Australia",
+      "ec": 4959,
+      "gdp": 18570
+    },
+    {
+      "year": 1993,
+      "country": "Australia",
+      "ec": 5148,
+      "gdp": 17633
+    },
+    {
+      "year": 1994,
+      "country": "Australia",
+      "ec": 5090,
+      "gdp": 18045
+    },
+    {
+      "year": 1995,
+      "country": "Australia",
+      "ec": 5129,
+      "gdp": 20320
+    },
+    {
+      "year": 1996,
+      "country": "Australia",
+      "ec": 5394,
+      "gdp": 21861
+    },
+    {
+      "year": 1997,
+      "country": "Australia",
+      "ec": 5470,
+      "gdp": 23469
+    },
+    {
+      "year": 1998,
+      "country": "Australia",
+      "ec": 5554,
+      "gdp": 21319
+    },
+    {
+      "year": 1999,
+      "country": "Australia",
+      "ec": 5610,
+      "gdp": 20522
+    },
+    {
+      "year": 2000,
+      "country": "Australia",
+      "ec": 5644,
+      "gdp": 21669
+    },
+    {
+      "year": 2001,
+      "country": "Australia",
+      "ec": 5447,
+      "gdp": 19483
+    },
+    {
+      "year": 2002,
+      "country": "Australia",
+      "ec": 5570,
+      "gdp": 20074
+    },
+    {
+      "year": 2003,
+      "country": "Australia",
+      "ec": 5569,
+      "gdp": 23437
+    },
+    {
+      "year": 2004,
+      "country": "Australia",
+      "ec": 5598,
+      "gdp": 30402
+    },
+    {
+      "year": 2005,
+      "country": "Australia",
+      "ec": 5564,
+      "gdp": 33962
+    },
+    {
+      "year": 2006,
+      "country": "Australia",
+      "ec": 5709,
+      "gdp": 36019
+    },
+    {
+      "year": 2007,
+      "country": "Australia",
+      "ec": 5868,
+      "gdp": 40905
+    },
+    {
+      "year": 2008,
+      "country": "Australia",
+      "ec": 5965,
+      "gdp": 49535
+    },
+    {
+      "year": 2009,
+      "country": "Australia",
+      "ec": 5863,
+      "gdp": 42710
+    },
+    {
+      "year": 2010,
+      "country": "Australia",
+      "ec": 5793,
+      "gdp": 51937
+    },
+    {
+      "year": 2011,
+      "country": "Australia",
+      "ec": 5745,
+      "gdp": 62412
+    },
+    {
+      "year": 2012,
+      "country": "Australia",
+      "ec": 5573,
+      "gdp": 67865
+    },
+    {
+      "year": 2013,
+      "country": "Australia",
+      "ec": 5464,
+      "gdp": 67990
+    },
+    {
+      "year": 2014,
+      "country": "Australia",
+      "ec": 5328,
+      "gdp": 62328
+    }
+  ],
+  "Brazil": [
+    {
+      "year": 1971,
+      "country": "Brazil",
+      "ec": 714,
+      "gdp": 503
+    },
+    {
+      "year": 1972,
+      "country": "Brazil",
+      "ec": 747,
+      "gdp": 585
+    },
+    {
+      "year": 1973,
+      "country": "Brazil",
+      "ec": 799,
+      "gdp": 773
+    },
+    {
+      "year": 1974,
+      "country": "Brazil",
+      "ec": 830,
+      "gdp": 1001
+    },
+    {
+      "year": 1975,
+      "country": "Brazil",
+      "ec": 846,
+      "gdp": 1150
+    },
+    {
+      "year": 1976,
+      "country": "Brazil",
+      "ec": 868,
+      "gdp": 1385
+    },
+    {
+      "year": 1977,
+      "country": "Brazil",
+      "ec": 875,
+      "gdp": 1561
+    },
+    {
+      "year": 1978,
+      "country": "Brazil",
+      "ec": 910,
+      "gdp": 1737
+    },
+    {
+      "year": 1979,
+      "country": "Brazil",
+      "ec": 945,
+      "gdp": 1901
+    },
+    {
+      "year": 1980,
+      "country": "Brazil",
+      "ec": 940,
+      "gdp": 1940
+    },
+    {
+      "year": 1981,
+      "country": "Brazil",
+      "ec": 881,
+      "gdp": 2125
+    },
+    {
+      "year": 1982,
+      "country": "Brazil",
+      "ec": 875,
+      "gdp": 2219
+    },
+    {
+      "year": 1983,
+      "country": "Brazil",
+      "ec": 876,
+      "gdp": 1565
+    },
+    {
+      "year": 1984,
+      "country": "Brazil",
+      "ec": 912,
+      "gdp": 1574
+    },
+    {
+      "year": 1985,
+      "country": "Brazil",
+      "ec": 953,
+      "gdp": 1643
+    },
+    {
+      "year": 1986,
+      "country": "Brazil",
+      "ec": 978,
+      "gdp": 1936
+    },
+    {
+      "year": 1987,
+      "country": "Brazil",
+      "ec": 996,
+      "gdp": 2082
+    },
+    {
+      "year": 1988,
+      "country": "Brazil",
+      "ec": 990,
+      "gdp": 2294
+    },
+    {
+      "year": 1989,
+      "country": "Brazil",
+      "ec": 991,
+      "gdp": 2901
+    },
+    {
+      "year": 1990,
+      "country": "Brazil",
+      "ec": 939,
+      "gdp": 3093
+    },
+    {
+      "year": 1991,
+      "country": "Brazil",
+      "ec": 940,
+      "gdp": 3967
+    },
+    {
+      "year": 1992,
+      "country": "Brazil",
+      "ec": 934,
+      "gdp": 2592
+    },
+    {
+      "year": 1993,
+      "country": "Brazil",
+      "ec": 942,
+      "gdp": 2786
+    },
+    {
+      "year": 1994,
+      "country": "Brazil",
+      "ec": 975,
+      "gdp": 3495
+    },
+    {
+      "year": 1995,
+      "country": "Brazil",
+      "ec": 993,
+      "gdp": 4740
+    },
+    {
+      "year": 1996,
+      "country": "Brazil",
+      "ec": 1029,
+      "gdp": 5157
+    },
+    {
+      "year": 1997,
+      "country": "Brazil",
+      "ec": 1064,
+      "gdp": 5271
+    },
+    {
+      "year": 1998,
+      "country": "Brazil",
+      "ec": 1073,
+      "gdp": 5076
+    },
+    {
+      "year": 1999,
+      "country": "Brazil",
+      "ec": 1081,
+      "gdp": 3470
+    },
+    {
+      "year": 2000,
+      "country": "Brazil",
+      "ec": 1069,
+      "gdp": 3739
+    },
+    {
+      "year": 2001,
+      "country": "Brazil",
+      "ec": 1073,
+      "gdp": 3147
+    },
+    {
+      "year": 2002,
+      "country": "Brazil",
+      "ec": 1087,
+      "gdp": 2820
+    },
+    {
+      "year": 2003,
+      "country": "Brazil",
+      "ec": 1090,
+      "gdp": 3060
+    },
+    {
+      "year": 2004,
+      "country": "Brazil",
+      "ec": 1137,
+      "gdp": 3623
+    },
+    {
+      "year": 2005,
+      "country": "Brazil",
+      "ec": 1152,
+      "gdp": 4770
+    },
+    {
+      "year": 2006,
+      "country": "Brazil",
+      "ec": 1179,
+      "gdp": 5860
+    },
+    {
+      "year": 2007,
+      "country": "Brazil",
+      "ec": 1233,
+      "gdp": 7314
+    },
+    {
+      "year": 2008,
+      "country": "Brazil",
+      "ec": 1288,
+      "gdp": 8788
+    },
+    {
+      "year": 2009,
+      "country": "Brazil",
+      "ec": 1234,
+      "gdp": 8553
+    },
+    {
+      "year": 2010,
+      "country": "Brazil",
+      "ec": 1351,
+      "gdp": 11224
+    },
+    {
+      "year": 2011,
+      "country": "Brazil",
+      "ec": 1359,
+      "gdp": 13167
+    },
+    {
+      "year": 2012,
+      "country": "Brazil",
+      "ec": 1405,
+      "gdp": 12291
+    },
+    {
+      "year": 2013,
+      "country": "Brazil",
+      "ec": 1451,
+      "gdp": 12217
+    },
+    {
+      "year": 2014,
+      "country": "Brazil",
+      "ec": 1485,
+      "gdp": 12027
+    }
+  ],
+  "Canada": [
+    {
+      "year": 1971,
+      "country": "Canada",
+      "ec": 6530,
+      "gdp": 4586
+    },
+    {
+      "year": 1972,
+      "country": "Canada",
+      "ec": 6934,
+      "gdp": 5142
+    },
+    {
+      "year": 1973,
+      "country": "Canada",
+      "ec": 7123,
+      "gdp": 5871
+    },
+    {
+      "year": 1974,
+      "country": "Canada",
+      "ec": 7101,
+      "gdp": 7043
+    },
+    {
+      "year": 1975,
+      "country": "Canada",
+      "ec": 7150,
+      "gdp": 7490
+    },
+    {
+      "year": 1976,
+      "country": "Canada",
+      "ec": 7273,
+      "gdp": 8784
+    },
+    {
+      "year": 1977,
+      "country": "Canada",
+      "ec": 7410,
+      "gdp": 8893
+    },
+    {
+      "year": 1978,
+      "country": "Canada",
+      "ec": 7539,
+      "gdp": 9096
+    },
+    {
+      "year": 1979,
+      "country": "Canada",
+      "ec": 7838,
+      "gdp": 10012
+    },
+    {
+      "year": 1980,
+      "country": "Canada",
+      "ec": 7804,
+      "gdp": 11135
+    },
+    {
+      "year": 1981,
+      "country": "Canada",
+      "ec": 7531,
+      "gdp": 12298
+    },
+    {
+      "year": 1982,
+      "country": "Canada",
+      "ec": 7149,
+      "gdp": 12440
+    },
+    {
+      "year": 1983,
+      "country": "Canada",
+      "ec": 7052,
+      "gdp": 13378
+    },
+    {
+      "year": 1984,
+      "country": "Canada",
+      "ec": 7342,
+      "gdp": 13827
+    },
+    {
+      "year": 1985,
+      "country": "Canada",
+      "ec": 7439,
+      "gdp": 14060
+    },
+    {
+      "year": 1986,
+      "country": "Canada",
+      "ec": 7492,
+      "gdp": 14404
+    },
+    {
+      "year": 1987,
+      "country": "Canada",
+      "ec": 7641,
+      "gdp": 16245
+    },
+    {
+      "year": 1988,
+      "country": "Canada",
+      "ec": 7855,
+      "gdp": 18864
+    },
+    {
+      "year": 1989,
+      "country": "Canada",
+      "ec": 7934,
+      "gdp": 20638
+    },
+    {
+      "year": 1990,
+      "country": "Canada",
+      "ec": 7603,
+      "gdp": 21371
+    },
+    {
+      "year": 1991,
+      "country": "Canada",
+      "ec": 7482,
+      "gdp": 21665
+    },
+    {
+      "year": 1992,
+      "country": "Canada",
+      "ec": 7562,
+      "gdp": 20771
+    },
+    {
+      "year": 1993,
+      "country": "Canada",
+      "ec": 7730,
+      "gdp": 20017
+    },
+    {
+      "year": 1994,
+      "country": "Canada",
+      "ec": 7927,
+      "gdp": 19859
+    },
+    {
+      "year": 1995,
+      "country": "Canada",
+      "ec": 7966,
+      "gdp": 20577
+    },
+    {
+      "year": 1996,
+      "country": "Canada",
+      "ec": 8037,
+      "gdp": 21183
+    },
+    {
+      "year": 1997,
+      "country": "Canada",
+      "ec": 8034,
+      "gdp": 21770
+    },
+    {
+      "year": 1998,
+      "country": "Canada",
+      "ec": 7924,
+      "gdp": 20888
+    },
+    {
+      "year": 1999,
+      "country": "Canada",
+      "ec": 8081,
+      "gdp": 22167
+    },
+    {
+      "year": 2000,
+      "country": "Canada",
+      "ec": 8243,
+      "gdp": 24124
+    },
+    {
+      "year": 2001,
+      "country": "Canada",
+      "ec": 8041,
+      "gdp": 23692
+    },
+    {
+      "year": 2002,
+      "country": "Canada",
+      "ec": 7993,
+      "gdp": 24168
+    },
+    {
+      "year": 2003,
+      "country": "Canada",
+      "ec": 8333,
+      "gdp": 28172
+    },
+    {
+      "year": 2004,
+      "country": "Canada",
+      "ec": 8441,
+      "gdp": 31980
+    },
+    {
+      "year": 2005,
+      "country": "Canada",
+      "ec": 8404,
+      "gdp": 36190
+    },
+    {
+      "year": 2006,
+      "country": "Canada",
+      "ec": 8240,
+      "gdp": 40387
+    },
+    {
+      "year": 2007,
+      "country": "Canada",
+      "ec": 8214,
+      "gdp": 44545
+    },
+    {
+      "year": 2008,
+      "country": "Canada",
+      "ec": 8195,
+      "gdp": 46596
+    },
+    {
+      "year": 2009,
+      "country": "Canada",
+      "ec": 7797,
+      "gdp": 40773
+    },
+    {
+      "year": 2010,
+      "country": "Canada",
+      "ec": 7788,
+      "gdp": 47447
+    },
+    {
+      "year": 2011,
+      "country": "Canada",
+      "ec": 7911,
+      "gdp": 52082
+    },
+    {
+      "year": 2012,
+      "country": "Canada",
+      "ec": 7725,
+      "gdp": 52497
+    },
+    {
+      "year": 2013,
+      "country": "Canada",
+      "ec": 7728,
+      "gdp": 52418
+    },
+    {
+      "year": 2014,
+      "country": "Canada",
+      "ec": 7876,
+      "gdp": 50633
+    }
+  ],
+  "China": [
+    {
+      "year": 1971,
+      "country": "China",
+      "ec": 465,
+      "gdp": 119
+    },
+    {
+      "year": 1972,
+      "country": "China",
+      "ec": 477,
+      "gdp": 132
+    },
+    {
+      "year": 1973,
+      "country": "China",
+      "ec": 484,
+      "gdp": 157
+    },
+    {
+      "year": 1974,
+      "country": "China",
+      "ec": 486,
+      "gdp": 160
+    },
+    {
+      "year": 1975,
+      "country": "China",
+      "ec": 527,
+      "gdp": 178
+    },
+    {
+      "year": 1976,
+      "country": "China",
+      "ec": 537,
+      "gdp": 165
+    },
+    {
+      "year": 1977,
+      "country": "China",
+      "ec": 577,
+      "gdp": 185
+    },
+    {
+      "year": 1978,
+      "country": "China",
+      "ec": 617,
+      "gdp": 156
+    },
+    {
+      "year": 1979,
+      "country": "China",
+      "ec": 619,
+      "gdp": 184
+    },
+    {
+      "year": 1980,
+      "country": "China",
+      "ec": 609,
+      "gdp": 195
+    },
+    {
+      "year": 1981,
+      "country": "China",
+      "ec": 597,
+      "gdp": 197
+    },
+    {
+      "year": 1982,
+      "country": "China",
+      "ec": 607,
+      "gdp": 203
+    },
+    {
+      "year": 1983,
+      "country": "China",
+      "ec": 622,
+      "gdp": 225
+    },
+    {
+      "year": 1984,
+      "country": "China",
+      "ec": 651,
+      "gdp": 251
+    },
+    {
+      "year": 1985,
+      "country": "China",
+      "ec": 658,
+      "gdp": 294
+    },
+    {
+      "year": 1986,
+      "country": "China",
+      "ec": 671,
+      "gdp": 282
+    },
+    {
+      "year": 1987,
+      "country": "China",
+      "ec": 694,
+      "gdp": 252
+    },
+    {
+      "year": 1988,
+      "country": "China",
+      "ec": 720,
+      "gdp": 284
+    },
+    {
+      "year": 1989,
+      "country": "China",
+      "ec": 724,
+      "gdp": 311
+    },
+    {
+      "year": 1990,
+      "country": "China",
+      "ec": 767,
+      "gdp": 318
+    },
+    {
+      "year": 1991,
+      "country": "China",
+      "ec": 737,
+      "gdp": 333
+    },
+    {
+      "year": 1992,
+      "country": "China",
+      "ec": 753,
+      "gdp": 366
+    },
+    {
+      "year": 1993,
+      "country": "China",
+      "ec": 788,
+      "gdp": 377
+    },
+    {
+      "year": 1994,
+      "country": "China",
+      "ec": 816,
+      "gdp": 473
+    },
+    {
+      "year": 1995,
+      "country": "China",
+      "ec": 867,
+      "gdp": 610
+    },
+    {
+      "year": 1996,
+      "country": "China",
+      "ec": 882,
+      "gdp": 709
+    },
+    {
+      "year": 1997,
+      "country": "China",
+      "ec": 872,
+      "gdp": 782
+    },
+    {
+      "year": 1998,
+      "country": "China",
+      "ec": 869,
+      "gdp": 829
+    },
+    {
+      "year": 1999,
+      "country": "China",
+      "ec": 879,
+      "gdp": 873
+    },
+    {
+      "year": 2000,
+      "country": "China",
+      "ec": 899,
+      "gdp": 959
+    },
+    {
+      "year": 2001,
+      "country": "China",
+      "ec": 929,
+      "gdp": 1053
+    },
+    {
+      "year": 2002,
+      "country": "China",
+      "ec": 985,
+      "gdp": 1149
+    },
+    {
+      "year": 2003,
+      "country": "China",
+      "ec": 1118,
+      "gdp": 1289
+    },
+    {
+      "year": 2004,
+      "country": "China",
+      "ec": 1268,
+      "gdp": 1509
+    },
+    {
+      "year": 2005,
+      "country": "China",
+      "ec": 1394,
+      "gdp": 1753
+    },
+    {
+      "year": 2006,
+      "country": "China",
+      "ec": 1515,
+      "gdp": 2099
+    },
+    {
+      "year": 2007,
+      "country": "China",
+      "ec": 1630,
+      "gdp": 2695
+    },
+    {
+      "year": 2008,
+      "country": "China",
+      "ec": 1673,
+      "gdp": 3471
+    },
+    {
+      "year": 2009,
+      "country": "China",
+      "ec": 1778,
+      "gdp": 3838
+    },
+    {
+      "year": 2010,
+      "country": "China",
+      "ec": 1955,
+      "gdp": 4561
+    },
+    {
+      "year": 2011,
+      "country": "China",
+      "ec": 2086,
+      "gdp": 5634
+    },
+    {
+      "year": 2012,
+      "country": "China",
+      "ec": 2155,
+      "gdp": 6338
+    },
+    {
+      "year": 2013,
+      "country": "China",
+      "ec": 2214,
+      "gdp": 7078
+    },
+    {
+      "year": 2014,
+      "country": "China",
+      "ec": 2237,
+      "gdp": 7684
+    }
+  ],
+  "Dem. Rep. Congo": [
+    {
+      "year": 1971,
+      "country": "Dem. Rep. Congo",
+      "ec": 325,
+      "gdp": 272
+    },
+    {
+      "year": 1972,
+      "country": "Dem. Rep. Congo",
+      "ec": 324,
+      "gdp": 292
+    },
+    {
+      "year": 1973,
+      "country": "Dem. Rep. Congo",
+      "ec": 327,
+      "gdp": 363
+    },
+    {
+      "year": 1974,
+      "country": "Dem. Rep. Congo",
+      "ec": 327,
+      "gdp": 431
+    },
+    {
+      "year": 1975,
+      "country": "Dem. Rep. Congo",
+      "ec": 326,
+      "gdp": 447
+    },
+    {
+      "year": 1976,
+      "country": "Dem. Rep. Congo",
+      "ec": 322,
+      "gdp": 410
+    },
+    {
+      "year": 1977,
+      "country": "Dem. Rep. Congo",
+      "ec": 323,
+      "gdp": 509
+    },
+    {
+      "year": 1978,
+      "country": "Dem. Rep. Congo",
+      "ec": 322,
+      "gdp": 616
+    },
+    {
+      "year": 1979,
+      "country": "Dem. Rep. Congo",
+      "ec": 327,
+      "gdp": 587
+    },
+    {
+      "year": 1980,
+      "country": "Dem. Rep. Congo",
+      "ec": 321,
+      "gdp": 546
+    },
+    {
+      "year": 1981,
+      "country": "Dem. Rep. Congo",
+      "ec": 328,
+      "gdp": 464
+    },
+    {
+      "year": 1982,
+      "country": "Dem. Rep. Congo",
+      "ec": 321,
+      "gdp": 493
+    },
+    {
+      "year": 1983,
+      "country": "Dem. Rep. Congo",
+      "ec": 333,
+      "gdp": 387
+    },
+    {
+      "year": 1984,
+      "country": "Dem. Rep. Congo",
+      "ec": 342,
+      "gdp": 270
+    },
+    {
+      "year": 1985,
+      "country": "Dem. Rep. Congo",
+      "ec": 333,
+      "gdp": 241
+    },
+    {
+      "year": 1986,
+      "country": "Dem. Rep. Congo",
+      "ec": 331,
+      "gdp": 264
+    },
+    {
+      "year": 1987,
+      "country": "Dem. Rep. Congo",
+      "ec": 335,
+      "gdp": 243
+    },
+    {
+      "year": 1988,
+      "country": "Dem. Rep. Congo",
+      "ec": 338,
+      "gdp": 273
+    },
+    {
+      "year": 1989,
+      "country": "Dem. Rep. Congo",
+      "ec": 336,
+      "gdp": 270
+    },
+    {
+      "year": 1990,
+      "country": "Dem. Rep. Congo",
+      "ec": 341,
+      "gdp": 270
+    },
+    {
+      "year": 1991,
+      "country": "Dem. Rep. Congo",
+      "ec": 329,
+      "gdp": 268
+    },
+    {
+      "year": 1992,
+      "country": "Dem. Rep. Congo",
+      "ec": 322,
+      "gdp": 220
+    },
+    {
+      "year": 1993,
+      "country": "Dem. Rep. Congo",
+      "ec": 316,
+      "gdp": 276
+    },
+    {
+      "year": 1994,
+      "country": "Dem. Rep. Congo",
+      "ec": 306,
+      "gdp": 145
+    },
+    {
+      "year": 1995,
+      "country": "Dem. Rep. Congo",
+      "ec": 309,
+      "gdp": 136
+    },
+    {
+      "year": 1996,
+      "country": "Dem. Rep. Congo",
+      "ec": 310,
+      "gdp": 135
+    },
+    {
+      "year": 1997,
+      "country": "Dem. Rep. Congo",
+      "ec": 308,
+      "gdp": 139
+    },
+    {
+      "year": 1998,
+      "country": "Dem. Rep. Congo",
+      "ec": 309,
+      "gdp": 139
+    },
+    {
+      "year": 1999,
+      "country": "Dem. Rep. Congo",
+      "ec": 303,
+      "gdp": 103
+    },
+    {
+      "year": 2000,
+      "country": "Dem. Rep. Congo",
+      "ec": 295,
+      "gdp": 405
+    },
+    {
+      "year": 2001,
+      "country": "Dem. Rep. Congo",
+      "ec": 297,
+      "gdp": 154
+    },
+    {
+      "year": 2002,
+      "country": "Dem. Rep. Congo",
+      "ec": 298,
+      "gdp": 175
+    },
+    {
+      "year": 2003,
+      "country": "Dem. Rep. Congo",
+      "ec": 300,
+      "gdp": 174
+    },
+    {
+      "year": 2004,
+      "country": "Dem. Rep. Congo",
+      "ec": 303,
+      "gdp": 194
+    },
+    {
+      "year": 2005,
+      "country": "Dem. Rep. Congo",
+      "ec": 304,
+      "gdp": 219
+    },
+    {
+      "year": 2006,
+      "country": "Dem. Rep. Congo",
+      "ec": 306,
+      "gdp": 256
+    },
+    {
+      "year": 2007,
+      "country": "Dem. Rep. Congo",
+      "ec": 307,
+      "gdp": 287
+    },
+    {
+      "year": 2008,
+      "country": "Dem. Rep. Congo",
+      "ec": 308,
+      "gdp": 328
+    },
+    {
+      "year": 2009,
+      "country": "Dem. Rep. Congo",
+      "ec": 307,
+      "gdp": 299
+    },
+    {
+      "year": 2010,
+      "country": "Dem. Rep. Congo",
+      "ec": 308,
+      "gdp": 334
+    },
+    {
+      "year": 2011,
+      "country": "Dem. Rep. Congo",
+      "ec": 316,
+      "gdp": 387
+    },
+    {
+      "year": 2012,
+      "country": "Dem. Rep. Congo",
+      "ec": 379,
+      "gdp": 425
+    },
+    {
+      "year": 2013,
+      "country": "Dem. Rep. Congo",
+      "ec": 385,
+      "gdp": 458
+    },
+    {
+      "year": 2014,
+      "country": "Dem. Rep. Congo",
+      "ec": 390,
+      "gdp": 487
+    }
+  ],
+  "Germany": [
+    {
+      "year": 1971,
+      "country": "Germany",
+      "ec": 3895,
+      "gdp": 3180
+    },
+    {
+      "year": 1972,
+      "country": "Germany",
+      "ec": 4017,
+      "gdp": 3796
+    },
+    {
+      "year": 1973,
+      "country": "Germany",
+      "ec": 4240,
+      "gdp": 5028
+    },
+    {
+      "year": 1974,
+      "country": "Germany",
+      "ec": 4158,
+      "gdp": 5618
+    },
+    {
+      "year": 1975,
+      "country": "Germany",
+      "ec": 3985,
+      "gdp": 6213
+    },
+    {
+      "year": 1976,
+      "country": "Germany",
+      "ec": 4315,
+      "gdp": 6610
+    },
+    {
+      "year": 1977,
+      "country": "Germany",
+      "ec": 4336,
+      "gdp": 7654
+    },
+    {
+      "year": 1978,
+      "country": "Germany",
+      "ec": 4484,
+      "gdp": 9446
+    },
+    {
+      "year": 1979,
+      "country": "Germany",
+      "ec": 4685,
+      "gdp": 11238
+    },
+    {
+      "year": 1980,
+      "country": "Germany",
+      "ec": 4562,
+      "gdp": 12092
+    },
+    {
+      "year": 1981,
+      "country": "Germany",
+      "ec": 4399,
+      "gdp": 10170
+    },
+    {
+      "year": 1982,
+      "country": "Germany",
+      "ec": 4258,
+      "gdp": 9876
+    },
+    {
+      "year": 1983,
+      "country": "Germany",
+      "ec": 4268,
+      "gdp": 9827
+    },
+    {
+      "year": 1984,
+      "country": "Germany",
+      "ec": 4447,
+      "gdp": 9278
+    },
+    {
+      "year": 1985,
+      "country": "Germany",
+      "ec": 4598,
+      "gdp": 9394
+    },
+    {
+      "year": 1986,
+      "country": "Germany",
+      "ec": 4589,
+      "gdp": 13411
+    },
+    {
+      "year": 1987,
+      "country": "Germany",
+      "ec": 4616,
+      "gdp": 16614
+    },
+    {
+      "year": 1988,
+      "country": "Germany",
+      "ec": 4629,
+      "gdp": 17863
+    },
+    {
+      "year": 1989,
+      "country": "Germany",
+      "ec": 4515,
+      "gdp": 17697
+    },
+    {
+      "year": 1990,
+      "country": "Germany",
+      "ec": 4421,
+      "gdp": 22220
+    },
+    {
+      "year": 1991,
+      "country": "Germany",
+      "ec": 4303,
+      "gdp": 23269
+    },
+    {
+      "year": 1992,
+      "country": "Germany",
+      "ec": 4191,
+      "gdp": 26334
+    },
+    {
+      "year": 1993,
+      "country": "Germany",
+      "ec": 4123,
+      "gdp": 25489
+    },
+    {
+      "year": 1994,
+      "country": "Germany",
+      "ec": 4089,
+      "gdp": 27088
+    },
+    {
+      "year": 1995,
+      "country": "Germany",
+      "ec": 4120,
+      "gdp": 31730
+    },
+    {
+      "year": 1996,
+      "country": "Germany",
+      "ec": 4247,
+      "gdp": 30564
+    },
+    {
+      "year": 1997,
+      "country": "Germany",
+      "ec": 4203,
+      "gdp": 27046
+    },
+    {
+      "year": 1998,
+      "country": "Germany",
+      "ec": 4177,
+      "gdp": 27341
+    },
+    {
+      "year": 1999,
+      "country": "Germany",
+      "ec": 4080,
+      "gdp": 26796
+    },
+    {
+      "year": 2000,
+      "country": "Germany",
+      "ec": 4094,
+      "gdp": 23719
+    },
+    {
+      "year": 2001,
+      "country": "Germany",
+      "ec": 4210,
+      "gdp": 23687
+    },
+    {
+      "year": 2002,
+      "country": "Germany",
+      "ec": 4108,
+      "gdp": 25205
+    },
+    {
+      "year": 2003,
+      "country": "Germany",
+      "ec": 4085,
+      "gdp": 30360
+    },
+    {
+      "year": 2004,
+      "country": "Germany",
+      "ec": 4114,
+      "gdp": 34166
+    },
+    {
+      "year": 2005,
+      "country": "Germany",
+      "ec": 4087,
+      "gdp": 34697
+    },
+    {
+      "year": 2006,
+      "country": "Germany",
+      "ec": 4205,
+      "gdp": 36448
+    },
+    {
+      "year": 2007,
+      "country": "Germany",
+      "ec": 3986,
+      "gdp": 41815
+    },
+    {
+      "year": 2008,
+      "country": "Germany",
+      "ec": 4037,
+      "gdp": 45699
+    },
+    {
+      "year": 2009,
+      "country": "Germany",
+      "ec": 3791,
+      "gdp": 41733
+    },
+    {
+      "year": 2010,
+      "country": "Germany",
+      "ec": 3997,
+      "gdp": 41786
+    },
+    {
+      "year": 2011,
+      "country": "Germany",
+      "ec": 3870,
+      "gdp": 46810
+    },
+    {
+      "year": 2012,
+      "country": "Germany",
+      "ec": 3877,
+      "gdp": 44065
+    },
+    {
+      "year": 2013,
+      "country": "Germany",
+      "ec": 3940,
+      "gdp": 46531
+    },
+    {
+      "year": 2014,
+      "country": "Germany",
+      "ec": 3779,
+      "gdp": 48043
+    }
+  ],
+  "Spain": [
+    {
+      "year": 1971,
+      "country": "Spain",
+      "ec": 1245,
+      "gdp": 1358
+    },
+    {
+      "year": 1972,
+      "country": "Spain",
+      "ec": 1296,
+      "gdp": 1704
+    },
+    {
+      "year": 1973,
+      "country": "Spain",
+      "ec": 1474,
+      "gdp": 2241
+    },
+    {
+      "year": 1974,
+      "country": "Spain",
+      "ec": 1580,
+      "gdp": 2742
+    },
+    {
+      "year": 1975,
+      "country": "Spain",
+      "ec": 1608,
+      "gdp": 3201
+    },
+    {
+      "year": 1976,
+      "country": "Spain",
+      "ec": 1708,
+      "gdp": 3270
+    },
+    {
+      "year": 1977,
+      "country": "Spain",
+      "ec": 1661,
+      "gdp": 3618
+    },
+    {
+      "year": 1978,
+      "country": "Spain",
+      "ec": 1757,
+      "gdp": 4345
+    },
+    {
+      "year": 1979,
+      "country": "Spain",
+      "ec": 1769,
+      "gdp": 5755
+    },
+    {
+      "year": 1980,
+      "country": "Spain",
+      "ec": 1806,
+      "gdp": 6192
+    },
+    {
+      "year": 1981,
+      "country": "Spain",
+      "ec": 1820,
+      "gdp": 5357
+    },
+    {
+      "year": 1982,
+      "country": "Spain",
+      "ec": 1760,
+      "gdp": 5146
+    },
+    {
+      "year": 1983,
+      "country": "Spain",
+      "ec": 1781,
+      "gdp": 4466
+    },
+    {
+      "year": 1984,
+      "country": "Spain",
+      "ec": 1813,
+      "gdp": 4478
+    },
+    {
+      "year": 1985,
+      "country": "Spain",
+      "ec": 1843,
+      "gdp": 4687
+    },
+    {
+      "year": 1986,
+      "country": "Spain",
+      "ec": 1876,
+      "gdp": 6496
+    },
+    {
+      "year": 1987,
+      "country": "Spain",
+      "ec": 1917,
+      "gdp": 8217
+    },
+    {
+      "year": 1988,
+      "country": "Spain",
+      "ec": 2066,
+      "gdp": 9677
+    },
+    {
+      "year": 1989,
+      "country": "Spain",
+      "ec": 2269,
+      "gdp": 10653
+    },
+    {
+      "year": 1990,
+      "country": "Spain",
+      "ec": 2317,
+      "gdp": 13767
+    },
+    {
+      "year": 1991,
+      "country": "Spain",
+      "ec": 2398,
+      "gdp": 14772
+    },
+    {
+      "year": 1992,
+      "country": "Spain",
+      "ec": 2430,
+      "gdp": 16068
+    },
+    {
+      "year": 1993,
+      "country": "Spain",
+      "ec": 2319,
+      "gdp": 13304
+    },
+    {
+      "year": 1994,
+      "country": "Spain",
+      "ec": 2436,
+      "gdp": 13379
+    },
+    {
+      "year": 1995,
+      "country": "Spain",
+      "ec": 2537,
+      "gdp": 15430
+    },
+    {
+      "year": 1996,
+      "country": "Spain",
+      "ec": 2489,
+      "gdp": 16069
+    },
+    {
+      "year": 1997,
+      "country": "Spain",
+      "ec": 2635,
+      "gdp": 14696
+    },
+    {
+      "year": 1998,
+      "country": "Spain",
+      "ec": 2756,
+      "gdp": 15340
+    },
+    {
+      "year": 1999,
+      "country": "Spain",
+      "ec": 2878,
+      "gdp": 15678
+    },
+    {
+      "year": 2000,
+      "country": "Spain",
+      "ec": 3004,
+      "gdp": 14677
+    },
+    {
+      "year": 2001,
+      "country": "Spain",
+      "ec": 3061,
+      "gdp": 15324
+    },
+    {
+      "year": 2002,
+      "country": "Spain",
+      "ec": 3108,
+      "gdp": 17020
+    },
+    {
+      "year": 2003,
+      "country": "Spain",
+      "ec": 3157,
+      "gdp": 21496
+    },
+    {
+      "year": 2004,
+      "country": "Spain",
+      "ec": 3239,
+      "gdp": 24919
+    },
+    {
+      "year": 2005,
+      "country": "Spain",
+      "ec": 3251,
+      "gdp": 26511
+    },
+    {
+      "year": 2006,
+      "country": "Spain",
+      "ec": 3194,
+      "gdp": 28483
+    },
+    {
+      "year": 2007,
+      "country": "Spain",
+      "ec": 3180,
+      "gdp": 32709
+    },
+    {
+      "year": 2008,
+      "country": "Spain",
+      "ec": 3026,
+      "gdp": 35579
+    },
+    {
+      "year": 2009,
+      "country": "Spain",
+      "ec": 2758,
+      "gdp": 32334
+    },
+    {
+      "year": 2010,
+      "country": "Spain",
+      "ec": 2743,
+      "gdp": 30737
+    },
+    {
+      "year": 2011,
+      "country": "Spain",
+      "ec": 2690,
+      "gdp": 31835
+    },
+    {
+      "year": 2012,
+      "country": "Spain",
+      "ec": 2683,
+      "gdp": 28564
+    },
+    {
+      "year": 2013,
+      "country": "Spain",
+      "ec": 2512,
+      "gdp": 29212
+    },
+    {
+      "year": 2014,
+      "country": "Spain",
+      "ec": 2465,
+      "gdp": 29623
+    }
+  ],
+  "Ethiopia": [
+    {
+      "year": 1971,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 0
+    },
+    {
+      "year": 1972,
+      "country": "Ethiopia",
+      "ec": 474,
+      "gdp": 0
+    },
+    {
+      "year": 1973,
+      "country": "Ethiopia",
+      "ec": 474,
+      "gdp": 0
+    },
+    {
+      "year": 1974,
+      "country": "Ethiopia",
+      "ec": 474,
+      "gdp": 0
+    },
+    {
+      "year": 1975,
+      "country": "Ethiopia",
+      "ec": 472,
+      "gdp": 0
+    },
+    {
+      "year": 1976,
+      "country": "Ethiopia",
+      "ec": 472,
+      "gdp": 0
+    },
+    {
+      "year": 1977,
+      "country": "Ethiopia",
+      "ec": 471,
+      "gdp": 0
+    },
+    {
+      "year": 1978,
+      "country": "Ethiopia",
+      "ec": 473,
+      "gdp": 0
+    },
+    {
+      "year": 1979,
+      "country": "Ethiopia",
+      "ec": 473,
+      "gdp": 0
+    },
+    {
+      "year": 1980,
+      "country": "Ethiopia",
+      "ec": 473,
+      "gdp": 0
+    },
+    {
+      "year": 1981,
+      "country": "Ethiopia",
+      "ec": 474,
+      "gdp": 203
+    },
+    {
+      "year": 1982,
+      "country": "Ethiopia",
+      "ec": 473,
+      "gdp": 208
+    },
+    {
+      "year": 1983,
+      "country": "Ethiopia",
+      "ec": 473,
+      "gdp": 224
+    },
+    {
+      "year": 1984,
+      "country": "Ethiopia",
+      "ec": 472,
+      "gdp": 205
+    },
+    {
+      "year": 1985,
+      "country": "Ethiopia",
+      "ec": 472,
+      "gdp": 232
+    },
+    {
+      "year": 1986,
+      "country": "Ethiopia",
+      "ec": 473,
+      "gdp": 234
+    },
+    {
+      "year": 1987,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 242
+    },
+    {
+      "year": 1988,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 243
+    },
+    {
+      "year": 1989,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 247
+    },
+    {
+      "year": 1990,
+      "country": "Ethiopia",
+      "ec": 477,
+      "gdp": 253
+    },
+    {
+      "year": 1991,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 270
+    },
+    {
+      "year": 1992,
+      "country": "Ethiopia",
+      "ec": 470,
+      "gdp": 203
+    },
+    {
+      "year": 1993,
+      "country": "Ethiopia",
+      "ec": 473,
+      "gdp": 165
+    },
+    {
+      "year": 1994,
+      "country": "Ethiopia",
+      "ec": 474,
+      "gdp": 125
+    },
+    {
+      "year": 1995,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 134
+    },
+    {
+      "year": 1996,
+      "country": "Ethiopia",
+      "ec": 477,
+      "gdp": 145
+    },
+    {
+      "year": 1997,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 141
+    },
+    {
+      "year": 1998,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 125
+    },
+    {
+      "year": 1999,
+      "country": "Ethiopia",
+      "ec": 475,
+      "gdp": 119
+    },
+    {
+      "year": 2000,
+      "country": "Ethiopia",
+      "ec": 476,
+      "gdp": 124
+    },
+    {
+      "year": 2001,
+      "country": "Ethiopia",
+      "ec": 480,
+      "gdp": 120
+    },
+    {
+      "year": 2002,
+      "country": "Ethiopia",
+      "ec": 480,
+      "gdp": 111
+    },
+    {
+      "year": 2003,
+      "country": "Ethiopia",
+      "ec": 482,
+      "gdp": 119
+    },
+    {
+      "year": 2004,
+      "country": "Ethiopia",
+      "ec": 482,
+      "gdp": 136
+    },
+    {
+      "year": 2005,
+      "country": "Ethiopia",
+      "ec": 481,
+      "gdp": 162
+    },
+    {
+      "year": 2006,
+      "country": "Ethiopia",
+      "ec": 482,
+      "gdp": 194
+    },
+    {
+      "year": 2007,
+      "country": "Ethiopia",
+      "ec": 484,
+      "gdp": 243
+    },
+    {
+      "year": 2008,
+      "country": "Ethiopia",
+      "ec": 485,
+      "gdp": 325
+    },
+    {
+      "year": 2009,
+      "country": "Ethiopia",
+      "ec": 486,
+      "gdp": 380
+    },
+    {
+      "year": 2010,
+      "country": "Ethiopia",
+      "ec": 486,
+      "gdp": 341
+    },
+    {
+      "year": 2011,
+      "country": "Ethiopia",
+      "ec": 490,
+      "gdp": 355
+    },
+    {
+      "year": 2012,
+      "country": "Ethiopia",
+      "ec": 491,
+      "gdp": 469
+    },
+    {
+      "year": 2013,
+      "country": "Ethiopia",
+      "ec": 495,
+      "gdp": 502
+    },
+    {
+      "year": 2014,
+      "country": "Ethiopia",
+      "ec": 497,
+      "gdp": 571
+    }
+  ],
+  "Finland": [
+    {
+      "year": 1971,
+      "country": "Finland",
+      "ec": 3939,
+      "gdp": 2718
+    },
+    {
+      "year": 1972,
+      "country": "Finland",
+      "ec": 4188,
+      "gdp": 3180
+    },
+    {
+      "year": 1973,
+      "country": "Finland",
+      "ec": 4508,
+      "gdp": 4176
+    },
+    {
+      "year": 1974,
+      "country": "Finland",
+      "ec": 4384,
+      "gdp": 5302
+    },
+    {
+      "year": 1975,
+      "country": "Finland",
+      "ec": 4182,
+      "gdp": 6260
+    },
+    {
+      "year": 1976,
+      "country": "Finland",
+      "ec": 4460,
+      "gdp": 6745
+    },
+    {
+      "year": 1977,
+      "country": "Finland",
+      "ec": 4516,
+      "gdp": 7074
+    },
+    {
+      "year": 1978,
+      "country": "Finland",
+      "ec": 4665,
+      "gdp": 7634
+    },
+    {
+      "year": 1979,
+      "country": "Finland",
+      "ec": 4964,
+      "gdp": 9339
+    },
+    {
+      "year": 1980,
+      "country": "Finland",
+      "ec": 5147,
+      "gdp": 11232
+    },
+    {
+      "year": 1981,
+      "country": "Finland",
+      "ec": 4935,
+      "gdp": 10935
+    },
+    {
+      "year": 1982,
+      "country": "Finland",
+      "ec": 4805,
+      "gdp": 10945
+    },
+    {
+      "year": 1983,
+      "country": "Finland",
+      "ec": 4824,
+      "gdp": 10506
+    },
+    {
+      "year": 1984,
+      "country": "Finland",
+      "ec": 4911,
+      "gdp": 10842
+    },
+    {
+      "year": 1985,
+      "country": "Finland",
+      "ec": 5270,
+      "gdp": 11406
+    },
+    {
+      "year": 1986,
+      "country": "Finland",
+      "ec": 5483,
+      "gdp": 14962
+    },
+    {
+      "year": 1987,
+      "country": "Finland",
+      "ec": 5961,
+      "gdp": 18581
+    },
+    {
+      "year": 1988,
+      "country": "Finland",
+      "ec": 5590,
+      "gdp": 22057
+    },
+    {
+      "year": 1989,
+      "country": "Finland",
+      "ec": 5754,
+      "gdp": 23984
+    },
+    {
+      "year": 1990,
+      "country": "Finland",
+      "ec": 5692,
+      "gdp": 28381
+    },
+    {
+      "year": 1991,
+      "country": "Finland",
+      "ec": 5743,
+      "gdp": 25503
+    },
+    {
+      "year": 1992,
+      "country": "Finland",
+      "ec": 5381,
+      "gdp": 22337
+    },
+    {
+      "year": 1993,
+      "country": "Finland",
+      "ec": 5617,
+      "gdp": 17617
+    },
+    {
+      "year": 1994,
+      "country": "Finland",
+      "ec": 5973,
+      "gdp": 20306
+    },
+    {
+      "year": 1995,
+      "country": "Finland",
+      "ec": 5662,
+      "gdp": 26273
+    },
+    {
+      "year": 1996,
+      "country": "Finland",
+      "ec": 6070,
+      "gdp": 25778
+    },
+    {
+      "year": 1997,
+      "country": "Finland",
+      "ec": 6277,
+      "gdp": 24676
+    },
+    {
+      "year": 1998,
+      "country": "Finland",
+      "ec": 6319,
+      "gdp": 25989
+    },
+    {
+      "year": 1999,
+      "country": "Finland",
+      "ec": 6284,
+      "gdp": 26179
+    },
+    {
+      "year": 2000,
+      "country": "Finland",
+      "ec": 6262,
+      "gdp": 24253
+    },
+    {
+      "year": 2001,
+      "country": "Finland",
+      "ec": 6411,
+      "gdp": 24913
+    },
+    {
+      "year": 2002,
+      "country": "Finland",
+      "ec": 6729,
+      "gdp": 26834
+    },
+    {
+      "year": 2003,
+      "country": "Finland",
+      "ec": 7077,
+      "gdp": 32816
+    },
+    {
+      "year": 2004,
+      "country": "Finland",
+      "ec": 7135,
+      "gdp": 37636
+    },
+    {
+      "year": 2005,
+      "country": "Finland",
+      "ec": 6562,
+      "gdp": 38969
+    },
+    {
+      "year": 2006,
+      "country": "Finland",
+      "ec": 7112,
+      "gdp": 41121
+    },
+    {
+      "year": 2007,
+      "country": "Finland",
+      "ec": 6975,
+      "gdp": 48289
+    },
+    {
+      "year": 2008,
+      "country": "Finland",
+      "ec": 6669,
+      "gdp": 53401
+    },
+    {
+      "year": 2009,
+      "country": "Finland",
+      "ec": 6268,
+      "gdp": 47107
+    },
+    {
+      "year": 2010,
+      "country": "Finland",
+      "ec": 6829,
+      "gdp": 46202
+    },
+    {
+      "year": 2011,
+      "country": "Finland",
+      "ec": 6538,
+      "gdp": 50791
+    },
+    {
+      "year": 2012,
+      "country": "Finland",
+      "ec": 6276,
+      "gdp": 47416
+    },
+    {
+      "year": 2013,
+      "country": "Finland",
+      "ec": 6116,
+      "gdp": 49638
+    },
+    {
+      "year": 2014,
+      "country": "Finland",
+      "ec": 6213,
+      "gdp": 49915
+    }
+  ],
+  "France": [
+    {
+      "year": 1971,
+      "country": "France",
+      "ec": 3022,
+      "gdp": 3162
+    },
+    {
+      "year": 1972,
+      "country": "France",
+      "ec": 3161,
+      "gdp": 3842
+    },
+    {
+      "year": 1973,
+      "country": "France",
+      "ec": 3371,
+      "gdp": 4948
+    },
+    {
+      "year": 1974,
+      "country": "France",
+      "ec": 3236,
+      "gdp": 5300
+    },
+    {
+      "year": 1975,
+      "country": "France",
+      "ec": 3041,
+      "gdp": 6651
+    },
+    {
+      "year": 1976,
+      "country": "France",
+      "ec": 3229,
+      "gdp": 6826
+    },
+    {
+      "year": 1977,
+      "country": "France",
+      "ec": 3156,
+      "gdp": 7492
+    },
+    {
+      "year": 1978,
+      "country": "France",
+      "ec": 3354,
+      "gdp": 9222
+    },
+    {
+      "year": 1979,
+      "country": "France",
+      "ec": 3482,
+      "gdp": 11136
+    },
+    {
+      "year": 1980,
+      "country": "France",
+      "ec": 3465,
+      "gdp": 12672
+    },
+    {
+      "year": 1981,
+      "country": "France",
+      "ec": 3370,
+      "gdp": 11074
+    },
+    {
+      "year": 1982,
+      "country": "France",
+      "ec": 3272,
+      "gdp": 10471
+    },
+    {
+      "year": 1983,
+      "country": "France",
+      "ec": 3340,
+      "gdp": 9970
+    },
+    {
+      "year": 1984,
+      "country": "France",
+      "ec": 3440,
+      "gdp": 9397
+    },
+    {
+      "year": 1985,
+      "country": "France",
+      "ec": 3589,
+      "gdp": 9739
+    },
+    {
+      "year": 1986,
+      "country": "France",
+      "ec": 3623,
+      "gdp": 13503
+    },
+    {
+      "year": 1987,
+      "country": "France",
+      "ec": 3691,
+      "gdp": 16251
+    },
+    {
+      "year": 1988,
+      "country": "France",
+      "ec": 3652,
+      "gdp": 17616
+    },
+    {
+      "year": 1989,
+      "country": "France",
+      "ec": 3780,
+      "gdp": 17621
+    },
+    {
+      "year": 1990,
+      "country": "France",
+      "ec": 3828,
+      "gdp": 21691
+    },
+    {
+      "year": 1991,
+      "country": "France",
+      "ec": 4043,
+      "gdp": 21675
+    },
+    {
+      "year": 1992,
+      "country": "France",
+      "ec": 3954,
+      "gdp": 23814
+    },
+    {
+      "year": 1993,
+      "country": "France",
+      "ec": 4002,
+      "gdp": 22380
+    },
+    {
+      "year": 1994,
+      "country": "France",
+      "ec": 3836,
+      "gdp": 23497
+    },
+    {
+      "year": 1995,
+      "country": "France",
+      "ec": 3981,
+      "gdp": 26890
+    },
+    {
+      "year": 1996,
+      "country": "France",
+      "ec": 4192,
+      "gdp": 26872
+    },
+    {
+      "year": 1997,
+      "country": "France",
+      "ec": 4049,
+      "gdp": 24229
+    },
+    {
+      "year": 1998,
+      "country": "France",
+      "ec": 4152,
+      "gdp": 24974
+    },
+    {
+      "year": 1999,
+      "country": "France",
+      "ec": 4124,
+      "gdp": 24673
+    },
+    {
+      "year": 2000,
+      "country": "France",
+      "ec": 4135,
+      "gdp": 22364
+    },
+    {
+      "year": 2001,
+      "country": "France",
+      "ec": 4246,
+      "gdp": 22434
+    },
+    {
+      "year": 2002,
+      "country": "France",
+      "ec": 4225,
+      "gdp": 24177
+    },
+    {
+      "year": 2003,
+      "country": "France",
+      "ec": 4271,
+      "gdp": 29568
+    },
+    {
+      "year": 2004,
+      "country": "France",
+      "ec": 4302,
+      "gdp": 33741
+    },
+    {
+      "year": 2005,
+      "country": "France",
+      "ec": 4287,
+      "gdp": 34760
+    },
+    {
+      "year": 2006,
+      "country": "France",
+      "ec": 4189,
+      "gdp": 36444
+    },
+    {
+      "year": 2007,
+      "country": "France",
+      "ec": 4116,
+      "gdp": 41508
+    },
+    {
+      "year": 2008,
+      "country": "France",
+      "ec": 4111,
+      "gdp": 45334
+    },
+    {
+      "year": 2009,
+      "country": "France",
+      "ec": 3913,
+      "gdp": 41575
+    },
+    {
+      "year": 2010,
+      "country": "France",
+      "ec": 4017,
+      "gdp": 40638
+    },
+    {
+      "year": 2011,
+      "country": "France",
+      "ec": 3847,
+      "gdp": 43791
+    },
+    {
+      "year": 2012,
+      "country": "France",
+      "ec": 3837,
+      "gdp": 40875
+    },
+    {
+      "year": 2013,
+      "country": "France",
+      "ec": 3834,
+      "gdp": 42593
+    },
+    {
+      "year": 2014,
+      "country": "France",
+      "ec": 3659,
+      "gdp": 43009
+    }
+  ],
+  "United Kingdom": [
+    {
+      "year": 1971,
+      "country": "United Kingdom",
+      "ec": 3733,
+      "gdp": 2650
+    },
+    {
+      "year": 1972,
+      "country": "United Kingdom",
+      "ec": 3748,
+      "gdp": 3030
+    },
+    {
+      "year": 1973,
+      "country": "United Kingdom",
+      "ec": 3881,
+      "gdp": 3426
+    },
+    {
+      "year": 1974,
+      "country": "United Kingdom",
+      "ec": 3735,
+      "gdp": 3666
+    },
+    {
+      "year": 1975,
+      "country": "United Kingdom",
+      "ec": 3546,
+      "gdp": 4300
+    },
+    {
+      "year": 1976,
+      "country": "United Kingdom",
+      "ec": 3617,
+      "gdp": 4138
+    },
+    {
+      "year": 1977,
+      "country": "United Kingdom",
+      "ec": 3695,
+      "gdp": 4681
+    },
+    {
+      "year": 1978,
+      "country": "United Kingdom",
+      "ec": 3675,
+      "gdp": 5977
+    },
+    {
+      "year": 1979,
+      "country": "United Kingdom",
+      "ec": 3859,
+      "gdp": 7805
+    },
+    {
+      "year": 1980,
+      "country": "United Kingdom",
+      "ec": 3524,
+      "gdp": 10032
+    },
+    {
+      "year": 1981,
+      "country": "United Kingdom",
+      "ec": 3415,
+      "gdp": 9599
+    },
+    {
+      "year": 1982,
+      "country": "United Kingdom",
+      "ec": 3397,
+      "gdp": 9146
+    },
+    {
+      "year": 1983,
+      "country": "United Kingdom",
+      "ec": 3378,
+      "gdp": 8692
+    },
+    {
+      "year": 1984,
+      "country": "United Kingdom",
+      "ec": 3371,
+      "gdp": 8179
+    },
+    {
+      "year": 1985,
+      "country": "United Kingdom",
+      "ec": 3551,
+      "gdp": 8652
+    },
+    {
+      "year": 1986,
+      "country": "United Kingdom",
+      "ec": 3598,
+      "gdp": 10611
+    },
+    {
+      "year": 1987,
+      "country": "United Kingdom",
+      "ec": 3619,
+      "gdp": 13119
+    },
+    {
+      "year": 1988,
+      "country": "United Kingdom",
+      "ec": 3643,
+      "gdp": 15987
+    },
+    {
+      "year": 1989,
+      "country": "United Kingdom",
+      "ec": 3626,
+      "gdp": 16239
+    },
+    {
+      "year": 1990,
+      "country": "United Kingdom",
+      "ec": 3597,
+      "gdp": 19095
+    },
+    {
+      "year": 1991,
+      "country": "United Kingdom",
+      "ec": 3708,
+      "gdp": 19901
+    },
+    {
+      "year": 1992,
+      "country": "United Kingdom",
+      "ec": 3685,
+      "gdp": 20487
+    },
+    {
+      "year": 1993,
+      "country": "United Kingdom",
+      "ec": 3713,
+      "gdp": 18389
+    },
+    {
+      "year": 1994,
+      "country": "United Kingdom",
+      "ec": 3733,
+      "gdp": 19709
+    },
+    {
+      "year": 1995,
+      "country": "United Kingdom",
+      "ec": 3729,
+      "gdp": 23013
+    },
+    {
+      "year": 1996,
+      "country": "United Kingdom",
+      "ec": 3880,
+      "gdp": 24220
+    },
+    {
+      "year": 1997,
+      "country": "United Kingdom",
+      "ec": 3761,
+      "gdp": 26621
+    },
+    {
+      "year": 1998,
+      "country": "United Kingdom",
+      "ec": 3787,
+      "gdp": 28015
+    },
+    {
+      "year": 1999,
+      "country": "United Kingdom",
+      "ec": 3784,
+      "gdp": 28384
+    },
+    {
+      "year": 2000,
+      "country": "United Kingdom",
+      "ec": 3786,
+      "gdp": 27982
+    },
+    {
+      "year": 2001,
+      "country": "United Kingdom",
+      "ec": 3785,
+      "gdp": 27428
+    },
+    {
+      "year": 2002,
+      "country": "United Kingdom",
+      "ec": 3686,
+      "gdp": 29786
+    },
+    {
+      "year": 2003,
+      "country": "United Kingdom",
+      "ec": 3732,
+      "gdp": 34174
+    },
+    {
+      "year": 2004,
+      "country": "United Kingdom",
+      "ec": 3694,
+      "gdp": 39984
+    },
+    {
+      "year": 2005,
+      "country": "United Kingdom",
+      "ec": 3686,
+      "gdp": 41733
+    },
+    {
+      "year": 2006,
+      "country": "United Kingdom",
+      "ec": 3599,
+      "gdp": 44252
+    },
+    {
+      "year": 2007,
+      "country": "United Kingdom",
+      "ec": 3442,
+      "gdp": 50134
+    },
+    {
+      "year": 2008,
+      "country": "United Kingdom",
+      "ec": 3362,
+      "gdp": 46768
+    },
+    {
+      "year": 2009,
+      "country": "United Kingdom",
+      "ec": 3146,
+      "gdp": 38262
+    },
+    {
+      "year": 2010,
+      "country": "United Kingdom",
+      "ec": 3231,
+      "gdp": 38893
+    },
+    {
+      "year": 2011,
+      "country": "United Kingdom",
+      "ec": 2972,
+      "gdp": 41412
+    },
+    {
+      "year": 2012,
+      "country": "United Kingdom",
+      "ec": 3043,
+      "gdp": 41791
+    },
+    {
+      "year": 2013,
+      "country": "United Kingdom",
+      "ec": 2988,
+      "gdp": 42724
+    },
+    {
+      "year": 2014,
+      "country": "United Kingdom",
+      "ec": 2777,
+      "gdp": 46783
+    }
+  ],
+  "Indonesia": [
+    {
+      "year": 1971,
+      "country": "Indonesia",
+      "ec": 297,
+      "gdp": 79
+    },
+    {
+      "year": 1972,
+      "country": "Indonesia",
+      "ec": 301,
+      "gdp": 91
+    },
+    {
+      "year": 1973,
+      "country": "Indonesia",
+      "ec": 307,
+      "gdp": 131
+    },
+    {
+      "year": 1974,
+      "country": "Indonesia",
+      "ec": 310,
+      "gdp": 202
+    },
+    {
+      "year": 1975,
+      "country": "Indonesia",
+      "ec": 315,
+      "gdp": 233
+    },
+    {
+      "year": 1976,
+      "country": "Indonesia",
+      "ec": 321,
+      "gdp": 278
+    },
+    {
+      "year": 1977,
+      "country": "Indonesia",
+      "ec": 348,
+      "gdp": 334
+    },
+    {
+      "year": 1978,
+      "country": "Indonesia",
+      "ec": 363,
+      "gdp": 366
+    },
+    {
+      "year": 1979,
+      "country": "Indonesia",
+      "ec": 371,
+      "gdp": 357
+    },
+    {
+      "year": 1980,
+      "country": "Indonesia",
+      "ec": 378,
+      "gdp": 491
+    },
+    {
+      "year": 1981,
+      "country": "Indonesia",
+      "ec": 388,
+      "gdp": 566
+    },
+    {
+      "year": 1982,
+      "country": "Indonesia",
+      "ec": 389,
+      "gdp": 584
+    },
+    {
+      "year": 1983,
+      "country": "Indonesia",
+      "ec": 387,
+      "gdp": 513
+    },
+    {
+      "year": 1984,
+      "country": "Indonesia",
+      "ec": 394,
+      "gdp": 525
+    },
+    {
+      "year": 1985,
+      "country": "Indonesia",
+      "ec": 399,
+      "gdp": 517
+    },
+    {
+      "year": 1986,
+      "country": "Indonesia",
+      "ec": 431,
+      "gdp": 475
+    },
+    {
+      "year": 1987,
+      "country": "Indonesia",
+      "ec": 437,
+      "gdp": 442
+    },
+    {
+      "year": 1988,
+      "country": "Indonesia",
+      "ec": 440,
+      "gdp": 482
+    },
+    {
+      "year": 1989,
+      "country": "Indonesia",
+      "ec": 457,
+      "gdp": 530
+    },
+    {
+      "year": 1990,
+      "country": "Indonesia",
+      "ec": 544,
+      "gdp": 585
+    },
+    {
+      "year": 1991,
+      "country": "Indonesia",
+      "ec": 561,
+      "gdp": 632
+    },
+    {
+      "year": 1992,
+      "country": "Indonesia",
+      "ec": 574,
+      "gdp": 682
+    },
+    {
+      "year": 1993,
+      "country": "Indonesia",
+      "ec": 621,
+      "gdp": 828
+    },
+    {
+      "year": 1994,
+      "country": "Indonesia",
+      "ec": 612,
+      "gdp": 912
+    },
+    {
+      "year": 1995,
+      "country": "Indonesia",
+      "ec": 664,
+      "gdp": 1026
+    },
+    {
+      "year": 1996,
+      "country": "Indonesia",
+      "ec": 678,
+      "gdp": 1137
+    },
+    {
+      "year": 1997,
+      "country": "Indonesia",
+      "ec": 691,
+      "gdp": 1064
+    },
+    {
+      "year": 1998,
+      "country": "Indonesia",
+      "ec": 666,
+      "gdp": 464
+    },
+    {
+      "year": 1999,
+      "country": "Indonesia",
+      "ec": 688,
+      "gdp": 671
+    },
+    {
+      "year": 2000,
+      "country": "Indonesia",
+      "ec": 736,
+      "gdp": 780
+    },
+    {
+      "year": 2001,
+      "country": "Indonesia",
+      "ec": 743,
+      "gdp": 748
+    },
+    {
+      "year": 2002,
+      "country": "Indonesia",
+      "ec": 760,
+      "gdp": 900
+    },
+    {
+      "year": 2003,
+      "country": "Indonesia",
+      "ec": 751,
+      "gdp": 1065
+    },
+    {
+      "year": 2004,
+      "country": "Indonesia",
+      "ec": 790,
+      "gdp": 1149
+    },
+    {
+      "year": 2005,
+      "country": "Indonesia",
+      "ec": 793,
+      "gdp": 1261
+    },
+    {
+      "year": 2006,
+      "country": "Indonesia",
+      "ec": 801,
+      "gdp": 1586
+    },
+    {
+      "year": 2007,
+      "country": "Indonesia",
+      "ec": 786,
+      "gdp": 1855
+    },
+    {
+      "year": 2008,
+      "country": "Indonesia",
+      "ec": 791,
+      "gdp": 2161
+    },
+    {
+      "year": 2009,
+      "country": "Indonesia",
+      "ec": 843,
+      "gdp": 2254
+    },
+    {
+      "year": 2010,
+      "country": "Indonesia",
+      "ec": 875,
+      "gdp": 3113
+    },
+    {
+      "year": 2011,
+      "country": "Indonesia",
+      "ec": 832,
+      "gdp": 3634
+    },
+    {
+      "year": 2012,
+      "country": "Indonesia",
+      "ec": 852,
+      "gdp": 3688
+    },
+    {
+      "year": 2013,
+      "country": "Indonesia",
+      "ec": 863,
+      "gdp": 3621
+    },
+    {
+      "year": 2014,
+      "country": "Indonesia",
+      "ec": 884,
+      "gdp": 3492
+    }
+  ],
+  "India": [
+    {
+      "year": 1971,
+      "country": "India",
+      "ec": 268,
+      "gdp": 117
+    },
+    {
+      "year": 1972,
+      "country": "India",
+      "ec": 268,
+      "gdp": 122
+    },
+    {
+      "year": 1973,
+      "country": "India",
+      "ec": 269,
+      "gdp": 142
+    },
+    {
+      "year": 1974,
+      "country": "India",
+      "ec": 274,
+      "gdp": 162
+    },
+    {
+      "year": 1975,
+      "country": "India",
+      "ec": 277,
+      "gdp": 156
+    },
+    {
+      "year": 1976,
+      "country": "India",
+      "ec": 281,
+      "gdp": 159
+    },
+    {
+      "year": 1977,
+      "country": "India",
+      "ec": 283,
+      "gdp": 184
+    },
+    {
+      "year": 1978,
+      "country": "India",
+      "ec": 280,
+      "gdp": 204
+    },
+    {
+      "year": 1979,
+      "country": "India",
+      "ec": 286,
+      "gdp": 222
+    },
+    {
+      "year": 1980,
+      "country": "India",
+      "ec": 287,
+      "gdp": 264
+    },
+    {
+      "year": 1981,
+      "country": "India",
+      "ec": 295,
+      "gdp": 268
+    },
+    {
+      "year": 1982,
+      "country": "India",
+      "ec": 299,
+      "gdp": 271
+    },
+    {
+      "year": 1983,
+      "country": "India",
+      "ec": 302,
+      "gdp": 288
+    },
+    {
+      "year": 1984,
+      "country": "India",
+      "ec": 307,
+      "gdp": 274
+    },
+    {
+      "year": 1985,
+      "country": "India",
+      "ec": 316,
+      "gdp": 293
+    },
+    {
+      "year": 1986,
+      "country": "India",
+      "ec": 320,
+      "gdp": 307
+    },
+    {
+      "year": 1987,
+      "country": "India",
+      "ec": 325,
+      "gdp": 337
+    },
+    {
+      "year": 1988,
+      "country": "India",
+      "ec": 335,
+      "gdp": 351
+    },
+    {
+      "year": 1989,
+      "country": "India",
+      "ec": 344,
+      "gdp": 343
+    },
+    {
+      "year": 1990,
+      "country": "India",
+      "ec": 351,
+      "gdp": 364
+    },
+    {
+      "year": 1991,
+      "country": "India",
+      "ec": 359,
+      "gdp": 300
+    },
+    {
+      "year": 1992,
+      "country": "India",
+      "ec": 364,
+      "gdp": 314
+    },
+    {
+      "year": 1993,
+      "country": "India",
+      "ec": 366,
+      "gdp": 298
+    },
+    {
+      "year": 1994,
+      "country": "India",
+      "ec": 373,
+      "gdp": 343
+    },
+    {
+      "year": 1995,
+      "country": "India",
+      "ec": 386,
+      "gdp": 370
+    },
+    {
+      "year": 1996,
+      "country": "India",
+      "ec": 391,
+      "gdp": 396
+    },
+    {
+      "year": 1997,
+      "country": "India",
+      "ec": 399,
+      "gdp": 411
+    },
+    {
+      "year": 1998,
+      "country": "India",
+      "ec": 401,
+      "gdp": 409
+    },
+    {
+      "year": 1999,
+      "country": "India",
+      "ec": 416,
+      "gdp": 438
+    },
+    {
+      "year": 2000,
+      "country": "India",
+      "ec": 419,
+      "gdp": 439
+    },
+    {
+      "year": 2001,
+      "country": "India",
+      "ec": 417,
+      "gdp": 447
+    },
+    {
+      "year": 2002,
+      "country": "India",
+      "ec": 423,
+      "gdp": 466
+    },
+    {
+      "year": 2003,
+      "country": "India",
+      "ec": 426,
+      "gdp": 541
+    },
+    {
+      "year": 2004,
+      "country": "India",
+      "ec": 441,
+      "gdp": 621
+    },
+    {
+      "year": 2005,
+      "country": "India",
+      "ec": 451,
+      "gdp": 707
+    },
+    {
+      "year": 2006,
+      "country": "India",
+      "ec": 468,
+      "gdp": 792
+    },
+    {
+      "year": 2007,
+      "country": "India",
+      "ec": 487,
+      "gdp": 1018
+    },
+    {
+      "year": 2008,
+      "country": "India",
+      "ec": 503,
+      "gdp": 991
+    },
+    {
+      "year": 2009,
+      "country": "India",
+      "ec": 546,
+      "gdp": 1090
+    },
+    {
+      "year": 2010,
+      "country": "India",
+      "ec": 563,
+      "gdp": 1346
+    },
+    {
+      "year": 2011,
+      "country": "India",
+      "ec": 579,
+      "gdp": 1462
+    },
+    {
+      "year": 2012,
+      "country": "India",
+      "ec": 600,
+      "gdp": 1447
+    },
+    {
+      "year": 2013,
+      "country": "India",
+      "ec": 607,
+      "gdp": 1452
+    },
+    {
+      "year": 2014,
+      "country": "India",
+      "ec": 637,
+      "gdp": 1576
+    }
+  ],
+  "Iraq": [
+    {
+      "year": 1971,
+      "country": "Iraq",
+      "ec": 392,
+      "gdp": 377
+    },
+    {
+      "year": 1972,
+      "country": "Iraq",
+      "ec": 404,
+      "gdp": 388
+    },
+    {
+      "year": 1973,
+      "country": "Iraq",
+      "ec": 425,
+      "gdp": 469
+    },
+    {
+      "year": 1974,
+      "country": "Iraq",
+      "ec": 447,
+      "gdp": 1018
+    },
+    {
+      "year": 1975,
+      "country": "Iraq",
+      "ec": 521,
+      "gdp": 1152
+    },
+    {
+      "year": 1976,
+      "country": "Iraq",
+      "ec": 625,
+      "gdp": 1471
+    },
+    {
+      "year": 1977,
+      "country": "Iraq",
+      "ec": 626,
+      "gdp": 1592
+    },
+    {
+      "year": 1978,
+      "country": "Iraq",
+      "ec": 691,
+      "gdp": 1848
+    },
+    {
+      "year": 1979,
+      "country": "Iraq",
+      "ec": 799,
+      "gdp": 2852
+    },
+    {
+      "year": 1980,
+      "country": "Iraq",
+      "ec": 712,
+      "gdp": 3912
+    },
+    {
+      "year": 1981,
+      "country": "Iraq",
+      "ec": 685,
+      "gdp": 2736
+    },
+    {
+      "year": 1982,
+      "country": "Iraq",
+      "ec": 690,
+      "gdp": 2950
+    },
+    {
+      "year": 1983,
+      "country": "Iraq",
+      "ec": 811,
+      "gdp": 2738
+    },
+    {
+      "year": 1984,
+      "country": "Iraq",
+      "ec": 836,
+      "gdp": 3078
+    },
+    {
+      "year": 1985,
+      "country": "Iraq",
+      "ec": 945,
+      "gdp": 3100
+    },
+    {
+      "year": 1986,
+      "country": "Iraq",
+      "ec": 999,
+      "gdp": 2957
+    },
+    {
+      "year": 1987,
+      "country": "Iraq",
+      "ec": 970,
+      "gdp": 3475
+    },
+    {
+      "year": 1988,
+      "country": "Iraq",
+      "ec": 1144,
+      "gdp": 3754
+    },
+    {
+      "year": 1989,
+      "country": "Iraq",
+      "ec": 1232,
+      "gdp": 3852
+    },
+    {
+      "year": 1990,
+      "country": "Iraq",
+      "ec": 1147,
+      "gdp": 10297
+    },
+    {
+      "year": 1991,
+      "country": "Iraq",
+      "ec": 889,
+      "gdp": 0
+    },
+    {
+      "year": 1992,
+      "country": "Iraq",
+      "ec": 1284,
+      "gdp": 0
+    },
+    {
+      "year": 1993,
+      "country": "Iraq",
+      "ec": 1623,
+      "gdp": 0
+    },
+    {
+      "year": 1994,
+      "country": "Iraq",
+      "ec": 1784,
+      "gdp": 0
+    },
+    {
+      "year": 1995,
+      "country": "Iraq",
+      "ec": 1662,
+      "gdp": 0
+    },
+    {
+      "year": 1996,
+      "country": "Iraq",
+      "ec": 1613,
+      "gdp": 0
+    },
+    {
+      "year": 1997,
+      "country": "Iraq",
+      "ec": 1860,
+      "gdp": 0
+    },
+    {
+      "year": 1998,
+      "country": "Iraq",
+      "ec": 1286,
+      "gdp": 0
+    },
+    {
+      "year": 1999,
+      "country": "Iraq",
+      "ec": 964,
+      "gdp": 0
+    },
+    {
+      "year": 2000,
+      "country": "Iraq",
+      "ec": 1102,
+      "gdp": 0
+    },
+    {
+      "year": 2001,
+      "country": "Iraq",
+      "ec": 1197,
+      "gdp": 0
+    },
+    {
+      "year": 2002,
+      "country": "Iraq",
+      "ec": 1107,
+      "gdp": 0
+    },
+    {
+      "year": 2003,
+      "country": "Iraq",
+      "ec": 990,
+      "gdp": 0
+    },
+    {
+      "year": 2004,
+      "country": "Iraq",
+      "ec": 992,
+      "gdp": 1392
+    },
+    {
+      "year": 2005,
+      "country": "Iraq",
+      "ec": 979,
+      "gdp": 1850
+    },
+    {
+      "year": 2006,
+      "country": "Iraq",
+      "ec": 900,
+      "gdp": 2352
+    },
+    {
+      "year": 2007,
+      "country": "Iraq",
+      "ec": 894,
+      "gdp": 3129
+    },
+    {
+      "year": 2008,
+      "country": "Iraq",
+      "ec": 944,
+      "gdp": 4521
+    },
+    {
+      "year": 2009,
+      "country": "Iraq",
+      "ec": 1102,
+      "gdp": 3735
+    },
+    {
+      "year": 2010,
+      "country": "Iraq",
+      "ec": 1219,
+      "gdp": 4503
+    },
+    {
+      "year": 2011,
+      "country": "Iraq",
+      "ec": 1294,
+      "gdp": 5855
+    },
+    {
+      "year": 2012,
+      "country": "Iraq",
+      "ec": 1399,
+      "gdp": 6651
+    },
+    {
+      "year": 2013,
+      "country": "Iraq",
+      "ec": 1457,
+      "gdp": 6925
+    },
+    {
+      "year": 2014,
+      "country": "Iraq",
+      "ec": 1413,
+      "gdp": 6703
+    }
+  ],
+  "Iceland": [
+    {
+      "year": 1971,
+      "country": "Iceland",
+      "ec": 4378,
+      "gdp": 3204
+    },
+    {
+      "year": 1972,
+      "country": "Iceland",
+      "ec": 4404,
+      "gdp": 3955
+    },
+    {
+      "year": 1973,
+      "country": "Iceland",
+      "ec": 5269,
+      "gdp": 5357
+    },
+    {
+      "year": 1974,
+      "country": "Iceland",
+      "ec": 5132,
+      "gdp": 6936
+    },
+    {
+      "year": 1975,
+      "country": "Iceland",
+      "ec": 5072,
+      "gdp": 6359
+    },
+    {
+      "year": 1976,
+      "country": "Iceland",
+      "ec": 5086,
+      "gdp": 7471
+    },
+    {
+      "year": 1977,
+      "country": "Iceland",
+      "ec": 5603,
+      "gdp": 9810
+    },
+    {
+      "year": 1978,
+      "country": "Iceland",
+      "ec": 5711,
+      "gdp": 11070
+    },
+    {
+      "year": 1979,
+      "country": "Iceland",
+      "ec": 6515,
+      "gdp": 12453
+    },
+    {
+      "year": 1980,
+      "country": "Iceland",
+      "ec": 6561,
+      "gdp": 14602
+    },
+    {
+      "year": 1981,
+      "country": "Iceland",
+      "ec": 7179,
+      "gdp": 14913
+    },
+    {
+      "year": 1982,
+      "country": "Iceland",
+      "ec": 7076,
+      "gdp": 13509
+    },
+    {
+      "year": 1983,
+      "country": "Iceland",
+      "ec": 7254,
+      "gdp": 11499
+    },
+    {
+      "year": 1984,
+      "country": "Iceland",
+      "ec": 7531,
+      "gdp": 11782
+    },
+    {
+      "year": 1985,
+      "country": "Iceland",
+      "ec": 7335,
+      "gdp": 12178
+    },
+    {
+      "year": 1986,
+      "country": "Iceland",
+      "ec": 7606,
+      "gdp": 16163
+    },
+    {
+      "year": 1987,
+      "country": "Iceland",
+      "ec": 7857,
+      "gdp": 22121
+    },
+    {
+      "year": 1988,
+      "country": "Iceland",
+      "ec": 7882,
+      "gdp": 24090
+    },
+    {
+      "year": 1989,
+      "country": "Iceland",
+      "ec": 7983,
+      "gdp": 22102
+    },
+    {
+      "year": 1990,
+      "country": "Iceland",
+      "ec": 8908,
+      "gdp": 25009
+    },
+    {
+      "year": 1991,
+      "country": "Iceland",
+      "ec": 8054,
+      "gdp": 26406
+    },
+    {
+      "year": 1992,
+      "country": "Iceland",
+      "ec": 7755,
+      "gdp": 26722
+    },
+    {
+      "year": 1993,
+      "country": "Iceland",
+      "ec": 8250,
+      "gdp": 23230
+    },
+    {
+      "year": 1994,
+      "country": "Iceland",
+      "ec": 8293,
+      "gdp": 23663
+    },
+    {
+      "year": 1995,
+      "country": "Iceland",
+      "ec": 8256,
+      "gdp": 26239
+    },
+    {
+      "year": 1996,
+      "country": "Iceland",
+      "ec": 8848,
+      "gdp": 27261
+    },
+    {
+      "year": 1997,
+      "country": "Iceland",
+      "ec": 8584,
+      "gdp": 27843
+    },
+    {
+      "year": 1998,
+      "country": "Iceland",
+      "ec": 9037,
+      "gdp": 30848
+    },
+    {
+      "year": 1999,
+      "country": "Iceland",
+      "ec": 10038,
+      "gdp": 32148
+    },
+    {
+      "year": 2000,
+      "country": "Iceland",
+      "ec": 11092,
+      "gdp": 31746
+    },
+    {
+      "year": 2001,
+      "country": "Iceland",
+      "ec": 10589,
+      "gdp": 28552
+    },
+    {
+      "year": 2002,
+      "country": "Iceland",
+      "ec": 10805,
+      "gdp": 32024
+    },
+    {
+      "year": 2003,
+      "country": "Iceland",
+      "ec": 10731,
+      "gdp": 39087
+    },
+    {
+      "year": 2004,
+      "country": "Iceland",
+      "ec": 10524,
+      "gdp": 46984
+    },
+    {
+      "year": 2005,
+      "country": "Iceland",
+      "ec": 10525,
+      "gdp": 56251
+    },
+    {
+      "year": 2006,
+      "country": "Iceland",
+      "ec": 12734,
+      "gdp": 56121
+    },
+    {
+      "year": 2007,
+      "country": "Iceland",
+      "ec": 14746,
+      "gdp": 68428
+    },
+    {
+      "year": 2008,
+      "country": "Iceland",
+      "ec": 16354,
+      "gdp": 55632
+    },
+    {
+      "year": 2009,
+      "country": "Iceland",
+      "ec": 16911,
+      "gdp": 40641
+    },
+    {
+      "year": 2010,
+      "country": "Iceland",
+      "ec": 17023,
+      "gdp": 41852
+    },
+    {
+      "year": 2011,
+      "country": "Iceland",
+      "ec": 18158,
+      "gdp": 46182
+    },
+    {
+      "year": 2012,
+      "country": "Iceland",
+      "ec": 17630,
+      "gdp": 44563
+    },
+    {
+      "year": 2013,
+      "country": "Iceland",
+      "ec": 18178,
+      "gdp": 48024
+    },
+    {
+      "year": 2014,
+      "country": "Iceland",
+      "ec": 17916,
+      "gdp": 52855
+    }
+  ],
+  "Israel": [
+    {
+      "year": 1971,
+      "country": "Israel",
+      "ec": 1870,
+      "gdp": 2186
+    },
+    {
+      "year": 1972,
+      "country": "Israel",
+      "ec": 1756,
+      "gdp": 2786
+    },
+    {
+      "year": 1973,
+      "country": "Israel",
+      "ec": 2368,
+      "gdp": 3454
+    },
+    {
+      "year": 1974,
+      "country": "Israel",
+      "ec": 1733,
+      "gdp": 4837
+    },
+    {
+      "year": 1975,
+      "country": "Israel",
+      "ec": 2033,
+      "gdp": 4444
+    },
+    {
+      "year": 1976,
+      "country": "Israel",
+      "ec": 1832,
+      "gdp": 4296
+    },
+    {
+      "year": 1977,
+      "country": "Israel",
+      "ec": 1786,
+      "gdp": 4806
+    },
+    {
+      "year": 1978,
+      "country": "Israel",
+      "ec": 1849,
+      "gdp": 4563
+    },
+    {
+      "year": 1979,
+      "country": "Israel",
+      "ec": 2006,
+      "gdp": 5680
+    },
+    {
+      "year": 1980,
+      "country": "Israel",
+      "ec": 2017,
+      "gdp": 6229
+    },
+    {
+      "year": 1981,
+      "country": "Israel",
+      "ec": 1841,
+      "gdp": 6463
+    },
+    {
+      "year": 1982,
+      "country": "Israel",
+      "ec": 1958,
+      "gdp": 6903
+    },
+    {
+      "year": 1983,
+      "country": "Israel",
+      "ec": 1794,
+      "gdp": 7571
+    },
+    {
+      "year": 1984,
+      "country": "Israel",
+      "ec": 1829,
+      "gdp": 7009
+    },
+    {
+      "year": 1985,
+      "country": "Israel",
+      "ec": 1789,
+      "gdp": 6495
+    },
+    {
+      "year": 1986,
+      "country": "Israel",
+      "ec": 2102,
+      "gdp": 7928
+    },
+    {
+      "year": 1987,
+      "country": "Israel",
+      "ec": 2278,
+      "gdp": 9372
+    },
+    {
+      "year": 1988,
+      "country": "Israel",
+      "ec": 2452,
+      "gdp": 11274
+    },
+    {
+      "year": 1989,
+      "country": "Israel",
+      "ec": 2489,
+      "gdp": 11041
+    },
+    {
+      "year": 1990,
+      "country": "Israel",
+      "ec": 2460,
+      "gdp": 12658
+    },
+    {
+      "year": 1991,
+      "country": "Israel",
+      "ec": 2325,
+      "gdp": 13645
+    },
+    {
+      "year": 1992,
+      "country": "Israel",
+      "ec": 2581,
+      "gdp": 14752
+    },
+    {
+      "year": 1993,
+      "country": "Israel",
+      "ec": 2635,
+      "gdp": 14437
+    },
+    {
+      "year": 1994,
+      "country": "Israel",
+      "ec": 2738,
+      "gdp": 15986
+    },
+    {
+      "year": 1995,
+      "country": "Israel",
+      "ec": 2796,
+      "gdp": 18096
+    },
+    {
+      "year": 1996,
+      "country": "Israel",
+      "ec": 2801,
+      "gdp": 19318
+    },
+    {
+      "year": 1997,
+      "country": "Israel",
+      "ec": 2881,
+      "gdp": 19658
+    },
+    {
+      "year": 1998,
+      "country": "Israel",
+      "ec": 2886,
+      "gdp": 19424
+    },
+    {
+      "year": 1999,
+      "country": "Israel",
+      "ec": 2738,
+      "gdp": 19133
+    },
+    {
+      "year": 2000,
+      "country": "Israel",
+      "ec": 2899,
+      "gdp": 21043
+    },
+    {
+      "year": 2001,
+      "country": "Israel",
+      "ec": 2973,
+      "gdp": 20299
+    },
+    {
+      "year": 2002,
+      "country": "Israel",
+      "ec": 2863,
+      "gdp": 18428
+    },
+    {
+      "year": 2003,
+      "country": "Israel",
+      "ec": 2949,
+      "gdp": 18964
+    },
+    {
+      "year": 2004,
+      "country": "Israel",
+      "ec": 2822,
+      "gdp": 19892
+    },
+    {
+      "year": 2005,
+      "country": "Israel",
+      "ec": 2661,
+      "gdp": 20557
+    },
+    {
+      "year": 2006,
+      "country": "Israel",
+      "ec": 2882,
+      "gdp": 21828
+    },
+    {
+      "year": 2007,
+      "country": "Israel",
+      "ec": 2898,
+      "gdp": 24889
+    },
+    {
+      "year": 2008,
+      "country": "Israel",
+      "ec": 3129,
+      "gdp": 29532
+    },
+    {
+      "year": 2009,
+      "country": "Israel",
+      "ec": 2874,
+      "gdp": 27709
+    },
+    {
+      "year": 2010,
+      "country": "Israel",
+      "ec": 3042,
+      "gdp": 30643
+    },
+    {
+      "year": 2011,
+      "country": "Israel",
+      "ec": 2980,
+      "gdp": 33690
+    },
+    {
+      "year": 2012,
+      "country": "Israel",
+      "ec": 3068,
+      "gdp": 32526
+    },
+    {
+      "year": 2013,
+      "country": "Israel",
+      "ec": 2870,
+      "gdp": 36291
+    },
+    {
+      "year": 2014,
+      "country": "Israel",
+      "ec": 2763,
+      "gdp": 37540
+    }
+  ],
+  "Italy": [
+    {
+      "year": 1971,
+      "country": "Italy",
+      "ec": 1949,
+      "gdp": 2298
+    },
+    {
+      "year": 1972,
+      "country": "Italy",
+      "ec": 2051,
+      "gdp": 2662
+    },
+    {
+      "year": 1973,
+      "country": "Italy",
+      "ec": 2176,
+      "gdp": 3195
+    },
+    {
+      "year": 1974,
+      "country": "Italy",
+      "ec": 2212,
+      "gdp": 3609
+    },
+    {
+      "year": 1975,
+      "country": "Italy",
+      "ec": 2106,
+      "gdp": 4093
+    },
+    {
+      "year": 1976,
+      "country": "Italy",
+      "ec": 2264,
+      "gdp": 4020
+    },
+    {
+      "year": 1977,
+      "country": "Italy",
+      "ec": 2204,
+      "gdp": 4588
+    },
+    {
+      "year": 1978,
+      "country": "Italy",
+      "ec": 2248,
+      "gdp": 5592
+    },
+    {
+      "year": 1979,
+      "country": "Italy",
+      "ec": 2340,
+      "gdp": 6967
+    },
+    {
+      "year": 1980,
+      "country": "Italy",
+      "ec": 2318,
+      "gdp": 8429
+    },
+    {
+      "year": 1981,
+      "country": "Italy",
+      "ec": 2266,
+      "gdp": 7598
+    },
+    {
+      "year": 1982,
+      "country": "Italy",
+      "ec": 2207,
+      "gdp": 7532
+    },
+    {
+      "year": 1983,
+      "country": "Italy",
+      "ec": 2204,
+      "gdp": 7807
+    },
+    {
+      "year": 1984,
+      "country": "Italy",
+      "ec": 2254,
+      "gdp": 7714
+    },
+    {
+      "year": 1985,
+      "country": "Italy",
+      "ec": 2285,
+      "gdp": 7964
+    },
+    {
+      "year": 1986,
+      "country": "Italy",
+      "ec": 2312,
+      "gdp": 11278
+    },
+    {
+      "year": 1987,
+      "country": "Italy",
+      "ec": 2407,
+      "gdp": 14188
+    },
+    {
+      "year": 1988,
+      "country": "Italy",
+      "ec": 2463,
+      "gdp": 15693
+    },
+    {
+      "year": 1989,
+      "country": "Italy",
+      "ec": 2566,
+      "gdp": 16333
+    },
+    {
+      "year": 1990,
+      "country": "Italy",
+      "ec": 2584,
+      "gdp": 20757
+    },
+    {
+      "year": 1991,
+      "country": "Italy",
+      "ec": 2646,
+      "gdp": 21884
+    },
+    {
+      "year": 1992,
+      "country": "Italy",
+      "ec": 2627,
+      "gdp": 23167
+    },
+    {
+      "year": 1993,
+      "country": "Italy",
+      "ec": 2612,
+      "gdp": 18677
+    },
+    {
+      "year": 1994,
+      "country": "Italy",
+      "ec": 2578,
+      "gdp": 19274
+    },
+    {
+      "year": 1995,
+      "country": "Italy",
+      "ec": 2799,
+      "gdp": 20596
+    },
+    {
+      "year": 1996,
+      "country": "Italy",
+      "ec": 2796,
+      "gdp": 23020
+    },
+    {
+      "year": 1997,
+      "country": "Italy",
+      "ec": 2834,
+      "gdp": 21780
+    },
+    {
+      "year": 1998,
+      "country": "Italy",
+      "ec": 2913,
+      "gdp": 22252
+    },
+    {
+      "year": 1999,
+      "country": "Italy",
+      "ec": 2957,
+      "gdp": 21937
+    },
+    {
+      "year": 2000,
+      "country": "Italy",
+      "ec": 3012,
+      "gdp": 20051
+    },
+    {
+      "year": 2001,
+      "country": "Italy",
+      "ec": 3021,
+      "gdp": 20401
+    },
+    {
+      "year": 2002,
+      "country": "Italy",
+      "ec": 3037,
+      "gdp": 22197
+    },
+    {
+      "year": 2003,
+      "country": "Italy",
+      "ec": 3169,
+      "gdp": 27387
+    },
+    {
+      "year": 2004,
+      "country": "Italy",
+      "ec": 3170,
+      "gdp": 31175
+    },
+    {
+      "year": 2005,
+      "country": "Italy",
+      "ec": 3215,
+      "gdp": 31959
+    },
+    {
+      "year": 2006,
+      "country": "Italy",
+      "ec": 3176,
+      "gdp": 33411
+    },
+    {
+      "year": 2007,
+      "country": "Italy",
+      "ec": 3150,
+      "gdp": 37699
+    },
+    {
+      "year": 2008,
+      "country": "Italy",
+      "ec": 3088,
+      "gdp": 40640
+    },
+    {
+      "year": 2009,
+      "country": "Italy",
+      "ec": 2870,
+      "gdp": 36977
+    },
+    {
+      "year": 2010,
+      "country": "Italy",
+      "ec": 2931,
+      "gdp": 35849
+    },
+    {
+      "year": 2011,
+      "country": "Italy",
+      "ec": 2828,
+      "gdp": 38335
+    },
+    {
+      "year": 2012,
+      "country": "Italy",
+      "ec": 2709,
+      "gdp": 34814
+    },
+    {
+      "year": 2013,
+      "country": "Italy",
+      "ec": 2579,
+      "gdp": 35370
+    },
+    {
+      "year": 2014,
+      "country": "Italy",
+      "ec": 2414,
+      "gdp": 35397
+    }
+  ],
+  "Japan": [
+    {
+      "year": 1971,
+      "country": "Japan",
+      "ec": 2531,
+      "gdp": 2272
+    },
+    {
+      "year": 1972,
+      "country": "Japan",
+      "ec": 2667,
+      "gdp": 2967
+    },
+    {
+      "year": 1973,
+      "country": "Japan",
+      "ec": 2964,
+      "gdp": 3998
+    },
+    {
+      "year": 1974,
+      "country": "Japan",
+      "ec": 2924,
+      "gdp": 4354
+    },
+    {
+      "year": 1975,
+      "country": "Japan",
+      "ec": 2725,
+      "gdp": 4659
+    },
+    {
+      "year": 1976,
+      "country": "Japan",
+      "ec": 2877,
+      "gdp": 5198
+    },
+    {
+      "year": 1977,
+      "country": "Japan",
+      "ec": 2900,
+      "gdp": 6336
+    },
+    {
+      "year": 1978,
+      "country": "Japan",
+      "ec": 2898,
+      "gdp": 8822
+    },
+    {
+      "year": 1979,
+      "country": "Japan",
+      "ec": 3044,
+      "gdp": 9105
+    },
+    {
+      "year": 1980,
+      "country": "Japan",
+      "ec": 2950,
+      "gdp": 9465
+    },
+    {
+      "year": 1981,
+      "country": "Japan",
+      "ec": 2864,
+      "gdp": 10361
+    },
+    {
+      "year": 1982,
+      "country": "Japan",
+      "ec": 2841,
+      "gdp": 9578
+    },
+    {
+      "year": 1983,
+      "country": "Japan",
+      "ec": 2824,
+      "gdp": 10425
+    },
+    {
+      "year": 1984,
+      "country": "Japan",
+      "ec": 3018,
+      "gdp": 10985
+    },
+    {
+      "year": 1985,
+      "country": "Japan",
+      "ec": 3005,
+      "gdp": 11585
+    },
+    {
+      "year": 1986,
+      "country": "Japan",
+      "ec": 3021,
+      "gdp": 17112
+    },
+    {
+      "year": 1987,
+      "country": "Japan",
+      "ec": 3044,
+      "gdp": 20745
+    },
+    {
+      "year": 1988,
+      "country": "Japan",
+      "ec": 3243,
+      "gdp": 25052
+    },
+    {
+      "year": 1989,
+      "country": "Japan",
+      "ec": 3351,
+      "gdp": 24813
+    },
+    {
+      "year": 1990,
+      "country": "Japan",
+      "ec": 3551,
+      "gdp": 25359
+    },
+    {
+      "year": 1991,
+      "country": "Japan",
+      "ec": 3575,
+      "gdp": 28925
+    },
+    {
+      "year": 1992,
+      "country": "Japan",
+      "ec": 3650,
+      "gdp": 31465
+    },
+    {
+      "year": 1993,
+      "country": "Japan",
+      "ec": 3665,
+      "gdp": 35766
+    },
+    {
+      "year": 1994,
+      "country": "Japan",
+      "ec": 3851,
+      "gdp": 39269
+    },
+    {
+      "year": 1995,
+      "country": "Japan",
+      "ec": 3936,
+      "gdp": 43440
+    },
+    {
+      "year": 1996,
+      "country": "Japan",
+      "ec": 4008,
+      "gdp": 38437
+    },
+    {
+      "year": 1997,
+      "country": "Japan",
+      "ec": 4041,
+      "gdp": 35022
+    },
+    {
+      "year": 1998,
+      "country": "Japan",
+      "ec": 3956,
+      "gdp": 31903
+    },
+    {
+      "year": 1999,
+      "country": "Japan",
+      "ec": 4011,
+      "gdp": 36027
+    },
+    {
+      "year": 2000,
+      "country": "Japan",
+      "ec": 4084,
+      "gdp": 38532
+    },
+    {
+      "year": 2001,
+      "country": "Japan",
+      "ec": 4008,
+      "gdp": 33846
+    },
+    {
+      "year": 2002,
+      "country": "Japan",
+      "ec": 3992,
+      "gdp": 32289
+    },
+    {
+      "year": 2003,
+      "country": "Japan",
+      "ec": 3953,
+      "gdp": 34808
+    },
+    {
+      "year": 2004,
+      "country": "Japan",
+      "ec": 4078,
+      "gdp": 37689
+    },
+    {
+      "year": 2005,
+      "country": "Japan",
+      "ec": 4063,
+      "gdp": 37218
+    },
+    {
+      "year": 2006,
+      "country": "Japan",
+      "ec": 4054,
+      "gdp": 35434
+    },
+    {
+      "year": 2007,
+      "country": "Japan",
+      "ec": 4013,
+      "gdp": 35275
+    },
+    {
+      "year": 2008,
+      "country": "Japan",
+      "ec": 3858,
+      "gdp": 39339
+    },
+    {
+      "year": 2009,
+      "country": "Japan",
+      "ec": 3679,
+      "gdp": 40855
+    },
+    {
+      "year": 2010,
+      "country": "Japan",
+      "ec": 3893,
+      "gdp": 44508
+    },
+    {
+      "year": 2011,
+      "country": "Japan",
+      "ec": 3611,
+      "gdp": 48168
+    },
+    {
+      "year": 2012,
+      "country": "Japan",
+      "ec": 3537,
+      "gdp": 48603
+    },
+    {
+      "year": 2013,
+      "country": "Japan",
+      "ec": 3568,
+      "gdp": 40454
+    },
+    {
+      "year": 2014,
+      "country": "Japan",
+      "ec": 3471,
+      "gdp": 38109
+    }
+  ],
+  "Dem. Rep. Korea": [
+    {
+      "year": 1971,
+      "country": "Dem. Rep. Korea",
+      "ec": 516,
+      "gdp": 301
+    },
+    {
+      "year": 1972,
+      "country": "Dem. Rep. Korea",
+      "ec": 551,
+      "gdp": 324
+    },
+    {
+      "year": 1973,
+      "country": "Dem. Rep. Korea",
+      "ec": 632,
+      "gdp": 406
+    },
+    {
+      "year": 1974,
+      "country": "Dem. Rep. Korea",
+      "ec": 675,
+      "gdp": 562
+    },
+    {
+      "year": 1975,
+      "country": "Dem. Rep. Korea",
+      "ec": 693,
+      "gdp": 615
+    },
+    {
+      "year": 1976,
+      "country": "Dem. Rep. Korea",
+      "ec": 758,
+      "gdp": 831
+    },
+    {
+      "year": 1977,
+      "country": "Dem. Rep. Korea",
+      "ec": 866,
+      "gdp": 1051
+    },
+    {
+      "year": 1978,
+      "country": "Dem. Rep. Korea",
+      "ec": 935,
+      "gdp": 1398
+    },
+    {
+      "year": 1979,
+      "country": "Dem. Rep. Korea",
+      "ec": 1064,
+      "gdp": 1774
+    },
+    {
+      "year": 1980,
+      "country": "Dem. Rep. Korea",
+      "ec": 1082,
+      "gdp": 1704
+    },
+    {
+      "year": 1981,
+      "country": "Dem. Rep. Korea",
+      "ec": 1046,
+      "gdp": 1870
+    },
+    {
+      "year": 1982,
+      "country": "Dem. Rep. Korea",
+      "ec": 1096,
+      "gdp": 1978
+    },
+    {
+      "year": 1983,
+      "country": "Dem. Rep. Korea",
+      "ec": 1169,
+      "gdp": 2180
+    },
+    {
+      "year": 1984,
+      "country": "Dem. Rep. Korea",
+      "ec": 1257,
+      "gdp": 2391
+    },
+    {
+      "year": 1985,
+      "country": "Dem. Rep. Korea",
+      "ec": 1302,
+      "gdp": 2457
+    },
+    {
+      "year": 1986,
+      "country": "Dem. Rep. Korea",
+      "ec": 1477,
+      "gdp": 2803
+    },
+    {
+      "year": 1987,
+      "country": "Dem. Rep. Korea",
+      "ec": 1580,
+      "gdp": 3511
+    },
+    {
+      "year": 1988,
+      "country": "Dem. Rep. Korea",
+      "ec": 1761,
+      "gdp": 4686
+    },
+    {
+      "year": 1989,
+      "country": "Dem. Rep. Korea",
+      "ec": 1857,
+      "gdp": 5737
+    },
+    {
+      "year": 1990,
+      "country": "Dem. Rep. Korea",
+      "ec": 2167,
+      "gdp": 6516
+    },
+    {
+      "year": 1991,
+      "country": "Dem. Rep. Korea",
+      "ec": 2307,
+      "gdp": 7523
+    },
+    {
+      "year": 1992,
+      "country": "Dem. Rep. Korea",
+      "ec": 2534,
+      "gdp": 8002
+    },
+    {
+      "year": 1993,
+      "country": "Dem. Rep. Korea",
+      "ec": 2814,
+      "gdp": 8741
+    },
+    {
+      "year": 1994,
+      "country": "Dem. Rep. Korea",
+      "ec": 2958,
+      "gdp": 10206
+    },
+    {
+      "year": 1995,
+      "country": "Dem. Rep. Korea",
+      "ec": 3210,
+      "gdp": 12333
+    },
+    {
+      "year": 1996,
+      "country": "Dem. Rep. Korea",
+      "ec": 3455,
+      "gdp": 13138
+    },
+    {
+      "year": 1997,
+      "country": "Dem. Rep. Korea",
+      "ec": 3726,
+      "gdp": 12132
+    },
+    {
+      "year": 1998,
+      "country": "Dem. Rep. Korea",
+      "ec": 3378,
+      "gdp": 8085
+    },
+    {
+      "year": 1999,
+      "country": "Dem. Rep. Korea",
+      "ec": 3709,
+      "gdp": 10409
+    },
+    {
+      "year": 2000,
+      "country": "Dem. Rep. Korea",
+      "ec": 4003,
+      "gdp": 11948
+    },
+    {
+      "year": 2001,
+      "country": "Dem. Rep. Korea",
+      "ec": 4033,
+      "gdp": 11253
+    },
+    {
+      "year": 2002,
+      "country": "Dem. Rep. Korea",
+      "ec": 4170,
+      "gdp": 12783
+    },
+    {
+      "year": 2003,
+      "country": "Dem. Rep. Korea",
+      "ec": 4233,
+      "gdp": 14209
+    },
+    {
+      "year": 2004,
+      "country": "Dem. Rep. Korea",
+      "ec": 4333,
+      "gdp": 15908
+    },
+    {
+      "year": 2005,
+      "country": "Dem. Rep. Korea",
+      "ec": 4364,
+      "gdp": 18640
+    },
+    {
+      "year": 2006,
+      "country": "Dem. Rep. Korea",
+      "ec": 4413,
+      "gdp": 20888
+    },
+    {
+      "year": 2007,
+      "country": "Dem. Rep. Korea",
+      "ec": 4565,
+      "gdp": 23061
+    },
+    {
+      "year": 2008,
+      "country": "Dem. Rep. Korea",
+      "ec": 4630,
+      "gdp": 20431
+    },
+    {
+      "year": 2009,
+      "country": "Dem. Rep. Korea",
+      "ec": 4650,
+      "gdp": 18292
+    },
+    {
+      "year": 2010,
+      "country": "Dem. Rep. Korea",
+      "ec": 5045,
+      "gdp": 22087
+    },
+    {
+      "year": 2011,
+      "country": "Dem. Rep. Korea",
+      "ec": 5217,
+      "gdp": 24080
+    },
+    {
+      "year": 2012,
+      "country": "Dem. Rep. Korea",
+      "ec": 5249,
+      "gdp": 24359
+    },
+    {
+      "year": 2013,
+      "country": "Dem. Rep. Korea",
+      "ec": 5232,
+      "gdp": 25890
+    },
+    {
+      "year": 2014,
+      "country": "Dem. Rep. Korea",
+      "ec": 5289,
+      "gdp": 27811
+    }
+  ],
+  "Kuwait": [
+    {
+      "year": 1971,
+      "country": "Kuwait",
+      "ec": 7642,
+      "gdp": 4844
+    },
+    {
+      "year": 1972,
+      "country": "Kuwait",
+      "ec": 7914,
+      "gdp": 5208
+    },
+    {
+      "year": 1973,
+      "country": "Kuwait",
+      "ec": 7847,
+      "gdp": 5953
+    },
+    {
+      "year": 1974,
+      "country": "Kuwait",
+      "ec": 7060,
+      "gdp": 13479
+    },
+    {
+      "year": 1975,
+      "country": "Kuwait",
+      "ec": 6324,
+      "gdp": 11732
+    },
+    {
+      "year": 1976,
+      "country": "Kuwait",
+      "ec": 6456,
+      "gdp": 12056
+    },
+    {
+      "year": 1977,
+      "country": "Kuwait",
+      "ec": 6563,
+      "gdp": 12217
+    },
+    {
+      "year": 1978,
+      "country": "Kuwait",
+      "ec": 6744,
+      "gdp": 12627
+    },
+    {
+      "year": 1979,
+      "country": "Kuwait",
+      "ec": 8024,
+      "gdp": 19040
+    },
+    {
+      "year": 1980,
+      "country": "Kuwait",
+      "ec": 7618,
+      "gdp": 20869
+    },
+    {
+      "year": 1981,
+      "country": "Kuwait",
+      "ec": 7137,
+      "gdp": 17364
+    },
+    {
+      "year": 1982,
+      "country": "Kuwait",
+      "ec": 7586,
+      "gdp": 14278
+    },
+    {
+      "year": 1983,
+      "country": "Kuwait",
+      "ec": 7704,
+      "gdp": 13203
+    },
+    {
+      "year": 1984,
+      "country": "Kuwait",
+      "ec": 7610,
+      "gdp": 13104
+    },
+    {
+      "year": 1985,
+      "country": "Kuwait",
+      "ec": 8066,
+      "gdp": 12330
+    },
+    {
+      "year": 1986,
+      "country": "Kuwait",
+      "ec": 8272,
+      "gdp": 9751
+    },
+    {
+      "year": 1987,
+      "country": "Kuwait",
+      "ec": 8506,
+      "gdp": 11512
+    },
+    {
+      "year": 1988,
+      "country": "Kuwait",
+      "ec": 9895,
+      "gdp": 10149
+    },
+    {
+      "year": 1989,
+      "country": "Kuwait",
+      "ec": 11238,
+      "gdp": 11594
+    },
+    {
+      "year": 1990,
+      "country": "Kuwait",
+      "ec": 4339,
+      "gdp": 8777
+    },
+    {
+      "year": 1991,
+      "country": "Kuwait",
+      "ec": 1322,
+      "gdp": 5408
+    },
+    {
+      "year": 1992,
+      "country": "Kuwait",
+      "ec": 7704,
+      "gdp": 14278
+    },
+    {
+      "year": 1993,
+      "country": "Kuwait",
+      "ec": 9127,
+      "gdp": 17696
+    },
+    {
+      "year": 1994,
+      "country": "Kuwait",
+      "ec": 6563,
+      "gdp": 17364
+    },
+    {
+      "year": 1995,
+      "country": "Kuwait",
+      "ec": 9184,
+      "gdp": 16882
+    },
+    {
+      "year": 1996,
+      "country": "Kuwait",
+      "ec": 8915,
+      "gdp": 19301
+    },
+    {
+      "year": 1997,
+      "country": "Kuwait",
+      "ec": 8567,
+      "gdp": 17696
+    },
+    {
+      "year": 1998,
+      "country": "Kuwait",
+      "ec": 9143,
+      "gdp": 14127
+    },
+    {
+      "year": 1999,
+      "country": "Kuwait",
+      "ec": 9207,
+      "gdp": 15391
+    },
+    {
+      "year": 2000,
+      "country": "Kuwait",
+      "ec": 9127,
+      "gdp": 18389
+    },
+    {
+      "year": 2001,
+      "country": "Kuwait",
+      "ec": 9470,
+      "gdp": 16541
+    },
+    {
+      "year": 2002,
+      "country": "Kuwait",
+      "ec": 9582,
+      "gdp": 17789
+    },
+    {
+      "year": 2003,
+      "country": "Kuwait",
+      "ec": 10096,
+      "gdp": 22072
+    },
+    {
+      "year": 2004,
+      "country": "Kuwait",
+      "ec": 10584,
+      "gdp": 26921
+    },
+    {
+      "year": 2005,
+      "country": "Kuwait",
+      "ec": 11544,
+      "gdp": 35490
+    },
+    {
+      "year": 2006,
+      "country": "Kuwait",
+      "ec": 10795,
+      "gdp": 42718
+    },
+    {
+      "year": 2007,
+      "country": "Kuwait",
+      "ec": 10492,
+      "gdp": 45794
+    },
+    {
+      "year": 2008,
+      "country": "Kuwait",
+      "ec": 10826,
+      "gdp": 55572
+    },
+    {
+      "year": 2009,
+      "country": "Kuwait",
+      "ec": 11143,
+      "gdp": 37567
+    },
+    {
+      "year": 2010,
+      "country": "Kuwait",
+      "ec": 10699,
+      "gdp": 38498
+    },
+    {
+      "year": 2011,
+      "country": "Kuwait",
+      "ec": 10148,
+      "gdp": 48269
+    },
+    {
+      "year": 2012,
+      "country": "Kuwait",
+      "ec": 10953,
+      "gdp": 51264
+    },
+    {
+      "year": 2013,
+      "country": "Kuwait",
+      "ec": 9708,
+      "gdp": 48400
+    },
+    {
+      "year": 2014,
+      "country": "Kuwait",
+      "ec": 8957,
+      "gdp": 42996
+    }
+  ],
+  "Luxembourg": [
+    {
+      "year": 1971,
+      "country": "Luxembourg",
+      "ec": 11863,
+      "gdp": 4592
+    },
+    {
+      "year": 1972,
+      "country": "Luxembourg",
+      "ec": 12010,
+      "gdp": 5680
+    },
+    {
+      "year": 1973,
+      "country": "Luxembourg",
+      "ec": 12649,
+      "gdp": 7710
+    },
+    {
+      "year": 1974,
+      "country": "Luxembourg",
+      "ec": 13024,
+      "gdp": 9283
+    },
+    {
+      "year": 1975,
+      "country": "Luxembourg",
+      "ec": 10505,
+      "gdp": 9008
+    },
+    {
+      "year": 1976,
+      "country": "Luxembourg",
+      "ec": 10669,
+      "gdp": 9825
+    },
+    {
+      "year": 1977,
+      "country": "Luxembourg",
+      "ec": 10279,
+      "gdp": 10856
+    },
+    {
+      "year": 1978,
+      "country": "Luxembourg",
+      "ec": 11096,
+      "gdp": 13494
+    },
+    {
+      "year": 1979,
+      "country": "Luxembourg",
+      "ec": 10458,
+      "gdp": 15740
+    },
+    {
+      "year": 1980,
+      "country": "Luxembourg",
+      "ec": 9775,
+      "gdp": 17114
+    },
+    {
+      "year": 1981,
+      "country": "Luxembourg",
+      "ec": 8526,
+      "gdp": 14325
+    },
+    {
+      "year": 1982,
+      "country": "Luxembourg",
+      "ec": 8058,
+      "gdp": 13035
+    },
+    {
+      "year": 1983,
+      "country": "Luxembourg",
+      "ec": 7576,
+      "gdp": 12810
+    },
+    {
+      "year": 1984,
+      "country": "Luxembourg",
+      "ec": 8113,
+      "gdp": 12554
+    },
+    {
+      "year": 1985,
+      "country": "Luxembourg",
+      "ec": 8347,
+      "gdp": 12922
+    },
+    {
+      "year": 1986,
+      "country": "Luxembourg",
+      "ec": 8164,
+      "gdp": 18790
+    },
+    {
+      "year": 1987,
+      "country": "Luxembourg",
+      "ec": 7943,
+      "gdp": 23235
+    },
+    {
+      "year": 1988,
+      "country": "Luxembourg",
+      "ec": 8158,
+      "gdp": 26108
+    },
+    {
+      "year": 1989,
+      "country": "Luxembourg",
+      "ec": 8700,
+      "gdp": 27556
+    },
+    {
+      "year": 1990,
+      "country": "Luxembourg",
+      "ec": 8874,
+      "gdp": 34645
+    },
+    {
+      "year": 1991,
+      "country": "Luxembourg",
+      "ec": 9353,
+      "gdp": 37007
+    },
+    {
+      "year": 1992,
+      "country": "Luxembourg",
+      "ec": 9262,
+      "gdp": 40966
+    },
+    {
+      "year": 1993,
+      "country": "Luxembourg",
+      "ec": 9267,
+      "gdp": 41479
+    },
+    {
+      "year": 1994,
+      "country": "Luxembourg",
+      "ec": 8823,
+      "gdp": 45482
+    },
+    {
+      "year": 1995,
+      "country": "Luxembourg",
+      "ec": 7705,
+      "gdp": 52831
+    },
+    {
+      "year": 1996,
+      "country": "Luxembourg",
+      "ec": 7711,
+      "gdp": 52572
+    },
+    {
+      "year": 1997,
+      "country": "Luxembourg",
+      "ec": 7410,
+      "gdp": 47042
+    },
+    {
+      "year": 1998,
+      "country": "Luxembourg",
+      "ec": 7067,
+      "gdp": 47584
+    },
+    {
+      "year": 1999,
+      "country": "Luxembourg",
+      "ec": 7267,
+      "gdp": 51654
+    },
+    {
+      "year": 2000,
+      "country": "Luxembourg",
+      "ec": 7677,
+      "gdp": 48736
+    },
+    {
+      "year": 2001,
+      "country": "Luxembourg",
+      "ec": 7983,
+      "gdp": 48179
+    },
+    {
+      "year": 2002,
+      "country": "Luxembourg",
+      "ec": 8205,
+      "gdp": 52931
+    },
+    {
+      "year": 2003,
+      "country": "Luxembourg",
+      "ec": 8550,
+      "gdp": 65446
+    },
+    {
+      "year": 2004,
+      "country": "Luxembourg",
+      "ec": 9387,
+      "gdp": 75716
+    },
+    {
+      "year": 2005,
+      "country": "Luxembourg",
+      "ec": 9429,
+      "gdp": 80290
+    },
+    {
+      "year": 2006,
+      "country": "Luxembourg",
+      "ec": 9171,
+      "gdp": 89740
+    },
+    {
+      "year": 2007,
+      "country": "Luxembourg",
+      "ec": 8774,
+      "gdp": 106018
+    },
+    {
+      "year": 2008,
+      "country": "Luxembourg",
+      "ec": 8612,
+      "gdp": 114294
+    },
+    {
+      "year": 2009,
+      "country": "Luxembourg",
+      "ec": 7952,
+      "gdp": 103199
+    },
+    {
+      "year": 2010,
+      "country": "Luxembourg",
+      "ec": 8329,
+      "gdp": 104965
+    },
+    {
+      "year": 2011,
+      "country": "Luxembourg",
+      "ec": 8056,
+      "gdp": 115762
+    },
+    {
+      "year": 2012,
+      "country": "Luxembourg",
+      "ec": 7722,
+      "gdp": 106749
+    },
+    {
+      "year": 2013,
+      "country": "Luxembourg",
+      "ec": 7312,
+      "gdp": 113625
+    },
+    {
+      "year": 2014,
+      "country": "Luxembourg",
+      "ec": 6861,
+      "gdp": 119225
+    }
+  ],
+  "Morocco": [
+    {
+      "year": 1971,
+      "country": "Morocco",
+      "ec": 181,
+      "gdp": 265
+    },
+    {
+      "year": 1972,
+      "country": "Morocco",
+      "ec": 191,
+      "gdp": 303
+    },
+    {
+      "year": 1973,
+      "country": "Morocco",
+      "ec": 207,
+      "gdp": 365
+    },
+    {
+      "year": 1974,
+      "country": "Morocco",
+      "ec": 219,
+      "gdp": 439
+    },
+    {
+      "year": 1975,
+      "country": "Morocco",
+      "ec": 222,
+      "gdp": 503
+    },
+    {
+      "year": 1976,
+      "country": "Morocco",
+      "ec": 235,
+      "gdp": 524
+    },
+    {
+      "year": 1977,
+      "country": "Morocco",
+      "ec": 253,
+      "gdp": 590
+    },
+    {
+      "year": 1978,
+      "country": "Morocco",
+      "ec": 261,
+      "gdp": 689
+    },
+    {
+      "year": 1979,
+      "country": "Morocco",
+      "ec": 272,
+      "gdp": 809
+    },
+    {
+      "year": 1980,
+      "country": "Morocco",
+      "ec": 270,
+      "gdp": 1077
+    },
+    {
+      "year": 1981,
+      "country": "Morocco",
+      "ec": 265,
+      "gdp": 860
+    },
+    {
+      "year": 1982,
+      "country": "Morocco",
+      "ec": 269,
+      "gdp": 835
+    },
+    {
+      "year": 1983,
+      "country": "Morocco",
+      "ec": 273,
+      "gdp": 749
+    },
+    {
+      "year": 1984,
+      "country": "Morocco",
+      "ec": 275,
+      "gdp": 667
+    },
+    {
+      "year": 1985,
+      "country": "Morocco",
+      "ec": 274,
+      "gdp": 660
+    },
+    {
+      "year": 1986,
+      "country": "Morocco",
+      "ec": 277,
+      "gdp": 838
+    },
+    {
+      "year": 1987,
+      "country": "Morocco",
+      "ec": 278,
+      "gdp": 919
+    },
+    {
+      "year": 1988,
+      "country": "Morocco",
+      "ec": 286,
+      "gdp": 1064
+    },
+    {
+      "year": 1989,
+      "country": "Morocco",
+      "ec": 305,
+      "gdp": 1068
+    },
+    {
+      "year": 1990,
+      "country": "Morocco",
+      "ec": 306,
+      "gdp": 1203
+    },
+    {
+      "year": 1991,
+      "country": "Morocco",
+      "ec": 316,
+      "gdp": 1263
+    },
+    {
+      "year": 1992,
+      "country": "Morocco",
+      "ec": 329,
+      "gdp": 1295
+    },
+    {
+      "year": 1993,
+      "country": "Morocco",
+      "ec": 335,
+      "gdp": 1196
+    },
+    {
+      "year": 1994,
+      "country": "Morocco",
+      "ec": 353,
+      "gdp": 1323
+    },
+    {
+      "year": 1995,
+      "country": "Morocco",
+      "ec": 345,
+      "gdp": 1428
+    },
+    {
+      "year": 1996,
+      "country": "Morocco",
+      "ec": 357,
+      "gdp": 1557
+    },
+    {
+      "year": 1997,
+      "country": "Morocco",
+      "ec": 364,
+      "gdp": 1393
+    },
+    {
+      "year": 1998,
+      "country": "Morocco",
+      "ec": 366,
+      "gdp": 1469
+    },
+    {
+      "year": 1999,
+      "country": "Morocco",
+      "ec": 384,
+      "gdp": 1445
+    },
+    {
+      "year": 2000,
+      "country": "Morocco",
+      "ec": 382,
+      "gdp": 1332
+    },
+    {
+      "year": 2001,
+      "country": "Morocco",
+      "ec": 400,
+      "gdp": 1337
+    },
+    {
+      "year": 2002,
+      "country": "Morocco",
+      "ec": 402,
+      "gdp": 1414
+    },
+    {
+      "year": 2003,
+      "country": "Morocco",
+      "ec": 396,
+      "gdp": 1722
+    },
+    {
+      "year": 2004,
+      "country": "Morocco",
+      "ec": 465,
+      "gdp": 1949
+    },
+    {
+      "year": 2005,
+      "country": "Morocco",
+      "ec": 486,
+      "gdp": 2014
+    },
+    {
+      "year": 2006,
+      "country": "Morocco",
+      "ec": 489,
+      "gdp": 2191
+    },
+    {
+      "year": 2007,
+      "country": "Morocco",
+      "ec": 499,
+      "gdp": 2494
+    },
+    {
+      "year": 2008,
+      "country": "Morocco",
+      "ec": 512,
+      "gdp": 2885
+    },
+    {
+      "year": 2009,
+      "country": "Morocco",
+      "ec": 509,
+      "gdp": 2862
+    },
+    {
+      "year": 2010,
+      "country": "Morocco",
+      "ec": 527,
+      "gdp": 2834
+    },
+    {
+      "year": 2011,
+      "country": "Morocco",
+      "ec": 560,
+      "gdp": 3040
+    },
+    {
+      "year": 2012,
+      "country": "Morocco",
+      "ec": 560,
+      "gdp": 2905
+    },
+    {
+      "year": 2013,
+      "country": "Morocco",
+      "ec": 554,
+      "gdp": 3112
+    },
+    {
+      "year": 2014,
+      "country": "Morocco",
+      "ec": 553,
+      "gdp": 3155
+    }
+  ],
+  "Mexico": [
+    {
+      "year": 1971,
+      "country": "Mexico",
+      "ec": 800,
+      "gdp": 730
+    },
+    {
+      "year": 1972,
+      "country": "Mexico",
+      "ec": 857,
+      "gdp": 815
+    },
+    {
+      "year": 1973,
+      "country": "Mexico",
+      "ec": 918,
+      "gdp": 965
+    },
+    {
+      "year": 1974,
+      "country": "Mexico",
+      "ec": 947,
+      "gdp": 1219
+    },
+    {
+      "year": 1975,
+      "country": "Mexico",
+      "ec": 972,
+      "gdp": 1446
+    },
+    {
+      "year": 1976,
+      "country": "Mexico",
+      "ec": 1011,
+      "gdp": 1422
+    },
+    {
+      "year": 1977,
+      "country": "Mexico",
+      "ec": 1064,
+      "gdp": 1271
+    },
+    {
+      "year": 1978,
+      "country": "Mexico",
+      "ec": 1159,
+      "gdp": 1552
+    },
+    {
+      "year": 1979,
+      "country": "Mexico",
+      "ec": 1240,
+      "gdp": 1987
+    },
+    {
+      "year": 1980,
+      "country": "Mexico",
+      "ec": 1371,
+      "gdp": 2958
+    },
+    {
+      "year": 1981,
+      "country": "Mexico",
+      "ec": 1431,
+      "gdp": 3718
+    },
+    {
+      "year": 1982,
+      "country": "Mexico",
+      "ec": 1464,
+      "gdp": 2543
+    },
+    {
+      "year": 1983,
+      "country": "Mexico",
+      "ec": 1349,
+      "gdp": 2105
+    },
+    {
+      "year": 1984,
+      "country": "Mexico",
+      "ec": 1380,
+      "gdp": 2432
+    },
+    {
+      "year": 1985,
+      "country": "Mexico",
+      "ec": 1404,
+      "gdp": 2524
+    },
+    {
+      "year": 1986,
+      "country": "Mexico",
+      "ec": 1339,
+      "gdp": 1705
+    },
+    {
+      "year": 1987,
+      "country": "Mexico",
+      "ec": 1380,
+      "gdp": 1833
+    },
+    {
+      "year": 1988,
+      "country": "Mexico",
+      "ec": 1370,
+      "gdp": 2213
+    },
+    {
+      "year": 1989,
+      "country": "Mexico",
+      "ec": 1404,
+      "gdp": 2645
+    },
+    {
+      "year": 1990,
+      "country": "Mexico",
+      "ec": 1449,
+      "gdp": 3061
+    },
+    {
+      "year": 1991,
+      "country": "Mexico",
+      "ec": 1491,
+      "gdp": 3596
+    },
+    {
+      "year": 1992,
+      "country": "Mexico",
+      "ec": 1474,
+      "gdp": 4088
+    },
+    {
+      "year": 1993,
+      "country": "Mexico",
+      "ec": 1469,
+      "gdp": 5527
+    },
+    {
+      "year": 1994,
+      "country": "Mexico",
+      "ec": 1474,
+      "gdp": 5715
+    },
+    {
+      "year": 1995,
+      "country": "Mexico",
+      "ec": 1401,
+      "gdp": 3829
+    },
+    {
+      "year": 1996,
+      "country": "Mexico",
+      "ec": 1408,
+      "gdp": 4295
+    },
+    {
+      "year": 1997,
+      "country": "Mexico",
+      "ec": 1457,
+      "gdp": 5144
+    },
+    {
+      "year": 1998,
+      "country": "Mexico",
+      "ec": 1474,
+      "gdp": 5328
+    },
+    {
+      "year": 1999,
+      "country": "Mexico",
+      "ec": 1494,
+      "gdp": 5984
+    },
+    {
+      "year": 2000,
+      "country": "Mexico",
+      "ec": 1475,
+      "gdp": 6959
+    },
+    {
+      "year": 2001,
+      "country": "Mexico",
+      "ec": 1507,
+      "gdp": 7342
+    },
+    {
+      "year": 2002,
+      "country": "Mexico",
+      "ec": 1495,
+      "gdp": 7399
+    },
+    {
+      "year": 2003,
+      "country": "Mexico",
+      "ec": 1565,
+      "gdp": 6904
+    },
+    {
+      "year": 2004,
+      "country": "Mexico",
+      "ec": 1562,
+      "gdp": 7311
+    },
+    {
+      "year": 2005,
+      "country": "Mexico",
+      "ec": 1647,
+      "gdp": 8089
+    },
+    {
+      "year": 2006,
+      "country": "Mexico",
+      "ec": 1660,
+      "gdp": 8860
+    },
+    {
+      "year": 2007,
+      "country": "Mexico",
+      "ec": 1623,
+      "gdp": 9413
+    },
+    {
+      "year": 2008,
+      "country": "Mexico",
+      "ec": 1581,
+      "gdp": 9766
+    },
+    {
+      "year": 2009,
+      "country": "Mexico",
+      "ec": 1557,
+      "gdp": 7792
+    },
+    {
+      "year": 2010,
+      "country": "Mexico",
+      "ec": 1490,
+      "gdp": 9016
+    },
+    {
+      "year": 2011,
+      "country": "Mexico",
+      "ec": 1542,
+      "gdp": 9913
+    },
+    {
+      "year": 2012,
+      "country": "Mexico",
+      "ec": 1587,
+      "gdp": 9940
+    },
+    {
+      "year": 2013,
+      "country": "Mexico",
+      "ec": 1568,
+      "gdp": 10401
+    },
+    {
+      "year": 2014,
+      "country": "Mexico",
+      "ec": 1513,
+      "gdp": 10582
+    }
+  ],
+  "Norway": [
+    {
+      "year": 1971,
+      "country": "Norway",
+      "ec": 3414,
+      "gdp": 3736
+    },
+    {
+      "year": 1972,
+      "country": "Norway",
+      "ec": 3503,
+      "gdp": 4414
+    },
+    {
+      "year": 1973,
+      "country": "Norway",
+      "ec": 3608,
+      "gdp": 5690
+    },
+    {
+      "year": 1974,
+      "country": "Norway",
+      "ec": 3581,
+      "gdp": 6812
+    },
+    {
+      "year": 1975,
+      "country": "Norway",
+      "ec": 3652,
+      "gdp": 8204
+    },
+    {
+      "year": 1976,
+      "country": "Norway",
+      "ec": 3962,
+      "gdp": 8927
+    },
+    {
+      "year": 1977,
+      "country": "Norway",
+      "ec": 4060,
+      "gdp": 10266
+    },
+    {
+      "year": 1978,
+      "country": "Norway",
+      "ec": 4360,
+      "gdp": 11463
+    },
+    {
+      "year": 1979,
+      "country": "Norway",
+      "ec": 4467,
+      "gdp": 13047
+    },
+    {
+      "year": 1980,
+      "country": "Norway",
+      "ec": 4492,
+      "gdp": 15772
+    },
+    {
+      "year": 1981,
+      "country": "Norway",
+      "ec": 4415,
+      "gdp": 15513
+    },
+    {
+      "year": 1982,
+      "country": "Norway",
+      "ec": 4262,
+      "gdp": 15225
+    },
+    {
+      "year": 1983,
+      "country": "Norway",
+      "ec": 4428,
+      "gdp": 14928
+    },
+    {
+      "year": 1984,
+      "country": "Norway",
+      "ec": 4672,
+      "gdp": 14989
+    },
+    {
+      "year": 1985,
+      "country": "Norway",
+      "ec": 4815,
+      "gdp": 15754
+    },
+    {
+      "year": 1986,
+      "country": "Norway",
+      "ec": 5024,
+      "gdp": 18883
+    },
+    {
+      "year": 1987,
+      "country": "Norway",
+      "ec": 5048,
+      "gdp": 22506
+    },
+    {
+      "year": 1988,
+      "country": "Norway",
+      "ec": 4817,
+      "gdp": 24207
+    },
+    {
+      "year": 1989,
+      "country": "Norway",
+      "ec": 4984,
+      "gdp": 24281
+    },
+    {
+      "year": 1990,
+      "country": "Norway",
+      "ec": 4967,
+      "gdp": 28243
+    },
+    {
+      "year": 1991,
+      "country": "Norway",
+      "ec": 5105,
+      "gdp": 28597
+    },
+    {
+      "year": 1992,
+      "country": "Norway",
+      "ec": 5160,
+      "gdp": 30524
+    },
+    {
+      "year": 1993,
+      "country": "Norway",
+      "ec": 5460,
+      "gdp": 27964
+    },
+    {
+      "year": 1994,
+      "country": "Norway",
+      "ec": 5315,
+      "gdp": 29316
+    },
+    {
+      "year": 1995,
+      "country": "Norway",
+      "ec": 5391,
+      "gdp": 34875
+    },
+    {
+      "year": 1996,
+      "country": "Norway",
+      "ec": 5202,
+      "gdp": 37321
+    },
+    {
+      "year": 1997,
+      "country": "Norway",
+      "ec": 5475,
+      "gdp": 36629
+    },
+    {
+      "year": 1998,
+      "country": "Norway",
+      "ec": 5685,
+      "gdp": 34789
+    },
+    {
+      "year": 1999,
+      "country": "Norway",
+      "ec": 5913,
+      "gdp": 36371
+    },
+    {
+      "year": 2000,
+      "country": "Norway",
+      "ec": 5826,
+      "gdp": 38147
+    },
+    {
+      "year": 2001,
+      "country": "Norway",
+      "ec": 5954,
+      "gdp": 38550
+    },
+    {
+      "year": 2002,
+      "country": "Norway",
+      "ec": 5501,
+      "gdp": 43061
+    },
+    {
+      "year": 2003,
+      "country": "Norway",
+      "ec": 5933,
+      "gdp": 50112
+    },
+    {
+      "year": 2004,
+      "country": "Norway",
+      "ec": 5769,
+      "gdp": 57570
+    },
+    {
+      "year": 2005,
+      "country": "Norway",
+      "ec": 5803,
+      "gdp": 66775
+    },
+    {
+      "year": 2006,
+      "country": "Norway",
+      "ec": 5834,
+      "gdp": 74115
+    },
+    {
+      "year": 2007,
+      "country": "Norway",
+      "ec": 5862,
+      "gdp": 85171
+    },
+    {
+      "year": 2008,
+      "country": "Norway",
+      "ec": 6753,
+      "gdp": 97008
+    },
+    {
+      "year": 2009,
+      "country": "Norway",
+      "ec": 6484,
+      "gdp": 80067
+    },
+    {
+      "year": 2010,
+      "country": "Norway",
+      "ec": 6935,
+      "gdp": 87770
+    },
+    {
+      "year": 2011,
+      "country": "Norway",
+      "ec": 5650,
+      "gdp": 100711
+    },
+    {
+      "year": 2012,
+      "country": "Norway",
+      "ec": 5906,
+      "gdp": 101668
+    },
+    {
+      "year": 2013,
+      "country": "Norway",
+      "ec": 6416,
+      "gdp": 103059
+    },
+    {
+      "year": 2014,
+      "country": "Norway",
+      "ec": 5596,
+      "gdp": 97200
+    }
+  ],
+  "Nepal": [
+    {
+      "year": 1971,
+      "country": "Nepal",
+      "ec": 299,
+      "gdp": 72
+    },
+    {
+      "year": 1972,
+      "country": "Nepal",
+      "ec": 301,
+      "gdp": 82
+    },
+    {
+      "year": 1973,
+      "country": "Nepal",
+      "ec": 303,
+      "gdp": 76
+    },
+    {
+      "year": 1974,
+      "country": "Nepal",
+      "ec": 303,
+      "gdp": 93
+    },
+    {
+      "year": 1975,
+      "country": "Nepal",
+      "ec": 302,
+      "gdp": 118
+    },
+    {
+      "year": 1976,
+      "country": "Nepal",
+      "ec": 301,
+      "gdp": 107
+    },
+    {
+      "year": 1977,
+      "country": "Nepal",
+      "ec": 302,
+      "gdp": 99
+    },
+    {
+      "year": 1978,
+      "country": "Nepal",
+      "ec": 302,
+      "gdp": 113
+    },
+    {
+      "year": 1979,
+      "country": "Nepal",
+      "ec": 305,
+      "gdp": 127
+    },
+    {
+      "year": 1980,
+      "country": "Nepal",
+      "ec": 306,
+      "gdp": 131
+    },
+    {
+      "year": 1981,
+      "country": "Nepal",
+      "ec": 304,
+      "gdp": 149
+    },
+    {
+      "year": 1982,
+      "country": "Nepal",
+      "ec": 306,
+      "gdp": 153
+    },
+    {
+      "year": 1983,
+      "country": "Nepal",
+      "ec": 308,
+      "gdp": 153
+    },
+    {
+      "year": 1984,
+      "country": "Nepal",
+      "ec": 309,
+      "gdp": 158
+    },
+    {
+      "year": 1985,
+      "country": "Nepal",
+      "ec": 305,
+      "gdp": 157
+    },
+    {
+      "year": 1986,
+      "country": "Nepal",
+      "ec": 308,
+      "gdp": 167
+    },
+    {
+      "year": 1987,
+      "country": "Nepal",
+      "ec": 307,
+      "gdp": 169
+    },
+    {
+      "year": 1988,
+      "country": "Nepal",
+      "ec": 307,
+      "gdp": 195
+    },
+    {
+      "year": 1989,
+      "country": "Nepal",
+      "ec": 304,
+      "gdp": 193
+    },
+    {
+      "year": 1990,
+      "country": "Nepal",
+      "ec": 309,
+      "gdp": 193
+    },
+    {
+      "year": 1991,
+      "country": "Nepal",
+      "ec": 311,
+      "gdp": 204
+    },
+    {
+      "year": 1992,
+      "country": "Nepal",
+      "ec": 310,
+      "gdp": 172
+    },
+    {
+      "year": 1993,
+      "country": "Nepal",
+      "ec": 309,
+      "gdp": 180
+    },
+    {
+      "year": 1994,
+      "country": "Nepal",
+      "ec": 312,
+      "gdp": 195
+    },
+    {
+      "year": 1995,
+      "country": "Nepal",
+      "ec": 314,
+      "gdp": 206
+    },
+    {
+      "year": 1996,
+      "country": "Nepal",
+      "ec": 314,
+      "gdp": 206
+    },
+    {
+      "year": 1997,
+      "country": "Nepal",
+      "ec": 317,
+      "gdp": 220
+    },
+    {
+      "year": 1998,
+      "country": "Nepal",
+      "ec": 318,
+      "gdp": 212
+    },
+    {
+      "year": 1999,
+      "country": "Nepal",
+      "ec": 330,
+      "gdp": 216
+    },
+    {
+      "year": 2000,
+      "country": "Nepal",
+      "ec": 342,
+      "gdp": 231
+    },
+    {
+      "year": 2001,
+      "country": "Nepal",
+      "ec": 347,
+      "gdp": 249
+    },
+    {
+      "year": 2002,
+      "country": "Nepal",
+      "ec": 345,
+      "gdp": 246
+    },
+    {
+      "year": 2003,
+      "country": "Nepal",
+      "ec": 349,
+      "gdp": 254
+    },
+    {
+      "year": 2004,
+      "country": "Nepal",
+      "ec": 349,
+      "gdp": 287
+    },
+    {
+      "year": 2005,
+      "country": "Nepal",
+      "ec": 356,
+      "gdp": 317
+    },
+    {
+      "year": 2006,
+      "country": "Nepal",
+      "ec": 352,
+      "gdp": 349
+    },
+    {
+      "year": 2007,
+      "country": "Nepal",
+      "ec": 355,
+      "gdp": 394
+    },
+    {
+      "year": 2008,
+      "country": "Nepal",
+      "ec": 364,
+      "gdp": 474
+    },
+    {
+      "year": 2009,
+      "country": "Nepal",
+      "ec": 371,
+      "gdp": 481
+    },
+    {
+      "year": 2010,
+      "country": "Nepal",
+      "ec": 378,
+      "gdp": 592
+    },
+    {
+      "year": 2011,
+      "country": "Nepal",
+      "ec": 387,
+      "gdp": 692
+    },
+    {
+      "year": 2012,
+      "country": "Nepal",
+      "ec": 365,
+      "gdp": 682
+    },
+    {
+      "year": 2013,
+      "country": "Nepal",
+      "ec": 401,
+      "gdp": 689
+    },
+    {
+      "year": 2014,
+      "country": "Nepal",
+      "ec": 413,
+      "gdp": 706
+    }
+  ],
+  "Pakistan": [
+    {
+      "year": 1971,
+      "country": "Pakistan",
+      "ec": 285,
+      "gdp": 178
+    },
+    {
+      "year": 1972,
+      "country": "Pakistan",
+      "ec": 285,
+      "gdp": 152
+    },
+    {
+      "year": 1973,
+      "country": "Pakistan",
+      "ec": 291,
+      "gdp": 100
+    },
+    {
+      "year": 1974,
+      "country": "Pakistan",
+      "ec": 300,
+      "gdp": 135
+    },
+    {
+      "year": 1975,
+      "country": "Pakistan",
+      "ec": 305,
+      "gdp": 170
+    },
+    {
+      "year": 1976,
+      "country": "Pakistan",
+      "ec": 299,
+      "gdp": 194
+    },
+    {
+      "year": 1977,
+      "country": "Pakistan",
+      "ec": 303,
+      "gdp": 213
+    },
+    {
+      "year": 1978,
+      "country": "Pakistan",
+      "ec": 305,
+      "gdp": 243
+    },
+    {
+      "year": 1979,
+      "country": "Pakistan",
+      "ec": 313,
+      "gdp": 261
+    },
+    {
+      "year": 1980,
+      "country": "Pakistan",
+      "ec": 317,
+      "gdp": 303
+    },
+    {
+      "year": 1981,
+      "country": "Pakistan",
+      "ec": 329,
+      "gdp": 348
+    },
+    {
+      "year": 1982,
+      "country": "Pakistan",
+      "ec": 337,
+      "gdp": 368
+    },
+    {
+      "year": 1983,
+      "country": "Pakistan",
+      "ec": 344,
+      "gdp": 332
+    },
+    {
+      "year": 1984,
+      "country": "Pakistan",
+      "ec": 343,
+      "gdp": 349
+    },
+    {
+      "year": 1985,
+      "country": "Pakistan",
+      "ec": 350,
+      "gdp": 338
+    },
+    {
+      "year": 1986,
+      "country": "Pakistan",
+      "ec": 353,
+      "gdp": 335
+    },
+    {
+      "year": 1987,
+      "country": "Pakistan",
+      "ec": 376,
+      "gdp": 339
+    },
+    {
+      "year": 1988,
+      "country": "Pakistan",
+      "ec": 383,
+      "gdp": 379
+    },
+    {
+      "year": 1989,
+      "country": "Pakistan",
+      "ec": 392,
+      "gdp": 384
+    },
+    {
+      "year": 1990,
+      "country": "Pakistan",
+      "ec": 398,
+      "gdp": 372
+    },
+    {
+      "year": 1991,
+      "country": "Pakistan",
+      "ec": 397,
+      "gdp": 410
+    },
+    {
+      "year": 1992,
+      "country": "Pakistan",
+      "ec": 412,
+      "gdp": 428
+    },
+    {
+      "year": 1993,
+      "country": "Pakistan",
+      "ec": 422,
+      "gdp": 441
+    },
+    {
+      "year": 1994,
+      "country": "Pakistan",
+      "ec": 428,
+      "gdp": 433
+    },
+    {
+      "year": 1995,
+      "country": "Pakistan",
+      "ec": 436,
+      "gdp": 494
+    },
+    {
+      "year": 1996,
+      "country": "Pakistan",
+      "ec": 447,
+      "gdp": 503
+    },
+    {
+      "year": 1997,
+      "country": "Pakistan",
+      "ec": 448,
+      "gdp": 484
+    },
+    {
+      "year": 1998,
+      "country": "Pakistan",
+      "ec": 447,
+      "gdp": 470
+    },
+    {
+      "year": 1999,
+      "country": "Pakistan",
+      "ec": 461,
+      "gdp": 465
+    },
+    {
+      "year": 2000,
+      "country": "Pakistan",
+      "ec": 462,
+      "gdp": 534
+    },
+    {
+      "year": 2001,
+      "country": "Pakistan",
+      "ec": 460,
+      "gdp": 511
+    },
+    {
+      "year": 2002,
+      "country": "Pakistan",
+      "ec": 455,
+      "gdp": 500
+    },
+    {
+      "year": 2003,
+      "country": "Pakistan",
+      "ec": 466,
+      "gdp": 564
+    },
+    {
+      "year": 2004,
+      "country": "Pakistan",
+      "ec": 489,
+      "gdp": 650
+    },
+    {
+      "year": 2005,
+      "country": "Pakistan",
+      "ec": 497,
+      "gdp": 711
+    },
+    {
+      "year": 2006,
+      "country": "Pakistan",
+      "ec": 507,
+      "gdp": 874
+    },
+    {
+      "year": 2007,
+      "country": "Pakistan",
+      "ec": 524,
+      "gdp": 950
+    },
+    {
+      "year": 2008,
+      "country": "Pakistan",
+      "ec": 505,
+      "gdp": 1039
+    },
+    {
+      "year": 2009,
+      "country": "Pakistan",
+      "ec": 502,
+      "gdp": 1007
+    },
+    {
+      "year": 2010,
+      "country": "Pakistan",
+      "ec": 498,
+      "gdp": 1040
+    },
+    {
+      "year": 2011,
+      "country": "Pakistan",
+      "ec": 492,
+      "gdp": 1226
+    },
+    {
+      "year": 2012,
+      "country": "Pakistan",
+      "ec": 487,
+      "gdp": 1261
+    },
+    {
+      "year": 2013,
+      "country": "Pakistan",
+      "ec": 488,
+      "gdp": 1272
+    },
+    {
+      "year": 2014,
+      "country": "Pakistan",
+      "ec": 484,
+      "gdp": 1317
+    }
+  ],
+  "Qatar": [
+    {
+      "year": 1971,
+      "country": "Qatar",
+      "ec": 7753,
+      "gdp": 3246
+    },
+    {
+      "year": 1972,
+      "country": "Qatar",
+      "ec": 7801,
+      "gdp": 3909
+    },
+    {
+      "year": 1973,
+      "country": "Qatar",
+      "ec": 10071,
+      "gdp": 5581
+    },
+    {
+      "year": 1974,
+      "country": "Qatar",
+      "ec": 8009,
+      "gdp": 15624
+    },
+    {
+      "year": 1975,
+      "country": "Qatar",
+      "ec": 12414,
+      "gdp": 15283
+    },
+    {
+      "year": 1976,
+      "country": "Qatar",
+      "ec": 8791,
+      "gdp": 18893
+    },
+    {
+      "year": 1977,
+      "country": "Qatar",
+      "ec": 9514,
+      "gdp": 19829
+    },
+    {
+      "year": 1978,
+      "country": "Qatar",
+      "ec": 8442,
+      "gdp": 21094
+    },
+    {
+      "year": 1979,
+      "country": "Qatar",
+      "ec": 13718,
+      "gdp": 27436
+    },
+    {
+      "year": 1980,
+      "country": "Qatar",
+      "ec": 14800,
+      "gdp": 34986
+    },
+    {
+      "year": 1981,
+      "country": "Qatar",
+      "ec": 16710,
+      "gdp": 34904
+    },
+    {
+      "year": 1982,
+      "country": "Qatar",
+      "ec": 17339,
+      "gdp": 27386
+    },
+    {
+      "year": 1983,
+      "country": "Qatar",
+      "ec": 16048,
+      "gdp": 20898
+    },
+    {
+      "year": 1984,
+      "country": "Qatar",
+      "ec": 16475,
+      "gdp": 19635
+    },
+    {
+      "year": 1985,
+      "country": "Qatar",
+      "ec": 15217,
+      "gdp": 16582
+    },
+    {
+      "year": 1986,
+      "country": "Qatar",
+      "ec": 15074,
+      "gdp": 12698
+    },
+    {
+      "year": 1987,
+      "country": "Qatar",
+      "ec": 14648,
+      "gdp": 12896
+    },
+    {
+      "year": 1988,
+      "country": "Qatar",
+      "ec": 14576,
+      "gdp": 13606
+    },
+    {
+      "year": 1989,
+      "country": "Qatar",
+      "ec": 14350,
+      "gdp": 14047
+    },
+    {
+      "year": 1990,
+      "country": "Qatar",
+      "ec": 13698,
+      "gdp": 15449
+    },
+    {
+      "year": 1991,
+      "country": "Qatar",
+      "ec": 14814,
+      "gdp": 14120
+    },
+    {
+      "year": 1992,
+      "country": "Qatar",
+      "ec": 15239,
+      "gdp": 15431
+    },
+    {
+      "year": 1993,
+      "country": "Qatar",
+      "ec": 15622,
+      "gdp": 14268
+    },
+    {
+      "year": 1994,
+      "country": "Qatar",
+      "ec": 15510,
+      "gdp": 14543
+    },
+    {
+      "year": 1995,
+      "country": "Qatar",
+      "ec": 15871,
+      "gdp": 15849
+    },
+    {
+      "year": 1996,
+      "country": "Qatar",
+      "ec": 16555,
+      "gdp": 17345
+    },
+    {
+      "year": 1997,
+      "country": "Qatar",
+      "ec": 19032,
+      "gdp": 21133
+    },
+    {
+      "year": 1998,
+      "country": "Qatar",
+      "ec": 19388,
+      "gdp": 18632
+    },
+    {
+      "year": 1999,
+      "country": "Qatar",
+      "ec": 19875,
+      "gdp": 21763
+    },
+    {
+      "year": 2000,
+      "country": "Qatar",
+      "ec": 18438,
+      "gdp": 29986
+    },
+    {
+      "year": 2001,
+      "country": "Qatar",
+      "ec": 19562,
+      "gdp": 28431
+    },
+    {
+      "year": 2002,
+      "country": "Qatar",
+      "ec": 21142,
+      "gdp": 29991
+    },
+    {
+      "year": 2003,
+      "country": "Qatar",
+      "ec": 20523,
+      "gdp": 34177
+    },
+    {
+      "year": 2004,
+      "country": "Qatar",
+      "ec": 21959,
+      "gdp": 41818
+    },
+    {
+      "year": 2005,
+      "country": "Qatar",
+      "ec": 19269,
+      "gdp": 51488
+    },
+    {
+      "year": 2006,
+      "country": "Qatar",
+      "ec": 19389,
+      "gdp": 60257
+    },
+    {
+      "year": 2007,
+      "country": "Qatar",
+      "ec": 18607,
+      "gdp": 67006
+    },
+    {
+      "year": 2008,
+      "country": "Qatar",
+      "ec": 16371,
+      "gdp": 82967
+    },
+    {
+      "year": 2009,
+      "country": "Qatar",
+      "ec": 15234,
+      "gdp": 61478
+    },
+    {
+      "year": 2010,
+      "country": "Qatar",
+      "ec": 15532,
+      "gdp": 70306
+    },
+    {
+      "year": 2011,
+      "country": "Qatar",
+      "ec": 16031,
+      "gdp": 85948
+    },
+    {
+      "year": 2012,
+      "country": "Qatar",
+      "ec": 18056,
+      "gdp": 88565
+    },
+    {
+      "year": 2013,
+      "country": "Qatar",
+      "ec": 17927,
+      "gdp": 88305
+    },
+    {
+      "year": 2014,
+      "country": "Qatar",
+      "ec": 18563,
+      "gdp": 86853
+    }
+  ],
+  "Russia": [
+    {
+      "year": 1971,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1972,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1973,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1974,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1975,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1976,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1977,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1978,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1979,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1980,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1981,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1982,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1983,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1984,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1985,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1986,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1987,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1988,
+      "country": "Russia",
+      "ec": 0,
+      "gdp": 0
+    },
+    {
+      "year": 1989,
+      "country": "Russia",
+      "ec": 4494,
+      "gdp": 3429
+    },
+    {
+      "year": 1990,
+      "country": "Russia",
+      "ec": 5929,
+      "gdp": 3485
+    },
+    {
+      "year": 1991,
+      "country": "Russia",
+      "ec": 5861,
+      "gdp": 3485
+    },
+    {
+      "year": 1992,
+      "country": "Russia",
+      "ec": 5351,
+      "gdp": 3096
+    },
+    {
+      "year": 1993,
+      "country": "Russia",
+      "ec": 5058,
+      "gdp": 2929
+    },
+    {
+      "year": 1994,
+      "country": "Russia",
+      "ec": 4429,
+      "gdp": 2663
+    },
+    {
+      "year": 1995,
+      "country": "Russia",
+      "ec": 4291,
+      "gdp": 2666
+    },
+    {
+      "year": 1996,
+      "country": "Russia",
+      "ec": 4253,
+      "gdp": 2644
+    },
+    {
+      "year": 1997,
+      "country": "Russia",
+      "ec": 4070,
+      "gdp": 2738
+    },
+    {
+      "year": 1998,
+      "country": "Russia",
+      "ec": 3982,
+      "gdp": 1835
+    },
+    {
+      "year": 1999,
+      "country": "Russia",
+      "ec": 4137,
+      "gdp": 1331
+    },
+    {
+      "year": 2000,
+      "country": "Russia",
+      "ec": 4224,
+      "gdp": 1772
+    },
+    {
+      "year": 2001,
+      "country": "Russia",
+      "ec": 4288,
+      "gdp": 2100
+    },
+    {
+      "year": 2002,
+      "country": "Russia",
+      "ec": 4288,
+      "gdp": 2375
+    },
+    {
+      "year": 2003,
+      "country": "Russia",
+      "ec": 4461,
+      "gdp": 2975
+    },
+    {
+      "year": 2004,
+      "country": "Russia",
+      "ec": 4494,
+      "gdp": 4102
+    },
+    {
+      "year": 2005,
+      "country": "Russia",
+      "ec": 4541,
+      "gdp": 5323
+    },
+    {
+      "year": 2006,
+      "country": "Russia",
+      "ec": 4688,
+      "gdp": 6920
+    },
+    {
+      "year": 2007,
+      "country": "Russia",
+      "ec": 4710,
+      "gdp": 9101
+    },
+    {
+      "year": 2008,
+      "country": "Russia",
+      "ec": 4823,
+      "gdp": 11635
+    },
+    {
+      "year": 2009,
+      "country": "Russia",
+      "ec": 4531,
+      "gdp": 8563
+    },
+    {
+      "year": 2010,
+      "country": "Russia",
+      "ec": 4819,
+      "gdp": 10675
+    },
+    {
+      "year": 2011,
+      "country": "Russia",
+      "ec": 5049,
+      "gdp": 14351
+    },
+    {
+      "year": 2012,
+      "country": "Russia",
+      "ec": 5167,
+      "gdp": 15435
+    },
+    {
+      "year": 2013,
+      "country": "Russia",
+      "ec": 5079,
+      "gdp": 16007
+    },
+    {
+      "year": 2014,
+      "country": "Russia",
+      "ec": 4943,
+      "gdp": 14126
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "year": 1971,
+      "country": "Saudi Arabia",
+      "ec": 1206,
+      "gdp": 1178
+    },
+    {
+      "year": 1972,
+      "country": "Saudi Arabia",
+      "ec": 978,
+      "gdp": 1511
+    },
+    {
+      "year": 1973,
+      "country": "Saudi Arabia",
+      "ec": 1077,
+      "gdp": 2226
+    },
+    {
+      "year": 1974,
+      "country": "Saudi Arabia",
+      "ec": 1146,
+      "gdp": 6433
+    },
+    {
+      "year": 1975,
+      "country": "Saudi Arabia",
+      "ec": 1180,
+      "gdp": 6296
+    },
+    {
+      "year": 1976,
+      "country": "Saudi Arabia",
+      "ec": 1300,
+      "gdp": 8186
+    },
+    {
+      "year": 1977,
+      "country": "Saudi Arabia",
+      "ec": 1380,
+      "gdp": 9013
+    },
+    {
+      "year": 1978,
+      "country": "Saudi Arabia",
+      "ec": 1968,
+      "gdp": 9247
+    },
+    {
+      "year": 1979,
+      "country": "Saudi Arabia",
+      "ec": 2446,
+      "gdp": 12186
+    },
+    {
+      "year": 1980,
+      "country": "Saudi Arabia",
+      "ec": 3193,
+      "gdp": 16892
+    },
+    {
+      "year": 1981,
+      "country": "Saudi Arabia",
+      "ec": 4081,
+      "gdp": 17777
+    },
+    {
+      "year": 1982,
+      "country": "Saudi Arabia",
+      "ec": 4291,
+      "gdp": 13870
+    },
+    {
+      "year": 1983,
+      "country": "Saudi Arabia",
+      "ec": 4407,
+      "gdp": 10980
+    },
+    {
+      "year": 1984,
+      "country": "Saudi Arabia",
+      "ec": 3661,
+      "gdp": 9582
+    },
+    {
+      "year": 1985,
+      "country": "Saudi Arabia",
+      "ec": 3487,
+      "gdp": 7878
+    },
+    {
+      "year": 1986,
+      "country": "Saudi Arabia",
+      "ec": 3313,
+      "gdp": 6270
+    },
+    {
+      "year": 1987,
+      "country": "Saudi Arabia",
+      "ec": 3781,
+      "gdp": 5900
+    },
+    {
+      "year": 1988,
+      "country": "Saudi Arabia",
+      "ec": 4149,
+      "gdp": 5823
+    },
+    {
+      "year": 1989,
+      "country": "Saudi Arabia",
+      "ec": 3991,
+      "gdp": 6051
+    },
+    {
+      "year": 1990,
+      "country": "Saudi Arabia",
+      "ec": 3553,
+      "gdp": 7205
+    },
+    {
+      "year": 1991,
+      "country": "Saudi Arabia",
+      "ec": 4003,
+      "gdp": 7839
+    },
+    {
+      "year": 1992,
+      "country": "Saudi Arabia",
+      "ec": 4426,
+      "gdp": 7888
+    },
+    {
+      "year": 1993,
+      "country": "Saudi Arabia",
+      "ec": 4471,
+      "gdp": 7445
+    },
+    {
+      "year": 1994,
+      "country": "Saudi Arabia",
+      "ec": 4589,
+      "gdp": 7382
+    },
+    {
+      "year": 1995,
+      "country": "Saudi Arabia",
+      "ec": 4510,
+      "gdp": 7651
+    },
+    {
+      "year": 1996,
+      "country": "Saudi Arabia",
+      "ec": 4728,
+      "gdp": 8293
+    },
+    {
+      "year": 1997,
+      "country": "Saudi Arabia",
+      "ec": 4423,
+      "gdp": 8509
+    },
+    {
+      "year": 1998,
+      "country": "Saudi Arabia",
+      "ec": 4624,
+      "gdp": 7382
+    },
+    {
+      "year": 1999,
+      "country": "Saudi Arabia",
+      "ec": 4612,
+      "gdp": 7969
+    },
+    {
+      "year": 2000,
+      "country": "Saudi Arabia",
+      "ec": 4713,
+      "gdp": 9127
+    },
+    {
+      "year": 2001,
+      "country": "Saudi Arabia",
+      "ec": 4715,
+      "gdp": 8643
+    },
+    {
+      "year": 2002,
+      "country": "Saudi Arabia",
+      "ec": 5078,
+      "gdp": 8655
+    },
+    {
+      "year": 2003,
+      "country": "Saudi Arabia",
+      "ec": 4991,
+      "gdp": 9567
+    },
+    {
+      "year": 2004,
+      "country": "Saudi Arabia",
+      "ec": 5157,
+      "gdp": 11139
+    },
+    {
+      "year": 2005,
+      "country": "Saudi Arabia",
+      "ec": 5126,
+      "gdp": 13740
+    },
+    {
+      "year": 2006,
+      "country": "Saudi Arabia",
+      "ec": 5525,
+      "gdp": 15335
+    },
+    {
+      "year": 2007,
+      "country": "Saudi Arabia",
+      "ec": 5557,
+      "gdp": 16472
+    },
+    {
+      "year": 2008,
+      "country": "Saudi Arabia",
+      "ec": 6035,
+      "gdp": 20038
+    },
+    {
+      "year": 2009,
+      "country": "Saudi Arabia",
+      "ec": 6250,
+      "gdp": 16094
+    },
+    {
+      "year": 2010,
+      "country": "Saudi Arabia",
+      "ec": 6763,
+      "gdp": 19260
+    },
+    {
+      "year": 2011,
+      "country": "Saudi Arabia",
+      "ec": 6308,
+      "gdp": 23771
+    },
+    {
+      "year": 2012,
+      "country": "Saudi Arabia",
+      "ec": 6888,
+      "gdp": 25303
+    },
+    {
+      "year": 2013,
+      "country": "Saudi Arabia",
+      "ec": 6418,
+      "gdp": 24934
+    },
+    {
+      "year": 2014,
+      "country": "Saudi Arabia",
+      "ec": 6937,
+      "gdp": 24575
+    }
+  ],
+  "Sweden": [
+    {
+      "year": 1971,
+      "country": "Sweden",
+      "ec": 4450,
+      "gdp": 5060
+    },
+    {
+      "year": 1972,
+      "country": "Sweden",
+      "ec": 4527,
+      "gdp": 5942
+    },
+    {
+      "year": 1973,
+      "country": "Sweden",
+      "ec": 4774,
+      "gdp": 7198
+    },
+    {
+      "year": 1974,
+      "country": "Sweden",
+      "ec": 4510,
+      "gdp": 7976
+    },
+    {
+      "year": 1975,
+      "country": "Sweden",
+      "ec": 4764,
+      "gdp": 9975
+    },
+    {
+      "year": 1976,
+      "country": "Sweden",
+      "ec": 5151,
+      "gdp": 10715
+    },
+    {
+      "year": 1977,
+      "country": "Sweden",
+      "ec": 5055,
+      "gdp": 11287
+    },
+    {
+      "year": 1978,
+      "country": "Sweden",
+      "ec": 5017,
+      "gdp": 12443
+    },
+    {
+      "year": 1979,
+      "country": "Sweden",
+      "ec": 5230,
+      "gdp": 14667
+    },
+    {
+      "year": 1980,
+      "country": "Sweden",
+      "ec": 4872,
+      "gdp": 16857
+    },
+    {
+      "year": 1981,
+      "country": "Sweden",
+      "ec": 5097,
+      "gdp": 15367
+    },
+    {
+      "year": 1982,
+      "country": "Sweden",
+      "ec": 4878,
+      "gdp": 13545
+    },
+    {
+      "year": 1983,
+      "country": "Sweden",
+      "ec": 4941,
+      "gdp": 12430
+    },
+    {
+      "year": 1984,
+      "country": "Sweden",
+      "ec": 5216,
+      "gdp": 12914
+    },
+    {
+      "year": 1985,
+      "country": "Sweden",
+      "ec": 5656,
+      "gdp": 13474
+    },
+    {
+      "year": 1986,
+      "country": "Sweden",
+      "ec": 5879,
+      "gdp": 17727
+    },
+    {
+      "year": 1987,
+      "country": "Sweden",
+      "ec": 5763,
+      "gdp": 21485
+    },
+    {
+      "year": 1988,
+      "country": "Sweden",
+      "ec": 5854,
+      "gdp": 24189
+    },
+    {
+      "year": 1989,
+      "country": "Sweden",
+      "ec": 5595,
+      "gdp": 25300
+    },
+    {
+      "year": 1990,
+      "country": "Sweden",
+      "ec": 5515,
+      "gdp": 30162
+    },
+    {
+      "year": 1991,
+      "country": "Sweden",
+      "ec": 5651,
+      "gdp": 31374
+    },
+    {
+      "year": 1992,
+      "country": "Sweden",
+      "ec": 5369,
+      "gdp": 32339
+    },
+    {
+      "year": 1993,
+      "country": "Sweden",
+      "ec": 5334,
+      "gdp": 24081
+    },
+    {
+      "year": 1994,
+      "country": "Sweden",
+      "ec": 5660,
+      "gdp": 25747
+    },
+    {
+      "year": 1995,
+      "country": "Sweden",
+      "ec": 5702,
+      "gdp": 29914
+    },
+    {
+      "year": 1996,
+      "country": "Sweden",
+      "ec": 5825,
+      "gdp": 32587
+    },
+    {
+      "year": 1997,
+      "country": "Sweden",
+      "ec": 5672,
+      "gdp": 29898
+    },
+    {
+      "year": 1998,
+      "country": "Sweden",
+      "ec": 5770,
+      "gdp": 30144
+    },
+    {
+      "year": 1999,
+      "country": "Sweden",
+      "ec": 5661,
+      "gdp": 30577
+    },
+    {
+      "year": 2000,
+      "country": "Sweden",
+      "ec": 5360,
+      "gdp": 29283
+    },
+    {
+      "year": 2001,
+      "country": "Sweden",
+      "ec": 5680,
+      "gdp": 26969
+    },
+    {
+      "year": 2002,
+      "country": "Sweden",
+      "ec": 5802,
+      "gdp": 29572
+    },
+    {
+      "year": 2003,
+      "country": "Sweden",
+      "ec": 5650,
+      "gdp": 36961
+    },
+    {
+      "year": 2004,
+      "country": "Sweden",
+      "ec": 5847,
+      "gdp": 42442
+    },
+    {
+      "year": 2005,
+      "country": "Sweden",
+      "ec": 5711,
+      "gdp": 43085
+    },
+    {
+      "year": 2006,
+      "country": "Sweden",
+      "ec": 5529,
+      "gdp": 46256
+    },
+    {
+      "year": 2007,
+      "country": "Sweden",
+      "ec": 5472,
+      "gdp": 53324
+    },
+    {
+      "year": 2008,
+      "country": "Sweden",
+      "ec": 5380,
+      "gdp": 55747
+    },
+    {
+      "year": 2009,
+      "country": "Sweden",
+      "ec": 4883,
+      "gdp": 46207
+    },
+    {
+      "year": 2010,
+      "country": "Sweden",
+      "ec": 5428,
+      "gdp": 52076
+    },
+    {
+      "year": 2011,
+      "country": "Sweden",
+      "ec": 5275,
+      "gdp": 59593
+    },
+    {
+      "year": 2012,
+      "country": "Sweden",
+      "ec": 5269,
+      "gdp": 57134
+    },
+    {
+      "year": 2013,
+      "country": "Sweden",
+      "ec": 5147,
+      "gdp": 60283
+    },
+    {
+      "year": 2014,
+      "country": "Sweden",
+      "ec": 4966,
+      "gdp": 59180
+    }
+  ],
+  "Syria": [
+    {
+      "year": 1971,
+      "country": "Syria",
+      "ec": 362,
+      "gdp": 394
+    },
+    {
+      "year": 1972,
+      "country": "Syria",
+      "ec": 291,
+      "gdp": 450
+    },
+    {
+      "year": 1973,
+      "country": "Syria",
+      "ec": 292,
+      "gdp": 460
+    },
+    {
+      "year": 1974,
+      "country": "Syria",
+      "ec": 363,
+      "gdp": 708
+    },
+    {
+      "year": 1975,
+      "country": "Syria",
+      "ec": 405,
+      "gdp": 906
+    },
+    {
+      "year": 1976,
+      "country": "Syria",
+      "ec": 444,
+      "gdp": 979
+    },
+    {
+      "year": 1977,
+      "country": "Syria",
+      "ec": 477,
+      "gdp": 955
+    },
+    {
+      "year": 1978,
+      "country": "Syria",
+      "ec": 504,
+      "gdp": 1113
+    },
+    {
+      "year": 1979,
+      "country": "Syria",
+      "ec": 632,
+      "gdp": 1151
+    },
+    {
+      "year": 1980,
+      "country": "Syria",
+      "ec": 500,
+      "gdp": 1463
+    },
+    {
+      "year": 1981,
+      "country": "Syria",
+      "ec": 576,
+      "gdp": 1677
+    },
+    {
+      "year": 1982,
+      "country": "Syria",
+      "ec": 667,
+      "gdp": 1700
+    },
+    {
+      "year": 1983,
+      "country": "Syria",
+      "ec": 738,
+      "gdp": 1770
+    },
+    {
+      "year": 1984,
+      "country": "Syria",
+      "ec": 820,
+      "gdp": 1700
+    },
+    {
+      "year": 1985,
+      "country": "Syria",
+      "ec": 735,
+      "gdp": 1540
+    },
+    {
+      "year": 1986,
+      "country": "Syria",
+      "ec": 731,
+      "gdp": 1208
+    },
+    {
+      "year": 1987,
+      "country": "Syria",
+      "ec": 787,
+      "gdp": 1000
+    },
+    {
+      "year": 1988,
+      "country": "Syria",
+      "ec": 791,
+      "gdp": 903
+    },
+    {
+      "year": 1989,
+      "country": "Syria",
+      "ec": 770,
+      "gdp": 816
+    },
+    {
+      "year": 1990,
+      "country": "Syria",
+      "ec": 841,
+      "gdp": 989
+    },
+    {
+      "year": 1991,
+      "country": "Syria",
+      "ec": 890,
+      "gdp": 1013
+    },
+    {
+      "year": 1992,
+      "country": "Syria",
+      "ec": 827,
+      "gdp": 1005
+    },
+    {
+      "year": 1993,
+      "country": "Syria",
+      "ec": 808,
+      "gdp": 1010
+    },
+    {
+      "year": 1994,
+      "country": "Syria",
+      "ec": 820,
+      "gdp": 726
+    },
+    {
+      "year": 1995,
+      "country": "Syria",
+      "ec": 843,
+      "gdp": 794
+    },
+    {
+      "year": 1996,
+      "country": "Syria",
+      "ec": 866,
+      "gdp": 935
+    },
+    {
+      "year": 1997,
+      "country": "Syria",
+      "ec": 914,
+      "gdp": 956
+    },
+    {
+      "year": 1998,
+      "country": "Syria",
+      "ec": 991,
+      "gdp": 974
+    },
+    {
+      "year": 1999,
+      "country": "Syria",
+      "ec": 961,
+      "gdp": 991
+    },
+    {
+      "year": 2000,
+      "country": "Syria",
+      "ec": 941,
+      "gdp": 1178
+    },
+    {
+      "year": 2001,
+      "country": "Syria",
+      "ec": 945,
+      "gdp": 1258
+    },
+    {
+      "year": 2002,
+      "country": "Syria",
+      "ec": 963,
+      "gdp": 1263
+    },
+    {
+      "year": 2003,
+      "country": "Syria",
+      "ec": 950,
+      "gdp": 1253
+    },
+    {
+      "year": 2004,
+      "country": "Syria",
+      "ec": 971,
+      "gdp": 1409
+    },
+    {
+      "year": 2005,
+      "country": "Syria",
+      "ec": 1136,
+      "gdp": 1577
+    },
+    {
+      "year": 2006,
+      "country": "Syria",
+      "ec": 1144,
+      "gdp": 1762
+    },
+    {
+      "year": 2007,
+      "country": "Syria",
+      "ec": 1153,
+      "gdp": 2058
+    },
+    {
+      "year": 2008,
+      "country": "Syria",
+      "ec": 1137,
+      "gdp": 2557
+    },
+    {
+      "year": 2009,
+      "country": "Syria",
+      "ec": 1032,
+      "gdp": 2557
+    },
+    {
+      "year": 2010,
+      "country": "Syria",
+      "ec": 1030,
+      "gdp": 2807
+    },
+    {
+      "year": 2011,
+      "country": "Syria",
+      "ec": 953,
+      "gdp": 0
+    },
+    {
+      "year": 2012,
+      "country": "Syria",
+      "ec": 727,
+      "gdp": 0
+    },
+    {
+      "year": 2013,
+      "country": "Syria",
+      "ec": 587,
+      "gdp": 0
+    },
+    {
+      "year": 2014,
+      "country": "Syria",
+      "ec": 563,
+      "gdp": 0
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      "year": 1971,
+      "country": "Trinidad and Tobago",
+      "ec": 2758,
+      "gdp": 938
+    },
+    {
+      "year": 1972,
+      "country": "Trinidad and Tobago",
+      "ec": 2773,
+      "gdp": 1118
+    },
+    {
+      "year": 1973,
+      "country": "Trinidad and Tobago",
+      "ec": 2686,
+      "gdp": 1332
+    },
+    {
+      "year": 1974,
+      "country": "Trinidad and Tobago",
+      "ec": 2683,
+      "gdp": 2048
+    },
+    {
+      "year": 1975,
+      "country": "Trinidad and Tobago",
+      "ec": 2295,
+      "gdp": 2415
+    },
+    {
+      "year": 1976,
+      "country": "Trinidad and Tobago",
+      "ec": 2513,
+      "gdp": 2438
+    },
+    {
+      "year": 1977,
+      "country": "Trinidad and Tobago",
+      "ec": 2809,
+      "gdp": 3019
+    },
+    {
+      "year": 1978,
+      "country": "Trinidad and Tobago",
+      "ec": 3328,
+      "gdp": 3379
+    },
+    {
+      "year": 1979,
+      "country": "Trinidad and Tobago",
+      "ec": 3399,
+      "gdp": 4305
+    },
+    {
+      "year": 1980,
+      "country": "Trinidad and Tobago",
+      "ec": 3527,
+      "gdp": 5746
+    },
+    {
+      "year": 1981,
+      "country": "Trinidad and Tobago",
+      "ec": 3686,
+      "gdp": 6342
+    },
+    {
+      "year": 1982,
+      "country": "Trinidad and Tobago",
+      "ec": 3648,
+      "gdp": 7264
+    },
+    {
+      "year": 1983,
+      "country": "Trinidad and Tobago",
+      "ec": 3721,
+      "gdp": 6818
+    },
+    {
+      "year": 1984,
+      "country": "Trinidad and Tobago",
+      "ec": 4142,
+      "gdp": 6712
+    },
+    {
+      "year": 1985,
+      "country": "Trinidad and Tobago",
+      "ec": 4348,
+      "gdp": 6299
+    },
+    {
+      "year": 1986,
+      "country": "Trinidad and Tobago",
+      "ec": 4494,
+      "gdp": 4049
+    },
+    {
+      "year": 1987,
+      "country": "Trinidad and Tobago",
+      "ec": 4189,
+      "gdp": 4014
+    },
+    {
+      "year": 1988,
+      "country": "Trinidad and Tobago",
+      "ec": 4558,
+      "gdp": 3732
+    },
+    {
+      "year": 1989,
+      "country": "Trinidad and Tobago",
+      "ec": 4394,
+      "gdp": 3562
+    },
+    {
+      "year": 1990,
+      "country": "Trinidad and Tobago",
+      "ec": 4900,
+      "gdp": 4148
+    },
+    {
+      "year": 1991,
+      "country": "Trinidad and Tobago",
+      "ec": 4838,
+      "gdp": 4316
+    },
+    {
+      "year": 1992,
+      "country": "Trinidad and Tobago",
+      "ec": 5286,
+      "gdp": 4396
+    },
+    {
+      "year": 1993,
+      "country": "Trinidad and Tobago",
+      "ec": 5031,
+      "gdp": 3752
+    },
+    {
+      "year": 1994,
+      "country": "Trinidad and Tobago",
+      "ec": 5036,
+      "gdp": 3957
+    },
+    {
+      "year": 1995,
+      "country": "Trinidad and Tobago",
+      "ec": 4900,
+      "gdp": 4246
+    },
+    {
+      "year": 1996,
+      "country": "Trinidad and Tobago",
+      "ec": 5779,
+      "gdp": 4577
+    },
+    {
+      "year": 1997,
+      "country": "Trinidad and Tobago",
+      "ec": 5438,
+      "gdp": 4551
+    },
+    {
+      "year": 1998,
+      "country": "Trinidad and Tobago",
+      "ec": 6305,
+      "gdp": 4787
+    },
+    {
+      "year": 1999,
+      "country": "Trinidad and Tobago",
+      "ec": 7349,
+      "gdp": 5384
+    },
+    {
+      "year": 2000,
+      "country": "Trinidad and Tobago",
+      "ec": 7760,
+      "gdp": 6431
+    },
+    {
+      "year": 2001,
+      "country": "Trinidad and Tobago",
+      "ec": 8636,
+      "gdp": 6936
+    },
+    {
+      "year": 2002,
+      "country": "Trinidad and Tobago",
+      "ec": 9357,
+      "gdp": 7050
+    },
+    {
+      "year": 2003,
+      "country": "Trinidad and Tobago",
+      "ec": 10414,
+      "gdp": 8805
+    },
+    {
+      "year": 2004,
+      "country": "Trinidad and Tobago",
+      "ec": 10877,
+      "gdp": 10291
+    },
+    {
+      "year": 2005,
+      "country": "Trinidad and Tobago",
+      "ec": 12426,
+      "gdp": 12323
+    },
+    {
+      "year": 2006,
+      "country": "Trinidad and Tobago",
+      "ec": 13799,
+      "gdp": 14096
+    },
+    {
+      "year": 2007,
+      "country": "Trinidad and Tobago",
+      "ec": 14608,
+      "gdp": 16530
+    },
+    {
+      "year": 2008,
+      "country": "Trinidad and Tobago",
+      "ec": 14117,
+      "gdp": 21189
+    },
+    {
+      "year": 2009,
+      "country": "Trinidad and Tobago",
+      "ec": 14203,
+      "gdp": 14507
+    },
+    {
+      "year": 2010,
+      "country": "Trinidad and Tobago",
+      "ec": 15109,
+      "gdp": 16683
+    },
+    {
+      "year": 2011,
+      "country": "Trinidad and Tobago",
+      "ec": 14791,
+      "gdp": 19004
+    },
+    {
+      "year": 2012,
+      "country": "Trinidad and Tobago",
+      "ec": 14347,
+      "gdp": 19083
+    },
+    {
+      "year": 2013,
+      "country": "Trinidad and Tobago",
+      "ec": 14537,
+      "gdp": 19713
+    },
+    {
+      "year": 2014,
+      "country": "Trinidad and Tobago",
+      "ec": 14447,
+      "gdp": 20082
+    }
+  ],
+  "Turkey": [
+    {
+      "year": 1971,
+      "country": "Turkey",
+      "ec": 547,
+      "gdp": 455
+    },
+    {
+      "year": 1972,
+      "country": "Turkey",
+      "ec": 603,
+      "gdp": 558
+    },
+    {
+      "year": 1973,
+      "country": "Turkey",
+      "ec": 650,
+      "gdp": 686
+    },
+    {
+      "year": 1974,
+      "country": "Turkey",
+      "ec": 657,
+      "gdp": 928
+    },
+    {
+      "year": 1975,
+      "country": "Turkey",
+      "ec": 681,
+      "gdp": 1136
+    },
+    {
+      "year": 1976,
+      "country": "Turkey",
+      "ec": 724,
+      "gdp": 1276
+    },
+    {
+      "year": 1977,
+      "country": "Turkey",
+      "ec": 777,
+      "gdp": 1427
+    },
+    {
+      "year": 1978,
+      "country": "Turkey",
+      "ec": 756,
+      "gdp": 1550
+    },
+    {
+      "year": 1979,
+      "country": "Turkey",
+      "ec": 704,
+      "gdp": 2079
+    },
+    {
+      "year": 1980,
+      "country": "Turkey",
+      "ec": 715,
+      "gdp": 1564
+    },
+    {
+      "year": 1981,
+      "country": "Turkey",
+      "ec": 705,
+      "gdp": 1579
+    },
+    {
+      "year": 1982,
+      "country": "Turkey",
+      "ec": 732,
+      "gdp": 1402
+    },
+    {
+      "year": 1983,
+      "country": "Turkey",
+      "ec": 758,
+      "gdp": 1310
+    },
+    {
+      "year": 1984,
+      "country": "Turkey",
+      "ec": 771,
+      "gdp": 1247
+    },
+    {
+      "year": 1985,
+      "country": "Turkey",
+      "ec": 800,
+      "gdp": 1368
+    },
+    {
+      "year": 1986,
+      "country": "Turkey",
+      "ec": 845,
+      "gdp": 1511
+    },
+    {
+      "year": 1987,
+      "country": "Turkey",
+      "ec": 919,
+      "gdp": 1706
+    },
+    {
+      "year": 1988,
+      "country": "Turkey",
+      "ec": 908,
+      "gdp": 1745
+    },
+    {
+      "year": 1989,
+      "country": "Turkey",
+      "ec": 927,
+      "gdp": 2022
+    },
+    {
+      "year": 1990,
+      "country": "Turkey",
+      "ec": 978,
+      "gdp": 2794
+    },
+    {
+      "year": 1991,
+      "country": "Turkey",
+      "ec": 948,
+      "gdp": 2736
+    },
+    {
+      "year": 1992,
+      "country": "Turkey",
+      "ec": 962,
+      "gdp": 2842
+    },
+    {
+      "year": 1993,
+      "country": "Turkey",
+      "ec": 1004,
+      "gdp": 3180
+    },
+    {
+      "year": 1994,
+      "country": "Turkey",
+      "ec": 976,
+      "gdp": 2270
+    },
+    {
+      "year": 1995,
+      "country": "Turkey",
+      "ec": 1053,
+      "gdp": 2898
+    },
+    {
+      "year": 1996,
+      "country": "Turkey",
+      "ec": 1126,
+      "gdp": 3054
+    },
+    {
+      "year": 1997,
+      "country": "Turkey",
+      "ec": 1166,
+      "gdp": 3144
+    },
+    {
+      "year": 1998,
+      "country": "Turkey",
+      "ec": 1170,
+      "gdp": 4497
+    },
+    {
+      "year": 1999,
+      "country": "Turkey",
+      "ec": 1131,
+      "gdp": 4108
+    },
+    {
+      "year": 2000,
+      "country": "Turkey",
+      "ec": 1201,
+      "gdp": 4317
+    },
+    {
+      "year": 2001,
+      "country": "Turkey",
+      "ec": 1094,
+      "gdp": 3120
+    },
+    {
+      "year": 2002,
+      "country": "Turkey",
+      "ec": 1139,
+      "gdp": 3660
+    },
+    {
+      "year": 2003,
+      "country": "Turkey",
+      "ec": 1178,
+      "gdp": 4718
+    },
+    {
+      "year": 2004,
+      "country": "Turkey",
+      "ec": 1205,
+      "gdp": 6041
+    },
+    {
+      "year": 2005,
+      "country": "Turkey",
+      "ec": 1240,
+      "gdp": 7384
+    },
+    {
+      "year": 2006,
+      "country": "Turkey",
+      "ec": 1355,
+      "gdp": 8035
+    },
+    {
+      "year": 2007,
+      "country": "Turkey",
+      "ec": 1437,
+      "gdp": 9710
+    },
+    {
+      "year": 2008,
+      "country": "Turkey",
+      "ec": 1401,
+      "gdp": 10851
+    },
+    {
+      "year": 2009,
+      "country": "Turkey",
+      "ec": 1371,
+      "gdp": 9036
+    },
+    {
+      "year": 2010,
+      "country": "Turkey",
+      "ec": 1475,
+      "gdp": 10672
+    },
+    {
+      "year": 2011,
+      "country": "Turkey",
+      "ec": 1546,
+      "gdp": 11341
+    },
+    {
+      "year": 2012,
+      "country": "Turkey",
+      "ec": 1585,
+      "gdp": 11720
+    },
+    {
+      "year": 2013,
+      "country": "Turkey",
+      "ec": 1543,
+      "gdp": 12543
+    },
+    {
+      "year": 2014,
+      "country": "Turkey",
+      "ec": 1578,
+      "gdp": 12127
+    }
+  ],
+  "United States": [
+    {
+      "year": 1971,
+      "country": "United States",
+      "ec": 7645,
+      "gdp": 5623
+    },
+    {
+      "year": 1972,
+      "country": "United States",
+      "ec": 7941,
+      "gdp": 6110
+    },
+    {
+      "year": 1973,
+      "country": "United States",
+      "ec": 8164,
+      "gdp": 6741
+    },
+    {
+      "year": 1974,
+      "country": "United States",
+      "ec": 7910,
+      "gdp": 7242
+    },
+    {
+      "year": 1975,
+      "country": "United States",
+      "ec": 7656,
+      "gdp": 7820
+    },
+    {
+      "year": 1976,
+      "country": "United States",
+      "ec": 8101,
+      "gdp": 8611
+    },
+    {
+      "year": 1977,
+      "country": "United States",
+      "ec": 8286,
+      "gdp": 9471
+    },
+    {
+      "year": 1978,
+      "country": "United States",
+      "ec": 8438,
+      "gdp": 10587
+    },
+    {
+      "year": 1979,
+      "country": "United States",
+      "ec": 8327,
+      "gdp": 11696
+    },
+    {
+      "year": 1980,
+      "country": "United States",
+      "ec": 7942,
+      "gdp": 12598
+    },
+    {
+      "year": 1981,
+      "country": "United States",
+      "ec": 7648,
+      "gdp": 13993
+    },
+    {
+      "year": 1982,
+      "country": "United States",
+      "ec": 7259,
+      "gdp": 14439
+    },
+    {
+      "year": 1983,
+      "country": "United States",
+      "ec": 7199,
+      "gdp": 15561
+    },
+    {
+      "year": 1984,
+      "country": "United States",
+      "ec": 7443,
+      "gdp": 17134
+    },
+    {
+      "year": 1985,
+      "country": "United States",
+      "ec": 7456,
+      "gdp": 18269
+    },
+    {
+      "year": 1986,
+      "country": "United States",
+      "ec": 7376,
+      "gdp": 19115
+    },
+    {
+      "year": 1987,
+      "country": "United States",
+      "ec": 7622,
+      "gdp": 20101
+    },
+    {
+      "year": 1988,
+      "country": "United States",
+      "ec": 7850,
+      "gdp": 21483
+    },
+    {
+      "year": 1989,
+      "country": "United States",
+      "ec": 7890,
+      "gdp": 22922
+    },
+    {
+      "year": 1990,
+      "country": "United States",
+      "ec": 7672,
+      "gdp": 23954
+    },
+    {
+      "year": 1991,
+      "country": "United States",
+      "ec": 7631,
+      "gdp": 24405
+    },
+    {
+      "year": 1992,
+      "country": "United States",
+      "ec": 7677,
+      "gdp": 25493
+    },
+    {
+      "year": 1993,
+      "country": "United States",
+      "ec": 7709,
+      "gdp": 26465
+    },
+    {
+      "year": 1994,
+      "country": "United States",
+      "ec": 7758,
+      "gdp": 27777
+    },
+    {
+      "year": 1995,
+      "country": "United States",
+      "ec": 7764,
+      "gdp": 28782
+    },
+    {
+      "year": 1996,
+      "country": "United States",
+      "ec": 7844,
+      "gdp": 30068
+    },
+    {
+      "year": 1997,
+      "country": "United States",
+      "ec": 7829,
+      "gdp": 31573
+    },
+    {
+      "year": 1998,
+      "country": "United States",
+      "ec": 7804,
+      "gdp": 32949
+    },
+    {
+      "year": 1999,
+      "country": "United States",
+      "ec": 7923,
+      "gdp": 34621
+    },
+    {
+      "year": 2000,
+      "country": "United States",
+      "ec": 8057,
+      "gdp": 36450
+    },
+    {
+      "year": 2001,
+      "country": "United States",
+      "ec": 7828,
+      "gdp": 37274
+    },
+    {
+      "year": 2002,
+      "country": "United States",
+      "ec": 7843,
+      "gdp": 38166
+    },
+    {
+      "year": 2003,
+      "country": "United States",
+      "ec": 7794,
+      "gdp": 39677
+    },
+    {
+      "year": 2004,
+      "country": "United States",
+      "ec": 7882,
+      "gdp": 41922
+    },
+    {
+      "year": 2005,
+      "country": "United States",
+      "ec": 7846,
+      "gdp": 44308
+    },
+    {
+      "year": 2006,
+      "country": "United States",
+      "ec": 7698,
+      "gdp": 46437
+    },
+    {
+      "year": 2007,
+      "country": "United States",
+      "ec": 7758,
+      "gdp": 48062
+    },
+    {
+      "year": 2008,
+      "country": "United States",
+      "ec": 7488,
+      "gdp": 48401
+    },
+    {
+      "year": 2009,
+      "country": "United States",
+      "ec": 7057,
+      "gdp": 47002
+    },
+    {
+      "year": 2010,
+      "country": "United States",
+      "ec": 7161,
+      "gdp": 48375
+    },
+    {
+      "year": 2011,
+      "country": "United States",
+      "ec": 7029,
+      "gdp": 49794
+    },
+    {
+      "year": 2012,
+      "country": "United States",
+      "ec": 6869,
+      "gdp": 51451
+    },
+    {
+      "year": 2013,
+      "country": "United States",
+      "ec": 6902,
+      "gdp": 52782
+    },
+    {
+      "year": 2014,
+      "country": "United States",
+      "ec": 6956,
+      "gdp": 54697
+    }
+  ],
+  "Zimbabwe": [
+    {
+      "year": 1971,
+      "country": "Zimbabwe",
+      "ec": 1016,
+      "gdp": 407
+    },
+    {
+      "year": 1972,
+      "country": "Zimbabwe",
+      "ec": 1001,
+      "gdp": 484
+    },
+    {
+      "year": 1973,
+      "country": "Zimbabwe",
+      "ec": 1025,
+      "gdp": 578
+    },
+    {
+      "year": 1974,
+      "country": "Zimbabwe",
+      "ec": 1004,
+      "gdp": 673
+    },
+    {
+      "year": 1975,
+      "country": "Zimbabwe",
+      "ec": 968,
+      "gdp": 715
+    },
+    {
+      "year": 1976,
+      "country": "Zimbabwe",
+      "ec": 990,
+      "gdp": 685
+    },
+    {
+      "year": 1977,
+      "country": "Zimbabwe",
+      "ec": 933,
+      "gdp": 671
+    },
+    {
+      "year": 1978,
+      "country": "Zimbabwe",
+      "ec": 899,
+      "gdp": 649
+    },
+    {
+      "year": 1979,
+      "country": "Zimbabwe",
+      "ec": 887,
+      "gdp": 748
+    },
+    {
+      "year": 1980,
+      "country": "Zimbabwe",
+      "ec": 906,
+      "gdp": 932
+    },
+    {
+      "year": 1981,
+      "country": "Zimbabwe",
+      "ec": 886,
+      "gdp": 1078
+    },
+    {
+      "year": 1982,
+      "country": "Zimbabwe",
+      "ec": 859,
+      "gdp": 1106
+    },
+    {
+      "year": 1983,
+      "country": "Zimbabwe",
+      "ec": 847,
+      "gdp": 967
+    },
+    {
+      "year": 1984,
+      "country": "Zimbabwe",
+      "ec": 829,
+      "gdp": 761
+    },
+    {
+      "year": 1985,
+      "country": "Zimbabwe",
+      "ec": 855,
+      "gdp": 651
+    },
+    {
+      "year": 1986,
+      "country": "Zimbabwe",
+      "ec": 872,
+      "gdp": 693
+    },
+    {
+      "year": 1987,
+      "country": "Zimbabwe",
+      "ec": 920,
+      "gdp": 725
+    },
+    {
+      "year": 1988,
+      "country": "Zimbabwe",
+      "ec": 901,
+      "gdp": 814
+    },
+    {
+      "year": 1989,
+      "country": "Zimbabwe",
+      "ec": 894,
+      "gdp": 837
+    },
+    {
+      "year": 1990,
+      "country": "Zimbabwe",
+      "ec": 913,
+      "gdp": 863
+    },
+    {
+      "year": 1991,
+      "country": "Zimbabwe",
+      "ec": 944,
+      "gdp": 827
+    },
+    {
+      "year": 1992,
+      "country": "Zimbabwe",
+      "ec": 953,
+      "gdp": 632
+    },
+    {
+      "year": 1993,
+      "country": "Zimbabwe",
+      "ec": 893,
+      "gdp": 602
+    },
+    {
+      "year": 1994,
+      "country": "Zimbabwe",
+      "ec": 869,
+      "gdp": 620
+    },
+    {
+      "year": 1995,
+      "country": "Zimbabwe",
+      "ec": 869,
+      "gdp": 628
+    },
+    {
+      "year": 1996,
+      "country": "Zimbabwe",
+      "ec": 851,
+      "gdp": 743
+    },
+    {
+      "year": 1997,
+      "country": "Zimbabwe",
+      "ec": 829,
+      "gdp": 728
+    },
+    {
+      "year": 1998,
+      "country": "Zimbabwe",
+      "ec": 835,
+      "gdp": 538
+    },
+    {
+      "year": 1999,
+      "country": "Zimbabwe",
+      "ec": 878,
+      "gdp": 568
+    },
+    {
+      "year": 2000,
+      "country": "Zimbabwe",
+      "ec": 819,
+      "gdp": 547
+    },
+    {
+      "year": 2001,
+      "country": "Zimbabwe",
+      "ec": 807,
+      "gdp": 548
+    },
+    {
+      "year": 2002,
+      "country": "Zimbabwe",
+      "ec": 784,
+      "gdp": 507
+    },
+    {
+      "year": 2003,
+      "country": "Zimbabwe",
+      "ec": 742,
+      "gdp": 453
+    },
+    {
+      "year": 2004,
+      "country": "Zimbabwe",
+      "ec": 717,
+      "gdp": 454
+    },
+    {
+      "year": 2005,
+      "country": "Zimbabwe",
+      "ec": 743,
+      "gdp": 445
+    },
+    {
+      "year": 2006,
+      "country": "Zimbabwe",
+      "ec": 750,
+      "gdp": 415
+    },
+    {
+      "year": 2007,
+      "country": "Zimbabwe",
+      "ec": 724,
+      "gdp": 397
+    },
+    {
+      "year": 2008,
+      "country": "Zimbabwe",
+      "ec": 661,
+      "gdp": 326
+    },
+    {
+      "year": 2009,
+      "country": "Zimbabwe",
+      "ec": 662,
+      "gdp": 700
+    },
+    {
+      "year": 2010,
+      "country": "Zimbabwe",
+      "ec": 671,
+      "gdp": 855
+    },
+    {
+      "year": 2011,
+      "country": "Zimbabwe",
+      "ec": 713,
+      "gdp": 980
+    },
+    {
+      "year": 2012,
+      "country": "Zimbabwe",
+      "ec": 735,
+      "gdp": 1163
+    },
+    {
+      "year": 2013,
+      "country": "Zimbabwe",
+      "ec": 750,
+      "gdp": 1268
+    },
+    {
+      "year": 2014,
+      "country": "Zimbabwe",
+      "ec": 851,
+      "gdp": 1265
+    }
+  ]
+}
