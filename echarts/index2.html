@@ -3,75 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title>地图</title>
+    <title>折线和柱状图</title>
 </head>
 
 <body>
 
-    <script src="./js/jquery.js"></script>
-    <script>
-        $.ajax({
-            type: "GET",
-            url: './data/data.json',
-            contentType: "application/text",
-            async: false,
-            dataType: "text",
-            success: function (data) {
-                var data1 = eval(data);
-
-                // data1.forEach(element => {
-                //     element.ec = Math.round(element.ec)
-                //     element.gdp = Math.round(element.gdp)
-                // });
-
-                // console.log(data1)
-
-                // 年份
-                const year = [];
-                data1.forEach(element => {
-                    if ((year.indexOf(element.year) == -1)) {
-                        year.push(element.year);
-                    }
-                });
-                console.log(year)
-
-                var year_data = {};
-                year.forEach(e => {
-                    var years = [];
-                    data1.forEach(d => {
-                        if (d.year == e) {
-                            years.push(d)
-                        }
-                    });
-                    year_data[e] = years
-                })
-
-                console.log(year_data)
-
-                //国家
-                const country = [];
-                data1.forEach(element => {
-                    if ((country.indexOf(element.country) == -1)) {
-                        country.push(element.country);
-                    }
-                });
-                console.log(country)
-
-                var country_data = {};
-                country.forEach(e => {
-                    var country = [];
-                    data1.forEach(d => {
-                        if (d.country == e) {
-                            country.push(d)
-                        }
-                    });
-                    country_data[e] = country
-                })
-
-                console.log(country_data)
-            }
-        });
-    </script>
+    
 
 </body>
 
