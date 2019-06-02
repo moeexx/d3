@@ -3,74 +3,140 @@
 
 <head>
     <meta charset="utf-8">
-    <title>地图</title>
+    <title>柱状图</title>
 </head>
 
 <body>
 
+    <div id="gdp" style="width: 100%;height: 900px;float: left;"></div>
+
+    <script src="./js/echarts.js"></script>
     <script src="./js/jquery.js"></script>
     <script>
-        $.ajax({
-            type: "GET",
-            url: './data/data.json',
-            contentType: "application/text",
-            async: false,
-            dataType: "text",
-            success: function (data) {
-                var data1 = eval(data);
+        var gdp = echarts.init(document.getElementById('gdp'));
 
-                // data1.forEach(element => {
-                //     element.ec = Math.round(element.ec)
-                //     element.gdp = Math.round(element.gdp)
-                // });
 
-                // console.log(data1)
+        $.getJSON('./data/country_data.json', function (data) {
 
-                // 年份
-                const year = [];
-                data1.forEach(element => {
-                    if ((year.indexOf(element.year) == -1)) {
-                        year.push(element.year);
-                    }
-                });
-                console.log(year)
-
-                var year_data = {};
-                year.forEach(e => {
-                    var years = [];
-                    data1.forEach(d => {
-                        if (d.year == e) {
-                            years.push(d)
+            var labelOption = {
+                normal: {
+                    show: true,
+                    formatter: '{c}',
+                    fontSize: 16,
+                    rich: {
+                        name: {
+                            textBorderColor: '#fff'
                         }
-                    });
-                    year_data[e] = years
-                })
-
-                console.log(year_data)
-
-                //国家
-                const country = [];
-                data1.forEach(element => {
-                    if ((country.indexOf(element.country) == -1)) {
-                        country.push(element.country);
                     }
-                });
-                console.log(country)
+                }
+            };
 
-                var country_data = {};
-                country.forEach(e => {
-                    var country = [];
-                    data1.forEach(d => {
-                        if (d.country == e) {
-                            country.push(d)
+            var labelOption1 = {
+                normal: {
+                    show: true,
+                    formatter: '{c}',
+                    fontSize: 16,
+                    rich: {
+                        name: {
+                            textBorderColor: '#fff'
                         }
-                    });
-                    country_data[e] = country
-                })
+                    }
+                }
+            };
 
-                console.log(country_data)
+            var country = [];
+            var country_data = [];
+            for (var index in data) {
+                country.push(index);
+                var gdp_avg = 0;
+                var ec_avg = 0;
+                data[index].forEach(element => {
+                    gdp_avg += element.gdp;
+                    ec_avg += element.ec;
+                });
+                country_data.push({
+                    name: index,
+                    name1: 'GDP',
+                    type: 'bar',
+                    label: labelOption,
+                    data: [Math.round(gdp_avg / 43)]
+                }, {
+                    name: index,
+                    name1: 'EC',
+                    type: 'bar',
+                    label: labelOption,
+                    data: [Math.round(ec_avg / 43)]
+                });
             }
+            // console.log(country_data)
+            // var selected = [];
+            // country.forEach(element => {
+            //     selected.push({
+            //         [element]: false
+            //     });
+            // });
+            console.log(country)
+
+            option = {
+                xAxis: [{
+                    type: 'category'
+                }],
+                yAxis: [{
+                    type: 'value'
+                }],
+                legend: {
+                    type: 'scroll',
+                    orient: 'vertical',
+                    right: 10,
+                    top: 20,
+                    bottom: 20,
+                    data: country,
+                    selected: {
+                        "Argentina": false,
+                        "Australia": false,
+                        "Brazil": false,
+                        "Canada": false,
+                        "China": false,
+                        "Dem. Rep. Congo": false,
+                        "Germany": false,
+                        "Spain": false,
+                        "Ethiopia": false,
+                        "Finland": false,
+                        "France": false,
+                        "United Kingdom": false,
+                        "Indonesia": false,
+                        "India": false,
+                        "Iraq": false,
+                        "Iceland": false,
+                        "Israel": false,
+                        "Italy": false,
+                        "Japan": false,
+                        "Dem. Rep. Korea": false,
+                        "Kuwait": false,
+                        "Luxembourg": false,
+                        "Morocco": false,
+                        "Mexico": false,
+                        "Norway": false,
+                        "Nepal": false,
+                        "Pakistan": false,
+                        "Qatar": false,
+                        "Russia": false,
+                        "Saudi Arabia": false,
+                        "Sweden": false,
+                        "Syria": false,
+                        "Trinidad and Tobago": false,
+                        "Turkey": false,
+                        "United States": false,
+                        "Zimbabwe": false
+                    }
+                },
+                series: country_data
+            };
+
+            gdp.setOption(option);
+
         });
+    </script>
     </script>
 
 </body>
