@@ -31,19 +31,6 @@
                 }
             };
 
-            var labelOption1 = {
-                normal: {
-                    show: true,
-                    formatter: '{c}',
-                    fontSize: 16,
-                    rich: {
-                        name: {
-                            textBorderColor: '#fff'
-                        }
-                    }
-                }
-            };
-
             var country = [];
             var country_data = [];
             for (var index in data) {
@@ -59,29 +46,31 @@
                     name1: 'GDP',
                     type: 'bar',
                     label: labelOption,
+                    color: '#003366',
                     data: [Math.round(gdp_avg / 43)]
+                    
                 }, {
                     name: index,
                     name1: 'EC',
                     type: 'bar',
                     label: labelOption,
-                    data: [Math.round(ec_avg / 43)]
+                    data: [Math.round(ec_avg / 43)],
+                    color: '#4cabce',
+                    yAxisIndex: 1,
                 });
             }
-            // console.log(country_data)
-            // var selected = [];
-            // country.forEach(element => {
-            //     selected.push({
-            //         [element]: false
-            //     });
-            // });
-            console.log(country)
+            
+            console.log(country_data)
 
             option = {
                 xAxis: [{
                     type: 'category'
+                }, {
+                    type: 'category'
                 }],
                 yAxis: [{
+                    type: 'value'
+                }, {
                     type: 'value'
                 }],
                 legend: {
@@ -130,6 +119,11 @@
                         "Zimbabwe": false
                     }
                 },
+                grid: [{
+                    right:'15%'
+                }, {
+                    right:'15%'
+                }],
                 series: country_data
             };
 
