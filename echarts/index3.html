@@ -18,21 +18,9 @@
 
         $.getJSON('./data/country_data.json', function (data) {
 
-            var labelOption = {
-                normal: {
-                    show: true,
-                    formatter: '{c}',
-                    fontSize: 16,
-                    rich: {
-                        name: {
-                            textBorderColor: '#fff'
-                        }
-                    }
-                }
-            };
-
             var country = [];
             var country_data = [];
+            var country_data1 = [];
             for (var index in data) {
                 country.push(index);
                 var gdp_avg = 0;
@@ -45,86 +33,89 @@
                     name: index,
                     name1: 'GDP',
                     type: 'bar',
-                    label: labelOption,
                     color: '#003366',
                     data: [Math.round(gdp_avg / 43)]
-                    
-                }, {
+
+                });
+                country_data1.push({
+
                     name: index,
                     name1: 'EC',
                     type: 'bar',
-                    label: labelOption,
                     data: [Math.round(ec_avg / 43)],
-                    color: '#4cabce',
-                    yAxisIndex: 1,
-                });
+                    color: '#4cabce'
+
+                })
             }
-            
+
             console.log(country_data)
 
             option = {
                 xAxis: [{
-                    type: 'category'
-                }, {
-                    type: 'category'
-                }],
-                yAxis: [{
-                    type: 'value'
-                }, {
-                    type: 'value'
-                }],
-                legend: {
-                    type: 'scroll',
-                    orient: 'vertical',
-                    right: 10,
-                    top: 20,
-                    bottom: 20,
-                    data: country,
-                    selected: {
-                        "Argentina": false,
-                        "Australia": false,
-                        "Brazil": false,
-                        "Canada": false,
-                        "China": false,
-                        "Dem. Rep. Congo": false,
-                        "Germany": false,
-                        "Spain": false,
-                        "Ethiopia": false,
-                        "Finland": false,
-                        "France": false,
-                        "United Kingdom": false,
-                        "Indonesia": false,
-                        "India": false,
-                        "Iraq": false,
-                        "Iceland": false,
-                        "Israel": false,
-                        "Italy": false,
-                        "Japan": false,
-                        "Dem. Rep. Korea": false,
-                        "Kuwait": false,
-                        "Luxembourg": false,
-                        "Morocco": false,
-                        "Mexico": false,
-                        "Norway": false,
-                        "Nepal": false,
-                        "Pakistan": false,
-                        "Qatar": false,
-                        "Russia": false,
-                        "Saudi Arabia": false,
-                        "Sweden": false,
-                        "Syria": false,
-                        "Trinidad and Tobago": false,
-                        "Turkey": false,
-                        "United States": false,
-                        "Zimbabwe": false
+                        type: 'category',
+                        boundaryGap: true
+                    },
+                    {
+                        type: 'category',
+                        boundaryGap: true,
+                        data: (function () {
+                            var res = [];
+                            var len = 10;
+                            while (len--) {
+                                res.push(10 - len - 1);
+                            }
+                            return res;
+                        })()
                     }
+                ],
+                yAxis: [{
+                        type: 'value',
+                        scale: true,
+                        name: 'GDP',
+                        min: 0,
+                        max: 120000,
+                        boundaryGap: [0.2, 0.2]
+                    },
+                    {
+                        type: 'value',
+                        scale: true,
+                        name: 'EC',
+                        min: 0,
+                        max: 25000,
+                        boundaryGap: [0.2, 0.2]
+                    }
+                ],
+                legend: {
+                    data: ['GDP', 'EC']
                 },
-                grid: [{
-                    right:'15%'
-                }, {
-                    right:'15%'
-                }],
-                series: country_data
+                series: [{
+                        name: 'GDP',
+                        type: 'bar',
+                        xAxisIndex: 1,
+                        yAxisIndex: 1,
+                        data: (function () {
+                            var res = [];
+                            var len = 10;
+                            while (len--) {
+                                res.push(Math.round(Math.random() * 10000));
+                            }
+                            return res;
+                        })()
+                    },
+                    {
+                        name: 'EC',
+                        type: 'bar',
+                        
+                        data: (function () {
+                            var res = [];
+                            var len = 10;
+                            while (len--) {
+                                res.push(Math.round(Math.random() * 1000));
+                            }
+                            return res;
+                        })()
+                    }
+                ]
             };
 
             gdp.setOption(option);

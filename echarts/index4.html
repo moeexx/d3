@@ -8,18 +8,18 @@
 
 <body>
 
-    <div id="gdp" style="width: 80%;height: 900px;float: right;"></div>
+    <div id="gdp" style="width: 100%;height: 900px;float: right;"></div>
 
     <script src="./js/echarts.js"></script>
     <script src="./js/jquery.js"></script>
     <script>
-        var gdp = echarts.init(document.getElementById('gdp'));
+        var line_group = echarts.init(document.getElementById('gdp'));
 
 
         $.getJSON('./data/country_data.json', function (data) {
 
             var country = [];
-            var country_data = [];
+            var line_group_data = [];
             var count = 0;
             for (var index in data) {
                 country.push(index);
@@ -29,30 +29,23 @@
                     gdp_year.push(element.gdp);
                     ec_year.push(element.ec);
                 });
-                country_data.push({
+                line_group_data.push({
                     name: 'GDP',
                     type: 'line',
                     showSymbol: false,
                     data: gdp_year,
                     xAxisIndex: count,
                     yAxisIndex: count
-                }, {
-                    name: 'EC',
-                    type: 'line',
-                    showSymbol: false,
-                    data: ec_year,
-                    xAxisIndex: count,
-                    yAxisIndex: count
                 });
                 count++;
             }
-            console.log(country_data)
+            console.log(line_group_data)
 
             var grids = [];
             var titles = [];
             var xAxes = [];
             var yAxes = [];
-            var x = [];
+            var x = [30,31,32,33,34,35];
             var y = [0, 6, 12, 18, 24, 30];
             echarts.util.each(country, function (d, i) {
 
@@ -72,18 +65,53 @@
                     }
                 });
 
-                xAxes.push({
-                    type: 'category',
-                    show: false,
-                    gridIndex: i
-                });
+                if (x.indexOf(i) != -1) {
+                    xAxes.push({
+                        type: 'category',
+                        show: true,
+                        gridIndex: i,
+                        data: ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978',
+                            '1979',
+                            '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987',
+                            '1988', '1989',
+                            '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997',
+                            '1998', '1999',
+                            '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007',
+                            '2008', '2009',
+                            '2010', '2011', '2012', '2013', '2014'
+                        ]
+                    });
+                } else {
+                    xAxes.push({
+                        type: 'category',
+                        show: false,
+                        gridIndex: i,
+                        data: ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978',
+                            '1979',
+                            '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987',
+                            '1988', '1989',
+                            '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997',
+                            '1998', '1999',
+                            '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007',
+                            '2008', '2009',
+                            '2010', '2011', '2012', '2013', '2014'
+                        ]
+                    });
+                }
 
                 if (y.indexOf(i) != -1) {
                     yAxes.push({
                         gridIndex: i,
                         show: true,
                         min: 0,
-                        max: 120000
+                        max: 120000,
+                        splitLine: {
+                            show: false
+                        },
+                        // axisLabel: {
+                        //     inside: true
+
+                        // },
                     });
                 } else {
                     yAxes.push({
@@ -98,16 +126,16 @@
 
             var rowNumber = Math.ceil(Math.sqrt(35));
             echarts.util.each(grids, function (grid, idx) {
-                grid.left = ((idx % rowNumber) / rowNumber * 100 + 0.5) + '%';
-                grid.top = (Math.floor(idx / rowNumber) / rowNumber * 100 + 0.5) + '%';
-                grid.width = (1 / rowNumber * 100 - 1) + '%';
-                grid.height = (1 / rowNumber * 100 - 1) + '%';
+                grid.left = ((idx % rowNumber) / rowNumber * 95 + 5) + '%';
+                grid.top = (Math.floor(idx / rowNumber) / rowNumber * 95 + 1) + '%';
+                grid.width = (1 / rowNumber * 95 - 1) + '%';
+                grid.height = (1 / rowNumber * 92 - 1) + '%';
 
                 titles[idx].left = parseFloat(grid.left) + parseFloat(grid.width) / 2 + '%';
                 titles[idx].top = parseFloat(grid.top) + '%';
             });
-
-            option = {
+            console.log(grids)
+            line_group_option = {
                 title: titles.concat([{
                     // text: '分面图',
                     top: 'bottom',
@@ -116,10 +144,25 @@
                 grid: grids,
                 xAxis: xAxes,
                 yAxis: yAxes,
-                series: country_data
+                visualMap: {
+                    min: 0,
+                    max: 120000,
+                    text: ['High', 'Low'],
+                    show: false,
+                    calculable: false,
+                    realtime: false,
+                    inRange: {
+                        color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
+                            '#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
+                            '#a50026'
+                        ]
+                    }
+                },
+
+                series: line_group_data
             };
 
-            gdp.setOption(option);
+            line_group.setOption(line_group_option);
         });
     </script>
     </script>
