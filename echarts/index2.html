@@ -8,96 +8,172 @@
 
 <body>
 
-    <div id="gdp" style="width: 100%;height: 900px;float: left;"></div>
-    <!-- <div id="ec" style="width: 100%;height: 700px;float: left;"></div> -->
+    <!-- line -->
+    <div>
+        <div id="line" style="width: 100%;height: 700px;float: left;"></div>
+    </div>
+
+    <!-- bar -->
+    <div>
+        <button id="bar_gdpb">gdp</button>
+        <button id="bar_ecb">ec</button>
+        <button id="bar_allb">all</button>
+        <div id="bar" style="width: 100%;height: 700px;float: left;;"></div>
+    </div>
 
     <script src="./js/echarts.js"></script>
     <script src="./js/jquery.js"></script>
     <script>
-        var gdp = echarts.init(document.getElementById('gdp'));
-        // var ec = echarts.init(document.getElementById('ec'));
+        const line = echarts.init(document.getElementById('line')),
+            bar = echarts.init(document.getElementById('bar'));
+
+        // year
+        const year = ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979',
+            '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988', '1989',
+            '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999',
+            '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009',
+            '2010', '2011', '2012', '2013', '2014'
+        ];
+        // country
+        const country = ['Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'Dem. Rep. Congo', 'Germany', 'Spain',
+            'Ethiopia', 'Finland', 'France', 'United Kingdom', 'Indonesia', 'India', 'Iraq', 'Iceland', 'Israel',
+            'Italy', 'Japan', 'Dem. Rep. Korea', 'Kuwait', 'Luxembourg', 'Morocco', 'Mexico', 'Norway', 'Nepal',
+            'Pakistan', 'Qatar', 'Russia', 'Saudi Arabia', 'Sweden', 'Syria', 'Trinidad and Tobago', 'Turkey',
+            'United States', 'Zimbabwe'
+        ];
+
+        const close_country = {
+            "Argentina": false,
+            "Australia": false,
+            "Brazil": false,
+            "Canada": false,
+            "China": false,
+            "Dem. Rep. Congo": false,
+            "Germany": false,
+            "Spain": false,
+            "Ethiopia": false,
+            "Finland": false,
+            "France": false,
+            "United Kingdom": false,
+            "Indonesia": false,
+            "India": false,
+            "Iraq": false,
+            "Iceland": false,
+            "Israel": false,
+            "Italy": false,
+            "Japan": false,
+            "Dem. Rep. Korea": false,
+            "Kuwait": false,
+            "Luxembourg": false,
+            "Morocco": false,
+            "Mexico": false,
+            "Norway": false,
+            "Nepal": false,
+            "Pakistan": false,
+            "Qatar": false,
+            "Russia": false,
+            "Saudi Arabia": false,
+            "Sweden": false,
+            "Syria": false,
+            "Trinidad and Tobago": false,
+            "Turkey": false,
+            "United States": false,
+            "Zimbabwe": false
+        }
 
         $.getJSON('./data/country_data.json', function (data) {
 
-            var country = [];
-            var country_data = [];
-            for (var index in data) {
-                country.push(index);
+            // 处理所以数据
+            var line_data = [];
+            var bar_data = [];
+            var bar_gdp = [];
+            var bar_ec = [];
+            country.forEach((n, i) => {
                 var gdp_year = [];
                 var ec_year = [];
-                data[index].forEach(element => {
-                    gdp_year.push(element.gdp);
-                    ec_year.push(element.ec);
+                var gdp_avg = 0;
+                var ec_avg = 0;
+                data[n].forEach(e => {
+                    gdp_year.push(e.gdp);
+                    ec_year.push(e.ec);
+                    gdp_avg += e.gdp;
+                    ec_avg += e.ec;
                 });
-                country_data.push({
-                    name: index,
+                line_data.push({
+                    name: n,
                     type: 'line',
                     showSymbol: false,
                     data: gdp_year,
                     xAxisIndex: 1,
                     yAxisIndex: 1
                 }, {
-                    name: index,
+                    name: n,
                     type: 'line',
                     showSymbol: false,
                     data: ec_year
                 });
-            }
-            console.log(country_data)
-
-            gdp_option = {
-                // title: [{
-                //     left: 'center',
-                //     text: 'GDP折线图'
-                // }, {
-                //     top: '55%',
-                //     left: 'center',
-                //     text: 'EC折线图'
-                // }],
-                tooltip: {
-                    trigger: 'axis'
-                },
-                toolbox: {
-                    feature: {
-                        saveAsImage: {}
+                bar_data.push({
+                    name: n,
+                    type: 'bar',
+                    data: [Math.round(gdp_avg / 43)],
+                    color: '#003366',
+                    markLine: {
+                        data: [{
+                            type: 'average',
+                            name: '平均值'
+                        }]
                     }
-                },
+                }, {
+                    name: n,
+                    type: 'bar',
+                    data: [Math.round(ec_avg / 43)],
+                    color: '#4cabce',
+                    yAxisIndex: 1,
+                    markLine: {
+                        data: [{
+                            type: 'average',
+                            name: '平均值'
+                        }]
+                    }
+                });
+                bar_gdp.push({
+                    name: n,
+                    type: 'bar',
+                    data: [Math.round(gdp_avg / 43)],
+                    color: '#003366',
+                });
+                bar_ec.push({
+                    name: n,
+                    type: 'bar',
+                    data: [Math.round(ec_avg / 43)],
+                    color: '#4cabce'
+                });
+            });
+
+            // 折线图
+            line_option = {
                 xAxis: [{
                     type: 'category',
                     boundaryGap: false,
-                    data: ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979',
-                        '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988',
-                        '1989',
-                        '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998',
-                        '1999',
-                        '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008',
-                        '2009',
-                        '2010', '2011', '2012', '2013', '2014'
-                    ]
+                    data: year
                 }, {
                     type: 'category',
                     boundaryGap: false,
                     gridIndex: 1,
-                    data: ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979',
-                        '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988',
-                        '1989',
-                        '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998',
-                        '1999',
-                        '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008',
-                        '2009',
-                        '2010', '2011', '2012', '2013', '2014'
-                    ]
+                    data: year
                 }],
                 yAxis: [{
                     type: 'value'
                 }, {
+                    type: 'value',
                     gridIndex: 1,
-                    type: 'value'
                 }],
                 grid: [{
-                    top: '55%'
+                    top: '55%',
+                    right: '15%'
                 }, {
-                    bottom: '55%'
+                    bottom: '55%',
+                    right: '15%'
                 }],
                 legend: {
                     type: 'scroll',
@@ -106,23 +182,113 @@
                     top: 20,
                     bottom: 20,
                     data: country
-                    // selected: {
-                    //     'China': false
-                    // }
                 },
-                dataZoom: [{
-                    type: 'slider',
-                    xAxisIndex: [0, 1],
-                    realtime: true,
-                    //移动端展示方式
-                    handleIcon: 'M10.7,11.9H9.3c-4.9,0.3-8.8,4.4-8.8,9.4c0,5,3.9,9.1,8.8,9.4h1.3c4.9-0.3,8.8-4.4,8.8-9.4C19.5,16.3,15.6,12.2,10.7,11.9z M13.3,24.4H6.7V23h6.6V24.4z M13.3,19.6H6.7v-1.4h6.6V19.6z',
-                    handleSize: '140%',
-                }],
-                series: country_data
+                series: line_data
             }
 
-            gdp.setOption(gdp_option);
+            line.setOption(line_option);
 
+
+            //柱状图
+            bar_gdp = {
+                xAxis: {
+                    type: 'category'
+                },
+                yAxis: {
+                    name: 'gdp',
+                    type: 'value'
+                },
+                legend: {
+                    type: 'scroll',
+                    orient: 'vertical',
+                    right: 0,
+                    top: 20,
+                    bottom: 20,
+                    data: country,
+                    selected: close_country
+                },
+                grid: {
+                    right: '20%'
+                },
+                series: bar_gdp
+            };
+            bar_ec = {
+                xAxis: {
+                    type: 'category'
+                },
+                yAxis: {
+                    name: 'ec',
+                    type: 'value'
+                },
+                legend: {
+                    type: 'scroll',
+                    orient: 'vertical',
+                    right: 0,
+                    top: 20,
+                    bottom: 20,
+                    data: country,
+                    selected: close_country
+                },
+                grid: {
+                    right: '20%'
+                },
+                series: bar_ec
+            };
+            bar_all = {
+                xAxis: [{
+                    // type: 'category',
+                    data: []
+                }, {
+                    // type: 'category',
+                    data: []
+                }],
+                yAxis: [{
+                    name: 'gdp',
+                    type: 'value'
+                }, {
+                    name: 'ec',
+                    type: 'value'
+                }],
+                tooltip: {
+                    // trigger: 'axis',
+                    axisPointer: {
+                        type: 'cross',
+                        label: {
+                            backgroundColor: '#283b56'
+                        }
+                    }
+
+                },
+                legend: {
+                    type: 'scroll',
+                    orient: 'vertical',
+                    right: 0,
+                    top: 20,
+                    bottom: 20,
+                    data: country,
+                    selected: close_country
+                },
+                grid: [{
+                    right: '20%'
+                }, {
+                    right: '20%'
+                }],
+                series: bar_data
+            };
+
+            bar.setOption(bar_all);
+            $('#bar_gdpb').click(function () {
+                bar.clear();
+                bar.setOption(bar_gdp);
+            });
+            $('#bar_ecb').click(function () {
+                bar.clear();
+                bar.setOption(bar_ec);
+            });
+            $('#bar_allb').click(function () {
+                bar.clear();
+                bar.setOption(bar_all);
+            });
         });
     </script>
 

@@ -3,122 +3,260 @@
 
 <head>
     <meta charset="utf-8">
-    <title>柱状图</title>
+    <title>分面图</title>
 </head>
 
 <body>
 
-    <div id="gdp" style="width: 100%;height: 900px;float: left;"></div>
+    <!-- line group -->
+    <div>
+        <button id="lineg_gdpb">gdp</button>
+        <button id="lineg_ecb">ec</button>
+        <button id="lineg_allb">all</button>
+        <div id="line_group" style="width: 100%;height: 700px;float: left;"></div>
+    </div>
 
     <script src="./js/echarts.js"></script>
     <script src="./js/jquery.js"></script>
     <script>
-        var gdp = echarts.init(document.getElementById('gdp'));
+        const line_group = echarts.init(document.getElementById('line_group'));
+        // year
+        const year = ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979',
+            '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988', '1989',
+            '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999',
+            '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009',
+            '2010', '2011', '2012', '2013', '2014'
+        ];
+        // country
+        const country = ['Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'Dem. Rep. Congo', 'Germany', 'Spain',
+            'Ethiopia', 'Finland', 'France', 'United Kingdom', 'Indonesia', 'India', 'Iraq', 'Iceland', 'Israel',
+            'Italy', 'Japan', 'Dem. Rep. Korea', 'Kuwait', 'Luxembourg', 'Morocco', 'Mexico', 'Norway', 'Nepal',
+            'Pakistan', 'Qatar', 'Russia', 'Saudi Arabia', 'Sweden', 'Syria', 'Trinidad and Tobago', 'Turkey',
+            'United States', 'Zimbabwe'
+        ];
 
 
         $.getJSON('./data/country_data.json', function (data) {
 
-            var country = [];
-            var country_data = [];
-            var country_data1 = [];
-            for (var index in data) {
-                country.push(index);
-                var gdp_avg = 0;
-                var ec_avg = 0;
-                data[index].forEach(element => {
-                    gdp_avg += element.gdp;
-                    ec_avg += element.ec;
+            // 处理所以数据
+            var line_group_data = [];
+            var line_group_gdp = [];
+            var line_group_ec = [];
+            country.forEach((n, i) => {
+                var gdp_year = [];
+                var ec_year = [];
+                data[n].forEach(e => {
+                    gdp_year.push(e.gdp);
+                    ec_year.push(e.ec);
                 });
-                country_data.push({
-                    name: index,
-                    name1: 'GDP',
-                    type: 'bar',
-                    color: '#003366',
-                    data: [Math.round(gdp_avg / 43)]
 
+                line_group_data.push({
+                    name: 'GDP',
+                    type: 'line',
+                    showSymbol: false,
+                    data: gdp_year,
+                    xAxisIndex: i,
+                    yAxisIndex: i
+                }, {
+                    name: 'EC',
+                    type: 'line',
+                    showSymbol: false,
+                    data: ec_year,
+                    xAxisIndex: i,
+                    yAxisIndex: i
                 });
-                country_data1.push({
+                line_group_gdp.push({
+                    name: 'GDP',
+                    type: 'line',
+                    showSymbol: false,
+                    data: gdp_year,
+                    xAxisIndex: i,
+                    yAxisIndex: i
+                });
+                line_group_ec.push({
+                    name: 'EC',
+                    type: 'line',
+                    showSymbol: false,
+                    data: ec_year,
+                    xAxisIndex: i,
+                    yAxisIndex: i
+                });
+            });
 
-                    name: index,
-                    name1: 'EC',
-                    type: 'bar',
-                    data: [Math.round(ec_avg / 43)],
-                    color: '#4cabce'
-
-                })
-            }
-
-            console.log(country_data)
-
-            option = {
-                xAxis: [{
-                        type: 'category',
-                        boundaryGap: true
-                    },
-                    {
-                        type: 'category',
-                        boundaryGap: true,
-                        data: (function () {
-                            var res = [];
-                            var len = 10;
-                            while (len--) {
-                                res.push(10 - len - 1);
-                            }
-                            return res;
-                        })()
+            // 分面图
+            var grids = [];
+            var titles = [];
+            var xAxes = [];
+            var yAxes = [];
+            var yAxes2 = [];
+            var x = [30, 31, 32, 33, 34, 35];
+            var y = [0, 6, 12, 18, 24, 30];
+            echarts.util.each(country, function (d, i) {
+                grids.push({
+                    show: true,
+                    borderWidth: 0,
+                    backgroundColor: '#fff',
+                    shadowColor: 'rgba(0, 0, 0, 0.3)',
+                    shadowBlur: 2
+                });
+                titles.push({
+                    textAlign: 'center',
+                    text: d,
+                    textStyle: {
+                        fontSize: 12,
+                        fontWeight: 'normal'
                     }
-                ],
-                yAxis: [{
-                        type: 'value',
-                        scale: true,
-                        name: 'GDP',
+                });
+                if (x.indexOf(i) != -1) {
+                    xAxes.push({
+                        type: 'category',
+                        show: true,
+                        gridIndex: i,
+                        data: year
+                    });
+                } else {
+                    xAxes.push({
+                        type: 'category',
+                        show: false,
+                        gridIndex: i,
+                        data: year
+                    });
+                }
+                if (y.indexOf(i) != -1) {
+                    yAxes.push({
+                        gridIndex: i,
+                        show: true,
                         min: 0,
                         max: 120000,
-                        boundaryGap: [0.2, 0.2]
-                    },
-                    {
-                        type: 'value',
-                        scale: true,
-                        name: 'EC',
+                        splitLine: {
+                            show: false
+                        }
+                    });
+                } else {
+                    yAxes.push({
+                        show: false,
+                        gridIndex: i,
+                        min: 0,
+                        max: 120000
+                    });
+                }
+                if (y.indexOf(i) != -1) {
+                    yAxes2.push({
+                        gridIndex: i,
+                        show: true,
                         min: 0,
                         max: 25000,
-                        boundaryGap: [0.2, 0.2]
+                        splitLine: {
+                            show: false
+                        }
+                    });
+                } else {
+                    yAxes2.push({
+                        show: false,
+                        gridIndex: i,
+                        min: 0,
+                        max: 25000
+                    });
+                }
+            });
+            var rowNumber = Math.ceil(Math.sqrt(35));
+            echarts.util.each(grids, function (grid, idx) {
+                grid.left = ((idx % rowNumber) / rowNumber * 95 + 5) + '%';
+                grid.top = (Math.floor(idx / rowNumber) / rowNumber * 95 + 1) + '%';
+                grid.width = (1 / rowNumber * 95 - 1) + '%';
+                grid.height = (1 / rowNumber * 92 - 1) + '%';
+                titles[idx].left = parseFloat(grid.left) + parseFloat(grid.width) / 2 + '%';
+                titles[idx].top = parseFloat(grid.top) + '%';
+            });
+            line_group_all = {
+                title: titles.concat([{
+                    // text: '分面图',
+                    top: 'bottom',
+                    left: 'center'
+                }]),
+                grid: grids,
+                xAxis: xAxes,
+                yAxis: yAxes,
+                visualMap: {
+                    min: 0,
+                    max: 120000,
+                    text: ['High', 'Low'],
+                    show: true,
+                    calculable: true,
+                    realtime: false,
+                    inRange: {
+                        color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
+                            '#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
+                            '#a50026'
+                        ]
                     }
-                ],
-                legend: {
-                    data: ['GDP', 'EC']
                 },
-                series: [{
-                        name: 'GDP',
-                        type: 'bar',
-                        xAxisIndex: 1,
-                        yAxisIndex: 1,
-                        data: (function () {
-                            var res = [];
-                            var len = 10;
-                            while (len--) {
-                                res.push(Math.round(Math.random() * 10000));
-                            }
-                            return res;
-                        })()
-                    },
-                    {
-                        name: 'EC',
-                        type: 'bar',
-                        
-                        data: (function () {
-                            var res = [];
-                            var len = 10;
-                            while (len--) {
-                                res.push(Math.round(Math.random() * 1000));
-                            }
-                            return res;
-                        })()
+                series: line_group_data
+            };
+            line_group_gdp = {
+                title: titles.concat([{
+                    // text: '分面图',
+                    top: 'bottom',
+                    left: 'center'
+                }]),
+                grid: grids,
+                xAxis: xAxes,
+                yAxis: yAxes,
+                visualMap: {
+                    min: 0,
+                    max: 120000,
+                    text: ['High', 'Low'],
+                    show: true,
+                    calculable: true,
+                    realtime: false,
+                    inRange: {
+                        color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
+                            '#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
+                            '#a50026'
+                        ]
                     }
-                ]
+                },
+                series: line_group_gdp
+            };
+            line_group_ec = {
+                title: titles.concat([{
+                    // text: '分面图',
+                    top: 'bottom',
+                    left: 'center'
+                }]),
+                grid: grids,
+                xAxis: xAxes,
+                yAxis: yAxes2,
+                visualMap: {
+                    min: 0,
+                    max: 25000,
+                    text: ['High', 'Low'],
+                    show: true,
+                    calculable: true,
+                    realtime: false,
+                    inRange: {
+                        color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
+                            '#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
+                            '#a50026'
+                        ]
+                    }
+                },
+                series: line_group_ec
             };
 
-            gdp.setOption(option);
+            line_group.setOption(line_group_gdp);
+            $('#lineg_gdpb').click(function () {
+                line_group.clear();
+                line_group.setOption(line_group_gdp);
+            });
+            $('#lineg_ecb').click(function () {
+                line_group.clear();
+                line_group.setOption(line_group_ec);
+            });
+            $('#lineg_allb').click(function () {
+                line_group.clear();
+                line_group.setOption(line_group_all);
+            });
 
         });
     </script>

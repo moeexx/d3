@@ -53,7 +53,6 @@
             line = echarts.init(document.getElementById('line')),
             bar = echarts.init(document.getElementById('bar')),
             line_group = echarts.init(document.getElementById('line_group'));
-
         // year
         const year = ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979',
             '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988', '1989',
@@ -68,8 +67,6 @@
             'Pakistan', 'Qatar', 'Russia', 'Saudi Arabia', 'Sweden', 'Syria', 'Trinidad and Tobago', 'Turkey',
             'United States', 'Zimbabwe'
         ];
-
-
         const close_country = {
             "Argentina": false,
             "Australia": false,
@@ -108,10 +105,8 @@
             "United States": false,
             "Zimbabwe": false
         }
-
         // 渲染地图
         $.getJSON('./data/year_data.json', function (data) {
-
             // 时间轴
             var timeline = {
                 axisType: 'category',
@@ -121,7 +116,6 @@
                 loop: false,
                 data: year
             }
-
             // 地图设置
             var series = [{
                 type: 'map3D',
@@ -133,7 +127,6 @@
                         formatter: '{b},{c}'
                     }
                 },
-
                 viewControl: {
                     distance: 85,
                     panMouseButton: 'left',
@@ -175,7 +168,6 @@
                     }
                 },
             }]
-
             gdp_option = {
                 timeline: timeline,
                 baseOption: {
@@ -196,7 +188,6 @@
                 },
                 options: []
             }
-
             ec_option = {
                 timeline: timeline,
                 baseOption: {
@@ -217,7 +208,6 @@
                 },
                 options: []
             }
-
             year.forEach(index => {
                 var gdp_data = [];
                 var ec_data = [];
@@ -244,15 +234,11 @@
                     }
                 });
             });
-
-            // gdp_map.setOption(gdp_option);
-            // ec_map.setOption(ec_option);
-
+            gdp_map.setOption(gdp_option);
+            ec_map.setOption(ec_option);
         });
-
         // 渲染 折线图 柱状图 分面图
         $.getJSON('./data/country_data.json', function (data) {
-
             // 处理所以数据
             var line_data = [];
             var bar_data = [];
@@ -261,7 +247,6 @@
             var line_group_data = [];
             var line_group_gdp = [];
             var line_group_ec = [];
-
             country.forEach((n, i) => {
                 var gdp_year = [];
                 var ec_year = [];
@@ -291,12 +276,24 @@
                     type: 'bar',
                     data: [Math.round(gdp_avg / 43)],
                     color: '#003366',
+                    markLine: {
+                        data: [{
+                            type: 'average',
+                            name: '平均值'
+                        }]
+                    }
                 }, {
                     name: n,
                     type: 'bar',
                     data: [Math.round(ec_avg / 43)],
                     color: '#4cabce',
                     yAxisIndex: 1,
+                    markLine: {
+                        data: [{
+                            type: 'average',
+                            name: '平均值'
+                        }]
+                    }
                 });
                 bar_gdp.push({
                     name: n,
@@ -342,8 +339,6 @@
                     yAxisIndex: i
                 });
             });
-
-
             // 折线图
             line_option = {
                 xAxis: [{
@@ -375,15 +370,11 @@
                     right: 10,
                     top: 20,
                     bottom: 20,
-                    data: country,
-                    selected: close_country
+                    data: country
                 },
                 series: line_data
             }
-
-
             //柱状图
-
             bar_gdp = {
                 xAxis: {
                     type: 'category'
@@ -406,7 +397,6 @@
                 },
                 series: bar_gdp
             };
-
             bar_ec = {
                 xAxis: {
                     type: 'category'
@@ -429,20 +419,13 @@
                 },
                 series: bar_ec
             };
-
             bar_all = {
                 xAxis: [{
-                    type: 'category',
-                    data: [],
-                    axisTick: {
-                        alignWithLabel: true
-                    }
+                    // type: 'category',
+                    data: []
                 }, {
-                    type: 'category',
-                    data: [],
-                    axisTick: {
-                        alignWithLabel: true
-                    }
+                    // type: 'category',
+                    data: []
                 }],
                 yAxis: [{
                     name: 'gdp',
@@ -459,7 +442,7 @@
                             backgroundColor: '#283b56'
                         }
                     }
-                    
+
                 },
                 legend: {
                     type: 'scroll',
@@ -477,8 +460,6 @@
                 }],
                 series: bar_data
             };
-
-
             // 分面图
             var grids = [];
             var titles = [];
@@ -488,7 +469,6 @@
             var x = [30, 31, 32, 33, 34, 35];
             var y = [0, 6, 12, 18, 24, 30];
             echarts.util.each(country, function (d, i) {
-
                 grids.push({
                     show: true,
                     borderWidth: 0,
@@ -504,7 +484,6 @@
                         fontWeight: 'normal'
                     }
                 });
-
                 if (x.indexOf(i) != -1) {
                     xAxes.push({
                         type: 'category',
@@ -520,7 +499,6 @@
                         data: year
                     });
                 }
-
                 if (y.indexOf(i) != -1) {
                     yAxes.push({
                         gridIndex: i,
@@ -539,7 +517,6 @@
                         max: 120000
                     });
                 }
-
                 if (y.indexOf(i) != -1) {
                     yAxes2.push({
                         gridIndex: i,
@@ -558,20 +535,16 @@
                         max: 25000
                     });
                 }
-
             });
-
             var rowNumber = Math.ceil(Math.sqrt(35));
             echarts.util.each(grids, function (grid, idx) {
                 grid.left = ((idx % rowNumber) / rowNumber * 95 + 5) + '%';
                 grid.top = (Math.floor(idx / rowNumber) / rowNumber * 95 + 1) + '%';
                 grid.width = (1 / rowNumber * 95 - 1) + '%';
                 grid.height = (1 / rowNumber * 92 - 1) + '%';
-
                 titles[idx].left = parseFloat(grid.left) + parseFloat(grid.width) / 2 + '%';
                 titles[idx].top = parseFloat(grid.top) + '%';
             });
-
             line_group_all = {
                 title: titles.concat([{
                     // text: '分面图',
@@ -595,10 +568,8 @@
                         ]
                     }
                 },
-
                 series: line_group_data
             };
-
             line_group_gdp = {
                 title: titles.concat([{
                     // text: '分面图',
@@ -622,10 +593,8 @@
                         ]
                     }
                 },
-
                 series: line_group_gdp
             };
-
             line_group_ec = {
                 title: titles.concat([{
                     // text: '分面图',
@@ -649,24 +618,19 @@
                         ]
                     }
                 },
-
                 series: line_group_ec
             };
-
-            // line.setOption(line_option);
+            line.setOption(line_option);
             bar.setOption(bar_all);
-            // line_group.setOption(line_group_gdp);
-
+            line_group.setOption(line_group_gdp);
             $('#bar_gdpb').click(function () {
                 bar.clear();
                 bar.setOption(bar_gdp);
             });
-
             $('#bar_ecb').click(function () {
                 bar.clear();
                 bar.setOption(bar_ec);
             });
-
             $('#bar_allb').click(function () {
                 bar.clear();
                 bar.setOption(bar_all);
@@ -674,14 +638,12 @@
 
             $('#lineg_gdpb').click(function () {
                 line_group.clear();
-                line_group.setOption(bar_all);
+                line_group.setOption(line_group_gdp);
             });
-
             $('#lineg_ecb').click(function () {
                 line_group.clear();
                 line_group.setOption(line_group_ec);
             });
-
             $('#lineg_allb').click(function () {
                 line_group.clear();
                 line_group.setOption(line_group_all);
