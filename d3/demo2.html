@@ -1,10 +1,256 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <style>
+        .axis text {
+            font-weight: bold;
+        }
+
+        .y-axis text {
+            text-anchor: end;
+        }
+
+        .axis path {
+            display: none;
+        }
+
+        .axis line {
+            stroke-opacity: 0.3;
+        }
+
+        .line {
+            fill: none;
+            stroke: steelblue;
+            stroke-width: 1.5px;
+        }
+
+        .legend-item {
+            cursor: pointer;
+        }
+
+        .legend-item:hover {
+            text-decoration: underline;
+        }
+
+        .extra-options-container {
+            font-size: 12px;
+            margin-top: 5px;
+            display: flex;
+            width: 100px;
+            margin-left: 57px;
+            justify-content: space-between;
+        }
+
+        .hide-all-option,
+        .show-all-option {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        .hide-all-option:hover,
+        .show-all-option:hover {
+            text-decoration: none;
+        }
+
+        .voronoi path {
+            fill: none;
+            pointer-events: all;
+        }
+
+        .voronoi-show path {
+            stroke: red;
+            stroke-opacity: 0.2;
+        }
+
+        .region-hover {
+            stroke: #000;
+            stroke-width: 4px;
+        }
+
+        .actions {
+            display: flex;
+            width: 732px;
+            justify-content: space-between;
+        }
+
+        .actions {
+            display: flex;
+            width: 681px;
+            padding-left: 49px;
+            justify-content: space-between;
+        }
+
+        .root {
+            width: 100%;
+            height: 800px;
+            float: left;
+        }
+
+        .gdp {
+            width: 80%;
+            height: 400px;
+            float: left;
+        }
+
+        .ec {
+            width: 80%;
+            height: 400px;
+            float: left;
+        }
+
+        .legend {
+            width: 20%;
+            height: 800px;
+            float: right;
+        }
+    </style>
 </head>
+
 <body>
-    
+    <div class="root">
+        <div class="legend">
+        </div>
+        <div class="gdp">
+        </div>
+        <div class="ec">
+        </div>
+    </div>
+
+    <script src="./js/d3.v5.min.js"></script>
+
+    <script>
+        // year
+        const year = ['1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979',
+            '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988', '1989',
+            '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999',
+            '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009',
+            '2010', '2011', '2012', '2013', '2014'
+        ];
+
+        // country
+        const country = ['Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'Dem. Rep. Congo', 'Germany', 'Spain',
+            'Ethiopia', 'Finland', 'France', 'United Kingdom', 'Indonesia', 'India', 'Iraq', 'Iceland', 'Israel',
+            'Italy', 'Japan', 'Dem. Rep. Korea', 'Kuwait', 'Luxembourg', 'Morocco', 'Mexico', 'Norway', 'Nepal',
+            'Pakistan', 'Qatar', 'Russia', 'Saudi Arabia', 'Sweden', 'Syria', 'Trinidad and Tobago', 'Turkey',
+            'United States', 'Zimbabwe'
+        ];
+
+        d3.json('./data/country_data.json').then(data =>
+            draw(data));
+
+        function draw(data) {
+
+            const margin = {
+                top: 20,
+                right: 20,
+                bottom: 50,
+                left: 50
+            };
+            const width = 750 - margin.left - margin.right;
+            const height = 420 - margin.top - margin.bottom;
+
+            const x = d3.scaleTime()
+                .range([0, width]);
+
+            const y = d3.scaleLinear()
+                .range([height, 0]);
+
+            const colorScale = d3.scaleOrdinal()
+                .range(d3.schemeCategory10);
+
+            const gdp = d3.select('.gdp')
+                .append('svg')
+                .attr('width', 750 + margin.left + margin.right)
+                .attr('height', 420 + margin.top + margin.bottom)
+                .append('g')
+                .attr('transform', `translate(${ margin.left },${ margin.top })`);
+
+            x.domain(d3.extent(year, d => new Date(d)));
+
+            const xAxis = d3.axisBottom(x)
+                .ticks((width + 2) / (height + 2) * 5)
+                .tickSize(-height)
+                .tickPadding(10);
+
+            const yAxis = d3.axisRight(y.domain([0, 120000]))
+                .ticks(5)
+                .tickSize(7 + width)
+                .tickPadding(-11 - width)
+                .tickFormat(d => d);
+
+            gdp.append('g')
+                .attr('class', 'axis x-axis')
+                .attr('transform', `translate(0,${ height + 6 })`)
+                .call(xAxis);
+
+            gdp.append('g')
+                .attr('transform', 'translate(-7, 0)')
+                .attr('class', 'axis y-axis')
+                .call(yAxis);
+
+            gdp.append('g')
+                .attr('transform', `translate(0,${ height })`)
+                .call(d3.axisBottom(x).ticks(0));
+
+            gdp.append('g')
+                .call(d3.axisLeft(y).ticks(0));
+
+
+
+            const lineGenerator = d3.line()
+                .x(function (d) {
+                    console.log(d)
+                    return x(d.year);
+                })
+                .y(function (d) {
+                    return y(d.ec);
+                });
+
+            const paths = gdp.append('g')
+                .selectAll()
+                .data(country)
+                .enter()
+                .append('path')
+                .attr('class', 'line')
+                .attr('id', country => `${ country }`)
+                .attr('d',lineGenerator)
+                .style('stroke', country => colorScale(country));
+
+
+            const ec = d3.select('.ec')
+                .append('svg')
+                .attr('width', 750 + margin.left + margin.right)
+                .attr('height', 420 + margin.top + margin.bottom)
+                .append('g')
+                .attr('transform', `translate(${ margin.left },${ margin.top })`);
+
+            const yAxis1 = d3.axisRight(y.domain([0, 20000]))
+                .ticks(5)
+                .tickSize(7 + width)
+                .tickPadding(-11 - width)
+                .tickFormat(d => d);
+
+            ec.append('g')
+                .attr('class', 'axis x-axis')
+                .attr('transform', `translate(0,${ height + 6 })`)
+                .call(xAxis);
+
+            ec.append('g')
+                .attr('transform', 'translate(-7, 0)')
+                .attr('class', 'axis y-axis')
+                .call(yAxis1);
+
+            ec.append('g')
+                .attr('transform', `translate(0,${ height })`)
+                .call(d3.axisBottom(x).ticks(0));
+
+            ec.append('g')
+                .call(d3.axisLeft(y).ticks(0));
+        }
+    </script>
 </body>
+
 </html>

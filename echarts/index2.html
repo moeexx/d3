@@ -81,6 +81,24 @@
             "Zimbabwe": false
         }
 
+        var labelOption = {
+
+            normal: {
+                show: true,
+                position: 'bottom',
+                rotate: -30,
+                distance: 30,
+                formatter: '{name|{a}}',
+                fontSize: 16,
+                rich: {
+                    name: {
+                        textBorderColor: '#fff'
+                    }
+                }
+            }
+
+        };
+
         $.getJSON('./data/country_data.json', function (data) {
 
             // 处理所以数据
@@ -116,37 +134,28 @@
                     name: n,
                     type: 'bar',
                     data: [Math.round(gdp_avg / 43)],
-                    color: '#003366',
-                    markLine: {
-                        data: [{
-                            type: 'average',
-                            name: '平均值'
-                        }]
-                    }
+                    // color: '#003366',
+                    label: labelOption
                 }, {
                     name: n,
                     type: 'bar',
                     data: [Math.round(ec_avg / 43)],
-                    color: '#4cabce',
-                    yAxisIndex: 1,
-                    markLine: {
-                        data: [{
-                            type: 'average',
-                            name: '平均值'
-                        }]
-                    }
+                    // color: '#4cabce',
+                    yAxisIndex: 1
                 });
                 bar_gdp.push({
                     name: n,
                     type: 'bar',
                     data: [Math.round(gdp_avg / 43)],
-                    color: '#003366',
+                    // color: '#003366',
+                    label: labelOption
                 });
                 bar_ec.push({
                     name: n,
                     type: 'bar',
                     data: [Math.round(ec_avg / 43)],
-                    color: '#4cabce'
+                    // color: '#4cabce',
+                    label: labelOption
                 });
             });
 
@@ -183,6 +192,7 @@
                     bottom: 20,
                     data: country
                 },
+
                 series: line_data
             }
 
@@ -195,7 +205,7 @@
                     type: 'category'
                 },
                 yAxis: {
-                    name: 'gdp',
+                    name: 'GDP',
                     type: 'value'
                 },
                 legend: {
@@ -217,7 +227,7 @@
                     type: 'category'
                 },
                 yAxis: {
-                    name: 'ec',
+                    name: 'EC',
                     type: 'value'
                 },
                 legend: {
@@ -236,17 +246,17 @@
             };
             bar_all = {
                 xAxis: [{
-                    // type: 'category',
+                    type: 'category',
                     data: []
                 }, {
-                    // type: 'category',
+                    type: 'category',
                     data: []
                 }],
                 yAxis: [{
-                    name: 'gdp',
+                    name: 'GDP',
                     type: 'value'
                 }, {
-                    name: 'ec',
+                    name: 'EC',
                     type: 'value'
                 }],
                 tooltip: {
@@ -276,7 +286,7 @@
                 series: bar_data
             };
 
-            bar.setOption(bar_all);
+            // bar.setOption(bar_all);
             $('#bar_gdpb').click(function () {
                 bar.clear();
                 bar.setOption(bar_gdp);

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        body {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            font-family: Montserrat, sans-serif;
+            font-wight: 500;
+            font-size: 12px;
+        }
+
+        .root {
+            display: flex;
+        }
+
+        .axis text {
+            font-weight: bold;
+        }
+
+        .y-axis text {
+            text-anchor: end;
+        }
+
+        .axis path {
+            display: none;
+        }
+
+        .axis line {
+            stroke-opacity: 0.3;
+        }
+
+        .line {
+            fill: none;
+            stroke: steelblue;
+            stroke-width: 1.5px;
+        }
+
+        .legend-item {
+            cursor: pointer;
+        }
+
+        .legend-item:hover {
+            text-decoration: underline;
+        }
+
+        .extra-options-container {
+            font-size: 12px;
+            margin-top: 5px;
+            display: flex;
+            width: 100px;
+            margin-left: 57px;
+            justify-content: space-between;
+        }
+
+        .hide-all-option,
+        .show-all-option {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        .hide-all-option:hover,
+        .show-all-option:hover {
+            text-decoration: none;
+        }
+
+        .voronoi path {
+            fill: none;
+            pointer-events: all;
+        }
+
+        .voronoi-show path {
+            stroke: red;
+            stroke-opacity: 0.2;
+        }
+
+        .region-hover {
+            stroke: #000;
+            stroke-width: 4px;
+        }
+
+        .actions {
+            display: flex;
+            width: 732px;
+            justify-content: space-between;
+        }
+
+        .actions {
+            display: flex;
+            width: 681px;
+            padding-left: 49px;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="root">
+        <div class="gdp">
+        </div>
+        <div class="ec">
+        </div>
+        <div class="legend">
+        </div>
+    </div>
+
+    <script src="./js/d3.v5.min.js"></script>
+
+    <script>
+        const ENABLED_OPACITY = 1;
+        const DISABLED_OPACITY = .2;
+
+        d3.csv('./data/all_data.csv').then(data =>
+            draw(data));
+
+        function draw(data) {
+            const margin = {
+                top: 20,
+                right: 20,
+                bottom: 50,
+                left: 50
+            };
+            const width = 750 - margin.left - margin.right;
+            const height = 420 - margin.top - margin.bottom;
+
+            const x = d3.scaleTime()
+                .range([0, width]);
+
+            const y = d3.scaleLinear()
+                .range([height, 0]);
+
+            const colorScale = d3.scaleOrdinal()
+                .range(d3.schemeCategory10);
+
+            const gdp = d3.select('.gdp')
+                .append('svg')
+                .attr('width', 750 + margin.left + margin.right)
+                .attr('height', 420 + margin.top + margin.bottom)
+                .append('g')
+                .attr('transform', `translate(${ margin.left },${ margin.top })`);
+
+
+            data.forEach(function (d) {
+                d.year = new Date(d.year);
+                d.GDP = +d.GDP;
+            });
+
+            console.log(data)
+
+            x.domain(d3.extent(data, d => d.year));
+            y.domain([0, d3.max(data, d => d.GDP)]);
+
+            const xAxis = d3.axisBottom(x)
+                .ticks((width + 2) / (height + 2) * 5)
+                .tickSize(-height)
+                .tickPadding(10);
+
+            const yAxis = d3.axisRight(y)
+                .ticks(5)
+                .tickSize(7 + width)
+                .tickPadding(-11 - width)
+                .tickFormat(d => d);
+
+            gdp.append('g')
+                .attr('class', 'axis x-axis')
+                .attr('transform', `translate(0,${ height + 6 })`)
+                .call(xAxis);
+
+            gdp.append('g')
+                .attr('transform', 'translate(-7, 0)')
+                .attr('class', 'axis y-axis')
+                .call(yAxis);
+
+            gdp.append('g')
+                .attr('transform', `translate(0,${ height })`)
+                .call(d3.axisBottom(x).ticks(0));
+
+            gdp.append('g')
+                .call(d3.axisLeft(y).ticks(0));
+
+            const nestBycountryId = d3.nest()
+                .key(d => d.country)
+                .sortKeys((v1, v2) => (parseInt(v1, 10) > parseInt(v2, 10) ? 1 : -1))
+                .entries(data);
+
+            const countryNamesById = {};
+
+            nestBycountryId.forEach(item => {
+                countryNamesById[item.key] = item.values[0].country;
+            });
+
+            const regions = {};
+
+            d3.map(data, d => d.country)
+                .keys()
+                .forEach(function (d, i) {
+                    regions[d] = {
+                        data: nestBycountryId[i].values,
+                        enabled: true
+                    };
+                });
+
+            const regionsIds = Object.keys(regions);
+
+            const lineGenerator = d3.line()
+                .x(d => x(d.year))
+                .y(d => y(d.GDP));
+
+            const legendContainer = d3.select('.legend');
+
+            const legends = legendContainer
+                .append('svg')
+                .attr('width', 150)
+                .attr('height', 700)
+                .selectAll('g')
+                .data(regionsIds)
+                .enter()
+                .append('g')
+                .attr('class', 'legend-item')
+                .attr('transform', (country, index) => `translate(0,${ index * 20 })`)
+                .on('click', clickLegendHandler);
+
+            legends.append('rect')
+                .attr('x', 0)
+                .attr('y', 0)
+                .attr('width', 12)
+                .attr('height', 12)
+                .style('fill', country => colorScale(country))
+                .select(function () {
+                    return this.parentNode;
+                })
+                .append('text')
+                .attr('x', 20)
+                .attr('y', 10)
+                .text(country => countryNamesById[country])
+                .attr('class', 'textselected')
+                .style('text-anchor', 'start')
+                .style('font-size', 12);
+
+            const extraOptionsContainer = legendContainer.append('div')
+                .attr('class', 'extra-options-container');
+
+            extraOptionsContainer.append('div')
+                .attr('class', 'hide-all-option')
+                .text('hide all')
+                .on('click', () => {
+                    regionsIds.forEach(country => {
+                        regions[country].enabled = false;
+                    });
+
+                    singleLineSelected = false;
+
+                    redrawChart();
+                });
+
+            extraOptionsContainer.append('div')
+                .attr('class', 'show-all-option')
+                .text('show all')
+                .on('click', () => {
+                    regionsIds.forEach(country => {
+                        regions[country].enabled = true;
+                    });
+
+                    singleLineSelected = false;
+
+                    redrawChart();
+                });
+
+            const linesContainer = gdp.append('g');
+
+            let singleLineSelected = false;
+
+            const voronoi = d3.voronoi()
+                .x(d => x(d.year))
+                .y(d => y(d.GDP))
+                .extent([
+                    [0, 0],
+                    [width, height]
+                ]);
+
+            const voronoiGroup = gdp.append('g')
+                .attr('class', 'voronoi-parent')
+                .append('g')
+                .attr('class', 'voronoi');
+
+            d3.select('#show-voronoi')
+                .property('disabled', false)
+                .on('change', function () {
+                    voronoiGroup.classed('voronoi-show', this.checked);
+                });
+
+            redrawChart();
+
+            function redrawChart(showingRegionsIds) {
+                const enabledRegionsIds = showingRegionsIds || regionsIds.filter(country => regions[country].enabled);
+
+                const paths = linesContainer
+                    .selectAll('.line')
+                    .data(enabledRegionsIds);
+
+                paths.exit().remove();
+
+                paths
+                    .enter()
+                    .append('path')
+                    .merge(paths)
+                    .attr('class', 'line')
+                    .attr('id', country => `region-${ country }`)
+                    .attr('d', country => lineGenerator(regions[country].data))
+                    .style('stroke', country => colorScale(country));
+
+                legends.each(function (country) {
+                    const opacityValue = enabledRegionsIds.indexOf(country) >= 0 ? ENABLED_OPACITY :
+                        DISABLED_OPACITY;
+
+                    d3.select(this).attr('opacity', opacityValue);
+                });
+
+                const filteredData = data.filter(dataItem => enabledRegionsIds.indexOf(dataItem.country) >= 0);
+
+                const voronoiPaths = voronoiGroup.selectAll('path')
+                    .data(voronoi.polygons(filteredData));
+
+                voronoiPaths.exit().remove();
+
+                voronoiPaths
+                    .enter()
+                    .append('path')
+                    .merge(voronoiPaths)
+                    .attr('d', d => (d ? `M${ d.join('L') }Z` : null))
+                    .on('mouseover', voronoiMouseover)
+                    .on('mouseout', voronoiMouseout)
+                    .on('click', voronoiClick);
+            }
+
+            function clickLegendHandler(country) {
+                if (singleLineSelected) {
+                    const newEnabledRegions = singleLineSelected === country ? [] : [singleLineSelected, country];
+
+                    regionsIds.forEach(currentcountry => {
+                        regions[currentcountry].enabled = newEnabledRegions.indexOf(currentcountry) >= 0;
+                    });
+                } else {
+                    regions[country].enabled = !regions[country].enabled;
+                }
+
+                singleLineSelected = false;
+
+                redrawChart();
+            }
+
+            function voronoiMouseover(d) {
+                if (d) {
+                    d3.select(`#region-${ d.data.country }`).classed('region-hover', true);
+                }
+            }
+
+            function voronoiMouseout(d) {
+                if (d) {
+                    d3.select(`#region-${ d.data.country }`).classed('region-hover', false);
+                }
+            }
+
+            function voronoiClick(d) {
+                if (singleLineSelected) {
+                    singleLineSelected = false;
+
+                    redrawChart();
+                } else {
+                    const country = d.data.country;
+
+                    singleLineSelected = country;
+
+                    redrawChart([country]);
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>
