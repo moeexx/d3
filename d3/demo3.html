@@ -140,8 +140,6 @@
 
         data.forEach(function (d) {
             d.year = new Date(d.year);
-            d.GDP = +d.GDP;
-            d.ec = +d.ec;
         });
 
         function draw(data) {
@@ -165,6 +163,7 @@
                     .append('g')
                     .attr('transform', `translate(${ margin.left },${ margin.top })`);
 
+                console.log(data)
                 x.domain(d3.extent(data, d => d.year));
                 y.domain([0, 120000]);
 

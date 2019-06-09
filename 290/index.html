@@ -5,60 +5,326 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>demo</title>
+	<title>Data Visualization_29325021</title>
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/style.css">
+	<style>
+		.axis text {
+			font-weight: bold;
+		}
+
+		.y-axis text {
+			text-anchor: end;
+		}
+
+		.axis path {
+			display: none;
+		}
+
+		.axis line {
+			stroke-opacity: 0.3;
+		}
+
+		.line {
+			fill: none;
+			stroke: steelblue;
+			stroke-width: 1.5px;
+		}
+
+		.legend-item {
+			/* cursor: pointer; */
+			float: left;
+			width: 150px;
+		}
+
+		.legend-item:hover {
+			text-decoration: underline;
+		}
+
+		.extra-options-container {
+			font-size: 12px;
+			margin-top: 15px;
+			display: flex;
+			width: 100px;
+			margin-left: 57px;
+			justify-content: space-between;
+		}
+
+		.extra-options-container1 {
+			font-size: 12px;
+			margin-top: 60px;
+			display: flex;
+			width: 100px;
+			margin-left: 57px;
+			justify-content: space-between;
+		}
+
+		.hide-all-option,
+		.show-all-option {
+			text-decoration: underline;
+			cursor: pointer;
+		}
+
+		.hide-all-option:hover,
+		.show-all-option:hover {
+			text-decoration: none;
+		}
+
+		.voronoi path {
+			fill: none;
+			pointer-events: all;
+		}
+
+		.voronoi-show path {
+			stroke: red;
+			stroke-opacity: 0.2;
+		}
+
+		.actions {
+			display: flex;
+			width: 732px;
+			justify-content: space-between;
+		}
+
+		.actions {
+			display: flex;
+			width: 681px;
+			padding-left: 49px;
+			justify-content: space-between;
+		}
+
+		.root {
+			width: 100%;
+			/* float: left; */
+		}
+
+		.gdp {
+			width: 70%;
+			height: 450px;
+			float: left;
+		}
+
+		.ec {
+			margin-top: 20px;
+			width: 70%;
+			height: 450px;
+			float: left;
+		}
+
+		.legend {
+			width: 30%;
+			height: 800px;
+			float: right;
+		}
+
+		h2 {
+			color: #141414;
+			line-height: 1.2;
+			font-size: 2rem;
+			font-family: Georgia, serif;
+		}
+
+		#line_group_legend {
+			float: right;
+			display: none;
+		}
+
+		#gdp_legend {
+			color: #003366;
+		}
+
+		#ec_legend {
+			color: #4cabce;
+		}
+
+		button {
+			display: block;
+			widows: 100px;
+			height: 30px;
+			float: left;
+			font-size: 17px;
+			margin: 2px;
+		}
+	</style>
 </head>
 
 <body>
+
 	<div class="cd-articles">
+
 		<article>
-			<header>
-				<h1>demo1</h1>
+			<h1>The relationship between GDP and Energy consumption</h1>
+			<header style="padding-top: 30px">
+				<h1>Introduction</h1>
 			</header>
 
-			<div>
-				<div id="gdp_map" style="width: 100%;height: 500px;"></div>
-				<div id="ec_map" style="width: 100%;height: 500px;"></div>
-			</div>
+			<p>
+				This project aims to explore the relationship between GDP and energy consumption from multiple
+				perspective. I select 30 typical countries from different development levels around the world such as
+				the developed level, the developing level and even those in the war. From previous statistics
+				calculation, I verify my assumption that GDP and energy consumption has a positive relationship. Thus,
+				based on this rule, can you find something different such as those countries which is not corresponded
+				with this trend and those years when part of GDP data got disappear? <br>
+				If you find something different, you could check the findings with mine: <br>
+				<br>
+				Here are my conclusion:
+			</p>
 
+			<p>
+				<button id="conclusion_show">show</button>
+				<button id="conclusion_hide" style="display: none">hide</button>
+				<br><br>
+			</p>
+
+			<div id="conclusion" style="display: none">
+
+				<h2>Missing value</h2>
+
+				<p>
+					● From 1991 to 2011, the gulf war and the Iraq war broke out successively in Iraq. Due to the war,
+					the GDP
+					statistics may be interrupted, so the data on this aspect is not available.<br>
+					● The Russian Federation was established in 1990 so that there was not any data available before
+					1990.
+				</p>
+
+				<h2>Irregular counties</h2>
+
+				<p>
+					● The energy consumption per capita of US is similar to that of Trinidad and Tobago, but whom GDP
+					per
+					capita is three times higher than that of Trinidad and Tobago, while Iceland with a similar GDP per
+					capita of the US, has much more energy consumption.<br>
+					● Japan, where the energy consumption per capita is only 40% of Kuwait's, has yet higher GDP than
+					Kuwait's.
+				</p>
+
+				<h2>Irregular time period</h2>
+
+				<p>
+					● In 1980, because of oil price control the organization of the petroleum exporting countries
+					(OPEC),
+					the second oil crisis broke out. As a result, GDP per capita in Kuwait, Qatar and other
+					oil-producing
+					countries exploded during this period.<br>
+					● In 1995, the world trade organization (WTO) was formally established. Affected by economic
+					globalization, the global trade of each country began to increase GDP per capita markedly.<br>
+					● In 1998, affected by the Asian financial crisis, the GDP per capita of the countries in the
+					Asia-pacific dropped significantly. Due to the impact of economic globalization, some European and
+					American countries
+					were also affected by the Asian financial crisis.<br>
+					● In 2009, the GDP of most countries in the world affected by the global economic crisis, dropping
+					sharply.
+				</p>
+			</div>
+			<br>
+			<h2>The source of my data set comes from:</h2>
+
+			<p>
+				A) Tabular data: 268 rows x 62columns, <a
+					href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=chart">https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=chart</a><br>
+				B) Tabular data: 268 rows x 62columns <a
+					href="https://data.worldbank.org.cn/indicator/EG.USE.PCAP.KG.OE?view=chart">https://data.worldbank.org.cn/indicator/EG.USE.PCAP.KG.OE?view=chart</a>
+				<br>
+				It is a tabular data set which has different attributes and textual attributes.
+			</p>
 
 		</article>
 
 		<article>
 			<header>
-				<h1>demo2</h1>
+				<h1>Map chart</h1>
 			</header>
 
-			<!-- line -->
-			<div>
-				<div id="line" style="width: 100%;height: 700px;float: left;"></div>
+			<div style="margin-bottom: 10px;width: 100%;height: 500px;">
+				<div id="gdp_map" style="width: 49.5%;height: 500px;float: left;"></div>
+				<div id="ec_map" style="width: 49.5%;height: 500px;float: right;"></div>
 			</div>
+
+			<p>
+				From the geographical perspective, countries with higher GDP (per capita) are concentrated in
+				North
+				America, Europe and Oceania. Latin America, Africa and Asia have lower GDP (per capita). <br>
+				Countries with high energy consumption(per capita) are distributed in North America, Western
+				Europe and
+				northern
+				Europe, while GDP(per capita) in Africa, Latin America and the eastern half of Eurasia is low.
+				This is
+				roughly in line with the distribution of GDP per capita.
+			</p>
+		</article>
+
+		<article>
+			<header>
+				<h1>Line chart</h1>
+			</header>
+
+
+			<div class="root" style="height: 920px">
+
+				<div class="legend">
+				</div>
+
+				<div class="gdp">
+					<h2>GDP(per capita)</h2>
+				</div>
+
+				<div class="ec">
+					<h2>Energy consumption(per capita)</h2>
+				</div>
+			</div>
+
+			<p>
+				As we can see, energy consumption (per capita) in Qatar has been increasing from the late 1970s and
+				remains at a high level. <br>
+				Luxembourg's energy consumption tends to remain high but fluctuates downward,
+				but its GDP (per capita) keeps growing and ranks first in the past decade. <br>
+				Iceland, Tobago and Kuwait
+				saw their energy consumption head rise and fall in line with the tendency of GDP.
+			</p>
+
+		</article>
+
+		<article>
+			<header>
+				<h1>Bar chart</h1>
+			</header>
 
 			<!-- bar -->
-			<div>
-				<button id="bar_gdpb">gdp</button>
-				<button id="bar_ecb">ec</button>
-				<button id="bar_allb">all</button>
-				<div id="bar" style="width: 100%;height: 700px;float: left;;"></div>
-			</div>
-
-		</article>
-
-		<article>
-			<header>
-				<h1>demo3</h1>
-			</header>
-
-			<!-- line group -->
-			<div>
-				<button id="lineg_gdpb">gdp</button>
-				<button id="lineg_ecb">ec</button>
-				<button id="lineg_allb">all</button>
-				<div id="line_group" style="width: 100%;height: 700px;float: left;"></div>
-			</div>
 			<p>
-				1
+				<h2>Try to select data you oberseving above and find further regulation out!</h2>
+			</p>
+			<div>
+				<button id="bar_gdpb">GDP</button>
+				<button id="bar_ecb">EC</button>
+				<button id="bar_allb">ALL</button>
+				<div id="bar" style="width: 100%;height: 700px;"></div>
+			</div>
+			<br>
+			<br>
+
+			<h1>Faceting graph</h1>
+			<!-- line group -->
+			<div style="margin: 20px">
+				<button id="lineg_gdpb">GDP</button>
+				<button id="lineg_ecb">EC</button>
+				<button id="lineg_allb">ALL</button>
+				<div id="line_group_legend">
+					<span id="gdp_legend">— GDP</span>
+					<span id="ec_legend">— Energy consumption</span>
+				</div>
+				<div id="line_group" style="width: 100%;height: 700px;"></div>
+
+			</div>
+
+			<p>
+				As we can observe, China, Congo, Nepal, Zimbabwe, Ethiopia and India have low GDP and low energy
+				consumption.
+				Among them, Congo, Nepal, Zimbabwe and Ethiopia have lower GDP
+				( per capita ) because of lower overall economic performance.
+				The economic growth of these countries
+				still mainly depend on exports of resource or agricultural products. Energy-intensive industries are
+				rare in these countries, so they has low energy consumption.
 			</p>
 		</article>
 
@@ -66,9 +332,10 @@
 
 		<aside class="cd-read-more">
 			<ul>
+
 				<li>
 					<a href="/">
-						<em>demo1</em>
+						<!-- <em>introduction</em> -->
 						<svg x="0px" y="0px" width="36px" height="36px" viewBox="0 0 36 36">
 							<circle fill="none" stroke-width="2" cx="18" cy="18" r="16" stroke-dasharray="100 100"
 								stroke-dashoffset="100" transform="rotate(-90 18 18)"></circle>
@@ -78,7 +345,7 @@
 
 				<li>
 					<a href="/">
-						<em>demo2</em>
+						<!-- <em>map chart</em> -->
 						<svg x="0px" y="0px" width="36px" height="36px" viewBox="0 0 36 36">
 							<circle fill="none" stroke-width="2" cx="18" cy="18" r="16" stroke-dasharray="100 100"
 								stroke-dashoffset="100" transform="rotate(-90 18 18)"></circle>
@@ -88,7 +355,17 @@
 
 				<li>
 					<a href="/">
-						<em>demo3</em>
+						<!-- <em>line chart</em> -->
+						<svg x="0px" y="0px" width="36px" height="36px" viewBox="0 0 36 36">
+							<circle fill="none" stroke-width="2" cx="18" cy="18" r="16" stroke-dasharray="100 100"
+								stroke-dashoffset="100" transform="rotate(-90 18 18)"></circle>
+						</svg>
+					</a>
+				</li>
+
+				<li>
+					<a href="/">
+						<!-- <em>faceting graph and bar chart</em> -->
 						<svg x="0px" y="0px" width="36px" height="36px" viewBox="0 0 36 36">
 							<circle fill="none" stroke-width="2" cx="18" cy="18" r="16" stroke-dasharray="100 100"
 								stroke-dashoffset="100" transform="rotate(-90 18 18)"></circle>
@@ -96,11 +373,11 @@
 					</a>
 				</li>
 			</ul>
-		</aside> <!-- .cd-read-more -->
-	</div> <!-- .cd-articles -->
+		</aside>
+	</div>
 
 	<footer class="cd-footer">
-		<p>Footer</p>
+		<p>Created by Jiaqi Zhou</p>
 	</footer>
 
 	<script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
@@ -108,6 +385,10 @@
 	<script src="./js/echarts.js"></script>
 	<script src="./js/echarts-gl.min.js"></script>
 	<script src="./js/world.js"></script>
+	<script src="./js/d3.v5.min.js"></script>
+	<script src="./js/map.js"></script>
+	<script src="./js/line.js"></script>
+	<script src="./js/faceting.js"></script>
 
 	<script>
 		const gdp_map = echarts.init(document.getElementById('gdp_map')),
@@ -120,624 +401,15 @@
 			'2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009',
 			'2010', '2011', '2012', '2013', '2014'
 		];
-
-		// 渲染地图
-		$.getJSON('./data/year_data.json', function (data) {
-			// 时间轴
-			var timeline = {
-				axisType: 'category',
-				orient: 'horizontal',
-				autoPlay: false,
-				playInterval: 500,
-				loop: false,
-				data: year
-			}
-			// 地图设置
-			var series = [{
-				type: 'map3D',
-				map: 'world',
-				regionHeight: 0.1,
-				emphasis: { //当鼠标放上去  地区区域是否显示名称
-					label: {
-						show: true,
-						formatter: '{b},{c}'
-					}
-				},
-				viewControl: {
-					distance: 85,
-					panMouseButton: 'left',
-					rotateMouseButton: 'right'
-				},
-				// 渲染
-				light: {
-					main: {
-						intensity: 1,
-						shadow: true,
-						shadowQuality: 'low',
-						alpha: 50
-					},
-					ambientCubemap: {
-						texture: './data/canyon.hdr',
-						diffuseIntensity: 0.4
-					}
-				},
-				groundPlane: {
-					show: true,
-					color: '#999'
-				},
-				//后期处理
-				postEffect: {
-					enable: true,
-					bloom: {
-						enable: false
-					},
-					depthOfField: {
-						enable: false,
-						focalRange: 10,
-						blurRadius: 10,
-						fstop: 1
-					},
-					SSAO: {
-						radius: 1,
-						intensity: 1,
-						enable: true
-					}
-				},
-			}]
-			gdp_option = {
-				timeline: timeline,
-				baseOption: {
-					visualMap: {
-						min: 0,
-						max: 120000,
-						text: ['High', 'Low'],
-						calculable: false,
-						realtime: false,
-						inRange: {
-							color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
-								'#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
-								'#a50026'
-							]
-						}
-					},
-					series: series
-				},
-				options: []
-			}
-			ec_option = {
-				timeline: timeline,
-				baseOption: {
-					visualMap: {
-						min: 0,
-						max: 20000,
-						text: ['High', 'Low'],
-						calculable: false,
-						realtime: false,
-						inRange: {
-							color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
-								'#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
-								'#a50026'
-							]
-						}
-					},
-					series: series
-				},
-				options: []
-			}
-			year.forEach(index => {
-				var gdp_data = [];
-				var ec_data = [];
-				data[index].forEach(element => {
-					gdp_data.push({
-						name: element.country,
-						value: element.gdp,
-						height: element.gdp / 5000 + 0.1
-					});
-					ec_data.push({
-						name: element.country,
-						value: element.ec,
-						height: element.ec / 5000 + 0.1
-					});
-				});
-				gdp_option.options.push({
-					series: {
-						data: gdp_data
-					}
-				});
-				ec_option.options.push({
-					series: {
-						data: ec_data
-					}
-				});
-			});
-			gdp_map.setOption(gdp_option);
-			ec_map.setOption(ec_option);
+		$('#conclusion_show').click(function () {
+			$('#conclusion').show();
+			$('#conclusion_show').hide();
+			$('#conclusion_hide').show();
 		});
-
-		const line = echarts.init(document.getElementById('line')),
-			bar = echarts.init(document.getElementById('bar'));
-
-		// country
-		const country = ['Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'Dem. Rep. Congo', 'Germany', 'Spain',
-			'Ethiopia', 'Finland', 'France', 'United Kingdom', 'Indonesia', 'India', 'Iraq', 'Iceland', 'Israel',
-			'Italy', 'Japan', 'Dem. Rep. Korea', 'Kuwait', 'Luxembourg', 'Morocco', 'Mexico', 'Norway', 'Nepal',
-			'Pakistan', 'Qatar', 'Russia', 'Saudi Arabia', 'Sweden', 'Syria', 'Trinidad and Tobago', 'Turkey',
-			'United States', 'Zimbabwe'
-		];
-
-		const close_country = {
-			"Argentina": false,
-			"Australia": false,
-			"Brazil": false,
-			"Canada": false,
-			"China": false,
-			"Dem. Rep. Congo": false,
-			"Germany": false,
-			"Spain": false,
-			"Ethiopia": false,
-			"Finland": false,
-			"France": false,
-			"United Kingdom": false,
-			"Indonesia": false,
-			"India": false,
-			"Iraq": false,
-			"Iceland": false,
-			"Israel": false,
-			"Italy": false,
-			"Japan": false,
-			"Dem. Rep. Korea": false,
-			"Kuwait": false,
-			"Luxembourg": false,
-			"Morocco": false,
-			"Mexico": false,
-			"Norway": false,
-			"Nepal": false,
-			"Pakistan": false,
-			"Qatar": false,
-			"Russia": false,
-			"Saudi Arabia": false,
-			"Sweden": false,
-			"Syria": false,
-			"Trinidad and Tobago": false,
-			"Turkey": false,
-			"United States": false,
-			"Zimbabwe": false
-		}
-
-		$.getJSON('./data/country_data.json', function (data) {
-
-			// 处理所以数据
-			var line_data = [];
-			var bar_data = [];
-			var bar_gdp = [];
-			var bar_ec = [];
-			country.forEach((n, i) => {
-				var gdp_year = [];
-				var ec_year = [];
-				var gdp_avg = 0;
-				var ec_avg = 0;
-				data[n].forEach(e => {
-					gdp_year.push(e.gdp);
-					ec_year.push(e.ec);
-					gdp_avg += e.gdp;
-					ec_avg += e.ec;
-				});
-				line_data.push({
-					name: n,
-					type: 'line',
-					showSymbol: false,
-					data: gdp_year,
-					xAxisIndex: 1,
-					yAxisIndex: 1
-				}, {
-					name: n,
-					type: 'line',
-					showSymbol: false,
-					data: ec_year
-				});
-				bar_data.push({
-					name: n,
-					type: 'bar',
-					data: [Math.round(gdp_avg / 43)],
-					color: '#003366',
-					markLine: {
-						data: [{
-							type: 'average',
-							name: '平均值'
-						}]
-					}
-				}, {
-					name: n,
-					type: 'bar',
-					data: [Math.round(ec_avg / 43)],
-					color: '#4cabce',
-					yAxisIndex: 1,
-					markLine: {
-						data: [{
-							type: 'average',
-							name: '平均值'
-						}]
-					}
-				});
-				bar_gdp.push({
-					name: n,
-					type: 'bar',
-					data: [Math.round(gdp_avg / 43)],
-					color: '#003366',
-				});
-				bar_ec.push({
-					name: n,
-					type: 'bar',
-					data: [Math.round(ec_avg / 43)],
-					color: '#4cabce'
-				});
-			});
-
-			// 折线图
-			line_option = {
-				xAxis: [{
-					type: 'category',
-					boundaryGap: false,
-					data: year
-				}, {
-					type: 'category',
-					boundaryGap: false,
-					gridIndex: 1,
-					data: year
-				}],
-				yAxis: [{
-					type: 'value'
-				}, {
-					type: 'value',
-					gridIndex: 1,
-				}],
-				grid: [{
-					top: '55%',
-					right: '15%'
-				}, {
-					bottom: '55%',
-					right: '15%'
-				}],
-				legend: {
-					type: 'scroll',
-					orient: 'vertical',
-					right: 10,
-					top: 20,
-					bottom: 20,
-					data: country
-				},
-				series: line_data
-			}
-
-			line.setOption(line_option);
-
-
-			//柱状图
-			bar_gdp = {
-				xAxis: {
-					type: 'category'
-				},
-				yAxis: {
-					name: 'gdp',
-					type: 'value'
-				},
-				legend: {
-					type: 'scroll',
-					orient: 'vertical',
-					right: 0,
-					top: 20,
-					bottom: 20,
-					data: country,
-					selected: close_country
-				},
-				grid: {
-					right: '20%'
-				},
-				series: bar_gdp
-			};
-			bar_ec = {
-				xAxis: {
-					type: 'category'
-				},
-				yAxis: {
-					name: 'ec',
-					type: 'value'
-				},
-				legend: {
-					type: 'scroll',
-					orient: 'vertical',
-					right: 0,
-					top: 20,
-					bottom: 20,
-					data: country,
-					selected: close_country
-				},
-				grid: {
-					right: '20%'
-				},
-				series: bar_ec
-			};
-			bar_all = {
-				xAxis: [{
-					// type: 'category',
-					data: []
-				}, {
-					// type: 'category',
-					data: []
-				}],
-				yAxis: [{
-					name: 'gdp',
-					type: 'value'
-				}, {
-					name: 'ec',
-					type: 'value'
-				}],
-				tooltip: {
-					// trigger: 'axis',
-					axisPointer: {
-						type: 'cross',
-						label: {
-							backgroundColor: '#283b56'
-						}
-					}
-
-				},
-				legend: {
-					type: 'scroll',
-					orient: 'vertical',
-					right: 0,
-					top: 20,
-					bottom: 20,
-					data: country,
-					selected: close_country
-				},
-				grid: [{
-					right: '20%'
-				}, {
-					right: '20%'
-				}],
-				series: bar_data
-			};
-
-			bar.setOption(bar_all);
-			$('#bar_gdpb').click(function () {
-				bar.clear();
-				bar.setOption(bar_gdp);
-			});
-			$('#bar_ecb').click(function () {
-				bar.clear();
-				bar.setOption(bar_ec);
-			});
-			$('#bar_allb').click(function () {
-				bar.clear();
-				bar.setOption(bar_all);
-			});
-		});
-
-		const line_group = echarts.init(document.getElementById('line_group'));
-
-		$.getJSON('./data/country_data.json', function (data) {
-
-			// 处理所以数据
-			var line_group_data = [];
-			var line_group_gdp = [];
-			var line_group_ec = [];
-			country.forEach((n, i) => {
-				var gdp_year = [];
-				var ec_year = [];
-				data[n].forEach(e => {
-					gdp_year.push(e.gdp);
-					ec_year.push(e.ec);
-				});
-
-				line_group_data.push({
-					name: 'GDP',
-					type: 'line',
-					showSymbol: false,
-					data: gdp_year,
-					xAxisIndex: i,
-					yAxisIndex: i
-				}, {
-					name: 'EC',
-					type: 'line',
-					showSymbol: false,
-					data: ec_year,
-					xAxisIndex: i,
-					yAxisIndex: i
-				});
-				line_group_gdp.push({
-					name: 'GDP',
-					type: 'line',
-					showSymbol: false,
-					data: gdp_year,
-					xAxisIndex: i,
-					yAxisIndex: i
-				});
-				line_group_ec.push({
-					name: 'EC',
-					type: 'line',
-					showSymbol: false,
-					data: ec_year,
-					xAxisIndex: i,
-					yAxisIndex: i
-				});
-			});
-
-			// 分面图
-			var grids = [];
-			var titles = [];
-			var xAxes = [];
-			var yAxes = [];
-			var yAxes2 = [];
-			var x = [30, 31, 32, 33, 34, 35];
-			var y = [0, 6, 12, 18, 24, 30];
-			echarts.util.each(country, function (d, i) {
-				grids.push({
-					show: true,
-					borderWidth: 0,
-					backgroundColor: '#fff',
-					shadowColor: 'rgba(0, 0, 0, 0.3)',
-					shadowBlur: 2
-				});
-				titles.push({
-					textAlign: 'center',
-					text: d,
-					textStyle: {
-						fontSize: 12,
-						fontWeight: 'normal'
-					}
-				});
-				if (x.indexOf(i) != -1) {
-					xAxes.push({
-						type: 'category',
-						show: true,
-						gridIndex: i,
-						data: year
-					});
-				} else {
-					xAxes.push({
-						type: 'category',
-						show: false,
-						gridIndex: i,
-						data: year
-					});
-				}
-				if (y.indexOf(i) != -1) {
-					yAxes.push({
-						gridIndex: i,
-						show: true,
-						min: 0,
-						max: 120000,
-						splitLine: {
-							show: false
-						}
-					});
-				} else {
-					yAxes.push({
-						show: false,
-						gridIndex: i,
-						min: 0,
-						max: 120000
-					});
-				}
-				if (y.indexOf(i) != -1) {
-					yAxes2.push({
-						gridIndex: i,
-						show: true,
-						min: 0,
-						max: 25000,
-						splitLine: {
-							show: false
-						}
-					});
-				} else {
-					yAxes2.push({
-						show: false,
-						gridIndex: i,
-						min: 0,
-						max: 25000
-					});
-				}
-			});
-			var rowNumber = Math.ceil(Math.sqrt(35));
-			echarts.util.each(grids, function (grid, idx) {
-				grid.left = ((idx % rowNumber) / rowNumber * 95 + 5) + '%';
-				grid.top = (Math.floor(idx / rowNumber) / rowNumber * 95 + 1) + '%';
-				grid.width = (1 / rowNumber * 95 - 1) + '%';
-				grid.height = (1 / rowNumber * 92 - 1) + '%';
-				titles[idx].left = parseFloat(grid.left) + parseFloat(grid.width) / 2 + '%';
-				titles[idx].top = parseFloat(grid.top) + '%';
-			});
-			line_group_all = {
-				title: titles.concat([{
-					// text: '分面图',
-					top: 'bottom',
-					left: 'center'
-				}]),
-				grid: grids,
-				xAxis: xAxes,
-				yAxis: yAxes,
-				visualMap: {
-					min: 0,
-					max: 120000,
-					text: ['High', 'Low'],
-					show: true,
-					calculable: true,
-					realtime: false,
-					inRange: {
-						color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
-							'#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
-							'#a50026'
-						]
-					}
-				},
-				series: line_group_data
-			};
-			line_group_gdp = {
-				title: titles.concat([{
-					// text: '分面图',
-					top: 'bottom',
-					left: 'center'
-				}]),
-				grid: grids,
-				xAxis: xAxes,
-				yAxis: yAxes,
-				visualMap: {
-					min: 0,
-					max: 120000,
-					text: ['High', 'Low'],
-					show: true,
-					calculable: true,
-					realtime: false,
-					inRange: {
-						color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
-							'#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
-							'#a50026'
-						]
-					}
-				},
-				series: line_group_gdp
-			};
-			line_group_ec = {
-				title: titles.concat([{
-					// text: '分面图',
-					top: 'bottom',
-					left: 'center'
-				}]),
-				grid: grids,
-				xAxis: xAxes,
-				yAxis: yAxes2,
-				visualMap: {
-					min: 0,
-					max: 25000,
-					text: ['High', 'Low'],
-					show: true,
-					calculable: true,
-					realtime: false,
-					inRange: {
-						color: ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8',
-							'#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027',
-							'#a50026'
-						]
-					}
-				},
-				series: line_group_ec
-			};
-
-			line_group.setOption(line_group_gdp);
-			$('#lineg_gdpb').click(function () {
-				line_group.clear();
-				line_group.setOption(line_group_gdp);
-			});
-			$('#lineg_ecb').click(function () {
-				line_group.clear();
-				line_group.setOption(line_group_ec);
-			});
-			$('#lineg_allb').click(function () {
-				line_group.clear();
-				line_group.setOption(line_group_all);
-			});
-
+		$('#conclusion_hide').click(function () {
+			$('#conclusion').hide();
+			$('#conclusion_show').show();
+			$('#conclusion_hide').hide();
 		});
 	</script>
 </body>

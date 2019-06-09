@@ -1,21 +1,21 @@
-jQuery(document).ready(function($){
+jQuery(document).ready(function ($) {
 	var articlesWrapper = $('.cd-articles');
 
-	if( articlesWrapper.length > 0 ) {
+	if (articlesWrapper.length > 0) {
 		// cache jQuery objects
 		var windowHeight = $(window).height(),
 			articles = articlesWrapper.find('article'),
 			aside = $('.cd-read-more'),
 			articleSidebarLinks = aside.find('li');
 		// initialize variables
-		var	scrolling = false,
+		var scrolling = false,
 			sidebarAnimation = false,
 			resizing = false,
 			mq = checkMQ(),
-			svgCircleLength = parseInt(Math.PI*(articleSidebarLinks.eq(0).find('circle').attr('r')*2));
-		
+			svgCircleLength = parseInt(Math.PI * (articleSidebarLinks.eq(0).find('circle').attr('r') * 2));
+
 		// check media query and bind corresponding events
-		if( mq == 'desktop' ) {
+		if (mq == 'desktop') {
 			$(window).on('scroll', checkRead);
 			$(window).on('scroll', checkSidebar);
 		}
@@ -25,41 +25,43 @@ jQuery(document).ready(function($){
 		updateArticle();
 		updateSidebarPosition();
 
-		aside.on('click', 'a', function(event){
+		aside.on('click', 'a', function (event) {
 			event.preventDefault();
 			var selectedArticle = articles.eq($(this).parent('li').index()),
 				selectedArticleTop = selectedArticle.offset().top;
 
 			$(window).off('scroll', checkRead);
 
-			$('body,html').animate(
-				{'scrollTop': selectedArticleTop + 2}, 
-				300, function(){
+			$('body,html').animate({
+					'scrollTop': selectedArticleTop + 2
+				},
+				300,
+				function () {
 					checkRead();
 					$(window).on('scroll', checkRead);
 				}
-			); 
-	    });
+			);
+		});
 	}
 
 	function checkRead() {
-		if( !scrolling ) {
+		if (!scrolling) {
 			scrolling = true;
-			(!window.requestAnimationFrame) ? setTimeout(updateArticle, 300) : window.requestAnimationFrame(updateArticle);
+			(!window.requestAnimationFrame) ? setTimeout(updateArticle, 300): window.requestAnimationFrame(updateArticle);
 		}
 	}
 
 	function checkSidebar() {
-		if( !sidebarAnimation ) {
+		if (!sidebarAnimation) {
 			sidebarAnimation = true;
-			(!window.requestAnimationFrame) ? setTimeout(updateSidebarPosition, 300) : window.requestAnimationFrame(updateSidebarPosition);
+			(!window.requestAnimationFrame) ? setTimeout(updateSidebarPosition, 300): window.requestAnimationFrame(updateSidebarPosition);
 		}
 	}
 
 	function resetScroll() {
-		if( !resizing ) {
+		if (!resizing) {
 			resizing = true;
-			(!window.requestAnimationFrame) ? setTimeout(updateParams, 300) : window.requestAnimationFrame(updateParams);
+			(!window.requestAnimationFrame) ? setTimeout(updateParams, 300): window.requestAnimationFrame(updateParams);
 		}
 	}
 
@@ -68,8 +70,8 @@ jQuery(document).ready(function($){
 		mq = checkMQ();
 		$(window).off('scroll', checkRead);
 		$(window).off('scroll', checkSidebar);
-		
-		if( mq == 'desktop') {
+
+		if (mq == 'desktop') {
 			$(window).on('scroll', checkRead);
 			$(window).on('scroll', checkSidebar);
 		}
@@ -79,19 +81,21 @@ jQuery(document).ready(function($){
 	function updateArticle() {
 		var scrollTop = $(window).scrollTop();
 
-		articles.each(function(){
+		articles.each(function () {
 			var article = $(this),
 				articleTop = article.offset().top,
 				articleHeight = article.outerHeight(),
 				articleSidebarLink = articleSidebarLinks.eq(article.index()).children('a');
 
-			if( article.is(':last-of-type') ) articleHeight = articleHeight - windowHeight;
+			if (article.is(':last-of-type')) articleHeight = articleHeight - windowHeight;
 
-			if( articleTop > scrollTop) {
+			if (articleTop > scrollTop) {
 				articleSidebarLink.removeClass('read reading');
-			} else if( scrollTop >= articleTop && articleTop + articleHeight > scrollTop) {
-				var dashoffsetValue = svgCircleLength*( 1 - (scrollTop - articleTop)/articleHeight);
-				articleSidebarLink.addClass('reading').removeClass('read').find('circle').attr({ 'stroke-dashoffset': dashoffsetValue });
+			} else if (scrollTop >= articleTop && articleTop + articleHeight > scrollTop) {
+				var dashoffsetValue = svgCircleLength * (1 - (scrollTop - articleTop) / articleHeight);
+				articleSidebarLink.addClass('reading').removeClass('read').find('circle').attr({
+					'stroke-dashoffset': dashoffsetValue
+				});
 				changeUrl(articleSidebarLink.attr('href'));
 			} else {
 				articleSidebarLink.removeClass('reading').addClass('read');
@@ -105,20 +109,19 @@ jQuery(document).ready(function($){
 			articlesWrapperHeight = articlesWrapper.outerHeight(),
 			scrollTop = $(window).scrollTop();
 
-		if( scrollTop < articlesWrapperTop) {
+		if (scrollTop < articlesWrapperTop) {
 			aside.removeClass('fixed').attr('style', '');
-		} else if( scrollTop >= articlesWrapperTop && scrollTop < articlesWrapperTop + articlesWrapperHeight - windowHeight) {
+		} else if (scrollTop >= articlesWrapperTop && scrollTop < articlesWrapperTop + articlesWrapperHeight - windowHeight) {
 			aside.addClass('fixed').attr('style', '');
-		} 
+		}
 		// else {
 		// 	var articlePaddingTop = Number(articles.eq(1).css('padding-top').replace('px', ''));
 		// 	if( aside.hasClass('fixed') ) aside.removeClass('fixed').css('top', articlesWrapperHeight + articlePaddingTop - windowHeight + 'px');
 		// }
-		sidebarAnimation =  false;
+		sidebarAnimation = false;
 	}
 
-	function changeUrl(link) {
-		}
+	function changeUrl(link) {}
 
 	function checkMQ() {
 		return window.getComputedStyle(articlesWrapper.get(0), '::before').getPropertyValue('content').replace(/'/g, "").replace(/"/g, "");

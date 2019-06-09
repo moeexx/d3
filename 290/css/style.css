@@ -49,14 +49,14 @@ img, svg {
 }
 
 .cd-footer {
-  height: 250px;
+  height: 50px;
   background-color: #141414;
   text-align: center;
 }
 .cd-footer p {
   font-family: Georgia, serif;
   font-size: 1.8rem;
-  line-height: 250px;
+  line-height: 50px;
 }
 
 /* -------------------------------- 
@@ -136,9 +136,10 @@ Articles
 }
 @media only screen and (min-width: 1100px) {
   .cd-articles {
-    width: 80%;
+    width: 90%;
     max-width: none;
-    padding-right: 320px;
+    padding-left: 100px;
+    padding-right: 100px;
     margin-bottom: 5em;
   }
   .cd-articles::before {
@@ -161,7 +162,7 @@ Aside
 .cd-read-more {
   /* hide on mobile */
   display: none;
-  width: 290px;
+  width: 70px;
   background-color: #f2f2f2;
 }
 .cd-read-more li {
@@ -210,8 +211,8 @@ Aside
   transform: translateX(-50%);
   bottom: 0;
   height: 1px;
-  width: 260px;
-  background-color: #d9d9d9;
+  width: 60px;
+  /* background-color: #d9d9d9; */
 }
 .cd-read-more a.read em {
   color: #a6a6a6;
@@ -274,6 +275,6 @@ Aside
   }
   .cd-read-more.fixed {
     position: fixed;
-    right: calc(5%);
+    right: calc(2%);
   }
 }
